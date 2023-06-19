@@ -23,12 +23,12 @@ Extract umodel and copy it to C:\umodel_win32
 
 ( so "C:\umodel_win32\UmodelExport" will now exist )
 
-Extract the game files to C:\SGA
+Extract the game files to C:\SGA or copy Star Wars Republic Commando's GameData folder to C:\SWRC
 
-( so "C:\SGA\Textures" will now exist )
+( so "C:\SGA\Textures" will now exist ) or ( "C:\SWRC\Textures" )
 
-Copy the script to "C:\umodel_win32" and run it from here.
+Copy the script you wish to use to "C:\umodel_win32" and run it from here.
 
-This will setup all of the files appropriately. ( Animations / StaticMeshes still remain!!! )
+This will setup all of the files appropriately. ( Animations / StaticMeshes still remain to be converted!!! )
 
 It will also delete the C:\SGA directory upon completion, so you can just keep or delete the original .7z file
