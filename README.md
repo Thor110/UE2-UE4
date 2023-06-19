@@ -31,4 +31,4 @@ Copy the script you wish to use to "C:\umodel_win32" and run it from here.
 
 This will setup all of the files appropriately. ( Animations / StaticMeshes still remain to be converted!!! )
 
-It will also delete the C:\SGA directory upon completion, so you can just keep or delete the original .7z file
+It will also delete the C:\SGA directory upon completion, so you can just keep or delete the original .7z file ( same goes for Republic Commando, which is why I chose to copy the GameData folder for now )
