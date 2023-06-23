@@ -35,6 +35,12 @@ for /D %%D in ("C:\umodel_win32\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
+for /r "C:\SGA\Maps" %%G in (*.unr) do ren "%%~G" *.ut2
+
+umodel -path=C:\SGA\Maps -export *.ut2
+
+for /f %%f in ('dir /b C:\umodel_win32\UmodelExport\') do move C:\umodel_win32\UmodelExport\%%f "C:\GOG Games\Unreal Tournament 2004\Maps\%%f"
+
 cd "C:\GOG Games\Unreal Tournament 2004\System"
 
 for /f %%f in ('dir /b C:\umodel_win32\UmodelExport\') do ucc pkg import texture %%f C:\umodel_win32\UmodelExport\%%f
