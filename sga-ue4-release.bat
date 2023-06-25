@@ -4,7 +4,7 @@ del C:\SGA\Animations\Goauld_Turret_anim.ukx C:\SGA\Animations\Goa_Vehicles.ukx 
 
 del C:\SGA\StaticMeshes\M16Prefabs.upx C:\SGA\StaticMeshes\UW.ini
 
-mkdir "C:\SGAUE4\Textures" "C:\SGAUE4\StaticMeshes" C:\SGAUE4\Sounds C:\SGAUE4\Animations C:\SGAUE4\Music\ C:\SGAUE4\Speech\
+mkdir "C:\SGAUE4\Textures" "C:\SGAUE4\StaticMeshes" C:\SGAUE4\Sounds C:\SGAUE4\Animations C:\SGAUE4\Music\ C:\SGAUE4\Speech\ C:\SGAUE4\Maps\
 
 umodel -path=C:\SGA\Animations -export *.ukx
 
