@@ -17,6 +17,8 @@ Install UT2004 to C:\GOG Games\Unreal Tournament 2004 or edit the scripts accord
 
 ( so "C:\GOG Games\Unreal Tournament 2004\System" will now exist or the edited equivalent so that the script can access "UCC.exe" )
 
+or install Republic Commando and Leon's latest fix available from : https://github.com/SWRC-Modding/CT/releases
+
 Install FFMPEG to C:\ffmpeg
 
 ( so "C:\ffmpeg\bin" will now exist )
