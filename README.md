@@ -13,9 +13,9 @@ FFMPEG from https://ffmpeg.org/
 
 Install UE4 ( if required ) - not required yet.
 
-Install UT2004 to C:\GOG Games\Unreal Tournament 2004 or edit the scripts accordingly.
+Install UT2004 to C:\GOG Games\Unreal Tournament 2004 or edit the scripts accordingly. - Required for the UE2 variant of the scripts.
 
-( so "C:\GOG Games\Unreal Tournament 2004\System" will now exist )
+( so "C:\GOG Games\Unreal Tournament 2004\System" will now exist or the edited equivalent so that the script can access "UCC.exe" )
 
 Install FFMPEG to C:\ffmpeg
 
