@@ -11,9 +11,11 @@ A copy of "Stargate_SG-1_-_The_Alliance-2005-12-15" which can be obtained from h
 
 FFMPEG from https://ffmpeg.org/
 
-Install UE4 ( if required )
+Install UE4 ( if required ) - not required yet.
 
-Install UT2004
+Install UT2004 to C:\GOG Games\Unreal Tournament 2004 or edit the scripts accordingly.
+
+( so "C:\GOG Games\Unreal Tournament 2004\System" will now exist )
 
 Install FFMPEG to C:\ffmpeg
 
