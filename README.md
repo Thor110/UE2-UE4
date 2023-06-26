@@ -1,7 +1,7 @@
 # UE2-UE4
 A batch script or set of batch scripts I am working on that prepares all of the files for a port I am working on.
 
-Short-form readme.
+Short-form readme.			- What to skim read for.
 
 UE2			: Stargate SG-1 : The Alliance
 FILENAME	: sga-ue2-release.bat
@@ -19,7 +19,7 @@ UE4			: Star Wars Republic Commando
 FILENAME	: swrc-ue4-release.bat
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL
 
-Long form readme.
+Long form readme.			- What to skim read from.
 
 UE4 ( for UE4 version only ) - Not actually required yet!
 
