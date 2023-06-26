@@ -1,5 +1,25 @@
 # UE2-UE4
-A batch script I am working on that prepares all of the files for a port I am working on.
+A batch script or set of batch scripts I am working on that prepares all of the files for a port I am working on.
+
+Short-form readme.
+
+UE2			: Stargate SG-1 : The Alliance
+FILENAME	: sga-ue2-release.bat
+REQUIRED	: GAME(SGA) + UMODEL + UT2004(GOG) + FFMPEG
+
+UE4			: Stargate SG-1 : The Alliance
+FILENAME	: sga-ue4-release.bat
+REQUIRED	: GAME(SGA) + UMODEL + UT2004(GOG) + FFMPEG
+
+UE2			: Star Wars Republic Commando
+FILENAME	: swrc-ue2-release.bat
+REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004(GOG)
+
+UE4			: Star Wars Republic Commando
+FILENAME	: swrc-ue4-release.bat
+REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL
+
+Long form readme.
 
 UE4 ( for UE4 version only ) - Not actually required yet!
 
@@ -17,7 +37,7 @@ Install UT2004 to C:\GOG Games\Unreal Tournament 2004 or edit the scripts accord
 
 ( so "C:\GOG Games\Unreal Tournament 2004\System" will now exist or the edited equivalent so that the script can access "UCC.exe" )
 
-or install Republic Commando and Leon's latest fix available from : https://github.com/SWRC-Modding/CT/releases
+or install Star Wars Republic Commando and Leon's latest fix available from : https://github.com/SWRC-Modding/CT/releases
 
 Install FFMPEG to C:\ffmpeg
 
