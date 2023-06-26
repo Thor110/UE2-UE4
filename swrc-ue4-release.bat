@@ -1,5 +1,7 @@
 mkdir "C:\SWRCUE4\Textures" "C:\SWRCUE4\StaticMeshes" C:\SWRCUE4\Sounds C:\SWRCUE4\Animations C:\SWRCUE4\Music\
 
+del C:\SWRC\Sounds\banter_voice.uax C:\SWRC\Sounds\params_mus.uax C:\SWRC\Sounds\params_rumble.uax C:\SWRC\Sounds\params_sfx.uax C:\SWRC\Sounds\params_vox.uax
+
 umodel -path=C:\SWRC\Animations -export *.ukx
 
 for /f %%f in ('dir /b C:\umodel_win32\UmodelExport\') do move C:\umodel_win32\UmodelExport\%%f C:\SWRCUE4\Animations\%%f
