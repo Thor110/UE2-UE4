@@ -54,7 +54,7 @@ mkdir "%level%\Speech\"
 
 for /r "%files%\Maps" %%G in (*.unr) do ren "%%~G" *.ut2
 
-cd %model%
+cd /d %model%
 
 umodel -path=%files%\Maps -export *.ut2
 
@@ -89,7 +89,7 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-cd "%level%\System"
+cd /d "%level%\System"
 
 for /f %%f in ('dir /b %model%\UmodelExport\') do ucc pkg import texture %%f %model%\UmodelExport\%%f
 for /r "%level%\System" %%x in (*.utx) do move "%%x" "%level%\Textures"

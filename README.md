@@ -39,6 +39,8 @@ A copy of "Stargate_SG-1_-_The_Alliance-2005-12-15" which can be obtained from h
 
 FFMPEG from https://ffmpeg.org/
 
+Note : Everything should be installed to the C:\ drive.
+
 Install UT2004
 
 or

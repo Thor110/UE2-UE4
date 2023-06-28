@@ -40,6 +40,16 @@ if exist "%files%\xbox.bin" (
   exit
 )
 
+SET /P start="Enter the directory of the UE4/5 Content Folder:"
+
+if exist "%start%" (
+  echo Content Folder Found.
+) else (
+  echo Content Folder Not Found!
+  pause
+  exit
+)
+
 echo Reminder : The directory for Stargate SG-1: The Alliance will be modified and deleted during the process, so make sure you still have the original 7z file somewhere!
 
 pause
@@ -50,17 +60,17 @@ del %files%\Animations\sg1_anim_comp.ukx %files%\Animations\sg1_anim2.ukx %files
 
 del %files%\StaticMeshes\M16Prefabs.upx %files%\StaticMeshes\UW.ini
 
-mkdir "C:\SGAUE4\Textures" "C:\SGAUE4\StaticMeshes" C:\SGAUE4\Sounds C:\SGAUE4\Animations C:\SGAUE4\Music\ C:\SGAUE4\Speech\ C:\SGAUE4\Maps\
+mkdir "%start%\Textures" "%start%\StaticMeshes" %start%\Sounds %start%\Animations %start%\Music\ %start%\Speech\ %start%\Maps\
 
-cd %model%
+cd /d %model%
 
 umodel -path=%files%\Animations -export *.ukx
 
-for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f C:\SGAUE4\Animations\%%f
+for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Animations\%%f
 
-for /f %%f in ('dir /b %files%\Music\') do move %files%\Music\%%f C:\SGAUE4\Music\%%f
+for /f %%f in ('dir /b %files%\Music\') do move %files%\Music\%%f %start%\Music\%%f
 
-for /f %%f in ('dir /b %files%\Speech\') do move %files%\Speech\%%f C:\SGAUE4\Speech\%%f
+for /f %%f in ('dir /b %files%\Speech\') do move %files%\Speech\%%f %start%\Speech\%%f
 
 umodel -path=%files%\Textures -export *.utx
 for /D %%D in ("%model%\UmodelExport\*") do (
@@ -71,7 +81,7 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "C:\SGAUE4\Textures\%%f"
+for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Textures\%%f"
 
 umodel -path=%files%\StaticMeshes -export *.usx
 
@@ -83,21 +93,21 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "C:\SGAUE4\StaticMeshes\%%f"
+for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\StaticMeshes\%%f"
 
 for /r "%files%\Maps" %%G in (*.unr) do ren "%%~G" *.ut2
 
 umodel -path=%files%\Maps -export *.ut2
 
-for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f C:\SGAUE4\Maps\%%f
+for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Maps\%%f
 
-cd %level%\System
+cd /d %level%\System
 
 for /f "usebackq delims=|" %%f in (`dir /b "%files%\Sounds\"`) do ucc batchexport %files%\Sounds\%%f sound wav %model%\UmodelExport\%%~nf
 
-for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f C:\SGAUE4\Sounds\%%f
+for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Sounds\%%f
 
-for /f "usebackq delims=|" %%f in (`dir /b "C:\SGAUE4\Sounds\"`) do "%sound%\bin\ffmpeg" "%%f" "%%f"
+for /f "usebackq delims=|" %%f in (`dir /b "%start%\Sounds\"`) do "%sound%\bin\ffmpeg" "%%f" "%%f"
 
 rmdir /q /s %files%
 

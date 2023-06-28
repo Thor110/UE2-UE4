@@ -63,25 +63,25 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-cd "%level%\System"
+cd /d "%level%\System"
 
 for /f %%f in ('dir /b %model%\UmodelExport\') do ucc pkg import texture %%f %model%\UmodelExport\%%f
 for /r "%level%\System" %%x in (*.utx) do move "%%x" "%level%\Textures"
 rmdir /q /s %model%\UmodelExport\
 mkdir %model%\UmodelExport\
 
-cd "%files%\System"
+cd /d "%files%\System"
 
 for /f "usebackq delims=|" %%f in (`dir /b "%files%\Sounds\"`) do ucc batchexport %files%\Sounds\%%f sound wav %model%\UmodelExport\%%~nf
 
-cd "%level%\System"
+cd /d "%level%\System"
 
 for /f %%f in ('dir /b %model%\UmodelExport\') do ucc pkg import sound %%f %model%\UmodelExport\%%f
 for /r "%level%\System" %%x in (*.uax) do move "%%x" "%level%\Sounds"
 rmdir /q /s %model%\UmodelExport\
 mkdir %model%\UmodelExport\
 
-cd C:\
+cd /d C:\
 
 rmdir /q /s %files%
 

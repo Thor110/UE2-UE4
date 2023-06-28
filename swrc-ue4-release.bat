@@ -20,21 +20,31 @@ if exist "%model%\umodel.exe" (
   exit
 )
 
+SET /P start="Enter the directory of the UE4/5 Content Folder:"
+
+if exist "%start%" (
+  echo Content Folder Found.
+) else (
+  echo Content Folder Not Found!
+  pause
+  exit
+)
+
 echo Reminder : The GameData folder will be modified and deleted during the process, so make sure you only copied it here!
 
 pause
 
-mkdir "C:\SWRCUE4\Textures" "C:\SWRCUE4\StaticMeshes" C:\SWRCUE4\Sounds C:\SWRCUE4\Animations C:\SWRCUE4\Music\
+mkdir "%start%\Textures" "%start%\StaticMeshes" %start%\Sounds %start%\Animations %start%\Music\
 
 del %level%\Sounds\banter_voice.uax %level%\Sounds\params_mus.uax %level%\Sounds\params_rumble.uax %level%\Sounds\params_sfx.uax %level%\Sounds\params_vox.uax
 
-cd %model%
+cd /d %model%
 
 umodel -path=%level%\Animations -export *.ukx
 
-for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f C:\SWRCUE4\Animations\%%f
+for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Animations\%%f
 
-for /f %%f in ('dir /b %level%\Music\') do move %level%\Music\%%f C:\SWRCUE4\Music\%%f
+for /f %%f in ('dir /b %level%\Music\') do move %level%\Music\%%f %start%\Music\%%f
 
 umodel -path=%level%\Textures -export *.utx
 for /D %%D in ("%model%\UmodelExport\*") do (
@@ -45,7 +55,7 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "C:\SWRCUE4\Textures\%%f"
+for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Textures\%%f"
 
 umodel -path=%level%\StaticMeshes -export *.usx
 
@@ -57,15 +67,15 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "C:\SWRCUE4\StaticMeshes\%%f"
+for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\StaticMeshes\%%f"
 
-cd %level%\System
+cd /d %level%\System
 
 for /f "usebackq delims=|" %%f in (`dir /b "%level%\Sounds\"`) do ucc batchexport %level%\Sounds\%%f sound wav %model%\UmodelExport\%%~nf
 
-for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f C:\SWRCUE4\Sounds\%%f
+for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Sounds\%%f
 
-cd C:\
+cd /d C:\
 
 rmdir /q /s %level%
 
