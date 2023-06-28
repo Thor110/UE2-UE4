@@ -40,7 +40,7 @@ umodel -path=%files%\Animations -export *.ukx
 
 for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %level%\Animations\%%f
 
-for /f %%f in ('dir /b %files%\Music\') do move %files%\Music\%%f "%level%\Music\%%f"
+for /f %%f in ('dir /b "%files%\Music\"') do move "%files%\Music\%%f" "%level%\Music\%%f"
 
 umodel -path=%files%\StaticMeshes -export *.usx
 
