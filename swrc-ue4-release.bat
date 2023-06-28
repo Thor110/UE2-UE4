@@ -1,6 +1,6 @@
 echo off
 cls
-SET /P level="Enter the duplicate GameData directory for Star Wars Republic Commando:"
+SET /P level="Enter the duplicated Star Wars Republic Commando GameData Directory:"
 
 if exist "%level%\System\UCC.exe" (
   echo UCC Found.
@@ -24,29 +24,26 @@ SET /P start="Enter the directory of the UE4/5 Content Folder:"
 
 if exist "%start%" (
   echo Content Folder Found.
+  pause
 ) else (
   echo Content Folder Not Found!
   pause
   exit
 )
 
-echo Reminder : The GameData folder will be modified and deleted during the process, so make sure you only copied it here!
-
-pause
-
 mkdir "%start%\Textures" "%start%\StaticMeshes" %start%\Sounds %start%\Animations %start%\Music\
 
-del %level%\Sounds\banter_voice.uax %level%\Sounds\params_mus.uax %level%\Sounds\params_rumble.uax %level%\Sounds\params_sfx.uax %level%\Sounds\params_vox.uax
+del %files%\Sounds\banter_voice.uax %files%\Sounds\params_mus.uax %files%\Sounds\params_rumble.uax %files%\Sounds\params_sfx.uax %files%\Sounds\params_vox.uax
 
 cd /d %model%
 
-umodel -path=%level%\Animations -export *.ukx
+umodel -path="%level%\Animations" -export *.ukx
 
 for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Animations\%%f
 
-for /f %%f in ('dir /b %level%\Music\') do move %level%\Music\%%f %start%\Music\%%f
+for /f %%f in ('dir /b "%level%\Music\"') do move "%level%\Music\%%f" %start%\Music\%%f
 
-umodel -path=%level%\Textures -export *.utx
+umodel -path="%level%\Textures" -export *.utx
 for /D %%D in ("%model%\UmodelExport\*") do (
     for %%F in ("%%~D\Texture\*.tga*") do (
         move /Y "%%~F" "%%~dpF.."
@@ -57,7 +54,7 @@ FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOs
 
 for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Textures\%%f"
 
-umodel -path=%level%\StaticMeshes -export *.usx
+umodel -path="%level%\StaticMeshes" -export *.usx
 
 for /D %%D in ("%model%\UmodelExport\*") do (
     for %%F in ("%%~D\StaticMesh\*.pskx*") do (
@@ -69,9 +66,9 @@ FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap) DO @IF EXIST "%%d" rd /
 
 for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\StaticMeshes\%%f"
 
-cd /d %level%\System
+cd /d "%level%\System"
 
-for /f "usebackq delims=|" %%f in (`dir /b "%level%\Sounds\"`) do ucc batchexport %level%\Sounds\%%f sound wav %model%\UmodelExport\%%~nf
+for /f "usebackq delims=|" %%f in (`dir /b "%level%\Sounds\"`) do ucc batchexport "%level%\Sounds\%%f" sound wav %model%\UmodelExport\%%~nf
 
 for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Sounds\%%f
 

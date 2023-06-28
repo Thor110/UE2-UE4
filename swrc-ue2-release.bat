@@ -1,5 +1,16 @@
 echo off
 cls
+SET /P files="Enter the duplicated Star Wars Republic Commando GameData Directory:"
+
+if exist "%files%\System\UCC.exe" (
+  echo UCC Found.
+  pause
+) else (
+  echo UCC Not Found!
+  pause
+  exit
+)
+
 SET /P level="Enter your UT2004 Directory:"
 
 if exist "%level%\System\UCC.exe" (
@@ -14,27 +25,16 @@ SET /P model="Enter your UModel Directory:"
 
 if exist "%model%\umodel.exe" (
   echo UModel Found.
+  pause
 ) else (
   echo UModel Not Found!
   pause
   exit
 )
 
-SET /P files="Enter the duplicate GameData directory for Star Wars Republic Commando:"
-
-if exist "%files%\System\UCC.exe" (
-  echo UCC Found.
-) else (
-  echo UCC Not Found!
-  pause
-  exit
-)
-
-echo Reminder : The GameData folder will be modified and deleted during the process, so make sure you only copied it here!
-
-pause
-
 del %files%\Sounds\banter_voice.uax %files%\Sounds\params_mus.uax %files%\Sounds\params_rumble.uax %files%\Sounds\params_sfx.uax %files%\Sounds\params_vox.uax
+
+cd /d %model%
 
 umodel -path=%files%\Animations -export *.ukx
 
@@ -80,8 +80,6 @@ for /f %%f in ('dir /b %model%\UmodelExport\') do ucc pkg import sound %%f %mode
 for /r "%level%\System" %%x in (*.uax) do move "%%x" "%level%\Sounds"
 rmdir /q /s %model%\UmodelExport\
 mkdir %model%\UmodelExport\
-
-cd /d C:\
 
 rmdir /q /s %files%
 

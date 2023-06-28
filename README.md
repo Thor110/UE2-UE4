@@ -47,6 +47,9 @@ or
 
 Install Star Wars Republic Commando and Leon's latest fix available from : https://github.com/SWRC-Modding/CT/releases
 
+once installed and the fix is also installed, copy the GameData folder to the C:\ drive and rename it to SWRC, this is so that the script can modify files and then delete the duplicate in the process.
+as well as so that the modified UCC that comes with Leon's fixes doesn't short out on directories with spaces in them.
+
 Install FFMPEG
 
 Install UModel
@@ -58,6 +61,8 @@ NOTE : This folder will be deleted, so make sure to keep the original .7zip file
 ( so "C:\SGA\Textures" will now exist ) or ( "C:\SWRC\Textures" )
 
 The scripts can now be run from anywhere and will request that you enter the directories for the required files, the script will then check the required programs exist before going on to use them.
+
+But it should be noted once more that everything should be located on the C:\ drive.
 
 Example directories to enter for SGA.
 
