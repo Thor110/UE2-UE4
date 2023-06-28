@@ -81,6 +81,8 @@ for /r "%level%\System" %%x in (*.uax) do move "%%x" "%level%\Sounds"
 rmdir /q /s %model%\UmodelExport\
 mkdir %model%\UmodelExport\
 
+cd C:\
+
 rmdir /q /s %files%
 
 pause

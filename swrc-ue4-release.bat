@@ -65,6 +65,8 @@ for /f "usebackq delims=|" %%f in (`dir /b "%level%\Sounds\"`) do ucc batchexpor
 
 for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f C:\SWRCUE4\Sounds\%%f
 
+cd C:\
+
 rmdir /q /s %level%
 
 pause
