@@ -39,7 +39,7 @@ cd /d %model%
 
 umodel -path="%level%\Animations" -export *.ukx
 
-for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Animations\%%f
+for /f %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Animations\%%f"
 
 for /f %%f in ('dir /b "%level%\Music\"') do move "%level%\Music\%%f" %start%\Music\%%f
 
@@ -64,7 +64,7 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\StaticMeshes\%%f
+for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\StaticMeshes\%%f"
 
 cd /d "%level%\System"
 
