@@ -66,7 +66,7 @@ But it should be noted once more that everything should be located on the C:\ dr
 
 When prompted by the script you should enter something along the lines of the following for each script.
 
-Example directories to enter for SGA-UE2. - "sga-ue2-release.bat"
+Example directories you might enter when prompted by the SGA-UE2 script. - "sga-ue2-release.bat"
 
 C:\GOG Games\Unreal Tournament 2004
 
@@ -76,7 +76,7 @@ C:\ffmpeg
 
 C:\SGA
 
-Example directories to enter for SGA-UE4. - "sga-ue4-release.bat"
+Example directories you might enter when prompted by theSGA-UE4 script. - "sga-ue4-release.bat"
 
 C:\GOG Games\Unreal Tournament 2004
 
@@ -88,7 +88,7 @@ C:\SGA
 
 C:\SGAUE4
 
-Example directories to enter for SWRC-UE2. - "swrc-ue2-release.bat"
+Example directories you might enter when prompted by theSWRC-UE2 script. - "swrc-ue2-release.bat"
 
 C:\SWRC
 
@@ -96,7 +96,7 @@ C:\GOG Games\Unreal Tournament 2004
 
 C:\umodel_win32
 
-Example directories to enter for SWRC-UE4. - "swrc-ue4-release.bat"
+Example directories you might enter when prompted by theSWRC-UE4 script. - "swrc-ue4-release.bat"
 
 C:\SWRC
 
