@@ -64,7 +64,9 @@ The scripts can now be run from anywhere and will request that you enter the dir
 
 But it should be noted once more that everything should be located on the C:\ drive to prevent issues moving files between drives.
 
-Example directories to enter for SGA.
+When prompted by the script you should enter something along the lines of the following for each script.
+
+Example directories to enter for SGA-UE2. - "sga-ue2-release.bat"
 
 C:\GOG Games\Unreal Tournament 2004
 
@@ -74,12 +76,34 @@ C:\ffmpeg
 
 C:\SGA
 
-Example directories to enter for SWRC.
+Example directories to enter for SGA-UE4. - "sga-ue4-release.bat"
+
+C:\GOG Games\Unreal Tournament 2004
+
+C:\umodel_win32
+
+C:\ffmpeg
+
+C:\SGA
+
+C:\SGAUE4
+
+Example directories to enter for SWRC-UE2. - "swrc-ue2-release.bat"
+
+C:\SWRC
+
+C:\GOG Games\Unreal Tournament 2004
+
+C:\umodel_win32
+
+Example directories to enter for SWRC-UE4. - "swrc-ue4-release.bat"
 
 C:\SWRC
 
 C:\umodel_win32
 
-This will setup all of the files appropriately. ( Animations / StaticMeshes still remain to be converted to .fbx!!! )
+C:\SWRCUE4
+
+This will setup all of the files appropriately. ( Animations / StaticMeshes still remain to be converted to .fbx!!! and or imported into UT2004!!! )
 
 It will also delete the C:\SGA directory upon completion, so you can just keep or delete the original .7z file ( same goes for Republic Commando, which is why I chose to copy the GameData folder for now )
