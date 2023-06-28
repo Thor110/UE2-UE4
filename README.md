@@ -5,15 +5,15 @@ Short-form readme.			- What to skim read for.
 
 UE2			: Stargate SG-1 : The Alliance
 FILENAME	: sga-ue2-release.bat
-REQUIRED	: GAME(SGA) + UMODEL + UT2004(GOG) + FFMPEG
+REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG
 
 UE4			: Stargate SG-1 : The Alliance
 FILENAME	: sga-ue4-release.bat
-REQUIRED	: GAME(SGA) + UMODEL + UT2004(GOG) + FFMPEG
+REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG
 
 UE2			: Star Wars Republic Commando
 FILENAME	: swrc-ue2-release.bat
-REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004(GOG)
+REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004
 
 UE4			: Star Wars Republic Commando
 FILENAME	: swrc-ue4-release.bat
@@ -31,28 +31,36 @@ A copy of "Stargate_SG-1_-_The_Alliance-2005-12-15" which can be obtained from h
 
 FFMPEG from https://ffmpeg.org/
 
-Install UE4 ( if required ) - not required yet.
+Install UT2004
 
-Install UT2004 to C:\GOG Games\Unreal Tournament 2004 or edit the scripts accordingly. - Required for the UE2 variant of the scripts.
+or
 
-( so "C:\GOG Games\Unreal Tournament 2004\System" will now exist or the edited equivalent so that the script can access "UCC.exe" )
+Install Star Wars Republic Commando and Leon's latest fix available from : https://github.com/SWRC-Modding/CT/releases
 
-or install Star Wars Republic Commando and Leon's latest fix available from : https://github.com/SWRC-Modding/CT/releases
+Install FFMPEG
 
-Install FFMPEG to C:\ffmpeg
-
-( so "C:\ffmpeg\bin" will now exist )
-
-Extract umodel and copy it to C:\umodel_win32
-
-( so "C:\umodel_win32\UmodelExport" will now exist )
+Install UModel
 
 Extract the game files to C:\SGA or copy Star Wars Republic Commando's GameData folder to C:\SWRC
 
+NOTE : This folder will be deleted, so make sure to keep the original .7zip file for SGA and to copy the GameData folder for SWRC.
+
 ( so "C:\SGA\Textures" will now exist ) or ( "C:\SWRC\Textures" )
 
-Copy the script you wish to use to "C:\umodel_win32" and run it from here.
+The scripts can now be run from anywhere and will request that you enter the directories for the required files, the script will then check the required programs exist before going on to use them.
 
-This will setup all of the files appropriately. ( Animations / StaticMeshes still remain to be converted!!! )
+Example directories to enter for SGA.
+
+C:\GOG Games\Unreal Tournament 2004
+C:\umodel_win32
+C:\ffmpeg
+C:\SGA
+
+Example directories to enter for SWRC.
+
+C:\SWRC
+C:\umodel_win32
+
+This will setup all of the files appropriately. ( Animations / StaticMeshes still remain to be converted to .fbx!!! )
 
 It will also delete the C:\SGA directory upon completion, so you can just keep or delete the original .7z file ( same goes for Republic Commando, which is why I chose to copy the GameData folder for now )
