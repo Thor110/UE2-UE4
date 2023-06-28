@@ -41,7 +41,7 @@ FFMPEG from https://ffmpeg.org/
 
 Note : Everything should be installed to the C:\ drive.
 
-Install UT2004
+Install UT2004 ( Required for UE2 script variants and Stargate SG-1 : The Alliance UE4! ) ( Not required for SWRC UE4 )
 
 or
 
@@ -50,7 +50,7 @@ Install Star Wars Republic Commando and Leon's latest fix available from : https
 once installed and the fix is also installed, copy the GameData folder to the C:\ drive and rename it to SWRC, this is so that the script can modify files and then delete the duplicate in the process.
 as well as so that the modified UCC that comes with Leon's fixes doesn't short out on directories with spaces in them.
 
-Install FFMPEG
+Install FFMPEG ( Required for Stargate SG-1 : The Alliance! )
 
 Install UModel
 
@@ -62,7 +62,7 @@ NOTE : This folder will be deleted, so make sure to keep the original .7zip file
 
 The scripts can now be run from anywhere and will request that you enter the directories for the required files, the script will then check the required programs exist before going on to use them.
 
-But it should be noted once more that everything should be located on the C:\ drive.
+But it should be noted once more that everything should be located on the C:\ drive to prevent issues moving files between drives.
 
 Example directories to enter for SGA.
 
