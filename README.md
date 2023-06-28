@@ -29,9 +29,9 @@ FILENAME	: swrc-ue4-release.bat
 
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL
 
-UE4 ( for UE4 version only ) - Not actually required yet!
+Required Programs
 
-UT2004 ( required to export the sound packages )
+UT2004 ( required to export the sound packages for SGA and the UE2 version of the SWRC script, not required for SWRC UE4. )
 
 UModel from https://www.gildor.org/en/projects/umodel
 
