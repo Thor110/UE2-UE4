@@ -60,7 +60,7 @@ del %files%\Animations\sg1_anim_comp.ukx %files%\Animations\sg1_anim2.ukx %files
 
 del %files%\StaticMeshes\M16Prefabs.upx %files%\StaticMeshes\UW.ini
 
-mkdir "%start%\Textures" "%start%\StaticMeshes" %start%\Sounds %start%\Animations %start%\Music\ %start%\Speech\ %start%\Maps\
+mkdir %start%\Textures %start%\StaticMeshes %start%\Sounds %start%\Animations %start%\Music\ %start%\Speech\ %start%\Maps\
 
 cd /d %model%
 
