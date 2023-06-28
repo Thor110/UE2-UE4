@@ -1,25 +1,33 @@
 # UE2-UE4
 A batch script or set of batch scripts I am working on that prepares all of the files for a port I am working on.
 
-Short-form readme.			- What to skim read for.
+Stargate SG-1 : The Alliance
 
 UE2			: Stargate SG-1 : The Alliance
+
 FILENAME	: sga-ue2-release.bat
+
 REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG
 
 UE4			: Stargate SG-1 : The Alliance
+
 FILENAME	: sga-ue4-release.bat
+
 REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG
 
+Star Wars Republic Commando
+
 UE2			: Star Wars Republic Commando
+
 FILENAME	: swrc-ue2-release.bat
+
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004
 
 UE4			: Star Wars Republic Commando
-FILENAME	: swrc-ue4-release.bat
-REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL
 
-Long form readme.			- What to skim read from.
+FILENAME	: swrc-ue4-release.bat
+
+REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL
 
 UE4 ( for UE4 version only ) - Not actually required yet!
 
@@ -52,13 +60,17 @@ The scripts can now be run from anywhere and will request that you enter the dir
 Example directories to enter for SGA.
 
 C:\GOG Games\Unreal Tournament 2004
+
 C:\umodel_win32
+
 C:\ffmpeg
+
 C:\SGA
 
 Example directories to enter for SWRC.
 
 C:\SWRC
+
 C:\umodel_win32
 
 This will setup all of the files appropriately. ( Animations / StaticMeshes still remain to be converted to .fbx!!! )
