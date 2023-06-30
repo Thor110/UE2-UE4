@@ -13,7 +13,7 @@ UE4			: Stargate SG-1 : The Alliance
 
 FILENAME	: sga-ue4-release.bat
 
-REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG
+REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER
 
 Star Wars Republic Commando
 
@@ -27,9 +27,13 @@ UE4			: Star Wars Republic Commando
 
 FILENAME	: swrc-ue4-release.bat
 
-REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL
+REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER
 
 Required Programs
+
+Blender from https://www.blender.org/
+
+Blender3D Import psk psa addon from the releases section at https://github.com/Befzz/blender3d_import_psk_psa
 
 UT2004 ( required to export the sound packages for SGA and the UE2 version of the SWRC script, not required for SWRC UE4. )
 
@@ -42,6 +46,8 @@ FFMPEG from https://ffmpeg.org/
 Note : Everything should be installed to the C:\ drive.
 
 Install UT2004 ( Required for UE2 script variants and Stargate SG-1 : The Alliance UE4! ) ( Not required for SWRC UE4 )
+
+Install Blender and the PSKX/PSK/PSA Import Plugin.
 
 or
 
