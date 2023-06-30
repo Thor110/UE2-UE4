@@ -1,4 +1,5 @@
 title Star Wars Republic Commando UE4 Porting Script
+set first=%cd%
 
 echo off
 cls
@@ -18,6 +19,16 @@ if exist "%model%\umodel.exe" (
   echo UModel Found.
 ) else (
   echo UModel Not Found!
+  pause
+  exit
+)
+
+SET /P blend="Enter your Blender Directory:"
+
+if exist "%blend%\blender.exe" (
+  echo Blender Found.
+) else (
+  echo Blender Not Found!
   pause
   exit
 )
@@ -77,5 +88,27 @@ for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f 
 cd /d C:\
 
 rmdir /q /s %level%
+
+@echo off
+setlocal disableDelayedExpansion
+
+:Variables
+set InputFile=%first%\batch-convert-fbx.txt
+set OutputFile=%blend%\batch-convert-fbx.py
+set "_strFind=path = 'C:\'"
+set "_strInsert=path = '%start%'"
+
+:Replace
+>"%OutputFile%" (
+for /f "usebackq delims=" %%A in ("%InputFile%") do (
+    if "%%A" equ "%_strFind%" (echo %_strInsert%) else (echo %%A)
+  )
+)
+
+cd %blend%
+
+blender -b -P batch-convert-fbx.py
+
+Rem delete all the .pskx folders after figuring out the truncated model issue
 
 pause

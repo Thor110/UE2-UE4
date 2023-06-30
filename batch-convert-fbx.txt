@@ -1,0 +1,25 @@
+# modified from the original script located at https://github.com/RareKiwi/T3D_UE4Importer/blob/main/blenderconvert.py
+# modified by Thor110
+
+import bpy
+import io_import_scene_unreal_psa_psk_280 as imp
+import os
+
+
+path = 'C:\'
+print('<<<<<<<<<<<START>>>>>>>>>>')
+
+for root, dirs, files in os.walk(path):
+    for currentFile in files:
+        exts = ('.pskx')
+        if currentFile.lower().endswith(exts):
+            mesh_file = os.path.join(root, currentFile)
+            fbx_file = os.path.splitext(mesh_file)[0] + ".fbx"
+            if (not(os.path.exists(fbx_file))):
+                bpy.ops.object.select_all(action='SELECT')
+                bpy.ops.object.delete()
+                imp.pskimport(filepath=mesh_file)
+                bpy.ops.object.select_all(action='SELECT')
+                bpy.ops.export_scene.fbx(filepath=fbx_file)
+
+print('<<<<<<<<<<<DONE>>>>>>>>>>')

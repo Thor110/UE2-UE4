@@ -1,4 +1,5 @@
 title Stargate SG-1 : The Alliance UE4 Porting Script
+set first=%cd%
 
 echo off
 cls
@@ -38,6 +39,16 @@ if exist "%files%\xbox.bin" (
   echo "xbox.bin" Found.
 ) else (
   echo "xbox.bin" Not Found!
+  pause
+  exit
+)
+
+SET /P blend="Enter your Blender Directory:"
+
+if exist "%blend%\blender.exe" (
+  echo Blender Found.
+) else (
+  echo Blender Not Found!
   pause
   exit
 )
@@ -112,5 +123,27 @@ for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f 
 for /f "usebackq delims=|" %%f in (`dir /b "%start%\Sounds\"`) do "%sound%\bin\ffmpeg" "%%f" "%%f"
 
 rmdir /q /s %files%
+
+@echo off
+setlocal disableDelayedExpansion
+
+:Variables
+set InputFile=%first%\batch-convert-fbx.txt
+set OutputFile=%blend%\batch-convert-fbx.py
+set "_strFind=path = 'C:\'"
+set "_strInsert=path = '%start%'"
+
+:Replace
+>"%OutputFile%" (
+for /f "usebackq delims=" %%A in ("%InputFile%") do (
+    if "%%A" equ "%_strFind%" (echo %_strInsert%) else (echo %%A)
+  )
+)
+
+cd %blend%
+
+blender -b -P batch-convert-fbx.py
+
+Rem delete all the .pskx folders after figuring out the truncated model issue
 
 Pause
