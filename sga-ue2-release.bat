@@ -1,3 +1,5 @@
+title Stargate SG-1 : The Alliance UE2 Porting Script
+
 echo off
 cls
 SET /P level="Enter your UT2004 Directory:"

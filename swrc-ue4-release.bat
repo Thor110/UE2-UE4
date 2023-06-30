@@ -1,3 +1,5 @@
+title Star Wars Republic Commando UE4 Porting Script
+
 echo off
 cls
 SET /P level="Enter the duplicated Star Wars Republic Commando GameData Directory:"
