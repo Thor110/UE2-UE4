@@ -11,7 +11,7 @@ print('<<<<<<<<<<<START>>>>>>>>>>')
 
 for root, dirs, files in os.walk(path):
     for currentFile in files:
-        exts = ('.pskx')
+        exts = ('.pskx','.psk','.psa')
         if currentFile.lower().endswith(exts):
             mesh_file = os.path.join(root, currentFile)
             fbx_file = os.path.splitext(mesh_file)[0] + ".fbx"
