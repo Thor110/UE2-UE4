@@ -3,7 +3,6 @@ title Star Wars Republic Commando UE2 Porting Script
 echo off
 cls
 SET /P files="Enter the duplicated Star Wars Republic Commando GameData Directory:"
-
 if exist "%files%\System\UCC.exe" (
   echo UCC Found.
 ) else (
@@ -13,7 +12,6 @@ if exist "%files%\System\UCC.exe" (
 )
 
 SET /P level="Enter your UT2004 Directory:"
-
 if exist "%level%\System\UCC.exe" (
   echo UCC Found.
 ) else (
@@ -23,7 +21,6 @@ if exist "%level%\System\UCC.exe" (
 )
 
 SET /P model="Enter your UModel Directory:"
-
 if exist "%model%\umodel.exe" (
   echo UModel Found.
   pause

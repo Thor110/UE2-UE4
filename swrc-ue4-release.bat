@@ -1,10 +1,9 @@
 title Star Wars Republic Commando UE4 Porting Script
 set first=%cd%
 
-echo off
+@echo off
 cls
 SET /P level="Enter the duplicated Star Wars Republic Commando GameData Directory:"
-
 if exist "%level%\System\UCC.exe" (
   echo UCC Found.
 ) else (
@@ -14,7 +13,6 @@ if exist "%level%\System\UCC.exe" (
 )
 
 SET /P model="Enter your UModel Directory:"
-
 if exist "%model%\umodel.exe" (
   echo UModel Found.
 ) else (
@@ -24,7 +22,6 @@ if exist "%model%\umodel.exe" (
 )
 
 SET /P blend="Enter your Blender Directory:"
-
 if exist "%blend%\blender.exe" (
   echo Blender Found.
 ) else (
@@ -34,7 +31,6 @@ if exist "%blend%\blender.exe" (
 )
 
 SET /P start="Enter the directory of the UE4/5 Content Folder:"
-
 if exist "%start%" (
   echo Content Folder Found.
   pause
@@ -89,16 +85,13 @@ cd /d C:\
 
 rmdir /q /s %level%
 
-@echo off
 setlocal disableDelayedExpansion
 
-:Variables
 set InputFile=%first%\batch-convert-fbx.txt
 set OutputFile=%blend%\batch-convert-fbx.py
 set "_strFind=path = 'C:\'"
 set "_strInsert=path = '%start%'"
 
-:Replace
 >"%OutputFile%" (
 for /f "usebackq delims=" %%A in ("%InputFile%") do (
     if "%%A" equ "%_strFind%" (echo %_strInsert%) else (echo %%A)

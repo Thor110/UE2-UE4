@@ -1,10 +1,9 @@
 title Stargate SG-1 : The Alliance UE4 Porting Script
 set first=%cd%
 
-echo off
+@echo off
 cls
 SET /P level="Enter your UT2004 Directory:"
-
 if exist "%level%\System\UCC.exe" (
   echo UCC Found.
 ) else (
@@ -14,7 +13,6 @@ if exist "%level%\System\UCC.exe" (
 )
 
 SET /P model="Enter your UModel Directory:"
-
 if exist "%model%\umodel.exe" (
   echo UModel Found.
 ) else (
@@ -24,7 +22,6 @@ if exist "%model%\umodel.exe" (
 )
 
 SET /P sound="Enter your FFMPEG Directory:"
-
 if exist "%sound%\bin\ffmpeg.exe" (
   echo FFMPEG Found.
 ) else (
@@ -34,7 +31,6 @@ if exist "%sound%\bin\ffmpeg.exe" (
 )
 
 SET /P files="Enter the directory containing Stargate SG-1: The Alliance files:"
-
 if exist "%files%\xbox.bin" (
   echo "xbox.bin" Found.
 ) else (
@@ -44,7 +40,6 @@ if exist "%files%\xbox.bin" (
 )
 
 SET /P blend="Enter your Blender Directory:"
-
 if exist "%blend%\blender.exe" (
   echo Blender Found.
 ) else (
@@ -54,7 +49,6 @@ if exist "%blend%\blender.exe" (
 )
 
 SET /P start="Enter the directory of the UE4/5 Content Folder:"
-
 if exist "%start%" (
   echo Content Folder Found.
 ) else (
@@ -63,15 +57,11 @@ if exist "%start%" (
   exit
 )
 
-echo Reminder : The directory for Stargate SG-1: The Alliance will be modified and deleted during the process, so make sure you still have the original 7z file somewhere!
+echo Reminder : The directory for Stargate SG-1: The Alliance will be modified and deleted during the process, so make sure you still have the original 7z file backed up somewhere!
 
 pause
 
-del %files%\Textures\M01Tex.utx %files%\Textures\M05ATex.utx %files%\Textures\M05BTex.utx %files%\Textures\M05CTex.utx %files%\Textures\M05dTex.utx %files%\Textures\M08Tex.utx %files%\Textures\M10Atex.utx %files%\Textures\M10Btex.utx %files%\Textures\M12Tex_test.utx %files%\Textures\M15Tex22.utx %files%\Textures\M15Tex_tomerge.utx %files%\Textures\m16.utx %files%\Textures\M16ATex.utx %files%\Textures\M16BTex.utx %files%\Textures\StargateEffectsTex.utx %files%\Textures\M10_train_anim.ukx %files%\Textures\SGAllianceUIX.uix %files%\Textures\UE2Runtime.ini %files%\Textures\XBoxLiveFont.xpr %files%\Textures\m17tex.utx %files%\Textures\x_delete_m17tex.utx %files%\Textures\xx_old_m17tex.utx %files%\Textures\M07_fresco_tex.utx %files%\Textures\M10_train_tex.utx %files%\Textures\StargateGameFontsTex.utx %files%\Textures\Tutorial_Tex.utx
-
-del %files%\Animations\sg1_anim_comp.ukx %files%\Animations\sg1_anim2.ukx %files%\Animations\Goauld_Turret_anim.ukx %files%\Animations\Goa_Vehicles.ukx %files%\Animations\Haaken_anim.ukx %files%\Animations\Haaken_leader_anim.ukx %files%\Animations\Haaken_Shield_anim.ukx %files%\Animations\Haaken_warrior_anim.ukx %files%\Animations\jaffa_anim.ukx %files%\Animations\M07_fresco_anim.ukx %files%\Animations\M21_Crystal_anim.ukx %files%\Animations\sg1_anim.ukx %files%\Animations\sg1_turret_M60_Humvee.ukx %files%\Animations\SG1_weapons_1st.ukx %files%\Animations\SG1_Wep_Anim2.ukx.tmp %files%\Animations\super_soldier_anim.ukx %files%\Animations\tokra_anim.ukx %files%\Animations\veh_jeep.ukx
-
-del %files%\StaticMeshes\M16Prefabs.upx %files%\StaticMeshes\UW.ini
+del %files%\Textures\M01Tex.utx %files%\Textures\M05ATex.utx %files%\Textures\M05BTex.utx %files%\Textures\M05CTex.utx %files%\Textures\M05dTex.utx %files%\Textures\M08Tex.utx %files%\Textures\M10Atex.utx %files%\Textures\M10Btex.utx %files%\Textures\M12Tex_test.utx %files%\Textures\M15Tex22.utx %files%\Textures\M15Tex_tomerge.utx %files%\Textures\m16.utx %files%\Textures\M16ATex.utx %files%\Textures\M16BTex.utx %files%\Textures\StargateEffectsTex.utx %files%\Textures\M10_train_anim.ukx %files%\Textures\SGAllianceUIX.uix %files%\Textures\UE2Runtime.ini %files%\Textures\XBoxLiveFont.xpr %files%\Textures\m17tex.utx %files%\Textures\x_delete_m17tex.utx %files%\Textures\xx_old_m17tex.utx %files%\Textures\M07_fresco_tex.utx %files%\Textures\M10_train_tex.utx %files%\Textures\StargateGameFontsTex.utx %files%\Textures\Tutorial_Tex.utx %files%\Animations\sg1_anim_comp.ukx %files%\Animations\sg1_anim2.ukx %files%\Animations\Goauld_Turret_anim.ukx %files%\Animations\Goa_Vehicles.ukx %files%\Animations\Haaken_anim.ukx %files%\Animations\Haaken_leader_anim.ukx %files%\Animations\Haaken_Shield_anim.ukx %files%\Animations\Haaken_warrior_anim.ukx %files%\Animations\jaffa_anim.ukx %files%\Animations\M07_fresco_anim.ukx %files%\Animations\M21_Crystal_anim.ukx %files%\Animations\sg1_anim.ukx %files%\Animations\sg1_turret_M60_Humvee.ukx %files%\Animations\SG1_weapons_1st.ukx %files%\Animations\SG1_Wep_Anim2.ukx.tmp %files%\Animations\super_soldier_anim.ukx %files%\Animations\tokra_anim.ukx %files%\Animations\veh_jeep.ukx %files%\StaticMeshes\M16Prefabs.upx %files%\StaticMeshes\UW.ini
 
 mkdir %start%\Textures %start%\StaticMeshes %start%\Sounds %start%\Animations %start%\Music\ %start%\Speech\ %start%\Maps\
 
@@ -124,16 +114,13 @@ for /f "usebackq delims=|" %%f in (`dir /b "%start%\Sounds\"`) do "%sound%\bin\f
 
 rmdir /q /s %files%
 
-@echo off
 setlocal disableDelayedExpansion
 
-:Variables
 set InputFile=%first%\batch-convert-fbx.txt
 set OutputFile=%blend%\batch-convert-fbx.py
 set "_strFind=path = 'C:\'"
 set "_strInsert=path = '%start%'"
 
-:Replace
 >"%OutputFile%" (
 for /f "usebackq delims=" %%A in ("%InputFile%") do (
     if "%%A" equ "%_strFind%" (echo %_strInsert%) else (echo %%A)
