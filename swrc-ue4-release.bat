@@ -85,6 +85,8 @@ cd /d C:\
 
 rmdir /q /s %level%
 
+del %start%\StaticMeshes\markericons\TrapXSpotIcon.pskx
+
 setlocal disableDelayedExpansion
 
 set InputFile=%first%\batch-convert-fbx.txt
@@ -102,6 +104,6 @@ cd %blend%
 
 blender -b -P batch-convert-fbx.py
 
-Rem delete all the .pskx folders after figuring out the truncated model issue
+del /S %start%\StaticMeshes\*.pskx
 
 pause

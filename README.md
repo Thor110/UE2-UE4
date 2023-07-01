@@ -13,7 +13,7 @@ UE4			: Stargate SG-1 : The Alliance
 
 FILENAME	: sga-ue4-release.bat
 
-REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER
+REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER(2.93)
 
 Star Wars Republic Commando
 
@@ -27,11 +27,11 @@ UE4			: Star Wars Republic Commando
 
 FILENAME	: swrc-ue4-release.bat
 
-REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER
+REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER(2.93)
 
 Required Programs
 
-Blender from https://www.blender.org/
+Blender from https://www.blender.org/ v2.93 to be specific.
 
 Blender3D Import psk psa addon from the releases section at https://github.com/Befzz/blender3d_import_psk_psa
 

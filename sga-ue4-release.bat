@@ -84,7 +84,7 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%"f "%start%\Textures\%%f"
+for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Textures\%%f"
 
 umodel -path=%files%\StaticMeshes -export *.usx
 
@@ -114,6 +114,8 @@ for /f "usebackq delims=|" %%f in (`dir /b "%start%\Sounds\"`) do "%sound%\bin\f
 
 rmdir /q /s %files%
 
+del %start%\StaticMeshes\M04Meshes\M04_room_arch_1024_2.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_bodycollision.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster01.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster02.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster03.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster04.pskx
+
 setlocal disableDelayedExpansion
 
 set InputFile=%first%\batch-convert-fbx.txt
@@ -131,6 +133,6 @@ cd %blend%
 
 blender -b -P batch-convert-fbx.py
 
-Rem delete all the .pskx folders after figuring out the truncated model issue
+del /S %start%\StaticMeshes\*.pskx
 
-Pause
+pause
