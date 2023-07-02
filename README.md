@@ -92,6 +92,8 @@ C:\ffmpeg
 
 C:\SGA
 
+C:\Program Files\Blender Foundation\Blender 2.93
+
 C:\SGAUE4
 
 Example directories you might enter when prompted by theSWRC-UE2 script. - "swrc-ue2-release.bat"
@@ -107,6 +109,8 @@ Example directories you might enter when prompted by theSWRC-UE4 script. - "swrc
 C:\SWRC
 
 C:\umodel_win32
+
+C:\Program Files\Blender Foundation\Blender 2.93
 
 C:\SWRCUE4
 

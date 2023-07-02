@@ -133,28 +133,25 @@ cd %blend%
 
 blender -b -P batch-convert-fbx.py
 
-del /S %start%\StaticMeshes\*.pskx
-del /S %start%\StaticMeshes\*.psk
-del /S %start%\StaticMeshes\*.psa
-del /S %start%\StaticMeshes\*.config
+del /S %start%\StaticMeshes\*.pskx %start%\StaticMeshes\*.psk %start%\StaticMeshes\*.psa %start%\StaticMeshes\*.config %start%\Animations\*.psk %start%\Animations\*.psa %start%\Animations\*.config %start%\Maps\*.pskx %start%\Maps\*.txt %start%\Maps\*.mat %start%\Maps\*.tga
 
-del /S %start%\Animations\*.psk
-del /S %start%\Animations\*.psa
-del /S %start%\Animations\*.config
+cd %start%\Maps\
 
-for /D %%D in ("%start%\Animations\*") do (
-    for %%F in ("%%~D\SkeletalMesh\*.fbx*") do (
+for /D %%D in ("%start%\Maps\*") do (
+    for %%F in ("%%~D\StaticMesh\*.fbx*") do (
         move /Y "%%~F" "%%~dpF.."
     )
 )
 
-for /D %%D in ("%start%\Animations\*") do (
-    for %%F in ("%%~D\MeshAnimation\*.fbx*") do (
-        move /Y "%%~F" "%%~dpF.."
-    )
-)
+FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 cd %start%\Animations\
+
+for /D %%D in ("%start%\Animations\*") do (
+    for %%F in ("%%~D\SkeletalMesh\*.fbx*","%%~D\MeshAnimation\*.fbx*") do (
+        move /Y "%%~F" "%%~dpF.."
+    )
+)
 
 FOR /d /r . %%d IN (SkeletalMesh,Texture,MeshAnimation,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 

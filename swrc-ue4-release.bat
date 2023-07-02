@@ -66,12 +66,12 @@ for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\Umode
 umodel -path="%level%\StaticMeshes" -export *.usx
 
 for /D %%D in ("%model%\UmodelExport\*") do (
-    for %%F in ("%%~D\StaticMesh\*.pskx*") do (
+    for %%F in ("%%~D\StaticMesh\*.pskx*","%%~D\MeshAnimation\*.psa*","%%~D\SkeletalMesh\*.psk*") do (
         move /Y "%%~F" "%%~dpF.."
     )
 )
 
-FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap) DO @IF EXIST "%%d" rd /s /q "%%d"
+FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap,MeshAnimation,SkeletalMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\StaticMeshes\%%f"
 
@@ -100,32 +100,19 @@ for /f "usebackq delims=" %%A in ("%InputFile%") do (
   )
 )
 
-cd %blend%
+cd /d %blend%
 
 blender -b -P batch-convert-fbx.py
 
-del /S %start%\StaticMeshes\*.pskx
-del /S %start%\StaticMeshes\*.psk
-del /S %start%\StaticMeshes\*.psa
-del /S %start%\StaticMeshes\*.config
-
-del /S %start%\Animations\*.psk
-del /S %start%\Animations\*.psa
-del /S %start%\Animations\*.config
+del /S %start%\StaticMeshes\*.pskx %start%\StaticMeshes\*.psk %start%\StaticMeshes\*.psa %start%\StaticMeshes\*.config %start%\Animations\*.psk %start%\Animations\*.psa %start%\Animations\*.config
 
 for /D %%D in ("%start%\Animations\*") do (
-    for %%F in ("%%~D\SkeletalMesh\*.fbx*") do (
+    for %%F in ("%%~D\SkeletalMesh\*.fbx*","%%~D\MeshAnimation\*.fbx*") do (
         move /Y "%%~F" "%%~dpF.."
     )
 )
 
-for /D %%D in ("%start%\Animations\*") do (
-    for %%F in ("%%~D\MeshAnimation\*.fbx*") do (
-        move /Y "%%~F" "%%~dpF.."
-    )
-)
-
-cd %start%\Animations\
+cd /d %start%\Animations\
 
 FOR /d /r . %%d IN (SkeletalMesh,Texture,MeshAnimation,VertMesh,Shader) DO @IF EXIST "%%d" rd /s /q "%%d"
 
