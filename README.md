@@ -68,6 +68,8 @@ NOTE : This folder will be deleted, so make sure to keep the original .7zip file
 
 The scripts can now be run from anywhere and will request that you enter the directories for the required files, the script will then check the required programs exist before going on to use them.
 
+Do not right click / run as administrator! Just double click or hit enter when ready.
+
 But it should be noted once more that everything should be located on the C:\ drive to prevent issues moving files between drives.
 
 When prompted by the script you should enter something along the lines of the following for each script.
