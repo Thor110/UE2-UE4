@@ -131,28 +131,16 @@ for /f "usebackq delims=" %%A in ("%InputFile%") do (
 
 cd %blend%
 
-pause
-
 blender -b -P batch-convert-fbx.py
 
 del /S %start%\StaticMeshes\*.pskx %start%\StaticMeshes\*.psk %start%\StaticMeshes\*.psa %start%\StaticMeshes\*.config %start%\Animations\*.psk %start%\Animations\*.psa %start%\Animations\*.config %start%\Maps\*.pskx %start%\Maps\*.txt %start%\Maps\*.mat
-Rem %start%\Maps\*.tga
-
-Rem cd %start%\Maps\
 
 for /F %%E in ('dir /b %start%\Maps\') do ( mkdir %start%\Textures\%%~E %start%\StaticMeshes\%%~E )
 
-pause
-
-Rem Textures Not Moving!!!
-
 for /D %%D in ("%start%\Maps\*") do (
-   for %%F in ("%%D\Texture\*.tga*") do (
-       move /Y "%%~F" "%start%\Textures\%%~E\%%~nF%%~xF"
+   for %%T in ("%%D\Texture\*.tga*") do (
+       move /Y "%%~T" "%start%\Textures\%%~E\%%~nT%%~xT"
    )
-)
-
-for /D %%D in ("%start%\Maps\*") do (
    for %%F in ("%%D\StaticMesh\*.fbx*") do (
        move /Y "%%~F" "%start%\StaticMeshes\%%~E\%%~nF%%~xF"
    )
@@ -161,8 +149,6 @@ for /D %%D in ("%start%\Maps\*") do (
 cd %start%
 
 rmdir /Q /S C:\SGAUE4\Maps\
-
-Rem FOR /d /r . %%d IN (StaticMesh,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,Texture) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 cd %start%\Animations\
 
