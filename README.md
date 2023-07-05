@@ -58,7 +58,7 @@ as well as so that the modified UCC that comes with Leon's fixes doesn't short o
 
 Install FFMPEG ( Required for Stargate SG-1 : The Alliance! )
 
-Install UModel
+Install UModel ( Do not change the export directory or set back to default of "C:\umodel_win32\UmodelExport" )
 
 Extract the game files to C:\SGA or copy Star Wars Republic Commando's GameData folder to C:\SWRC
 

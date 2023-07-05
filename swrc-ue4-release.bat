@@ -40,7 +40,9 @@ if exist "%start%" (
   exit
 )
 
-mkdir "%start%\Textures" "%start%\StaticMeshes" %start%\Sounds %start%\Animations %start%\Music\
+mkdir "%start%\Materials" "%start%\StaticMeshes" %start%\Sounds %start%\Animations %start%\Music\ %start%\Splash\ %start%\Game\ %start%\Movies\
+
+Rem Splash Game Movies
 
 del %files%\Sounds\banter_voice.uax %files%\Sounds\params_mus.uax %files%\Sounds\params_rumble.uax %files%\Sounds\params_sfx.uax %files%\Sounds\params_vox.uax
 
@@ -61,7 +63,7 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Textures\%%f"
+for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Materials\%%f"
 
 umodel -path="%level%\StaticMeshes" -export *.usx
 
