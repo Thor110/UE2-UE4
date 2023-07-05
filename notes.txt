@@ -1,15 +1,4 @@
-Textures from Map folders still not moving across to Textures/MapName.
-
-Move all StaticMesh Package Folders from C:\SGAUE4\StaticMeshes to C:\SGAUE4\
-
-or edit the T3D's again according to the preferred directory structure.
-
-replace all entries containing the following
-
-StaticMesh=StaticMesh'/Game/
-
-with the following, to update all the T3D files.
-
-StaticMesh=StaticMesh'/Game/StaticMeshes/
-
-or move them.
+Map Materials at /Textures/
+Package Materials at /StaticMeshes/
+Map StaticMeshes at /StaticMesh/
+Package Materials at /Materials/
