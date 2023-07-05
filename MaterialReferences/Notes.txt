@@ -18,3 +18,33 @@ to identify the linked material for static meshes prior to importing.
 Determine how many StaticMeshes have no linked material information and prepare a list to manually assign these.
 
 
+
+
+/Textures/
+Rem FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
+
+/StaticMeshes/
+Rem FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap) DO @IF EXIST "%%d" rd /s /q "%%d"
+
+/Animations/
+Rem FOR /d /r . %%d IN (SkeletalMesh,Texture,MeshAnimation,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
+
+
+
+
+
+
+Shuffle Packages into /StaticMesh/ in the UE4 project-side.
+
+UE4 Directory - UE2 Equivalent
+
+/StaticMesh/ (/StaticMeshes/)
+/Materials/ (/Textures/)
+/StaticMeshes/ (/Maps/StaticMeshes/)
+/Textures/ (/Maps/Textures/)
+
+
+
+
+
+
