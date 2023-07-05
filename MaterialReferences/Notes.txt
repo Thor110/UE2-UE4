@@ -1,0 +1,20 @@
+keeping the following files
+
+_mat.txt files
+
+to parse in order to create the materials before importing the static meshes.
+
+_props.txt files
+
+to identify the linked material for static meshes prior to importing.
+
+->Create Template Project from repository
+->Create / Install Plugin
+->Import Materials
+->Import StaticMeshes
+->Prepare Shaders
+->Import Levels
+
+Determine how many StaticMeshes have no linked material information and prepare a list to manually assign these.
+
+
