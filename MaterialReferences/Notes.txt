@@ -44,7 +44,10 @@ UE4 Directory - UE2 Equivalent
 /Textures/ (/Maps/Textures/)
 
 
+pseudo
+echo through file B ifexist line-from-file-B in file A echo > output.log
 
-
-
-
+File A
+existing-material-references-logfile-diffuse.txt
+File B
+missing-material-references-logfile.txt
