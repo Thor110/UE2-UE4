@@ -63,7 +63,7 @@ pause
 
 del %files%\Textures\M01Tex.utx %files%\Textures\M05ATex.utx %files%\Textures\M05BTex.utx %files%\Textures\M05CTex.utx %files%\Textures\M05dTex.utx %files%\Textures\M08Tex.utx %files%\Textures\M10Atex.utx %files%\Textures\M10Btex.utx %files%\Textures\M12Tex_test.utx %files%\Textures\M15Tex22.utx %files%\Textures\M15Tex_tomerge.utx %files%\Textures\m16.utx %files%\Textures\M16ATex.utx %files%\Textures\M16BTex.utx %files%\Textures\StargateEffectsTex.utx %files%\Textures\M10_train_anim.ukx %files%\Textures\SGAllianceUIX.uix %files%\Textures\UE2Runtime.ini %files%\Textures\XBoxLiveFont.xpr %files%\Textures\m17tex.utx %files%\Textures\x_delete_m17tex.utx %files%\Textures\xx_old_m17tex.utx %files%\Textures\M07_fresco_tex.utx %files%\Textures\M10_train_tex.utx %files%\Textures\StargateGameFontsTex.utx %files%\Textures\Tutorial_Tex.utx %files%\Animations\sg1_anim_comp.ukx %files%\Animations\sg1_anim2.ukx %files%\Animations\Goauld_Turret_anim.ukx %files%\Animations\Goa_Vehicles.ukx %files%\Animations\Haaken_anim.ukx %files%\Animations\Haaken_leader_anim.ukx %files%\Animations\Haaken_Shield_anim.ukx %files%\Animations\Haaken_warrior_anim.ukx %files%\Animations\jaffa_anim.ukx %files%\Animations\M07_fresco_anim.ukx %files%\Animations\M21_Crystal_anim.ukx %files%\Animations\sg1_anim.ukx %files%\Animations\sg1_turret_M60_Humvee.ukx %files%\Animations\SG1_weapons_1st.ukx %files%\Animations\SG1_Wep_Anim2.ukx.tmp %files%\Animations\super_soldier_anim.ukx %files%\Animations\tokra_anim.ukx %files%\Animations\veh_jeep.ukx %files%\StaticMeshes\M16Prefabs.upx %files%\StaticMeshes\UW.ini
 
-mkdir %start%\Textures %start%\StaticMeshes %start%\Sounds %start%\Animations %start%\Music\ %start%\Speech\ %start%\Maps\ %start%\Splash\ %start%\Editor\ %start%\Game\
+mkdir %start%\Textures\ %start%\StaticMeshes\ %start%\Sounds\ %start%\Animations\ %start%\Music\ %start%\Speech\ %start%\Maps\ %start%\Splash\ %start%\Editor\ %start%\Game\ %start%\Materials\ %start%\StaticMesh\ 
 
 cd /d %model%
 
@@ -84,7 +84,7 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 Rem FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
-for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Textures\%%f"
+for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Materials\%%f"
 
 umodel -path=%files%\StaticMeshes -export *.usx
 
@@ -133,16 +133,17 @@ cd %blend%
 
 blender -b -P batch-convert-fbx.py
 
-del /S %start%\StaticMeshes\*.pskx %start%\StaticMeshes\*.psk %start%\StaticMeshes\*.psa %start%\StaticMeshes\*.config %start%\Animations\*.psk %start%\Animations\*.psa %start%\Animations\*.config %start%\Maps\*.pskx %start%\Maps\*.txt %start%\Maps\*.mat
+del /S %start%\StaticMeshes\*.pskx %start%\StaticMeshes\*.psk %start%\StaticMeshes\*.psa %start%\StaticMeshes\*.config %start%\Animations\*.psk %start%\Animations\*.psa %start%\Animations\*.config %start%\Maps\*.pskx
+Ren %start%\Maps\*.txt %start%\Maps\*.mat
 
-for /F %%E in ('dir /b %start%\Maps\') do ( mkdir %start%\Textures\%%~E %start%\StaticMeshes\%%~E )
+for /F %%E in ('dir /b %start%\Maps\') do ( mkdir %start%\Textures\%%~E %start%\StaticMesh\%%~E )
 
 for /D %%D in ("%start%\Maps\*") do (
    for %%T in ("%%D\Texture\*.tga*") do (
        move /Y "%%~T" "%start%\Textures\%%~E\%%~nT%%~xT"
    )
    for %%F in ("%%D\StaticMesh\*.fbx*") do (
-       move /Y "%%~F" "%start%\StaticMeshes\%%~E\%%~nF%%~xF"
+       move /Y "%%~F" "%start%\StaticMesh\%%~E\%%~nF%%~xF"
    )
 )
 
