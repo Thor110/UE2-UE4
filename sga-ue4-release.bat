@@ -163,28 +163,30 @@ Rem FOR /d /r . %%d IN (SkeletalMesh,Texture,MeshAnimation,VertMesh) DO @IF EXIS
 
 pause
 
-findstr /L /S /N /M  "Material" *.props.txt* > A.txt
-findstr /L /S /N /M  "Diffuse" *.props.txt* > B.txt
+findstr /L /S /N /M  "Material" *.props.txt* > %first%\A.txt
+findstr /L /S /N /M  "Diffuse" *.props.txt* > %first%\B.txt
 
 pause
 
 Rem clear cluttered files
 
+del %first%\C.txt
+
 @echo off
 SETLOCAL EnableDelayedExpansion
-for /F "tokens=* delims=." %%a in (A.txt) do (
+for /F "tokens=* delims=." %%a in (%first%\A.txt) do (
     call :myInnerLoop "%%a"
 )
 
 goto :eof
 
 :myInnerLoop
-for /F "tokens=* delims=." %%b in (B.txt) do (
+for /F "tokens=* delims=." %%b in (%first%\B.txt) do (
     if "%~1"=="%%b" (
         goto :next
     )
 )
-echo %~1 >> C.txt
+echo %~1 >> %first%\C.txt
 
 :next
 goto :eof
