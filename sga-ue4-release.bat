@@ -114,6 +114,8 @@ for /f "usebackq delims=|" %%f in (`dir /b "%start%\Sounds\"`) do "%sound%\bin\f
 
 rmdir /q /s %files%
 
+Rem deleting truncated meshes that fail to convert to fbx
+
 del %start%\StaticMeshes\M04Meshes\M04_room_arch_1024_2.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_bodycollision.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster01.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster02.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster03.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster04.pskx
 
 setlocal disableDelayedExpansion

@@ -44,6 +44,8 @@ mkdir "%start%\Materials" "%start%\StaticMeshes" %start%\Sounds %start%\Animatio
 
 Rem Splash Game Movies
 
+Rem these packages do not contain any sounds
+
 del %files%\Sounds\banter_voice.uax %files%\Sounds\params_mus.uax %files%\Sounds\params_rumble.uax %files%\Sounds\params_sfx.uax %files%\Sounds\params_vox.uax
 
 cd /d %model%
@@ -86,6 +88,8 @@ for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f 
 cd /d C:\
 
 rmdir /q /s %level%
+
+Rem this mesh fails to convert to fbx
 
 del %start%\StaticMeshes\markericons\TrapXSpotIcon.pskx
 

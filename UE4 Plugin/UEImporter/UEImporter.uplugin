@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UEImporter",
+	"Description": "UE2 Importer",
+	"Category": "Other",
+	"CreatedBy": "Thor110",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UEImporter",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
