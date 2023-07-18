@@ -1,0 +1,243 @@
+Begin Map
+Begin Actor Class=LevelInfo Name=LevelInfo0
+    TimeSeconds=645.44
+    XACTPackagesAllowed(0)="UI_Music"
+    XACTPackagesAllowed(1)="UI_Sound"
+    bKNoInit=True
+    Summary=LevelSummary'myLevel.LevelSummary'
+    CameraLocationDynamic=(X=-232.238,Y=62.623,Z=10.8)
+    CameraLocationTop=(X=-500,Y=-300,Z=21200.1)
+    CameraLocationFront=(X=-500,Y=300,Z=40000)
+    CameraLocationSide=(X=-300,Y=300,Z=40000)
+    CameraRotationDynamic=(Pitch=63412,Yaw=1444)
+    ShadowsEnabled=True
+    DefaultGameType="Engine.GameInfo"
+    PreCacheGame="Engine.GameInfo"
+    NavigationPointList=PlayerStart'myLevel.PlayerStart0'
+    bLightChanged=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',iLeaf=-1)
+    Tag="LevelInfo"
+    Name="LevelInfo0"
+End Actor
+Begin Actor Class=Brush Name=Brush0
+    MainScale=(SheerAxis=SHEER_ZX)
+    PostScale=(SheerAxis=SHEER_ZX)
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="Brush"
+    Group="Cube"
+    Begin Brush Name=Brush
+       Begin PolyList
+          Begin Polygon
+             Origin   -00128.000000,-00128.000000,-00128.000000
+             Normal   -00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,+00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00128.000000,-00128.000000,-00128.000000
+             Vertex   -00128.000000,-00128.000000,+00128.000000
+             Vertex   -00128.000000,+00128.000000,+00128.000000
+             Vertex   -00128.000000,+00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00128.000000,+00128.000000,-00128.000000
+             Normal   +00000.000000,+00001.000000,+00000.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00128.000000,+00128.000000,-00128.000000
+             Vertex   -00128.000000,+00128.000000,+00128.000000
+             Vertex   +00128.000000,+00128.000000,+00128.000000
+             Vertex   +00128.000000,+00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   +00128.000000,+00128.000000,-00128.000000
+             Normal   +00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,-00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00128.000000,+00128.000000,-00128.000000
+             Vertex   +00128.000000,+00128.000000,+00128.000000
+             Vertex   +00128.000000,-00128.000000,+00128.000000
+             Vertex   +00128.000000,-00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   +00128.000000,-00128.000000,-00128.000000
+             Normal   +00000.000000,-00001.000000,+00000.000000
+             TextureU -00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00128.000000,-00128.000000,-00128.000000
+             Vertex   +00128.000000,-00128.000000,+00128.000000
+             Vertex   -00128.000000,-00128.000000,+00128.000000
+             Vertex   -00128.000000,-00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00128.000000,+00128.000000,+00128.000000
+             Normal   +00000.000000,+00000.000000,+00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00001.000000,+00000.000000
+             Vertex   -00128.000000,+00128.000000,+00128.000000
+             Vertex   -00128.000000,-00128.000000,+00128.000000
+             Vertex   +00128.000000,-00128.000000,+00128.000000
+             Vertex   +00128.000000,+00128.000000,+00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00128.000000,-00128.000000,-00128.000000
+             Normal   +00000.000000,+00000.000000,-00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,-00001.000000,+00000.000000
+             Vertex   -00128.000000,-00128.000000,-00128.000000
+             Vertex   -00128.000000,+00128.000000,-00128.000000
+             Vertex   +00128.000000,+00128.000000,-00128.000000
+             Vertex   +00128.000000,-00128.000000,-00128.000000
+          End Polygon
+       End PolyList
+    End Brush
+    Brush=Model'myLevel.Brush'
+    Name="Brush0"
+End Actor
+Begin Actor Class=Brush Name=Brush2
+    CsgOper=CSG_Subtract
+    MainScale=(SheerAxis=SHEER_ZX)
+    PostScale=(SheerAxis=SHEER_ZX)
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="Brush"
+    Begin Brush Name=Model3
+       Begin PolyList
+          Begin Polygon
+             Origin   -00128.000000,-00128.000000,-00128.000000
+             Normal   -00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,+00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00128.000000,-00128.000000,-00128.000000
+             Vertex   -00128.000000,-00128.000000,+00128.000000
+             Vertex   -00128.000000,+00128.000000,+00128.000000
+             Vertex   -00128.000000,+00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00128.000000,+00128.000000,-00128.000000
+             Normal   +00000.000000,+00001.000000,+00000.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00128.000000,+00128.000000,-00128.000000
+             Vertex   -00128.000000,+00128.000000,+00128.000000
+             Vertex   +00128.000000,+00128.000000,+00128.000000
+             Vertex   +00128.000000,+00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon Texture=UDN-LevelLoadingTex.LoadingBar
+             Origin   +00128.000000,+00128.000000,-00128.000000
+             Normal   +00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,-00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00128.000000,+00128.000000,-00128.000000
+             Vertex   +00128.000000,+00128.000000,+00128.000000
+             Vertex   +00128.000000,-00128.000000,+00128.000000
+             Vertex   +00128.000000,-00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   +00128.000000,-00128.000000,-00128.000000
+             Normal   +00000.000000,-00001.000000,+00000.000000
+             TextureU -00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00128.000000,-00128.000000,-00128.000000
+             Vertex   +00128.000000,-00128.000000,+00128.000000
+             Vertex   -00128.000000,-00128.000000,+00128.000000
+             Vertex   -00128.000000,-00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00128.000000,+00128.000000,+00128.000000
+             Normal   +00000.000000,+00000.000000,+00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00001.000000,+00000.000000
+             Vertex   -00128.000000,+00128.000000,+00128.000000
+             Vertex   -00128.000000,-00128.000000,+00128.000000
+             Vertex   +00128.000000,-00128.000000,+00128.000000
+             Vertex   +00128.000000,+00128.000000,+00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00128.000000,-00128.000000,-00128.000000
+             Normal   +00000.000000,+00000.000000,-00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,-00001.000000,+00000.000000
+             Vertex   -00128.000000,-00128.000000,-00128.000000
+             Vertex   -00128.000000,+00128.000000,-00128.000000
+             Vertex   +00128.000000,+00128.000000,-00128.000000
+             Vertex   +00128.000000,-00128.000000,-00128.000000
+          End Polygon
+       End PolyList
+    End Brush
+    Brush=Model'myLevel.Model3'
+    Name="Brush2"
+End Actor
+Begin Actor Class=PlayerStart Name=PlayerStart0
+    Base=LevelInfo'myLevel.LevelInfo0'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="PlayerStart"
+    Location=(X=-64,Z=-44)
+    RelativeLocation=(X=-64,Z=-44)
+    Name="PlayerStart0"
+End Actor
+Begin Actor Class=Light Name=Light0
+    LightBrightness=128
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="Light"
+    Location=(X=-16,Y=-14,Z=-22)
+    Name="Light0"
+End Actor
+Begin Actor Class=LevelLoadingView Name=LevelLoadingView0
+    bPathsChanged=True
+    bLightChanged=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="LevelLoadingView"
+    Name="LevelLoadingView0"
+End Actor
+Begin Actor Class=DefaultPhysicsVolume Name=DefaultPhysicsVolume77
+    Priority=-1000000
+    bNoDelete=True
+    bWasSNFiltered=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="DefaultPhysicsVolume"
+    Touching(0)=Scout'myLevel.Scout22'
+    Name="DefaultPhysicsVolume77"
+End Actor
+Begin Actor Class=Scout Name=Scout22
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    Controller=AIController'myLevel.AIController22'
+    HeadVolume=DefaultPhysicsVolume'myLevel.DefaultPhysicsVolume77'
+    bWasSNFiltered=True
+    bCollideActors=True
+    bCollideWorld=True
+    bBlockActors=True
+    bBlockPlayers=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="Scout"
+    Touching(0)=DefaultPhysicsVolume'myLevel.DefaultPhysicsVolume77'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel117
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=0.9
+        KRestitution=0.1
+        KImpactThreshold=500
+        Name="KarmaParamsSkel117"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel117'
+    Name="Scout22"
+End Actor
+Begin Actor Class=AIController Name=AIController22
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="AIController"
+    Name="AIController22"
+End Actor
+Begin Surface
+End Surface
+End Map

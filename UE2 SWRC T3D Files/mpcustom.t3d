@@ -1,0 +1,796 @@
+Begin Map
+Begin Actor Class=LevelInfo Name=LevelInfo0
+    TimeSeconds=784.482
+    Summary=LevelSummary'myLevel.LevelSummary'
+    bUseBottleneckRegions=True
+    CameraLocationDynamic=(X=-217.434,Y=202.349,Z=-32.3999)
+    CameraLocationTop=(X=-152.027,Y=-18.2396,Z=26359.2)
+    CameraLocationFront=(X=-500,Y=300,Z=40000)
+    CameraLocationSide=(X=-300,Y=300,Z=40000)
+    CameraRotationDynamic=(Pitch=63288,Yaw=-6800)
+    ShadowsEnabled=True
+    PreCacheGame="MPGame.ASGame"
+    NavigationPointList=PlayerStart'myLevel.PlayerStart0'
+    RegionConnection(0)=BitArray2D'myLevel.BitArray2D0'
+    RegionConnection(1)=BitArray2D'myLevel.BitArray2D1'
+    RegionConnection(2)=BitArray2D'myLevel.BitArray2D2'
+    RegionConnection(3)=BitArray2D'myLevel.BitArray2D3'
+    RegionConnection(4)=BitArray2D'myLevel.BitArray2D4'
+    RegionConnection(5)=BitArray2D'myLevel.BitArray2D5'
+    RegionConnection(6)=BitArray2D'myLevel.BitArray2D6'
+    bLightChanged=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',iLeaf=-1)
+    Tag="LevelInfo"
+    Name="LevelInfo0"
+End Actor
+Begin Actor Class=Brush Name=Brush0
+    MainScale=(SheerAxis=SHEER_ZX)
+    PostScale=(SheerAxis=SHEER_ZX)
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="Brush"
+    Group="Cube"
+    Begin Brush Name=Brush
+       Begin PolyList
+          Begin Polygon
+             Origin   -00512.000000,-00512.000000,-00256.000000
+             Normal   -00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,+00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00512.000000,-00512.000000,-00256.000000
+             Vertex   -00512.000000,-00512.000000,+00256.000000
+             Vertex   -00512.000000,+00512.000000,+00256.000000
+             Vertex   -00512.000000,+00512.000000,-00256.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00512.000000,+00512.000000,-00256.000000
+             Normal   +00000.000000,+00001.000000,+00000.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00512.000000,+00512.000000,-00256.000000
+             Vertex   -00512.000000,+00512.000000,+00256.000000
+             Vertex   +00512.000000,+00512.000000,+00256.000000
+             Vertex   +00512.000000,+00512.000000,-00256.000000
+          End Polygon
+          Begin Polygon
+             Origin   +00512.000000,+00512.000000,-00256.000000
+             Normal   +00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,-00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00512.000000,+00512.000000,-00256.000000
+             Vertex   +00512.000000,+00512.000000,+00256.000000
+             Vertex   +00512.000000,-00512.000000,+00256.000000
+             Vertex   +00512.000000,-00512.000000,-00256.000000
+          End Polygon
+          Begin Polygon
+             Origin   +00512.000000,-00512.000000,-00256.000000
+             Normal   +00000.000000,-00001.000000,+00000.000000
+             TextureU -00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00512.000000,-00512.000000,-00256.000000
+             Vertex   +00512.000000,-00512.000000,+00256.000000
+             Vertex   -00512.000000,-00512.000000,+00256.000000
+             Vertex   -00512.000000,-00512.000000,-00256.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00512.000000,+00512.000000,+00256.000000
+             Normal   +00000.000000,+00000.000000,+00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00001.000000,+00000.000000
+             Vertex   -00512.000000,+00512.000000,+00256.000000
+             Vertex   -00512.000000,-00512.000000,+00256.000000
+             Vertex   +00512.000000,-00512.000000,+00256.000000
+             Vertex   +00512.000000,+00512.000000,+00256.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00512.000000,-00512.000000,-00256.000000
+             Normal   +00000.000000,+00000.000000,-00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,-00001.000000,+00000.000000
+             Vertex   -00512.000000,-00512.000000,-00256.000000
+             Vertex   -00512.000000,+00512.000000,-00256.000000
+             Vertex   +00512.000000,+00512.000000,-00256.000000
+             Vertex   +00512.000000,-00512.000000,-00256.000000
+          End Polygon
+       End PolyList
+    End Brush
+    Brush=Model'myLevel.Brush'
+    Name="Brush0"
+End Actor
+Begin Actor Class=Brush Name=Brush4
+    CsgOper=CSG_Subtract
+    MainScale=(SheerAxis=SHEER_ZX)
+    PostScale=(SheerAxis=SHEER_ZX)
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="Brush"
+    Begin Brush Name=Model1132
+       Begin PolyList
+          Begin Polygon Texture=CloneTextures.CloneTextures.CloneCommando07_Shader
+             Origin   -00512.000000,-00512.000000,-00256.000000
+             Normal   -00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,+00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00512.000000,-00512.000000,-00256.000000
+             Vertex   -00512.000000,-00512.000000,+00256.000000
+             Vertex   -00512.000000,+00512.000000,+00256.000000
+             Vertex   -00512.000000,+00512.000000,-00256.000000
+          End Polygon
+          Begin Polygon Texture=CloneTextures.CloneTextures.MP_CloneCommandoA_Shader
+             Origin   -00512.000000,+00512.000000,-00256.000000
+             Normal   +00000.000000,+00001.000000,+00000.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00512.000000,+00512.000000,-00256.000000
+             Vertex   -00512.000000,+00512.000000,+00256.000000
+             Vertex   +00512.000000,+00512.000000,+00256.000000
+             Vertex   +00512.000000,+00512.000000,-00256.000000
+          End Polygon
+          Begin Polygon Texture=CloneTextures.CloneTextures.MP_CloneCommandoC_Shader
+             Origin   +00512.000000,+00512.000000,-00256.000000
+             Normal   +00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,-00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00512.000000,+00512.000000,-00256.000000
+             Vertex   +00512.000000,+00512.000000,+00256.000000
+             Vertex   +00512.000000,-00512.000000,+00256.000000
+             Vertex   +00512.000000,-00512.000000,-00256.000000
+          End Polygon
+          Begin Polygon Texture=CloneTextures.TrandoshanMercTextures.MP_TrandoshanMercA_Shader
+             Origin   +00512.000000,-00512.000000,-00256.000000
+             Normal   +00000.000000,-00001.000000,+00000.000000
+             TextureU -00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00512.000000,-00512.000000,-00256.000000
+             Vertex   +00512.000000,-00512.000000,+00256.000000
+             Vertex   -00512.000000,-00512.000000,+00256.000000
+             Vertex   -00512.000000,-00512.000000,-00256.000000
+          End Polygon
+          Begin Polygon Texture=CloneTextures.TrandoshanMercTextures.MP_TrandoshanMercC_Shader
+             Origin   -00512.000000,+00512.000000,+00256.000000
+             Normal   +00000.000000,+00000.000000,+00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00001.000000,+00000.000000
+             Vertex   -00512.000000,+00512.000000,+00256.000000
+             Vertex   -00512.000000,-00512.000000,+00256.000000
+             Vertex   +00512.000000,-00512.000000,+00256.000000
+             Vertex   +00512.000000,+00512.000000,+00256.000000
+          End Polygon
+          Begin Polygon Texture=CloneTextures.CloneTextures.CloneCommando62_Shader
+             Origin   -00512.000000,-00512.000000,-00256.000000
+             Normal   +00000.000000,+00000.000000,-00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,-00001.000000,+00000.000000
+             Vertex   -00512.000000,-00512.000000,-00256.000000
+             Vertex   -00512.000000,+00512.000000,-00256.000000
+             Vertex   +00512.000000,+00512.000000,-00256.000000
+             Vertex   +00512.000000,-00512.000000,-00256.000000
+          End Polygon
+       End PolyList
+    End Brush
+    Brush=Model'myLevel.Model1132'
+    Name="Brush4"
+End Actor
+Begin Actor Class=MenuMPClone Name=MenuMPClone2
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.CloneCommando',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPClone"
+    Location=(X=-383.162,Y=-391.47,Z=-171.9)
+    Skins(0)=Shader'CloneTextures.CloneTextures.MP_CloneCommandoA_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel95
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel95"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel95'
+    Name="MenuMPClone2"
+End Actor
+Begin Actor Class=MenuMPTrando Name=MenuMPTrando4
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.TrandoshanMerc',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPTrando"
+    Location=(X=393.944,Y=-252.495,Z=-171.9)
+    Rotation=(Yaw=-32419)
+    Skins(0)=Shader'CloneTextures.TrandoshanMercTextures.MP_TrandoshanMercB_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel111
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel111"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel111'
+    Name="MenuMPTrando4"
+End Actor
+Begin Actor Class=MenuMPClone Name=MenuMPClone3
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.CloneCommando',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPClone"
+    Location=(X=-381.087,Y=-176.608,Z=-171.9)
+    Skins(0)=Shader'CloneTextures.CloneTextures.MP_CloneCommandoB_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel98
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel98"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel98'
+    Name="MenuMPClone3"
+End Actor
+Begin Actor Class=MenuMPClone Name=MenuMPClone4
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.CloneCommando',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPClone"
+    Location=(X=-380.281,Y=26.4847,Z=-171.9)
+    Skins(0)=Shader'CloneTextures.CloneTextures.MP_CloneCommandoC_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel100
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel100"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel100'
+    Name="MenuMPClone4"
+End Actor
+Begin Actor Class=MenuMPClone Name=MenuMPClone5
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.CloneCommando',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPClone"
+    Location=(X=-381.454,Y=231.835,Z=-171.9)
+    Skins(0)=Shader'CloneTextures.CloneTextures.CloneCommando07_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel115
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel115"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel115'
+    Name="MenuMPClone5"
+End Actor
+Begin Actor Class=MenuMPTrando Name=MenuMPTrando2
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.TrandoshanMerc',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPTrando"
+    Location=(X=391.421,Y=-44.1445,Z=-171.9)
+    Rotation=(Yaw=-32419)
+    Skins(0)=Shader'CloneTextures.TrandoshanMercTextures.MP_TrandoshanMercC_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel106
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel106"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel106'
+    Name="MenuMPTrando2"
+End Actor
+Begin Actor Class=MenuMPTrando Name=MenuMPTrando3
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.TrandoshanMerc',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPTrando"
+    Location=(X=384.624,Y=389.327,Z=-171.9)
+    Rotation=(Yaw=-32419)
+    Skins(0)=Shader'CloneTextures.TrandoshanMercTextures.TrandoshanMerc_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel108
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel108"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel108'
+    Name="MenuMPTrando3"
+End Actor
+Begin Actor Class=MenuMPTrando Name=MenuMPTrando0
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.TrandoshanMerc',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPTrando"
+    Location=(X=384.951,Y=168.807,Z=-171.9)
+    Rotation=(Yaw=-32419)
+    Skins(0)=Shader'CloneTextures.TrandoshanMercTextures.MP_TrandoshanMercD_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel93
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel93"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel93'
+    Name="MenuMPTrando0"
+End Actor
+Begin Actor Class=MenuMPTrando Name=MenuMPTrando5
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.TrandoshanMerc',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPTrando"
+    Location=(X=310.207,Y=-431.696,Z=-171.9)
+    Rotation=(Yaw=23116)
+    Skins(0)=Shader'CloneTextures.TrandoshanMercTextures.MP_TrandoshanMercA_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel113
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel113"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel113'
+    Name="MenuMPTrando5"
+End Actor
+Begin Actor Class=MenuMPClone Name=MenuMPClone1
+    MPMeshSets(0)=(Mesh=SkeletalMesh'Clone.CloneCommando',Set=MeshAnimation'Clone.MPSet')
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    bMovedInEditor=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="MenuMPClone"
+    Location=(X=-312.19,Y=421.583,Z=-171.9)
+    Rotation=(Yaw=-6815)
+    Skins(0)=Shader'CloneTextures.CloneTextures.CloneCommando62_Shader'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel92
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=1.5
+        KRestitution=0.1
+        KImpactThreshold=400
+        Name="KarmaParamsSkel92"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel92'
+    Name="MenuMPClone1"
+End Actor
+Begin Actor Class=PlayerStart Name=PlayerStart0
+    CeilingHeight=411.4
+    CCRegions(0)=1
+    CCRegions(1)=1
+    CCRegions(2)=1
+    CCRegions(3)=1
+    CCRegions(4)=1
+    CCRegions(5)=1
+    CCRegions(6)=1
+    Base=LevelInfo'myLevel.LevelInfo0'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="PlayerStart"
+    Location=(X=62.4727,Y=12.5392,Z=-152)
+    CollisionRadius=400
+    Name="PlayerStart0"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor0
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneArmBacta_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-160,Y=160,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance0'
+    ColLocation=(X=-160,Y=160,Z=-256)
+    Name="StaticMeshActor0"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor1
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneArmHologram_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-304,Y=192,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance1'
+    ColLocation=(X=-304,Y=192,Z=-256)
+    Name="StaticMeshActor1"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor2
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneBackComm'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-128,Y=320,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance2'
+    ColLocation=(X=-128,Y=320,Z=-256)
+    Name="StaticMeshActor2"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor3
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneHeadBreather'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-224,Y=64,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance3'
+    ColLocation=(X=-224,Y=64,Z=-256)
+    Name="StaticMeshActor3"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor4
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneHeadGunner'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-256,Y=368,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance4'
+    ColLocation=(X=-256,Y=368,Z=-256)
+    Name="StaticMeshActor4"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor5
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneHeadPad'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-304,Y=-16,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance5'
+    ColLocation=(X=-304,Y=-16,Z=-256)
+    Name="StaticMeshActor5"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor6
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneHeadSamurai'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-160,Y=-32,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance6'
+    ColLocation=(X=-160,Y=-32,Z=-256)
+    Name="StaticMeshActor6"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor7
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneHeadVisor'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-336,Y=112,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance7'
+    ColLocation=(X=-336,Y=112,Z=-256)
+    Name="StaticMeshActor7"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor8
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneLegAntiA_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-336,Y=-128,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance8'
+    ColLocation=(X=-336,Y=-128,Z=-256)
+    Name="StaticMeshActor8"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor9
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneLegBlaster_R'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-288,Y=16,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance9'
+    ColLocation=(X=-288,Y=16,Z=-256)
+    Name="StaticMeshActor9"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor10
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneShoulderClip_R'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-208,Y=80,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance10'
+    ColLocation=(X=-208,Y=80,Z=-256)
+    Name="StaticMeshActor10"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor11
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneShoulderLight_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-400,Y=176,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance11'
+    ColLocation=(X=-400,Y=176,Z=-256)
+    Name="StaticMeshActor11"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor12
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneShoulderPad_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-320,Y=-48,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance12'
+    ColLocation=(X=-320,Y=-48,Z=-256)
+    Name="StaticMeshActor12"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor13
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneShoulderShield_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-352,Y=112,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance13'
+    ColLocation=(X=-352,Y=112,Z=-256)
+    Name="StaticMeshActor13"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor14
+    StaticMesh=StaticMesh'Weapons.Accessories.CloneShoulderSniper_R'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=-208,Y=160,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance14'
+    ColLocation=(X=-208,Y=160,Z=-256)
+    Name="StaticMeshActor14"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor15
+    StaticMesh=StaticMesh'Weapons.Accessories.MercArmBatman_R'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=336,Y=48,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance15'
+    ColLocation=(X=336,Y=48,Z=-256)
+    Name="StaticMeshActor15"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor16
+    StaticMesh=StaticMesh'Weapons.Accessories.MercArmHose_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=272,Y=256,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance16'
+    ColLocation=(X=272,Y=256,Z=-256)
+    Name="StaticMeshActor16"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor17
+    StaticMesh=StaticMesh'Weapons.Accessories.MercBackTubes'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=336,Y=-160,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance17'
+    ColLocation=(X=336,Y=-160,Z=-256)
+    Name="StaticMeshActor17"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor18
+    StaticMesh=StaticMesh'Weapons.Accessories.MercHeadBreather'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=256,Y=64,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance18'
+    ColLocation=(X=256,Y=64,Z=-256)
+    Name="StaticMeshActor18"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor19
+    StaticMesh=StaticMesh'Weapons.Accessories.MercHeadFacePlate'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=240,Y=256,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance19'
+    ColLocation=(X=240,Y=256,Z=-256)
+    Name="StaticMeshActor19"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor20
+    StaticMesh=StaticMesh'Weapons.Accessories.MercHeadGasMask'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=304,Y=96,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance20'
+    ColLocation=(X=304,Y=96,Z=-256)
+    Name="StaticMeshActor20"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor21
+    StaticMesh=StaticMesh'Weapons.Accessories.MercHeadMask'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=336,Y=304,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance21'
+    ColLocation=(X=336,Y=304,Z=-256)
+    Name="StaticMeshActor21"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor22
+    StaticMesh=StaticMesh'Weapons.Accessories.MercHeadVisor'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=368,Y=96,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance22'
+    ColLocation=(X=368,Y=96,Z=-256)
+    Name="StaticMeshActor22"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor23
+    StaticMesh=StaticMesh'Weapons.Accessories.MercLegConcClip_R'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=272,Y=-32,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance23'
+    ColLocation=(X=272,Y=-32,Z=-256)
+    Name="StaticMeshActor23"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor24
+    StaticMesh=StaticMesh'Weapons.Accessories.MercLegPouch_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=272,Y=160,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance24'
+    ColLocation=(X=272,Y=160,Z=-256)
+    Name="StaticMeshActor24"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor25
+    StaticMesh=StaticMesh'Weapons.Accessories.MercShoulderBlade_R'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=256,Y=304,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance25'
+    ColLocation=(X=256,Y=304,Z=-256)
+    Name="StaticMeshActor25"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor26
+    StaticMesh=StaticMesh'Weapons.Accessories.MercShoulderClip_R'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=240,Y=176,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance26'
+    ColLocation=(X=240,Y=176,Z=-256)
+    Name="StaticMeshActor26"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor27
+    StaticMesh=StaticMesh'Weapons.Accessories.MercShoulderKnife_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=384,Y=-144,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance27'
+    ColLocation=(X=384,Y=-144,Z=-256)
+    Name="StaticMeshActor27"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor28
+    StaticMesh=StaticMesh'Weapons.Accessories.MercShoulderLight_R'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=240,Y=192,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance28'
+    ColLocation=(X=240,Y=192,Z=-256)
+    Name="StaticMeshActor28"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor29
+    StaticMesh=StaticMesh'Weapons.Accessories.MercShoulderSpike_L'
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    Location=(X=240,Y=336,Z=-256)
+    StaticMeshInstance=StaticMeshInstance'myLevel.StaticMeshInstance29'
+    ColLocation=(X=240,Y=336,Z=-256)
+    bSelected=True
+    Name="StaticMeshActor29"
+End Actor
+Begin Actor Class=DefaultPhysicsVolume Name=DefaultPhysicsVolume83
+    Priority=-1000000
+    bNoDelete=True
+    bWasSNFiltered=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="DefaultPhysicsVolume"
+    Touching(0)=Scout'myLevel.Scout24'
+    Name="DefaultPhysicsVolume83"
+End Actor
+Begin Actor Class=Scout Name=Scout24
+    DamageMultipliers(0)=(BoneName="Head",Multiplier=2)
+    Controller=AIController'myLevel.AIController24'
+    HeadVolume=DefaultPhysicsVolume'myLevel.DefaultPhysicsVolume83'
+    bWasSNFiltered=True
+    bCollideActors=True
+    bCollideWorld=True
+    bBlockActors=True
+    bBlockPlayers=True
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="Scout"
+    Touching(0)=DefaultPhysicsVolume'myLevel.DefaultPhysicsVolume83'
+    Begin Object Class=KarmaParamsSkel Name=KarmaParamsSkel119
+        KConvulseSpacing=(Max=2.2)
+        KLinearDamping=0.15
+        KAngularDamping=0.05
+        KBuoyancy=1
+        KStartEnabled=True
+        KVelDropBelowThreshold=50
+        bHighDetailOnly=False
+        KFriction=0.9
+        KRestitution=0.1
+        KImpactThreshold=500
+        Name="KarmaParamsSkel119"
+    End Object
+    KParams=KarmaParamsSkel'myLevel.KarmaParamsSkel119'
+    Name="Scout24"
+End Actor
+Begin Actor Class=AIController Name=AIController24
+    Level=LevelInfo'myLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'myLevel.LevelInfo0',ZoneNumber=1)
+    Tag="AIController"
+    Name="AIController24"
+End Actor
+Begin Surface
+End Surface
+End Map

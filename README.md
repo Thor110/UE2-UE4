@@ -39,6 +39,10 @@ UT2004 ( required to export the sound packages for SGA and the UE2 version of th
 
 UModel from https://www.gildor.org/en/projects/umodel
 
+Make sure nothing exists inside the "UmodelExport" folder.
+
+Select "Use object groups instead of types" in the Umodel options, or use the .cfg file included.
+
 A copy of "Stargate_SG-1_-_The_Alliance-2005-12-15" which can be obtained from https://archive.org/details/StargateSG1TheAlliance20051215
 
 FFMPEG from https://ffmpeg.org/

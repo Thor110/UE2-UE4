@@ -1,0 +1,419 @@
+Begin Map
+Begin Actor Class=LevelInfo Name=LevelInfo0
+    TimeSeconds=248.648800
+    Summary=LevelSummary'LevelSummary'
+    bPathsRebuilt=True
+    CameraLocationDynamic=(X=-44.461110,Y=-4.735231,Z=7.200000)
+    CameraLocationTop=(X=-48.000000,Y=0.000000,Z=104864.000000)
+    CameraLocationFront=(X=-48.000000,Y=0.000000,Z=1020553.000000)
+    CameraLocationSide=(X=0.000000,Y=0.000000,Z=172237.700000)
+    CameraRotationDynamic=(Pitch=0,Yaw=72,Roll=0)
+    NavigationPointList=PlayerStart'PlayerStart0'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=LevelInfo
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+End Actor
+Begin Actor Class=Brush Name=Brush12
+    Begin Brush Name=Brush
+        Begin PolyList Name=Polys26
+            Begin Polygon Link=-1
+                Origin   -128.000000,-128.000000,-128.000000
+                Normal   -1.000000,0.000000,0.000000
+                TextureU 0.000000,1.000000,0.000000
+                TextureV 0.000000,0.000000,-1.000000
+                Pan U=0 V=16896
+                Vertex   -128.000000,-128.000000,-128.000000
+                Vertex   -128.000000,-128.000000,128.000000
+                Vertex   -128.000000,128.000000,128.000000
+                Vertex   -128.000000,128.000000,-128.000000
+            End Polygon
+            Begin Polygon Link=-1
+                Origin   -128.000000,128.000000,-128.000000
+                Normal   0.000000,1.000000,0.000000
+                TextureU 1.000000,0.000000,0.000000
+                TextureV 0.000000,0.000000,-1.000000
+                Pan U=0 V=16896
+                Vertex   -128.000000,128.000000,-128.000000
+                Vertex   -128.000000,128.000000,128.000000
+                Vertex   128.000000,128.000000,128.000000
+                Vertex   128.000000,128.000000,-128.000000
+            End Polygon
+            Begin Polygon Link=-1
+                Origin   128.000000,128.000000,-128.000000
+                Normal   1.000000,0.000000,0.000000
+                TextureU 0.000000,-1.000000,0.000000
+                TextureV 0.000000,0.000000,-1.000000
+                Pan U=0 V=16896
+                Vertex   128.000000,128.000000,-128.000000
+                Vertex   128.000000,128.000000,128.000000
+                Vertex   128.000000,-128.000000,128.000000
+                Vertex   128.000000,-128.000000,-128.000000
+            End Polygon
+            Begin Polygon Link=-1
+                Origin   128.000000,-128.000000,-128.000000
+                Normal   0.000000,-1.000000,0.000000
+                TextureU -1.000000,0.000000,0.000000
+                TextureV 0.000000,0.000000,-1.000000
+                Pan U=0 V=16896
+                Vertex   128.000000,-128.000000,-128.000000
+                Vertex   128.000000,-128.000000,128.000000
+                Vertex   -128.000000,-128.000000,128.000000
+                Vertex   -128.000000,-128.000000,-128.000000
+            End Polygon
+            Begin Polygon Link=-1
+                Origin   -128.000000,128.000000,128.000000
+                Normal   0.000000,0.000000,1.000000
+                TextureU 1.000000,0.000000,0.000000
+                TextureV 0.000000,1.000000,0.000000
+                Pan U=0 V=16896
+                Vertex   -128.000000,128.000000,128.000000
+                Vertex   -128.000000,-128.000000,128.000000
+                Vertex   128.000000,-128.000000,128.000000
+                Vertex   128.000000,128.000000,128.000000
+            End Polygon
+            Begin Polygon Link=-1
+                Origin   -128.000000,-128.000000,-128.000000
+                Normal   0.000000,0.000000,-1.000000
+                TextureU 1.000000,0.000000,0.000000
+                TextureV 0.000000,-1.000000,0.000000
+                Pan U=0 V=16896
+                Vertex   -128.000000,-128.000000,-128.000000
+                Vertex   -128.000000,128.000000,-128.000000
+                Vertex   128.000000,128.000000,-128.000000
+                Vertex   128.000000,-128.000000,-128.000000
+            End Polygon
+        End PolyList
+    End Brush
+    MainScale=(Scale=(X=1.000000,Y=1.000000,Z=1.000000),SheerRate=0.000000,SheerAxis=SHEER_ZX)
+    PostScale=(Scale=(X=1.000000,Y=1.000000,Z=1.000000),SheerRate=0.000000,SheerAxis=SHEER_ZX)
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=Brush
+    Group=Cube
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    Location=(X=-144.000000,Y=-96.000000,Z=224.000000)
+    Brush=Model'Brush'
+End Actor
+Begin Actor Class=DefaultPhysicsVolume Name=DefaultPhysicsVolume12
+    Priority=-1000000
+    bNoDelete=True
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=0,ZoneNumber=1)
+    Tag=DefaultPhysicsVolume
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+End Actor
+Begin Actor Class=PlayerStart Name=PlayerStart0
+    visitedWeight=1
+    Base=LevelInfo'LevelInfo0'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=0,ZoneNumber=1)
+    Tag=PlayerStart
+    Event=ScriptedTrigger
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    Location=(X=0.000000,Y=0.000000,Z=-44.000000)
+    Rotation=(Pitch=0,Yaw=-16391,Roll=0)
+End Actor
+Begin Actor Class=ScriptedTrigger Name=ScriptedTrigger0
+    Actions=(ACTION_ChangeLevel'ACTION_ChangeLevel1')
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=0,ZoneNumber=1)
+    Tag=ScriptedTrigger
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    Location=(X=11.361430,Y=-42.261640,Z=-27.900000)
+    Rotation=(Pitch=0,Yaw=-32768,Roll=0)
+End Actor
+Begin Actor Class=Brush Name=Brush8
+    Begin Brush Name=Model9
+        Begin PolyList Name=Polys21
+            Begin Polygon Texture=Gen_fx_Tex.crystals Link=-1
+                Origin   -128.000000,-128.000000,-128.000000
+                Normal   -1.000000,0.000000,0.000000
+                TextureU 0.000000,1.000000,0.000000
+                TextureV 0.000000,0.000000,-1.000000
+                Pan U=0 V=16896
+                Vertex   -128.000000,-128.000000,-128.000000
+                Vertex   -128.000000,-128.000000,128.000000
+                Vertex   -128.000000,128.000000,128.000000
+                Vertex   -128.000000,128.000000,-128.000000
+            End Polygon
+            Begin Polygon Texture=Gen_fx_Tex.crystals Link=-1
+                Origin   -128.000000,128.000000,-128.000000
+                Normal   0.000000,1.000000,0.000000
+                TextureU 1.000000,0.000000,0.000000
+                TextureV 0.000000,0.000000,-1.000000
+                Pan U=0 V=16896
+                Vertex   -128.000000,128.000000,-128.000000
+                Vertex   -128.000000,128.000000,128.000000
+                Vertex   128.000000,128.000000,128.000000
+                Vertex   128.000000,128.000000,-128.000000
+            End Polygon
+            Begin Polygon Texture=GUIContent.HUD_loading_main_S Link=-1
+                Origin   128.000000,128.000000,-160.000000
+                Normal   1.000000,0.000000,0.000000
+                TextureU 0.000000,2.000000,0.000000
+                TextureV 0.000000,0.000000,-2.000000
+                Pan U=0 V=16896
+                Vertex   128.000000,128.000000,-128.000000
+                Vertex   128.000000,128.000000,128.000000
+                Vertex   128.000000,-128.000000,128.000000
+                Vertex   128.000000,-128.000000,-128.000000
+            End Polygon
+            Begin Polygon Texture=Gen_fx_Tex.crystals Link=-1
+                Origin   128.000000,-128.000000,-128.000000
+                Normal   0.000000,-1.000000,0.000000
+                TextureU -1.000000,0.000000,0.000000
+                TextureV 0.000000,0.000000,-1.000000
+                Pan U=0 V=16896
+                Vertex   128.000000,-128.000000,-128.000000
+                Vertex   128.000000,-128.000000,128.000000
+                Vertex   -128.000000,-128.000000,128.000000
+                Vertex   -128.000000,-128.000000,-128.000000
+            End Polygon
+            Begin Polygon Texture=Gen_fx_Tex.crystals Link=-1
+                Origin   -128.000000,128.000000,128.000000
+                Normal   0.000000,0.000000,1.000000
+                TextureU 1.000000,0.000000,0.000000
+                TextureV 0.000000,1.000000,0.000000
+                Pan U=0 V=16896
+                Vertex   -128.000000,128.000000,128.000000
+                Vertex   -128.000000,-128.000000,128.000000
+                Vertex   128.000000,-128.000000,128.000000
+                Vertex   128.000000,128.000000,128.000000
+            End Polygon
+            Begin Polygon Texture=Gen_fx_Tex.crystals Link=-1
+                Origin   -128.000000,-128.000000,-128.000000
+                Normal   0.000000,0.000000,-1.000000
+                TextureU 1.000000,0.000000,0.000000
+                TextureV 0.000000,-1.000000,0.000000
+                Pan U=0 V=16896
+                Vertex   -128.000000,-128.000000,-128.000000
+                Vertex   -128.000000,128.000000,-128.000000
+                Vertex   128.000000,128.000000,-128.000000
+                Vertex   128.000000,-128.000000,-128.000000
+            End Polygon
+        End PolyList
+    End Brush
+    CsgOper=CSG_Subtract
+    MainScale=(Scale=(X=1.000000,Y=1.000000,Z=1.000000),SheerRate=0.000000,SheerAxis=SHEER_ZX)
+    PostScale=(Scale=(X=1.000000,Y=1.000000,Z=1.000000),SheerRate=0.000000,SheerAxis=SHEER_ZX)
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=0,ZoneNumber=1)
+    Tag=Brush
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    Brush=Model'Model9'
+End Actor
+Begin Actor Class=Camera Name=Camera18
+    Player=None
+    ShowFlags=640
+    RendMap=22
+    ViewTarget=Camera'Camera18'
+    TimeSinceLastFogChange=7.925504
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=TerrainHeightmap
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera19
+    Player=None
+    ShowFlags=640
+    RendMap=23
+    ViewTarget=Camera'Camera19'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=1
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=TerrainLayers
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera20
+    Player=None
+    ShowFlags=640
+    RendMap=24
+    ViewTarget=Camera'Camera20'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=2
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=TerrainDecoLayers
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera21
+    Player=None
+    ShowFlags=640
+    RendMap=27
+    ViewTarget=Camera'Camera21'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=3
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=MatineeScenes
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera22
+    Player=None
+    ShowFlags=640
+    RendMap=28
+    ViewTarget=Camera'Camera22'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=4
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=MatineeActions
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera23
+    Player=None
+    ShowFlags=640
+    RendMap=29
+    ViewTarget=Camera'Camera23'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=5
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=MatineeSubActions
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera24
+    Player=None
+    FOVBias=0.916331
+    bXAxis=3
+    bYAxis=9
+    aMouseX=-0.080000
+    aMouseY=-0.260000
+    ShowFlags=871139017
+    RendMap=5
+    ViewTarget=Camera'Camera24'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=6
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=U2Viewport0
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    Location=(X=-44.461110,Y=-4.735231,Z=7.200000)
+    Rotation=(Pitch=0,Yaw=72,Roll=0)
+    bHiddenEd=False
+End Actor
+Begin Actor Class=Camera Name=Camera25
+    Player=None
+    FOVBias=0.916331
+    ShowFlags=850036425
+    RendMap=13
+    OrthoZoom=104864.000000
+    ViewTarget=Camera'Camera25'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=7
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=U2Viewport1
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    Location=(X=-48.000000,Y=0.000000,Z=300.000000)
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera26
+    Player=None
+    FOVBias=0.916331
+    ShowFlags=850036425
+    RendMap=14
+    OrthoZoom=1020553.000000
+    ViewTarget=Camera'Camera26'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=8
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=U2Viewport2
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    Location=(X=-48.000000,Y=-300.000000,Z=0.000000)
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera27
+    Player=None
+    FOVBias=0.916331
+    ShowFlags=850036425
+    RendMap=15
+    OrthoZoom=172237.700000
+    ViewTarget=Camera'Camera27'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=9
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=U2Viewport3
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    Location=(X=-500.000000,Y=0.000000,Z=0.000000)
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera28
+    Player=None
+    ShowFlags=641
+    RendMap=19
+    ViewTarget=Camera'Camera28'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=10
+    FovAngle=75.000000
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=MeshViewer
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+End Actor
+Begin Actor Class=Camera Name=Camera29
+    Player=None
+    ShowFlags=164481
+    RendMap=18
+    ViewTarget=Camera'Camera29'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=11
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=StaticMeshBrowser
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+End Actor
+Begin Actor Class=Camera Name=Camera30
+    Player=None
+    ShowFlags=1073742464
+    Misc2=3684
+    RendMap=17
+    ViewTarget=Camera'Camera30'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=12
+    FovAngle=75.000000
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=TextureBrowser
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera31
+    Player=None
+    ShowFlags=1073742464
+    RendMap=32
+    ViewTarget=Camera'Camera31'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=13
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=TextureBrowserUsed
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    bHiddenEdGroup=True
+End Actor
+Begin Actor Class=Camera Name=Camera32
+    Player=None
+    ShowFlags=1073742464
+    RendMap=33
+    ViewTarget=Camera'Camera32'
+    TimeSinceLastFogChange=7.925504
+    PlayerNum=14
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1,ZoneNumber=0)
+    Tag=TextureBrowserMRU
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume12'
+    bHiddenEdGroup=True
+End Actor
+Begin Surface
+End Surface
+End Map
