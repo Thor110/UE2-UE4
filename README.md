@@ -5,6 +5,10 @@ The overall goal of this project is to create an automated method of converting 
 
 Tested with two games so far, though I hope to test it with more when I can find the time.
 
+# Read Only File Permissions Issue
+If the FBX Conversion fails it could be because the script has failed to edit the python script and place it in your Blender directory.
+A work around for this is to manually edit the script file "batch-fbx-convert.txt" to add your output directory and rename it to change the extensions to .py
+
 # Stargate SG-1 : The Alliance
 
 ## UE2			: Stargate SG-1 : The Alliance
@@ -17,7 +21,7 @@ REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG
 
 FILENAME	: sga-ue4-release.bat
 
-REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER(2.93)
+REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER(2.93 - 3.6)
 
 # Star Wars Republic Commando
 
@@ -31,11 +35,11 @@ REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004
 
 FILENAME	: swrc-ue4-release.bat
 
-REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER(2.93)
+REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER(2.93 - 3.6)
 
 ## Required Programs
 
-Blender from https://www.blender.org/ v2.93 to be specific.
+Blender from https://www.blender.org/ v2.93 to be specific. ( This has also been tested with 3.6 )
 
 Blender3D Import psk psa addon from the releases section at https://github.com/Befzz/blender3d_import_psk_psa
 
