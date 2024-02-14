@@ -1,7 +1,7 @@
 # UE2-UE4
 A batch script or set of batch scripts I am working on that prepares all of the files for a port I am working on.
 
-#Stargate SG-1 : The Alliance
+# Stargate SG-1 : The Alliance
 
 ## UE2			: Stargate SG-1 : The Alliance
 
