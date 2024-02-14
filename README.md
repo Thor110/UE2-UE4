@@ -7,6 +7,10 @@ Tested with two games so far, though I hope to test it with more when I can find
 
 Currently the importing of all the files needs to be done manually, but I am planning on writing an unreal plugin to speed up the process or utilise one that already exists.
 
+Plugin that already exists : https://github.com/RareKiwi/T3D_UE4Importer
+
+The above plugin uses a different version of the PSKX/PSA importer script for Blender and I haven't actually tested it out yet, it seems like a lot of manual work needs to be done for their process where as I am trying to automate everything from beginning to end.
+
 This project will also have a middle ground where an Unreal Engine template houses the necessary mechanics required to build any potential UE2 to UE4 conversions, more specifically I intend it to consist of a multiplayer and co-operative style gameplay for a game I wish to develop.
 
 UE4 : https://github.com/Thor110/ABC-UE4
