@@ -5,36 +5,29 @@ The overall goal of this project is to create an automated method of converting 
 
 Tested with two games so far, though I hope to test it with more when I can find the time.
 
+Currently the importing of all the files needs to be done manually, but I am planning on writing an unreal plugin to speed up the process or utilise one that already exists.
+
 # Read Only File Permissions Issue
 If the FBX Conversion fails it could be because the script has failed to edit the python script and place it in your Blender directory.
 A work around for this is to manually edit the script file "batch-fbx-convert.txt" to add your output directory and rename it to change the extensions to .py
 
 # Stargate SG-1 : The Alliance
-
 ## UE2			: Stargate SG-1 : The Alliance
-
 FILENAME	: sga-ue2-release.bat
 
 REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG
 
 ## UE4			: Stargate SG-1 : The Alliance
-
 FILENAME	: sga-ue4-release.bat
 
 REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER(2.93 - 3.6)
 
 # Star Wars Republic Commando
-
 ## UE2			: Star Wars Republic Commando
-
 FILENAME	: swrc-ue2-release.bat
-
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004
-
 ## UE4			: Star Wars Republic Commando
-
 FILENAME	: swrc-ue4-release.bat
-
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER(2.93 - 3.6)
 
 ## Required Programs
