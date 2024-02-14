@@ -1,35 +1,35 @@
 # UE2-UE4
 A batch script or set of batch scripts I am working on that prepares all of the files for a port I am working on.
 
-Stargate SG-1 : The Alliance
+#Stargate SG-1 : The Alliance
 
-UE2			: Stargate SG-1 : The Alliance
+## UE2			: Stargate SG-1 : The Alliance
 
 FILENAME	: sga-ue2-release.bat
 
 REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG
 
-UE4			: Stargate SG-1 : The Alliance
+## UE4			: Stargate SG-1 : The Alliance
 
 FILENAME	: sga-ue4-release.bat
 
 REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER(2.93)
 
-Star Wars Republic Commando
+# Star Wars Republic Commando
 
-UE2			: Star Wars Republic Commando
+## UE2			: Star Wars Republic Commando
 
 FILENAME	: swrc-ue2-release.bat
 
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004
 
-UE4			: Star Wars Republic Commando
+## UE4			: Star Wars Republic Commando
 
 FILENAME	: swrc-ue4-release.bat
 
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER(2.93)
 
-Required Programs
+## Required Programs
 
 Blender from https://www.blender.org/ v2.93 to be specific.
 
@@ -88,7 +88,7 @@ C:\ffmpeg
 
 C:\SGA
 
-Example directories you might enter when prompted by theSGA-UE4 script. - "sga-ue4-release.bat"
+Example directories you might enter when prompted by the SGA-UE4 script. - "sga-ue4-release.bat"
 
 C:\GOG Games\Unreal Tournament 2004
 
@@ -102,7 +102,7 @@ C:\Program Files\Blender Foundation\Blender 2.93
 
 C:\SGAUE4
 
-Example directories you might enter when prompted by theSWRC-UE2 script. - "swrc-ue2-release.bat"
+Example directories you might enter when prompted by the SWRC-UE2 script. - "swrc-ue2-release.bat"
 
 C:\SWRC
 
@@ -110,7 +110,7 @@ C:\GOG Games\Unreal Tournament 2004
 
 C:\umodel_win32
 
-Example directories you might enter when prompted by theSWRC-UE4 script. - "swrc-ue4-release.bat"
+Example directories you might enter when prompted by the SWRC-UE4 script. - "swrc-ue4-release.bat"
 
 C:\SWRC
 
