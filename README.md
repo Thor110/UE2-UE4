@@ -65,7 +65,7 @@ A copy of **"Stargate_SG-1_-_The_Alliance-2005-12-15"** which can be obtained fr
 ## Usage
 Note : Everything should be installed to the C:\ drive.
 
-**Install UT2004** ( Required for UE2 script variants and Stargate SG-1 : The Alliance UE4! ) ( Not required for SWRC UE4 )
+**Install UT2004** ( Required for UE2 script variants and Stargate SG-1 : The Alliance UE4! - Not required for SWRC UE4 )
 
 **Install Blender** and the **PSKX/PSK/PSA Import Plugin**.
 
@@ -82,15 +82,17 @@ as well as so that the modified UCC that comes with Leon's fixes doesn't short o
 
 Extract the game files to C:\SGA or copy Star Wars Republic Commando's GameData folder to C:\SWRC
 
-NOTE : This folder will be deleted, so make sure to keep the original .7zip file for SGA and to copy the GameData folder for SWRC.
+**NOTE :** This folder will be deleted, so make sure to keep the original .7zip file for SGA and to copy the GameData folder for SWRC.
 
 ( so "C:\SGA\Textures" will now exist ) or ( "C:\SWRC\Textures" )
 
 The scripts can now be run from anywhere and will request that you enter the directories for the required files, the script will then check the required programs exist before going on to use them.
 
+Make sure to have the batch-convert-fbx.txt file sat alongside the batch file.
+
 Do not right click / run as administrator! Just double click or hit enter when ready.
 
-But it should be noted once more that everything should be located on the C:\ drive to prevent issues moving files between drives.
+But it should be noted once more that everything should be located on the C:\ drive to prevent issues for the batch script moving files between drives.
 
 When prompted by the script you should enter something along the lines of the following for each script.
 
