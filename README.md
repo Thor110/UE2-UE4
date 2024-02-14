@@ -25,9 +25,11 @@ REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER(2.93 - 3.6)
 # Star Wars Republic Commando
 ## UE2			: Star Wars Republic Commando
 FILENAME	: swrc-ue2-release.bat
+
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004
 ## UE4			: Star Wars Republic Commando
 FILENAME	: swrc-ue4-release.bat
+
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER(2.93 - 3.6)
 
 ## Required Programs
