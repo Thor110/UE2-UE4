@@ -2,8 +2,8 @@ title Stargate SG-1 : The Alliance UE2 Porting Script
 
 echo off
 
-:UT2004
 cls
+:UT2004
 SET /P level="Enter your UT2004 Directory:"
 if exist "%level%\System\UCC.exe" (
   echo UCC Found.
@@ -15,7 +15,6 @@ if exist "%level%\System\UCC.exe" (
 )
 
 :UMODEL
-cls
 SET /P model="Enter your UModel Directory:"
 if exist "%model%\umodel.exe" (
   echo UModel Found.
@@ -27,7 +26,6 @@ if exist "%model%\umodel.exe" (
 )
 
 :FFMPEG
-cls
 SET /P sound="Enter your FFMPEG Directory:"
 if exist "%sound%\bin\ffmpeg.exe" (
   echo FFMPEG Found.
@@ -39,7 +37,6 @@ if exist "%sound%\bin\ffmpeg.exe" (
 )
 
 :XBOX
-cls
 SET /P files="Enter the directory containing Stargate SG-1: The Alliance files:"
 
 if exist "%files%\xbox.bin" (

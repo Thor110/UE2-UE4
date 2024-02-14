@@ -3,8 +3,8 @@ set first=%cd%
 
 @echo off
 
-:UNREAL
 cls
+:UNREAL
 SET /P level="Enter the duplicated Star Wars Republic Commando GameData Directory:"
 if exist "%level%\System\UCC.exe" (
   echo UCC Found.
@@ -16,7 +16,6 @@ if exist "%level%\System\UCC.exe" (
 )
 
 :UMODEL
-cls
 SET /P model="Enter your UModel Directory:"
 if exist "%model%\umodel.exe" (
   echo UModel Found.
@@ -28,7 +27,6 @@ if exist "%model%\umodel.exe" (
 )
 
 :BLENDER
-cls
 SET /P blend="Enter your Blender Directory:"
 if exist "%blend%\blender.exe" (
   echo Blender Found.
@@ -40,7 +38,6 @@ if exist "%blend%\blender.exe" (
 )
 
 :EXPORT
-cls
 SET /P start="Enter the directory of the UE4/5 Content Folder:"
 if exist "%start%" (
   echo Content Folder Found.

@@ -3,76 +3,59 @@ set first=%cd%
 
 @echo off
 
-:UNREAL
 cls
+:UNREAL
 SET /P level="Enter your UT2004 Directory:"
 if exist "%level%\System\UCC.exe" (
   echo UCC Found.
 ) else (
   echo UCC Not Found!
   goto :UNREAL
-  pause
-  exit
 )
 
 :UMODEL
-cls
 SET /P model="Enter your UModel Directory:"
 if exist "%model%\umodel.exe" (
   echo UModel Found.
 ) else (
   echo UModel Not Found!
   goto :UMODEL
-  pause
-  exit
 )
 
 :FFMPEG
-cls
 SET /P sound="Enter your FFMPEG Directory:"
 if exist "%sound%\bin\ffmpeg.exe" (
   echo FFMPEG Found.
 ) else (
   echo FFMPEG Not Found!
   goto :FFMPEG
-  pause
-  exit
 )
 
 :XBOX
-cls
 SET /P files="Enter the directory containing Stargate SG-1: The Alliance files:"
 if exist "%files%\xbox.bin" (
   echo "xbox.bin" Found.
 ) else (
   echo "xbox.bin" Not Found!
   goto :XBOX
-  pause
-  exit
 )
 
 :BLENDER
-cls
 SET /P blend="Enter your Blender Directory:"
 if exist "%blend%\blender.exe" (
   echo Blender Found.
 ) else (
   echo Blender Not Found!
   goto :BLENDER
-  pause
-  exit
 )
 
 :EXPORT
-cls
 SET /P start="Enter the directory of the UE4/5 Content Folder:"
 if exist "%start%" (
   echo Content Folder Found.
 ) else (
   echo Content Folder Not Found!
   goto :EXPORT
-  pause
-  exit
 )
 
 echo Reminder : The directory for Stargate SG-1: The Alliance will be modified and deleted during the process, so make sure you still have the original 7z file backed up somewhere!
@@ -166,10 +149,10 @@ for /F %%E in ('dir /b %start%\Maps\') do ( mkdir %start%\Textures\%%~E %start%\
 
 for /D %%D in ("%start%\Maps\*") do (
    for %%T in ("%%D\Texture\*.tga*") do (
-       move /Y "%%~T" "%start%\Textures\%%~E\%%~nT%%~xT"
+       move /Y "%%~T" "%start%\Textures\%%~E\%%~nT\%%~xT"
    )
    for %%F in ("%%D\StaticMesh\*.fbx*") do (
-       move /Y "%%~F" "%start%\StaticMesh\%%~E\%%~nF%%~xF"
+       move /Y "%%~F" "%start%\StaticMesh\%%~E\%%~nF\%%~xF"
    )
 )
 
