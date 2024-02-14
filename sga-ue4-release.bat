@@ -154,7 +154,13 @@ cd %blend%
 blender -b -P batch-convert-fbx.py
 
 del /S %start%\StaticMeshes\*.pskx %start%\StaticMeshes\*.psk %start%\StaticMeshes\*.psa %start%\StaticMeshes\*.config %start%\Animations\*.psk %start%\Animations\*.psa %start%\Animations\*.config %start%\Maps\*.pskx
-Ren %start%\Maps\*.txt %start%\Maps\*.mat
+
+pause
+
+REM syntax is incorrect? strange
+REM Ren %start%\Maps\*.txt %start%\Maps\*.mat
+
+pause
 
 for /F %%E in ('dir /b %start%\Maps\') do ( mkdir %start%\Textures\%%~E %start%\StaticMesh\%%~E )
 
@@ -167,9 +173,12 @@ for /D %%D in ("%start%\Maps\*") do (
    )
 )
 
+pause
+
 cd %start%
 
-rmdir /Q /S C:\SGAUE4\Maps\
+REM no longer deleting maps folder?
+REM rmdir /Q /S %start%\Maps\
 
 cd %start%\Animations\
 
@@ -182,9 +191,9 @@ for /D %%D in ("%start%\Animations\*") do (
 Rem FOR /d /r . %%d IN (SkeletalMesh,Texture,MeshAnimation,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 pause
-
-findstr /L /S /N /M  "Material" *.props.txt* > %first%\A.txt
-findstr /L /S /N /M  "Diffuse" *.props.txt* > %first%\B.txt
+exit
+REM findstr /L /S /N /M  "Material" *.props.txt* > %first%\A.txt
+REM findstr /L /S /N /M  "Diffuse" *.props.txt* > %first%\B.txt
 
 pause
 
