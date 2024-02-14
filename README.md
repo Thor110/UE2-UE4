@@ -13,9 +13,9 @@ The above plugin uses a different version of the PSKX/PSA importer script for Bl
 
 This project will also have a middle ground where an Unreal Engine template houses the necessary mechanics required to build any potential UE2 to UE4 conversions, more specifically I intend it to consist of a multiplayer and co-operative style gameplay for a game I wish to develop.
 
-UE4 : https://github.com/Thor110/ABC-UE4
+*UE4 :* https://github.com/Thor110/ABC-UE4
 
-UE5 : https://github.com/Thor110/ABC-UE5
+*UE5 :* https://github.com/Thor110/ABC-UE5
 
 I also have a version on 5.3 but there is a lot more work to be done before it will be ready to serve as a template for this project.
 
