@@ -99,7 +99,7 @@ for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f 
 
 cd /d C:\
 
-rmdir /q /s %level%
+REM rmdir /q /s %level%
 
 Rem this mesh fails to convert to fbx
 

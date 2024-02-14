@@ -130,7 +130,7 @@ for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f 
 
 for /f "usebackq delims=|" %%f in (`dir /b "%start%\Sounds\"`) do "%sound%\bin\ffmpeg" "%%f" "%%f"
 
-rmdir /q /s %files%
+REM rmdir /q /s %files%
 
 Rem deleting truncated meshes that fail to convert to fbx
 
