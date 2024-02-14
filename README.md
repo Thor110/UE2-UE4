@@ -13,9 +13,9 @@ The above plugin uses a different version of the PSKX/PSA importer script for Bl
 
 This project will also have a middle ground where an Unreal Engine template houses the necessary mechanics required to build any potential UE2 to UE4 conversions, more specifically I intend it to consist of a multiplayer and co-operative style gameplay for a game I wish to develop.
 
-*UE4 :* https://github.com/Thor110/ABC-UE4
+**UE4 :** https://github.com/Thor110/ABC-UE4
 
-*UE5 :* https://github.com/Thor110/ABC-UE5
+**UE5 :** https://github.com/Thor110/ABC-UE5
 
 I also have a version on 5.3 but there is a lot more work to be done before it will be ready to serve as a template for this project.
 
@@ -25,59 +25,60 @@ A work around for this is to manually edit the script file "batch-fbx-convert.tx
 
 # Stargate SG-1 : The Alliance
 ## UE2			: Stargate SG-1 : The Alliance
-FILENAME	: sga-ue2-release.bat
+**FILENAME	:** sga-ue2-release.bat
 
-REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG
+**REQUIRED	:** GAME(SGA) + UMODEL + UT2004 + FFMPEG
 
 ## UE4			: Stargate SG-1 : The Alliance
-FILENAME	: sga-ue4-release.bat
+**FILENAME	:** sga-ue4-release.bat
 
-REQUIRED	: GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER(2.93 - 3.6)
+**REQUIRED	:** GAME(SGA) + UMODEL + UT2004 + FFMPEG + BLENDER(2.93 - 3.6)
 
 # Star Wars Republic Commando
 ## UE2			: Star Wars Republic Commando
-FILENAME	: swrc-ue2-release.bat
+**FILENAME	:** swrc-ue2-release.bat
 
-REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004
+**REQUIRED	:** GAME(SWRC) + FIX(LEONS) + UMODEL + UT2004
+
 ## UE4			: Star Wars Republic Commando
-FILENAME	: swrc-ue4-release.bat
+**FILENAME	:** swrc-ue4-release.bat
 
-REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER(2.93 - 3.6)
+**REQUIRED	:** GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER(2.93 - 3.6)
 
 ## Required Programs
-Blender from https://www.blender.org/ v2.93 to be specific. ( This has also been tested with 3.6 )
+**Blender** from https://www.blender.org/ v2.93 to be specific. ( This has also been tested with 3.6 )
 
-Blender3D Import psk psa addon from the releases section at https://github.com/Befzz/blender3d_import_psk_psa
+**Blender3D** Import psk psa addon from the releases section at https://github.com/Befzz/blender3d_import_psk_psa
 
-UT2004 ( required to export the sound packages for SGA and the UE2 version of the SWRC script, not required for SWRC UE4. )
+**UT2004** ( required to export the sound packages for SGA and the UE2 version of the SWRC script, not required for SWRC UE4. )
 
-UModel from https://www.gildor.org/en/projects/umodel
+**UModel** from https://www.gildor.org/en/projects/umodel
 
 Make sure nothing exists inside the "UmodelExport" folder.
 
 Select "Use object groups instead of types" in the Umodel options, or use the .cfg file included.
 
-A copy of "Stargate_SG-1_-_The_Alliance-2005-12-15" which can be obtained from https://archive.org/details/StargateSG1TheAlliance20051215
+A copy of **"Stargate_SG-1_-_The_Alliance-2005-12-15"** which can be obtained from https://archive.org/details/StargateSG1TheAlliance20051215
 
-FFMPEG from https://ffmpeg.org/
+**FFMPEG** from https://ffmpeg.org/
 
 ## Usage
 Note : Everything should be installed to the C:\ drive.
 
-Install UT2004 ( Required for UE2 script variants and Stargate SG-1 : The Alliance UE4! ) ( Not required for SWRC UE4 )
+**Install UT2004** ( Required for UE2 script variants and Stargate SG-1 : The Alliance UE4! ) ( Not required for SWRC UE4 )
 
-Install Blender and the PSKX/PSK/PSA Import Plugin.
+**Install Blender** and the **PSKX/PSK/PSA Import Plugin**.
 
 or
 
-Install Star Wars Republic Commando and Leon's latest fix available from : https://github.com/SWRC-Modding/CT/releases
+**Install Star Wars Republic Commando** and **Leon's latest fix** available from : https://github.com/SWRC-Modding/CT/releases
 
 once installed and the fix is also installed, copy the GameData folder to the C:\ drive and rename it to SWRC, this is so that the script can modify files and then delete the duplicate in the process.
 as well as so that the modified UCC that comes with Leon's fixes doesn't short out on directories with spaces in them.
 
-Install FFMPEG ( Required for Stargate SG-1 : The Alliance! )
+**Install FFMPEG** ( Required for Stargate SG-1 : The Alliance! )
 
-Install UModel ( Do not change the export directory or set back to default of "C:\umodel_win32\UmodelExport" )
+**Install UModel** ( Do not change the export directory or set back to default of "C:\umodel_win32\UmodelExport" )
 
 Extract the game files to C:\SGA or copy Star Wars Republic Commando's GameData folder to C:\SWRC
 
