@@ -59,20 +59,20 @@ FFMPEG from https://ffmpeg.org/
 
 Note : Everything should be installed to the C:\ drive.
 
-# Install UT2004 ( Required for UE2 script variants and Stargate SG-1 : The Alliance UE4! ) ( Not required for SWRC UE4 )
+Install UT2004 ( Required for UE2 script variants and Stargate SG-1 : The Alliance UE4! ) ( Not required for SWRC UE4 )
 
-# Install Blender and the PSKX/PSK/PSA Import Plugin.
+Install Blender and the PSKX/PSK/PSA Import Plugin.
 
 or
 
-# Install Star Wars Republic Commando and Leon's latest fix available from : https://github.com/SWRC-Modding/CT/releases
+Install Star Wars Republic Commando and Leon's latest fix available from : https://github.com/SWRC-Modding/CT/releases
 
 once installed and the fix is also installed, copy the GameData folder to the C:\ drive and rename it to SWRC, this is so that the script can modify files and then delete the duplicate in the process.
 as well as so that the modified UCC that comes with Leon's fixes doesn't short out on directories with spaces in them.
 
-# Install FFMPEG ( Required for Stargate SG-1 : The Alliance! )
+Install FFMPEG ( Required for Stargate SG-1 : The Alliance! )
 
-# Install UModel ( Do not change the export directory or set back to default of "C:\umodel_win32\UmodelExport" )
+Install UModel ( Do not change the export directory or set back to default of "C:\umodel_win32\UmodelExport" )
 
 Extract the game files to C:\SGA or copy Star Wars Republic Commando's GameData folder to C:\SWRC
 
