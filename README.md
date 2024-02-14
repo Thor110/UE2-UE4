@@ -1,5 +1,9 @@
 # UE2-UE4
-A batch script or set of batch scripts I am working on that prepares all of the files for a port I am working on.
+A batch script or set of batch scripts I am working on that prepares all of the files for a few ports I am working on.
+
+The overall goal of this project is to create an automated method of converting UE2 games over to UE4 in their entirety.
+
+Tested with two games so far, though I hope to test it with more when I can find the time.
 
 # Stargate SG-1 : The Alliance
 
