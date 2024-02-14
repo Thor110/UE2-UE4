@@ -7,6 +7,14 @@ Tested with two games so far, though I hope to test it with more when I can find
 
 Currently the importing of all the files needs to be done manually, but I am planning on writing an unreal plugin to speed up the process or utilise one that already exists.
 
+This project will also have a middle ground where an Unreal Engine template houses the necessary mechanics required to build any potential UE2 to UE4 conversions, more specifically I intend it to consist of a multiplayer and co-operative style gameplay for a game I wish to develop.
+
+UE4 : https://github.com/Thor110/ABC-UE4
+
+UE5 : https://github.com/Thor110/ABC-UE5
+
+I also have a version on 5.3 but there is a lot more work to be done before it will be ready to serve as a template for this project.
+
 # Read Only File Permissions Issue
 If the FBX Conversion fails it could be because the script has failed to edit the python script and place it in your Blender directory.
 A work around for this is to manually edit the script file "batch-fbx-convert.txt" to add your output directory and rename it to change the extensions to .py
@@ -33,7 +41,6 @@ FILENAME	: swrc-ue4-release.bat
 REQUIRED	: GAME(SWRC) + FIX(LEONS) + UMODEL + BLENDER(2.93 - 3.6)
 
 ## Required Programs
-
 Blender from https://www.blender.org/ v2.93 to be specific. ( This has also been tested with 3.6 )
 
 Blender3D Import psk psa addon from the releases section at https://github.com/Befzz/blender3d_import_psk_psa
@@ -51,7 +58,6 @@ A copy of "Stargate_SG-1_-_The_Alliance-2005-12-15" which can be obtained from h
 FFMPEG from https://ffmpeg.org/
 
 ## Usage
-
 Note : Everything should be installed to the C:\ drive.
 
 Install UT2004 ( Required for UE2 script variants and Stargate SG-1 : The Alliance UE4! ) ( Not required for SWRC UE4 )
@@ -84,7 +90,6 @@ But it should be noted once more that everything should be located on the C:\ dr
 When prompted by the script you should enter something along the lines of the following for each script.
 
 # Example directories you might enter when prompted by the SGA-UE2 script. - "sga-ue2-release.bat"
-
 C:\GOG Games\Unreal Tournament 2004
 
 C:\umodel_win32
@@ -94,7 +99,6 @@ C:\ffmpeg
 C:\SGA
 
 # Example directories you might enter when prompted by the SGA-UE4 script. - "sga-ue4-release.bat"
-
 C:\GOG Games\Unreal Tournament 2004
 
 C:\umodel_win32
@@ -108,7 +112,6 @@ C:\Program Files\Blender Foundation\Blender 2.93
 C:\SGAUE4
 
 # Example directories you might enter when prompted by the SWRC-UE2 script. - "swrc-ue2-release.bat"
-
 C:\SWRC
 
 C:\GOG Games\Unreal Tournament 2004
@@ -116,7 +119,6 @@ C:\GOG Games\Unreal Tournament 2004
 C:\umodel_win32
 
 # Example directories you might enter when prompted by the SWRC-UE4 script. - "swrc-ue4-release.bat"
-
 C:\SWRC
 
 C:\umodel_win32
@@ -126,7 +128,6 @@ C:\Program Files\Blender Foundation\Blender 2.93
 C:\SWRCUE4
 
 ## Ready
-
 This will setup all of the files appropriately, ready to be imported into UE4 or UT2004.
 
 It will also delete the C:\SGA directory upon completion, so you can just keep or delete the original .7z file ( same goes for Republic Commando, which is why I chose to copy the GameData folder for now )
