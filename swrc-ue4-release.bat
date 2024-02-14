@@ -2,40 +2,52 @@ title Star Wars Republic Commando UE4 Porting Script
 set first=%cd%
 
 @echo off
+
+:UNREAL
 cls
 SET /P level="Enter the duplicated Star Wars Republic Commando GameData Directory:"
 if exist "%level%\System\UCC.exe" (
   echo UCC Found.
 ) else (
   echo UCC Not Found!
+  goto :UNREAL
   pause
   exit
 )
 
+:UMODEL
+cls
 SET /P model="Enter your UModel Directory:"
 if exist "%model%\umodel.exe" (
   echo UModel Found.
 ) else (
   echo UModel Not Found!
+  goto :UMODEL
   pause
   exit
 )
 
+:BLENDER
+cls
 SET /P blend="Enter your Blender Directory:"
 if exist "%blend%\blender.exe" (
   echo Blender Found.
 ) else (
   echo Blender Not Found!
+  goto :BLENDER
   pause
   exit
 )
 
+:EXPORT
+cls
 SET /P start="Enter the directory of the UE4/5 Content Folder:"
 if exist "%start%" (
   echo Content Folder Found.
   pause
 ) else (
   echo Content Folder Not Found!
+  goto :EXPORT
   pause
   exit
 )
