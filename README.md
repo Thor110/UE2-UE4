@@ -1,7 +1,5 @@
 # Current Issues
-**Both UE4 Scripts** Both UE2 scripts need the relevant UCC parameters and lines setup in order to import everything en-masse and into the correct categories.
-
-**SGA UE4 Script** This script currently still has a few problems that need fixing.
+**Both UE2 Scripts** Both UE2 scripts need the relevant UCC parameters and lines setup in order to import everything en-masse into UT2004 and into the correct categories.
 
 **Both UE4 Scripts** Both UE4 scripts still need some work to properly sort through the associated .mat and .props.txt files.
 
