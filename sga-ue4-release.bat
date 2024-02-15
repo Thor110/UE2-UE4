@@ -69,7 +69,9 @@ REM the following files are empty or cannot be exported with umodel
 del %files%\Textures\M01Tex.utx %files%\Textures\M05ATex.utx %files%\Textures\M05BTex.utx %files%\Textures\M05CTex.utx %files%\Textures\M05dTex.utx %files%\Textures\M08Tex.utx %files%\Textures\M10Atex.utx %files%\Textures\M10Btex.utx %files%\Textures\M12Tex_test.utx %files%\Textures\M15Tex22.utx %files%\Textures\M15Tex_tomerge.utx %files%\Textures\m16.utx %files%\Textures\M16ATex.utx %files%\Textures\M16BTex.utx %files%\Textures\StargateEffectsTex.utx %files%\Textures\M10_train_anim.ukx %files%\Textures\SGAllianceUIX.uix %files%\Textures\UE2Runtime.ini %files%\Textures\XBoxLiveFont.xpr %files%\Textures\m17tex.utx %files%\Textures\x_delete_m17tex.utx %files%\Textures\xx_old_m17tex.utx %files%\Textures\M07_fresco_tex.utx %files%\Textures\M10_train_tex.utx %files%\Textures\StargateGameFontsTex.utx %files%\Textures\Tutorial_Tex.utx %files%\Animations\sg1_anim_comp.ukx %files%\Animations\sg1_anim2.ukx %files%\Animations\Goauld_Turret_anim.ukx %files%\Animations\Goa_Vehicles.ukx %files%\Animations\Haaken_anim.ukx %files%\Animations\Haaken_leader_anim.ukx %files%\Animations\Haaken_Shield_anim.ukx %files%\Animations\Haaken_warrior_anim.ukx %files%\Animations\jaffa_anim.ukx %files%\Animations\M07_fresco_anim.ukx %files%\Animations\M21_Crystal_anim.ukx %files%\Animations\sg1_anim.ukx %files%\Animations\sg1_turret_M60_Humvee.ukx %files%\Animations\SG1_weapons_1st.ukx %files%\Animations\SG1_Wep_Anim2.ukx.tmp %files%\Animations\super_soldier_anim.ukx %files%\Animations\tokra_anim.ukx %files%\Animations\veh_jeep.ukx %files%\StaticMeshes\M16Prefabs.upx %files%\StaticMeshes\UW.ini
 
 REM make directories
-mkdir %start%\Textures\ %start%\StaticMeshes\ %start%\Sounds\ %start%\Animations\ %start%\Music\ %start%\Speech\ %start%\Maps\ %start%\Splash\ %start%\Editor\ %start%\Game\ %start%\Materials\ %start%\StaticMesh\ 
+mkdir %start%\StaticMeshes\ %start%\Sounds\ %start%\Animations\ %start%\Music\ %start%\Speech\ %start%\Maps\ %start%\Splash\ %start%\Editor\ %start%\Game\ %start%\Materials\
+REM removed directories
+REM %start%\Textures\ %start%\StaticMesh\
 
 REM change directory to umodel
 cd /d %model%
@@ -181,30 +183,23 @@ blender -b -P batch-convert-fbx.py
 REM delete the following filetypes from the StaticMeshes, Animations & Maps folders in the UE4 directory ( .pskx, .psk, .psa, .config )
 del /S %start%\StaticMeshes\*.pskx %start%\StaticMeshes\*.psk %start%\StaticMeshes\*.psa %start%\StaticMeshes\*.config %start%\Animations\*.psk %start%\Animations\*.psa %start%\Animations\*.config %start%\Maps\*.pskx
 
-pause
-REM pause and exit for now
-exit
-
 REM Moving Map Textures to Maps\MapName\TextureFile
 REM Moving Map Static Meshes to StaticMesh\MapName\StaticMesh
 
 REM syntax is incorrect? strange
 REM Ren %start%\Maps\*.txt %start%\Maps\*.mat
 
-pause
-
-for /F %%E in ('dir /b %start%\Maps\') do ( mkdir %start%\Textures\%%~E %start%\StaticMesh\%%~E )
 
 for /D %%D in ("%start%\Maps\*") do (
-   for %%T in ("%%D\Texture\*.tga*") do (
-       move /Y "%%~T" "%start%\Textures\%%~E\%%~nT\%%~xT"
-   )
-   for %%F in ("%%D\StaticMesh\*.fbx*") do (
-       move /Y "%%~F" "%start%\StaticMesh\%%~E\%%~nF\%%~xF"
-   )
+	for %%T in ("%%~D\*.tga*") do (
+		mkdir %start%\Materials\%%~nD
+		move /Y "%%~T" "%start%\Materials\%%~nD\%%~nT%%~xT"
+	)
+	for %%F in ("%%~D\*.fbx*") do (
+		mkdir %start%\StaticMesh\%%~nD
+		move /Y "%%~F" "%start%\StaticMesh\%%~nD\%%~nF%%~xF"
+	)
 )
-
-pause
 
 cd %start%
 
@@ -213,8 +208,13 @@ REM rmdir /Q /S %start%\Maps\
 
 cd %start%\Animations\
 
+REM for every folder in the UE4 Animations folder
 for /D %%D in ("%start%\Animations\*") do (
+
+	REM for every .fbx file in the following folders ( SkeletalMesh and MeshAnimation )
     for %%F in ("%%~D\SkeletalMesh\*.fbx*","%%~D\MeshAnimation\*.fbx*") do (
+	
+		REM move file to the parent directory
         move /Y "%%~F" "%%~dpF.."
     )
 )
