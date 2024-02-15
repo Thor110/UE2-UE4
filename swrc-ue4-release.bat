@@ -6,6 +6,7 @@ set first=%cd%
 @echo off
 
 cls
+REM enter directories of required programs
 :UNREAL
 SET /P level="Enter the duplicated Star Wars Republic Commando GameData Directory:"
 if exist "%level%\System\UCC.exe" (
