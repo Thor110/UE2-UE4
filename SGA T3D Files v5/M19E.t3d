@@ -5070,7 +5070,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M19E/M19E_lavapoddle.M19E_lavapoddle'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M19E/M19E_lavapoddle.M19E_lavapoddle'
 		bTriggerOnceOnly=true
 		ActorLabel="Mover16"
 		Tags(0)="LavaMover"

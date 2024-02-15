@@ -987,7 +987,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=9714.000000,Y=-7040.000000,Z=-3520.000000)
@@ -1003,7 +1003,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7792.000000,Y=-3136.000000,Z=-3520.000000)
@@ -1185,7 +1185,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=21984.000000,Y=-7984.000000,Z=-4704.000000)
@@ -1202,7 +1202,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=22720.000000,Y=-5168.000000,Z=-4704.000000)
@@ -1236,7 +1236,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=19584.000000,Y=-8016.000000,Z=-6592.000000)
@@ -1253,7 +1253,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=18288.000000,Y=-7216.000000,Z=-8208.000000)
@@ -2596,7 +2596,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7792.000000,Y=-3136.000000,Z=-9664.000000)
@@ -2968,7 +2968,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M04B/Doorway1.Doorway1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M04B/Doorway1.Doorway1'
 		ActorLabel="Mover5"
 		Tags(0)="VP2_Jmed_Door"
 	End Actor
@@ -4355,7 +4355,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10640.000000,Y=-7983.999000,Z=-8208.000000)
@@ -6993,7 +6993,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M04B/Doorway1.Doorway1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M04B/Doorway1.Doorway1'
 		ActorLabel="Mover3"
 		Tags(0)="VP4_Exit_Door1"
 	End Actor
@@ -7515,7 +7515,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7806.000000,Y=-5695.998000,Z=-3624.000000)
@@ -7769,7 +7769,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4876.000000,Y=-5452.000000,Z=-3520.000000)
@@ -9067,7 +9067,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/bridge_piece1.bridge_piece1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/bridge_piece1.bridge_piece1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12211.000000,Y=-7328.000000,Z=-6960.000000)
@@ -9083,7 +9083,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/bridge_piece1.bridge_piece1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/bridge_piece1.bridge_piece1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=18368.000000,Y=-7840.000000,Z=-6960.000000)
@@ -9100,7 +9100,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/bridge_piece3.bridge_piece3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/bridge_piece3.bridge_piece3'
 			RelativeLocation=(X=13810.000000,Y=-7392.000000,Z=-6576.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9114,7 +9114,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04B/bridge_piece3.bridge_piece3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04B/bridge_piece3.bridge_piece3'
 			RelativeLocation=(X=16800.000000,Y=-7776.000000,Z=-6576.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=32768.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)

@@ -6425,7 +6425,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2940.229000,Y=-3870.979000,Z=1494.087000)
@@ -6642,7 +6642,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-412.745300,Y=-3872.800000,Z=1024.090000)
@@ -6659,7 +6659,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2030.219000,Y=-3865.771000,Z=1139.090000)
@@ -6676,7 +6676,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-5410.112000,Y=-3874.856000,Z=1076.553000)
@@ -6693,7 +6693,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4373.836000,Y=-3875.827000,Z=1219.504000)
@@ -11743,7 +11743,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=380.621900,Y=-1079.089000,Z=642.032300)
@@ -13506,7 +13506,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-125.378100,Y=-1635.089000,Z=306.032300)
@@ -15560,7 +15560,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-125.378100,Y=-1637.089000,Z=296.032300)
@@ -15577,7 +15577,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-125.378100,Y=-1637.089000,Z=288.032300)
@@ -15594,7 +15594,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=288.621900,Y=-1635.089000,Z=306.032300)
@@ -15611,7 +15611,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=288.621900,Y=-1637.089000,Z=296.032300)
@@ -15628,7 +15628,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/DM-Langara/Poles_Cable.Poles_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/DM-Langara/Poles_Cable.Poles_Cable'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=288.621900,Y=-1637.089000,Z=288.032300)

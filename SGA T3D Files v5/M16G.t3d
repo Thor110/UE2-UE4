@@ -3296,7 +3296,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/tree_billboard_group2.tree_billboard_group2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/tree_billboard_group2.tree_billboard_group2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=29968.000000,Y=3440.000000,Z=-20482.920000)
@@ -3312,7 +3312,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/tree_billboard_group2.tree_billboard_group2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/tree_billboard_group2.tree_billboard_group2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=40510.000000,Y=-8130.000000,Z=-20674.920000)
@@ -3329,7 +3329,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/M16_shutter_frame.M16_shutter_frame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/M16_shutter_frame.M16_shutter_frame'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=21831.000000,Y=-12975.000000,Z=-23170.000000)
@@ -3345,7 +3345,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/M16_shutter_frame.M16_shutter_frame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/M16_shutter_frame.M16_shutter_frame'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=21831.000000,Y=-12175.000000,Z=-23170.000000)
@@ -3361,7 +3361,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/M16_shutter_frame.M16_shutter_frame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/M16_shutter_frame.M16_shutter_frame'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=20408.000000,Y=-12975.000000,Z=-23170.000000)
@@ -3377,7 +3377,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/M16_shutter_frame.M16_shutter_frame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/M16_shutter_frame.M16_shutter_frame'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=20408.000000,Y=-12175.000000,Z=-23170.000000)
@@ -3427,7 +3427,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/M16_shutter_frame.M16_shutter_frame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/M16_shutter_frame.M16_shutter_frame'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=20408.000000,Y=-12175.000000,Z=-23171.000000)
@@ -3467,7 +3467,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/cloud_panel.cloud_panel'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/cloud_panel.cloud_panel'
 			RelativeLocation=(X=108296.000000,Y=-89593.000000,Z=-701.000000)
 			RelativeRotation=(Pitch=11264.000000,Yaw=6144.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.435000,Z=0.500000)
@@ -3482,7 +3482,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/cloud_panel.cloud_panel'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/cloud_panel.cloud_panel'
 			RelativeLocation=(X=108104.000000,Y=-89601.000000,Z=-677.000000)
 			RelativeRotation=(Pitch=11264.000000,Yaw=31744.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-0.375000,Z=0.500000)
@@ -3497,7 +3497,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/cloud_panel.cloud_panel'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/cloud_panel.cloud_panel'
 			RelativeLocation=(X=108168.000000,Y=-89713.000000,Z=-677.000000)
 			RelativeRotation=(Pitch=11264.000000,Yaw=38912.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.500000,Z=0.625000)
@@ -3512,7 +3512,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/cloud_panel.cloud_panel'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/cloud_panel.cloud_panel'
 			RelativeLocation=(X=108216.000000,Y=-89561.000000,Z=-773.000000)
 			RelativeRotation=(Pitch=3072.000000,Yaw=18432.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.250000,Z=0.200000)
@@ -4712,7 +4712,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/tree_billboard_group2.tree_billboard_group2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/tree_billboard_group2.tree_billboard_group2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=43638.000000,Y=-38618.000000,Z=-21026.920000)
@@ -5839,7 +5839,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/tree_billboard_group2.tree_billboard_group2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/tree_billboard_group2.tree_billboard_group2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-22858.860000,Y=-11377.070000,Z=-20148.000000)
@@ -5856,7 +5856,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/tree_billboard_group2.tree_billboard_group2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/tree_billboard_group2.tree_billboard_group2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-29665.900000,Y=2637.887000,Z=-22052.000000)
@@ -5937,7 +5937,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/tree_billboard_group2.tree_billboard_group2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/tree_billboard_group2.tree_billboard_group2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-9434.222000,Y=-18553.600000,Z=-20516.000000)
@@ -7123,7 +7123,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/tree_billboard_group2.tree_billboard_group2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/tree_billboard_group2.tree_billboard_group2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-22426.180000,Y=16975.870000,Z=-20532.000000)
@@ -7140,7 +7140,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/tree_billboard_group2.tree_billboard_group2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/tree_billboard_group2.tree_billboard_group2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10647.860000,Y=-18429.070000,Z=-20148.000000)
@@ -7157,7 +7157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M16G/tree_billboard_group2.tree_billboard_group2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M16G/tree_billboard_group2.tree_billboard_group2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-3196.176000,Y=25177.870000,Z=-20532.000000)

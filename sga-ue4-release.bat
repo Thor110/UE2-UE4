@@ -196,8 +196,8 @@ for /D %%D in ("%start%\Maps\*") do (
 		move /Y "%%~T" "%start%\Materials\%%~nD\%%~nT%%~xT"
 	)
 	for %%F in ("%%~D\*.fbx*") do (
-		mkdir %start%\StaticMesh\%%~nD
-		move /Y "%%~F" "%start%\StaticMesh\%%~nD\%%~nF%%~xF"
+		mkdir %start%\StaticMeshes\%%~nD
+		move /Y "%%~F" "%start%\StaticMeshes\%%~nD\%%~nF%%~xF"
 	)
 )
 

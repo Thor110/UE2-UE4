@@ -21215,7 +21215,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M04a/Bridge_lever1.Bridge_lever1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M04a/Bridge_lever1.Bridge_lever1'
 		ActorLabel="Mover0"
 		Tags(0)="Lever1"
 		Event="Script_Drawbridge"
@@ -21240,7 +21240,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M04a/Drawbridge1.Drawbridge1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M04a/Drawbridge1.Drawbridge1'
 		ActorLabel="Mover7"
 		Tags(0)="M04_Drawbridge1"
 		Event="M04_Drawbridge2"
@@ -21265,7 +21265,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M04a/Drawbridge1.Drawbridge1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M04a/Drawbridge1.Drawbridge1'
 		ActorLabel="Mover4"
 		Tags(0)="M04_Drawbridge3"
 		Event="M04_Drawbridge4"
@@ -21292,7 +21292,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M04a/Drawbridge2.Drawbridge2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M04a/Drawbridge2.Drawbridge2'
 		bSlave=true
 		AttachTag="M04_Drawbridge1"
 		ActorLabel="Mover9"
@@ -21320,7 +21320,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M04a/Drawbridge2.Drawbridge2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M04a/Drawbridge2.Drawbridge2'
 		bSlave=true
 		AttachTag="M04_Drawbridge3"
 		ActorLabel="Mover8"
@@ -21330,7 +21330,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04a/Stairs.Stairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04a/Stairs.Stairs'
 			RelativeLocation=(X=1280.000000,Y=-7024.000000,Z=-4536.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=16384.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.500000,Z=0.500000)
@@ -21360,7 +21360,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M04a/Doorway1.Doorway1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M04a/Doorway1.Doorway1'
 		ActorLabel="Mover3"
 		Tags(0)="VP2_Jmed_Door"
 	End Actor
@@ -21383,7 +21383,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M04a/Doorway1.Doorway1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M04a/Doorway1.Doorway1'
 		ActorLabel="Mover2"
 		Tags(0)="VP2_Jmed_Door2"
 	End Actor
@@ -21391,7 +21391,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04a/Bunker_support1.Bunker_support1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04a/Bunker_support1.Bunker_support1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=9472.000000,Y=-9280.000000,Z=-3520.000000)
@@ -21408,7 +21408,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMesh/M04a/Bunker_support2.Bunker_support2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/M04a/Bunker_support2.Bunker_support2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-512.000000,Y=-9888.000000,Z=-3776.000000)

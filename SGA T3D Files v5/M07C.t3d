@@ -34270,7 +34270,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_Oneill_Hat_temp_ps2.M07_Oneill_Hat_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_Oneill_Hat_temp_ps2.M07_Oneill_Hat_temp_ps2'
 		ActorLabel="Mover53"
 		Tags(0)="M_puzzletrap_end_OneillsHat"
 	End Actor
@@ -34292,7 +34292,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_puzzle_button_temp_ps2.M07_puzzle_button_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_puzzle_button_temp_ps2.M07_puzzle_button_temp_ps2'
 		ActorLabel="Mover52"
 		Tags(0)="M_puzzletrap_end_OneillsArm"
 	End Actor
@@ -34316,7 +34316,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator2
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_Spiketrap_02_temp_ps2.M07_Spiketrap_02_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_Spiketrap_02_temp_ps2.M07_Spiketrap_02_temp_ps2'
 		bTriggerOnceOnly=true
 		ActorLabel="Mover51"
 		Tags(0)="M_puzzletrap"
@@ -34436,7 +34436,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
 		ActorLabel="Mover75"
 		Tags(0)="M_puzzletrap_cluestatue_B"
 	End Actor
@@ -34459,7 +34459,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
 		ActorLabel="Mover71"
 		Tags(0)="M_puzzletrap_cluestatue_A"
 	End Actor
@@ -34482,7 +34482,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
 		ActorLabel="Mover74"
 		Tags(0)="M_puzzletrap_cluestatue_B"
 	End Actor
@@ -34505,7 +34505,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
 		ActorLabel="Mover76"
 		Tags(0)="M_puzzletrap_cluestatue_A"
 	End Actor
@@ -34529,7 +34529,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
 		ActorLabel="Mover69"
 		Tags(0)="M_puzzletrap_cluestatue_B"
 	End Actor
@@ -34553,7 +34553,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
 		ActorLabel="Mover70"
 		Tags(0)="M_puzzletrap_cluestatue_A"
 	End Actor
@@ -34577,7 +34577,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
 		ActorLabel="Mover61"
 		Tags(0)="M_puzzletrap_cluestatue_B"
 	End Actor
@@ -34601,7 +34601,7 @@ Begin Map
 		NumKeys=1
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMesh/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/M07C/M07_puzzletrap_trapdoor_temp_ps2.M07_puzzletrap_trapdoor_temp_ps2'
 		ActorLabel="Mover62"
 		Tags(0)="M_puzzletrap_cluestatue_A"
 	End Actor
