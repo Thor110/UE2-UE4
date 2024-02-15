@@ -129,6 +129,8 @@ for /D %%D in ("%start%\Animations\*") do (
 
 cd /d %start%\Animations\
 
+rd /s /q %start%\Animations\bactadispensers\BactaDispenserGEO
+
 Rem FOR /d /r . %%d IN (SkeletalMesh,Texture,MeshAnimation,VertMesh,Shader) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 pause
