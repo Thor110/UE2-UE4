@@ -134,6 +134,7 @@ rd /s /q %start%\Animations\bactadispensers\BactaDispenserGEO
 Rem FOR /d /r . %%d IN (SkeletalMesh,Texture,MeshAnimation,VertMesh,Shader) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 pause
+exit
 
 findstr /L /S /N /M  "Material" *.props.txt* > %first%\A.txt
 findstr /L /S /N /M  "Diffuse" *.props.txt* > %first%\B.txt
