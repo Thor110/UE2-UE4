@@ -1,9 +1,12 @@
 title Stargate SG-1 : The Alliance UE4 Porting Script
+
+REM set first to current directory ( where the script starts executing from )
 set first=%cd%
 
 @echo off
 
 cls
+REM enter directories of required programs
 :UNREAL
 SET /P level="Enter your UT2004 Directory:"
 if exist "%level%\System\UCC.exe" (
@@ -58,42 +61,66 @@ if exist "%start%" (
   goto :EXPORT
 )
 
+REM pointless reminder and pause
 echo Reminder : The directory for Stargate SG-1: The Alliance will be modified and deleted during the process, so make sure you still have the original 7z file backed up somewhere!
-
 pause
 
+REM the following files are empty or cannot be exported with umodel
 del %files%\Textures\M01Tex.utx %files%\Textures\M05ATex.utx %files%\Textures\M05BTex.utx %files%\Textures\M05CTex.utx %files%\Textures\M05dTex.utx %files%\Textures\M08Tex.utx %files%\Textures\M10Atex.utx %files%\Textures\M10Btex.utx %files%\Textures\M12Tex_test.utx %files%\Textures\M15Tex22.utx %files%\Textures\M15Tex_tomerge.utx %files%\Textures\m16.utx %files%\Textures\M16ATex.utx %files%\Textures\M16BTex.utx %files%\Textures\StargateEffectsTex.utx %files%\Textures\M10_train_anim.ukx %files%\Textures\SGAllianceUIX.uix %files%\Textures\UE2Runtime.ini %files%\Textures\XBoxLiveFont.xpr %files%\Textures\m17tex.utx %files%\Textures\x_delete_m17tex.utx %files%\Textures\xx_old_m17tex.utx %files%\Textures\M07_fresco_tex.utx %files%\Textures\M10_train_tex.utx %files%\Textures\StargateGameFontsTex.utx %files%\Textures\Tutorial_Tex.utx %files%\Animations\sg1_anim_comp.ukx %files%\Animations\sg1_anim2.ukx %files%\Animations\Goauld_Turret_anim.ukx %files%\Animations\Goa_Vehicles.ukx %files%\Animations\Haaken_anim.ukx %files%\Animations\Haaken_leader_anim.ukx %files%\Animations\Haaken_Shield_anim.ukx %files%\Animations\Haaken_warrior_anim.ukx %files%\Animations\jaffa_anim.ukx %files%\Animations\M07_fresco_anim.ukx %files%\Animations\M21_Crystal_anim.ukx %files%\Animations\sg1_anim.ukx %files%\Animations\sg1_turret_M60_Humvee.ukx %files%\Animations\SG1_weapons_1st.ukx %files%\Animations\SG1_Wep_Anim2.ukx.tmp %files%\Animations\super_soldier_anim.ukx %files%\Animations\tokra_anim.ukx %files%\Animations\veh_jeep.ukx %files%\StaticMeshes\M16Prefabs.upx %files%\StaticMeshes\UW.ini
 
+REM make directories
 mkdir %start%\Textures\ %start%\StaticMeshes\ %start%\Sounds\ %start%\Animations\ %start%\Music\ %start%\Speech\ %start%\Maps\ %start%\Splash\ %start%\Editor\ %start%\Game\ %start%\Materials\ %start%\StaticMesh\ 
 
+REM change directory to umodel
 cd /d %model%
 
+REM export animations packages with umodel
 umodel -path=%files%\Animations -export *.ukx
 
+REM for all directories in the umodelexport folder move to the UE4 animations folder
 for /f %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Animations\%%f"
 
+REM for all directories in the music folder of the game move to the UE4 music folder
 for /f %%f in ('dir /b %files%\Music\') do move %files%\Music\%%f %start%\Music\%%f
 
+REM for all directories in the speech folder of the game move to the UE4 speech folder
 for /f %%f in ('dir /b %files%\Speech\') do move %files%\Speech\%%f %start%\Speech\%%f
 
+REM export texture packages with umodel
 umodel -path=%files%\Textures -export *.utx
+
+REM for every folder in the umodelexport folder
 for /D %%D in ("%model%\UmodelExport\*") do (
+
+	REM for every .tga file in the texture folder
     for %%F in ("%%~D\Texture\*.tga*") do (
+	
+		REM move the file to the parent directory
         move /Y "%%~F" "%%~dpF.."
     )
 )
 
 Rem FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
+REM for every directory in the umodelexport folder move to the UE4 materials folder
 for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Materials\%%f"
 
+REM export staticmesh packages with umodel
 umodel -path=%files%\StaticMeshes -export *.usx
 
+REM for every folder in the umodelexport folder
 for /D %%D in ("%model%\UmodelExport\*") do (
+
     for %%F in ("%%~D\StaticMesh\*.pskx*") do (
         move /Y "%%~F" "%%~dpF.."
     )
 )
+
+echo check files
+pause
+exit
+
+
 
 Rem FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap) DO @IF EXIST "%%d" rd /s /q "%%d"
 

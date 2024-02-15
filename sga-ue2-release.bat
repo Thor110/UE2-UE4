@@ -1,8 +1,9 @@
 title Stargate SG-1 : The Alliance UE2 Porting Script
 
-echo off
+@echo off
 
 cls
+REM enter directories of required programs
 :UT2004
 SET /P level="Enter your UT2004 Directory:"
 if exist "%level%\System\UCC.exe" (

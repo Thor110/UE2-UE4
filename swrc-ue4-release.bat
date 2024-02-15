@@ -76,7 +76,7 @@ umodel -path="%level%\Textures" -export *.utx
 REM for every folder in the umodelexport folder
 for /D %%D in ("%model%\UmodelExport\*") do (
 
-REM for every .tga file in the texture folder
+	REM for every .tga file in the texture folder
     for %%F in ("%%~D\Texture\*.tga*") do (
 	
 		REM move the file to the parent directory
