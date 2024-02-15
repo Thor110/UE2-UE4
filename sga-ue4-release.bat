@@ -138,7 +138,11 @@ blender -b -P batch-convert-fbx.py
 
 del /S %start%\StaticMeshes\*.pskx %start%\StaticMeshes\*.psk %start%\StaticMeshes\*.psa %start%\StaticMeshes\*.config %start%\Animations\*.psk %start%\Animations\*.psa %start%\Animations\*.config %start%\Maps\*.pskx
 
+exit
 pause
+
+REM Moving Map Textures to Maps\MapName\TextureFile
+REM Moving Map Static Meshes to StaticMesh\MapName\StaticMesh
 
 REM syntax is incorrect? strange
 REM Ren %start%\Maps\*.txt %start%\Maps\*.mat
@@ -160,7 +164,7 @@ pause
 
 cd %start%
 
-REM no longer deleting maps folder?
+REM no longer deleting maps folder, due to the above issues.
 REM rmdir /Q /S %start%\Maps\
 
 cd %start%\Animations\
