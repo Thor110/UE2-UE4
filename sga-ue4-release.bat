@@ -116,12 +116,6 @@ for /D %%D in ("%model%\UmodelExport\*") do (
     )
 )
 
-echo check files
-pause
-exit
-
-
-
 Rem FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\StaticMeshes\%%f"
