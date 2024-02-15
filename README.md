@@ -1,3 +1,8 @@
+# Current Issues
+**SGA UE4 Script** This script currently still has a few problems that need fixing.
+
+**Both UE4 Scripts** Both UE4 scripts still need some work to properly sort through the associated .mat and .props.txt files.
+
 # UE2-UE4
 A batch script or set of batch scripts I am working on that prepares all of the files for a few ports I am working on.
 
