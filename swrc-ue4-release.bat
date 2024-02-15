@@ -114,7 +114,6 @@ REM change directory to the SWRC System folder
 cd /d "%level%\System"
 
 REM for every file in the Sounds folder do batchexport with ucc 
-
 for /f "usebackq delims=|" %%f in (`dir /b "%level%\Sounds\"`) do ucc batchexport "%level%\Sounds\%%f" sound wav %start%\Sounds\%%~nf
 
 REM line no longer used
