@@ -45,7 +45,8 @@ if exist "%start%" (
 )
 
 REM make directories
-mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Splash" "%start%\Game" "%start%\Movies"
+mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies"
+REM "%start%\Splash" "%start%\Game"
 
 Rem these packages do not contain any sounds
 REM del %files%\Sounds\banter_voice.uax %files%\Sounds\params_mus.uax %files%\Sounds\params_rumble.uax %files%\Sounds\params_sfx.uax %files%\Sounds\params_vox.uax
@@ -69,6 +70,9 @@ for /f %%f in ('dir /b "%model%\UmodelExport"') do move "%model%\UmodelExport\%%
 
 REM for all directories in the music folder of the game move to the UE4 music folder
 for /f %%f in ('dir /b "%level%\Music"') do copy "%level%\Music\%%f" "%start%\Music\%%f"
+
+REM copy all movie files
+for /f %%f in ("%level%\Movies\*") do copy "%level%\Movies\%%f" "%start%\Movies\%%f"
 
 REM export texture packages with umodel
 umodel -path="%level%\Textures" -export *.utx
