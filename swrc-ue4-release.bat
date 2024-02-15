@@ -139,6 +139,7 @@ set "_strInsert=path = '%start%'"
 
 REM write to output file
 >"%OutputFile%" (
+
 REM for every line in the InputFile
 for /f "usebackq delims=" %%A in ("%InputFile%") do (
 

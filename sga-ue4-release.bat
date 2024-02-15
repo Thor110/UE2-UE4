@@ -111,56 +111,79 @@ umodel -path=%files%\StaticMeshes -export *.usx
 REM for every folder in the umodelexport folder
 for /D %%D in ("%model%\UmodelExport\*") do (
 
+	REM for every file in the StaticMesh folder
     for %%F in ("%%~D\StaticMesh\*.pskx*") do (
+	
+		REM move file to the parent directory
         move /Y "%%~F" "%%~dpF.."
     )
 )
 
+REM removed for now
 Rem FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap) DO @IF EXIST "%%d" rd /s /q "%%d"
 
+REM for every directory in the umodelexport folder move to the UE4 StaticMeshes folder
 for /f "delims=|" %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\StaticMeshes\%%f"
 
+REM rename map extensions from .unr to .ut2 so that umodel can extract files from them
 for /r "%files%\Maps" %%G in (*.unr) do ren "%%~G" *.ut2
 
+REM export files from the map files with umodel
 umodel -path=%files%\Maps -export *.ut2
 
+REM for every directory in the umodelexport folder move to the UE4 Maps folder
 for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Maps\%%f
 
+REM change directory to the UT2004 System folder
 cd /d %level%\System
 
-for /f "usebackq delims=|" %%f in (`dir /b "%files%\Sounds\"`) do ucc batchexport %files%\Sounds\%%f sound wav %model%\UmodelExport\%%~nf
+REM for every file in the Sounds folder do batchexport with ucc 
+for /f "usebackq delims=|" %%f in (`dir /b "%files%\Sounds\"`) do ucc batchexport %files%\Sounds\%%f sound wav %start%\Sounds\%%~nf
 
-for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Sounds\%%f
+REM line no longer used
+REM for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Sounds\%%f
 
+REM for every file in the sounds directory convert through ffmpeg
 for /f "usebackq delims=|" %%f in (`dir /b "%start%\Sounds\"`) do "%sound%\bin\ffmpeg" "%%f" "%%f"
 
+REM delete the duplicate game folder removed for now
 REM rmdir /q /s %files%
 
 Rem deleting truncated meshes that fail to convert to fbx
-
 del %start%\StaticMeshes\M04Meshes\M04_room_arch_1024_2.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_bodycollision.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster01.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster02.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster03.pskx %start%\StaticMeshes\veh_Alkesh\veh_alkesh_thruster04.pskx
 
+REM disable delayed expansion
 setlocal disableDelayedExpansion
 
+REM set Input/Output/Find/Insert strings
 set InputFile=%first%\batch-convert-fbx.txt
 set OutputFile=%blend%\batch-convert-fbx.py
 set "_strFind=path = 'C:\'"
 set "_strInsert=path = '%start%'"
 
+REM write to output file
 >"%OutputFile%" (
+
+REM for every line in the InputFile
 for /f "usebackq delims=" %%A in ("%InputFile%") do (
+
+	REM if line equals _strFind echo _strInsert else echo line
     if "%%A" equ "%_strFind%" (echo %_strInsert%) else (echo %%A)
   )
 )
 
-cd %blend%
+REM change directory to the blender directory
+cd /d %blend%
 
+REM batch convert psk/pskx/psa to FBX with blender
 blender -b -P batch-convert-fbx.py
 
+REM delete the following filetypes from the StaticMeshes, Animations & Maps folders in the UE4 directory ( .pskx, .psk, .psa, .config )
 del /S %start%\StaticMeshes\*.pskx %start%\StaticMeshes\*.psk %start%\StaticMeshes\*.psa %start%\StaticMeshes\*.config %start%\Animations\*.psk %start%\Animations\*.psa %start%\Animations\*.config %start%\Maps\*.pskx
 
-exit
 pause
+REM pause and exit for now
+exit
 
 REM Moving Map Textures to Maps\MapName\TextureFile
 REM Moving Map Static Meshes to StaticMesh\MapName\StaticMesh
@@ -196,10 +219,12 @@ for /D %%D in ("%start%\Animations\*") do (
     )
 )
 
+REM removed for now
 Rem FOR /d /r . %%d IN (SkeletalMesh,Texture,MeshAnimation,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 pause
 exit
+
 REM findstr /L /S /N /M  "Material" *.props.txt* > %first%\A.txt
 REM findstr /L /S /N /M  "Diffuse" *.props.txt* > %first%\B.txt
 
