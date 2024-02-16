@@ -83,10 +83,10 @@ REM for all directories in the umodelexport folder move to the UE4 animations fo
 for /f %%f in ('dir /b %model%\UmodelExport\') do move "%model%\UmodelExport\%%f" "%start%\Animations\%%f"
 
 REM for all directories in the music folder of the game move to the UE4 music folder
-for /f %%f in ('dir /b %files%\Music\') do move %files%\Music\%%f %start%\Music\%%f
+for /f %%f in ('dir /b %files%\Music\') do copy %files%\Music\%%f %start%\Music\%%f
 
 REM for all directories in the speech folder of the game move to the UE4 speech folder
-for /f %%f in ('dir /b %files%\Speech\') do move %files%\Speech\%%f %start%\Speech\%%f
+for /f %%f in ('dir /b %files%\Speech\') do copy %files%\Speech\%%f %start%\Speech\%%f
 
 REM export texture packages with umodel
 umodel -path=%files%\Textures -export *.utx
