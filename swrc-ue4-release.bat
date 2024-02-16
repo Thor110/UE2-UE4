@@ -63,19 +63,20 @@ REM change directory to umodel
 cd /d "%model%"
 
 REM export animations packages with umodel
-umodel -path="%level%\Animations" -export *.ukx
+umodel -path="%level%" -export *.ukx
+for /f "delims=|" %%f in ('dir /b "%level%\Animations"') do move "%model%\UmodelExport\%%~nf" "%start%\Animations\%%~nf"
 
 REM for all directories in the umodelexport folder move to the UE4 animations folder
-for /f %%f in ('dir /b "%model%\UmodelExport"') do move "%model%\UmodelExport\%%f" "%start%\Animations\%%f"
+REM for /f %%f in ('dir /b "%model%\UmodelExport"') do move "%model%\UmodelExport\%%f" "%start%\Animations\%%f"
 
 REM for all directories in the music folder of the game move to the UE4 music folder
 for /f %%f in ('dir /b "%level%\Music"') do copy "%level%\Music\%%f" "%start%\Music\%%f"
 
 REM copy all movie files
-for /f %%f in ("%level%\Movies\*") do copy "%level%\Movies\%%f" "%start%\Movies\%%f"
+for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\Movies\%%f"
 
 REM export texture packages with umodel
-umodel -path="%level%\Textures" -export *.utx
+umodel -path="%level%" -export *.utx
 
 REM for every folder in the umodelexport folder
 for /D %%D in ("%model%\UmodelExport\*") do (
@@ -92,10 +93,10 @@ REM removed for now
 Rem FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 REM for every directory in the umodelexport folder move to the UE4 materials folder
-for /f "delims=|" %%f in ('dir /b "%model%\UmodelExport"') do move "%model%\UmodelExport\%%f" "%start%\Materials\%%f"
+for /f "delims=|" %%f in ('dir /b "%level%\Textures"') do move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
 
 REM export staticmesh packages with umodel
-umodel -path="%level%\StaticMeshes" -export *.usx
+umodel -path="%level%" -export *.usx
 
 REM for every folder in the umodelexport folder
 for /D %%D in ("%model%\UmodelExport\*") do (
@@ -112,13 +113,13 @@ REM removed for now
 Rem FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap,MeshAnimation,SkeletalMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 REM for every directory in the umodelexport folder move to the UE4 StaticMeshes folder
-for /f "delims=|" %%f in ('dir /b "%model%\UmodelExport"') do move "%model%\UmodelExport\%%f" "%start%\StaticMeshes\%%f"
+for /f "delims=|" %%f in ('dir /b "%level%\StaticMeshes"') do move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
 
 REM change directory to the SWRC System folder
 cd /d "%level%\System"
 
 REM for every file in the Sounds folder do batchexport with ucc 
-for /f "usebackq delims=|" %%f in (`dir /b "%level%\Sounds\"`) do ucc batchexport "%level%\Sounds\%%f" sound wav "%start%\Sounds\%%~nf"
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\%%f" sound wav "%start%\Sounds\%%~nf"
 
 REM line no longer used
 REM for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\%%f %start%\Sounds\%%f
@@ -188,6 +189,10 @@ move /Y "%level%\Temporary\params_rumble.uax" "%level%\Sounds"
 move /Y "%level%\Temporary\params_sfx.uax" "%level%\Sounds"
 move /Y "%level%\Temporary\params_vox.uax" "%level%\Sounds"
 rd /s /q "%level%\Temporary"
+
+REM delete leftover files in umodel folder
+rd /s /q "%model%\UModelExport\"
+mkdir "%model%\UModelExport"
 
 pause
 REM pause and exit for now
