@@ -48,9 +48,6 @@ REM make directories
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies"
 REM "%start%\Splash" "%start%\Game"
 
-Rem these packages do not contain any sounds
-REM del %files%\Sounds\banter_voice.uax %files%\Sounds\params_mus.uax %files%\Sounds\params_rumble.uax %files%\Sounds\params_sfx.uax %files%\Sounds\params_vox.uax
-
 REM make temporary directory and move the packages that do not contain any sounds
 mkdir "%level%\Temporary"
 move /Y "%level%\Sounds\banter_voice.uax" "%level%\Temporary"
@@ -64,10 +61,8 @@ cd /d "%model%"
 
 REM export animations packages with umodel
 umodel -path="%level%" -export *.ukx
+REM for all files in the games Animations folder move folders of the same name from umodelexport folder to UE4 Animations folder
 for /f "delims=|" %%f in ('dir /b "%level%\Animations"') do move "%model%\UmodelExport\%%~nf" "%start%\Animations\%%~nf"
-
-REM for all directories in the umodelexport folder move to the UE4 animations folder
-REM for /f %%f in ('dir /b "%model%\UmodelExport"') do move "%model%\UmodelExport\%%f" "%start%\Animations\%%f"
 
 REM for all directories in the music folder of the game move to the UE4 music folder
 for /f %%f in ('dir /b "%level%\Music"') do copy "%level%\Music\%%f" "%start%\Music\%%f"
@@ -89,10 +84,7 @@ for /D %%D in ("%model%\UmodelExport\*") do (
     )
 )
 
-REM removed for now
-Rem FOR /d /r . %%d IN (Texture,Shader,TexEnvMap,TexPanner,Combiner,FinalBlend,TexOscillator,TexRotator,TexScaler,StaticMesh,VertMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
-
-REM for every directory in the umodelexport folder move to the UE4 materials folder
+REM for all files in the games Textures folder move folders of the same name from umodelexport folder to UE4 Materials folder
 for /f "delims=|" %%f in ('dir /b "%level%\Textures"') do move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
 
 REM export staticmesh packages with umodel
@@ -109,10 +101,7 @@ REM for all the following filetypes ( .pskx, .psa, .psk ) in the stated subdirec
     )
 )
 
-REM removed for now
-Rem FOR /d /r . %%d IN (StaticMesh,Shader,Texture,TexEnvMap,MeshAnimation,SkeletalMesh) DO @IF EXIST "%%d" rd /s /q "%%d"
-
-REM for every directory in the umodelexport folder move to the UE4 StaticMeshes folder
+REM for all files in the games StaticMeshes folder move folders of the same name from umodelexport folder to UE4 StaticMeshes folder
 for /f "delims=|" %%f in ('dir /b "%level%\StaticMeshes"') do move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
 
 REM change directory to the SWRC System folder
@@ -126,9 +115,6 @@ REM for /f %%f in ('dir /b %model%\UmodelExport\') do move %model%\UmodelExport\
 
 REM change directory to original directory
 cd "%first%"
-
-REM delete the duplicate game folder removed for now
-REM rmdir /q /s %level%
 
 Rem this mesh fails to convert to fbx so it is deleted
 del "%start%\StaticMeshes\markericons\TrapXSpotIcon.pskx"
@@ -173,14 +159,8 @@ for /D %%D in ("%start%\Animations\*") do (
     )
 )
 
-REM line no longer needed
-REM cd /d %start%\Animations\
-
 REM delete directory that contains files that exist in the Materials folder already
 rd /s /q "%start%\Animations\bactadispensers\BactaDispenserGEO"
-
-REM line no longer used
-Rem FOR /d /r . %%d IN (SkeletalMesh,Texture,MeshAnimation,VertMesh,Shader) DO @IF EXIST "%%d" rd /s /q "%%d"
 
 REM move sound packages back and delete temporary directory
 move /Y "%level%\Temporary\banter_voice.uax" "%level%\Sounds"
