@@ -13862,7 +13862,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10A/M10a_AlphaLayer_Wetland_Sand_Mat.M10a_AlphaLayer_Wetland_Sand_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10A/M10a_AlphaLayer_Wetland_Sand_Mat.M10a_AlphaLayer_Wetland_Sand_Mat Link=0
 					Origin   -00256.000000,-00256.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -13882,7 +13882,7 @@ Begin Map
 					Vertex   +00320.000000,+00256.000000,-00256.000000
 					Vertex   +00320.000000,+00256.000000,-00288.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10A/M10a_AlphaLayer_Wetland_Sand_Mat.M10a_AlphaLayer_Wetland_Sand_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10A/M10a_AlphaLayer_Wetland_Sand_Mat.M10a_AlphaLayer_Wetland_Sand_Mat Link=2
 					Origin   +00256.000000,+00256.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000

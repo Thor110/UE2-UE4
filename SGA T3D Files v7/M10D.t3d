@@ -344,7 +344,7 @@ Begin Map
 					Vertex   +03840.002000,-02303.985000,+00064.000000
 					Vertex   +03840.002000,-02303.985000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +01792.004000,-02303.992000,-00512.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -354,7 +354,7 @@ Begin Map
 					Vertex   -00255.995600,-02304.000000,+00064.000000
 					Vertex   -00255.995600,-02304.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -00255.995600,-02304.000000,-00512.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.999999,+00000.000000
@@ -438,7 +438,7 @@ Begin Map
 					Vertex   -05120.000000,+04095.978000,+00576.000000
 					Vertex   -05120.000000,+04095.978000,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   -01024.006000,+05119.992000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -492,7 +492,7 @@ Begin Map
 					Vertex   +04608.000000,-02047.984000,+00512.000000
 					Vertex   +04608.000000,-02047.984000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +02560.001000,-02047.991000,-00512.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -512,7 +512,7 @@ Begin Map
 					Vertex   +00511.998800,-01023.999000,+00512.000000
 					Vertex   +00384.000000,-01280.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   +02559.994000,+00000.008057,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -566,7 +566,7 @@ Begin Map
 					Vertex   +04352.001000,-01791.985000,+00512.000000
 					Vertex   +04352.001000,-01791.985000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +02304.002000,-01791.992000,-00512.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -586,7 +586,7 @@ Begin Map
 					Vertex   +00256.000000,-01024.000000,+00512.000000
 					Vertex   +00255.999300,-00768.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   +02303.995000,+00256.006700,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -596,7 +596,7 @@ Begin Map
 					Vertex   +00256.002700,-01792.000000,+00512.000000
 					Vertex   +04352.001000,-01791.985000,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   +00255.995400,+00255.999500,-00512.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -620,7 +620,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -01024.000000,-01024.000000,-00512.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -630,7 +630,7 @@ Begin Map
 					Vertex   +01024.001000,-01535.992000,+00000.000000
 					Vertex   +01024.001000,-01535.992000,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   +01023.999000,-01023.993000,-00512.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -640,7 +640,7 @@ Begin Map
 					Vertex   +01024.006000,-03071.992000,+00000.000000
 					Vertex   +01024.006000,-03071.992000,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +01024.006000,-03071.992000,-00512.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -694,7 +694,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -258047.100000,-220510.400000,-144894.400000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -704,7 +704,7 @@ Begin Map
 					Vertex   +00767.998600,-02816.001000,+00063.996090
 					Vertex   +02815.998000,-02815.994000,+00063.996090
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   +05119.990000,-01023.987000,-00512.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -713,7 +713,7 @@ Begin Map
 					Vertex   +02815.999000,-03071.993000,+00576.000000
 					Vertex   +02815.999000,-03071.993000,+00063.996060
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +05119.998000,-03071.985000,-00512.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -766,7 +766,7 @@ Begin Map
 					Vertex   +00640.001800,+00384.000900,+00000.000000
 					Vertex   +00512.002500,+00128.000500,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   -01408.005000,+02431.992000,-00512.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -794,7 +794,7 @@ Begin Map
 					Vertex   +00512.000000,+00896.000000,+00000.000000
 					Vertex   +00512.000000,+00896.000000,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   +00639.994900,+02432.000000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -837,7 +837,7 @@ Begin Map
 					Vertex   -00767.999300,+01151.995000,+00000.000000
 					Vertex   -00767.999800,+01279.995000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +00767.999200,+01280.000000,-00512.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -856,7 +856,7 @@ Begin Map
 					Vertex   -00767.999300,+01151.995000,+00000.000000
 					Vertex   -00767.999300,+01151.995000,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   -01279.999000,+01279.993000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -890,7 +890,7 @@ Begin Map
 					Vertex   +01280.001000,-00767.997800,+00000.000000
 					Vertex   +01152.001000,-00767.998400,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   +00256.007200,-02304.001000,-00512.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.999999,+00000.000000
@@ -899,7 +899,7 @@ Begin Map
 					Vertex   +00768.000000,-00384.000000,+00000.000000
 					Vertex   +00767.999500,-00256.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +02303.999000,-00255.994400,-00512.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -918,7 +918,7 @@ Begin Map
 					Vertex   +00768.000000,-00384.000000,+00000.000000
 					Vertex   +00768.000000,-00384.000000,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   +00256.000100,-00256.002000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -962,7 +962,7 @@ Begin Map
 					Vertex   +00512.001500,+00512.000400,+00000.000000
 					Vertex   +00512.001500,+00512.000400,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +00512.001500,+00512.000400,-00512.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -1066,7 +1066,7 @@ Begin Map
 					Vertex   -01791.997000,+03071.986000,+00512.000000
 					Vertex   +02304.000000,+03072.000000,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   -01792.009000,+06399.984000,-00512.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -1100,7 +1100,7 @@ Begin Map
 					Vertex   +03071.999000,-01023.993000,+00512.000000
 					Vertex   +03071.999000,-01023.993000,+00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   +03071.992000,+01024.006000,-00512.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -1140,7 +1140,7 @@ Begin Map
 					Vertex   +01024.004000,-02304.000000,+00512.000000
 					Vertex   +03072.004000,-02303.992000,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   +01023.993000,+01023.999000,-00512.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -1214,7 +1214,7 @@ Begin Map
 					Vertex   +00256.003100,+00511.992800,+01024.000000
 					Vertex   +02304.002000,+00512.000100,+01024.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   +00255.988500,+04351.991000,-00512.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -1238,7 +1238,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   +00000.000000,-02047.996000,-00512.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -1258,7 +1258,7 @@ Begin Map
 					Vertex   +03072.006000,-04095.985000,-00512.000000
 					Vertex   +03072.006000,-04095.985000,-01664.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +02048.006000,-04095.988000,-00512.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -1312,7 +1312,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   +01279.992000,+02815.996000,-00256.000000
 					Normal   +00000.000000,+00000.894427,-00000.447214
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -1332,7 +1332,7 @@ Begin Map
 					Vertex   +02047.994000,+02047.999000,+00256.000000
 					Vertex   +02047.994000,+02047.999000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   -64000.080000,+30719.750000,+00000.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00003.999998,+00000.000000,+00000.000000
@@ -1362,7 +1362,7 @@ Begin Map
 					Vertex   +01023.995000,+02047.995000,+00256.000000
 					Vertex   +02047.994000,+02047.999000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   +01279.992000,+02815.996000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -1406,7 +1406,7 @@ Begin Map
 					Vertex   +04352.006000,-03071.985000,+00512.000000
 					Vertex   +04352.006000,-03071.985000,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +02304.002000,-01791.992000,-00512.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -1534,7 +1534,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -64512.060000,+33279.750000,+00000.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00003.999998,+00000.000000,+00000.000000
@@ -1544,7 +1544,7 @@ Begin Map
 					Vertex   +01535.999000,+04095.998000,+00256.000000
 					Vertex   +01535.999000,+04095.998000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   -64512.060000,+33279.750000,+00000.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -1564,7 +1564,7 @@ Begin Map
 					Vertex   +02047.997000,+04608.000000,+00256.000000
 					Vertex   +02047.997000,+04608.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -64512.060000,+33279.750000,+00000.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00003.999998,+00000.000000
@@ -1648,7 +1648,7 @@ Begin Map
 					Vertex   -00256.000000,-03328.000000,+01280.000000
 					Vertex   -00256.000000,-03328.000000,-02816.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   -63744.080000,+29439.750000,+05120.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -1702,7 +1702,7 @@ Begin Map
 					Vertex   +02560.000000,-00127.997300,-00768.000000
 					Vertex   +02560.000000,-00127.997300,-01280.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +01919.994000,+01664.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -1853,7 +1853,7 @@ Begin Map
 					Vertex   +02112.000000,+00032.000840,-00928.000000
 					Vertex   +02240.000000,+00032.001430,-01280.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +01983.994000,+01728.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -1907,7 +1907,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   +01471.993000,+02239.997000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -1927,7 +1927,7 @@ Begin Map
 					Vertex   +02112.000000,+00032.000840,-00928.000000
 					Vertex   +02240.000000,+00032.001430,-01280.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +01983.994000,+01728.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -2001,7 +2001,7 @@ Begin Map
 					Vertex   +00512.007100,-02047.997000,-00768.000000
 					Vertex   +00512.007100,-02047.997000,-01280.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +00256.000800,-00255.998900,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -2055,7 +2055,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   +01183.992000,+02719.996000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -2203,7 +2203,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -00256.001500,+00767.997900,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -2223,7 +2223,7 @@ Begin Map
 					Vertex   +00256.001900,-00255.999600,+00256.000000
 					Vertex   +00256.001900,-00255.999600,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +00256.000000,+00256.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
@@ -2455,7 +2455,7 @@ Begin Map
 					Vertex   -02367.993000,-01664.003000,+00512.000000
 					Vertex   -02367.992000,-01856.003000,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -02367.992000,-01856.003000,-00512.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.999999,+00000.000000
@@ -2475,7 +2475,7 @@ Begin Map
 					Vertex   -02367.993000,-01664.003000,+00512.000000
 					Vertex   -01343.993000,-01664.000000,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   -02367.999000,+00191.995500,-00512.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -2634,7 +2634,7 @@ Begin Map
 					Vertex   +01535.997000,+04096.000000,+00256.000000
 					Vertex   +01535.997000,+04096.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   -64512.070000,+32255.760000,+00000.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00003.999998,+00000.000000,+00000.000000
@@ -2738,7 +2738,7 @@ Begin Map
 					Vertex   +02047.999000,+03072.003000,+00256.000000
 					Vertex   +01024.000000,+03072.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   -65024.050000,+31743.750000,+04096.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.999999,+00000.000000
@@ -2802,7 +2802,7 @@ Begin Map
 					Vertex   +02048.000000,+04096.000000,-00192.000000
 					Vertex   +02048.000000,+04096.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   -65024.070000,+33791.740000,+00000.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -2812,7 +2812,7 @@ Begin Map
 					Vertex   +02047.997000,+05120.000000,-00192.000000
 					Vertex   +01023.998000,+05119.997000,-00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   -65024.070000,+33791.740000,+04096.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.999999,+00000.000000
@@ -2920,7 +2920,7 @@ Begin Map
 					Vertex   -00768.000000,+03584.000000,+00512.000000
 					Vertex   -00768.000000,+03584.000000,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   +24063.740000,+71680.050000,-00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -2930,7 +2930,7 @@ Begin Map
 					Vertex   -02815.999000,+03583.992000,+00512.000000
 					Vertex   -02815.992000,+01535.994000,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   +24063.740000,+71680.050000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00001.999999,+00000.000000
@@ -2954,7 +2954,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -00128.000000,-00256.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -3028,7 +3028,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -00128.000000,-00256.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.999999,+00000.000000,+00000.000000
@@ -3112,7 +3112,7 @@ Begin Map
 					Vertex   -00447.999300,+04095.996000,+00256.000000
 					Vertex   -00447.999300,+04095.996000,+00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   -65472.070000,+32831.750000,+00000.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -3132,7 +3132,7 @@ Begin Map
 					Vertex   +00575.999800,+04160.000000,+00256.000000
 					Vertex   +00575.999800,+04160.000000,+00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -01215.991000,+01855.995000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -3142,7 +3142,7 @@ Begin Map
 					Vertex   +00576.000000,+04096.000000,+00256.000000
 					Vertex   +00576.000000,+04096.000000,+00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   -66496.060000,+32319.750000,+00000.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -3186,7 +3186,7 @@ Begin Map
 					Vertex   +00448.000100,+03200.000000,+00256.000000
 					Vertex   +00448.000100,+03200.000000,-00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   -64576.080000,+31935.760000,+00000.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -3216,7 +3216,7 @@ Begin Map
 					Vertex   +00576.000000,+03200.000000,+00256.000000
 					Vertex   +00576.000000,+03200.000000,-00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   -65600.080000,+31423.760000,+00000.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -3226,7 +3226,7 @@ Begin Map
 					Vertex   +00576.000400,+03264.000000,+00256.000000
 					Vertex   +00448.000000,+03264.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   -64576.080000,+31935.760000,+00000.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.999999,+00000.000000
@@ -3280,7 +3280,7 @@ Begin Map
 					Vertex   +00576.000400,+03264.000000,+00256.000000
 					Vertex   +00576.000400,+03264.000000,-00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -00319.991800,+00959.998000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -3290,7 +3290,7 @@ Begin Map
 					Vertex   +00576.000000,+03200.000000,+00256.000000
 					Vertex   +00576.000000,+03200.000000,-00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=4
 					Origin   -65600.080000,+31423.760000,+00000.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.999999,+00000.000000
@@ -3300,7 +3300,7 @@ Begin Map
 					Vertex   +00576.000400,+03264.000000,+00256.000000
 					Vertex   +00448.000000,+03264.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=5
 					Origin   -64576.080000,+31935.760000,+00000.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.999999,+00000.000000
@@ -3810,7 +3810,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -65792.060000,+33023.750000,+00000.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00003.999998,+00000.000000,+00000.000000
@@ -3820,7 +3820,7 @@ Begin Map
 					Vertex   +00768.000100,+04095.998000,+00064.000000
 					Vertex   +00768.000100,+04095.998000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   -65792.060000,+33023.750000,+00000.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -3830,7 +3830,7 @@ Begin Map
 					Vertex   +00767.999300,+04351.999000,+00256.000000
 					Vertex   +00767.999300,+04351.999000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   -65792.060000,+33023.750000,+00000.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00003.999998,+00000.000000,+00000.000000
@@ -3840,7 +3840,7 @@ Begin Map
 					Vertex   +01279.999000,+04352.000000,+00256.000000
 					Vertex   +01279.999000,+04352.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -65792.060000,+33023.750000,+00000.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00003.999998,+00000.000000
@@ -3894,7 +3894,7 @@ Begin Map
 					Vertex   +01024.001000,+03328.000000,+00064.000000
 					Vertex   +01024.001000,+03328.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   -65536.060000,+32255.750000,+00000.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -3904,7 +3904,7 @@ Begin Map
 					Vertex   +01024.000000,+03584.000000,+00064.000000
 					Vertex   +01024.000000,+03584.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   -65536.060000,+32255.750000,+00000.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00003.999998,+00000.000000,+00000.000000
@@ -3914,7 +3914,7 @@ Begin Map
 					Vertex   +01536.000000,+03584.002000,+00064.000000
 					Vertex   +01536.000000,+03584.002000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -65536.060000,+32255.750000,+00000.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00003.999998,+00000.000000
@@ -4157,7 +4157,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -65536.060000,+33279.750000,+00000.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00003.999998,+00000.000000,+00000.000000
@@ -4231,7 +4231,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -65536.060000,+33279.750000,+00000.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00003.999998,+00000.000000,+00000.000000
@@ -4241,7 +4241,7 @@ Begin Map
 					Vertex   +01024.000000,+04095.998000,+00256.000000
 					Vertex   +01024.000000,+04095.998000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   -65536.060000,+33279.750000,+00000.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -4261,7 +4261,7 @@ Begin Map
 					Vertex   +01535.998000,+04607.999000,+00256.000000
 					Vertex   +01535.998000,+04607.999000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -65536.060000,+33279.750000,+00000.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00003.999998,+00000.000000
@@ -4305,7 +4305,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=0
 					Origin   -65792.060000,+33023.750000,+00000.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00003.999998,+00000.000000,+00000.000000
@@ -4315,7 +4315,7 @@ Begin Map
 					Vertex   +00768.000100,+04095.998000,+00064.000000
 					Vertex   +00768.000100,+04095.998000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   -65792.060000,+33023.750000,+00000.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -4325,7 +4325,7 @@ Begin Map
 					Vertex   +00767.999300,+04351.999000,+00256.000000
 					Vertex   +00767.999300,+04351.999000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   -65792.060000,+33023.750000,+00000.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00003.999998,+00000.000000,+00000.000000
@@ -4335,7 +4335,7 @@ Begin Map
 					Vertex   +01279.999000,+04352.000000,+00256.000000
 					Vertex   +01279.999000,+04352.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -65792.060000,+33023.750000,+00000.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00003.999998,+00000.000000
@@ -4389,7 +4389,7 @@ Begin Map
 					Vertex   +01024.001000,+03328.000000,+00064.000000
 					Vertex   +01024.001000,+03328.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=1
 					Origin   -65536.060000,+32255.750000,+00000.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00003.999998,+00000.000000
@@ -4399,7 +4399,7 @@ Begin Map
 					Vertex   +01024.000000,+03584.000000,+00064.000000
 					Vertex   +01024.000000,+03584.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   -65536.060000,+32255.750000,+00000.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00003.999998,+00000.000000,+00000.000000
@@ -4409,7 +4409,7 @@ Begin Map
 					Vertex   +01536.000000,+03584.002000,+00064.000000
 					Vertex   +01536.000000,+03584.002000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=3
 					Origin   -65536.060000,+32255.750000,+00000.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00003.999998,+00000.000000
@@ -4473,7 +4473,7 @@ Begin Map
 					Vertex   +02048.001000,-00511.998000,+00256.000000
 					Vertex   +02048.001000,-00511.998000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Textures/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/M10D/T4_Layer3_Mat.T4_Layer3_Mat Link=2
 					Origin   +01791.995000,+01280.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.999999,+00000.000000,+00000.000000
