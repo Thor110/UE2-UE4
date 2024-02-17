@@ -114,14 +114,14 @@ REM change directory to original directory
 cd /d "%first%"
 
 Rem this mesh fails to convert to fbx so it is deleted
-del "%start%\StaticMeshes\markericons\TrapXSpotIcon.pskx"
+del "%start%\StaticMeshes\markericons\SetTrap\TrapXSpotIcon.pskx"
 
 REM disable delayed expansion
 setlocal disableDelayedExpansion
 
 REM set Input/Output/Find/Insert strings
 set "InputFile=%first%\batch-convert-fbx.txt"
-set "OutputFile=%blend%\batch-convert-fbx.py"
+set "OutputFile=%first%\batch-convert-fbx.py"
 set "_strFind=path = 'C:\'"
 set "_strInsert=path = '%start%'"
 
@@ -140,7 +140,7 @@ REM change directory to the blender directory
 cd /d "%blend%"
 
 REM batch convert psk/pskx/psa to FBX with blender
-blender -b -P batch-convert-fbx.py
+blender -b -P "%first%\batch-convert-fbx.py"
 
 REM delete the following filetypes from the StaticMeshes & Animations folders in the UE4 directory ( .pskx, .psk, .psa, .config )
 del /S "%start%\StaticMeshes\*.pskx" "%start%\StaticMeshes\*.psk" "%start%\StaticMeshes\*.psa" "%start%\StaticMeshes\*.config" "%start%\Animations\*.psk" "%start%\Animations\*.psa" "%start%\Animations\*.config"
