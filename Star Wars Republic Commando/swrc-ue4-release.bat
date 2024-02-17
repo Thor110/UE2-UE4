@@ -93,7 +93,7 @@ umodel -path="%level%" -export *.usx
 REM for every folder in the umodelexport folder
 for /D %%D in ("%model%\UmodelExport\*") do (
 
-REM for all the following filetypes ( .pskx, .psa, .psk ) in the stated subdirectories ( StaticMesh, MeshAnimation, SkeletalMesh )
+	REM for all the following filetypes ( .pskx, .psa, .psk ) in the stated subdirectories ( StaticMesh, MeshAnimation, SkeletalMesh )
     for %%F in ("%%~D\StaticMesh\*.pskx*","%%~D\MeshAnimation\*.psa*","%%~D\SkeletalMesh\*.psk*") do (
 
 		REM move to the parent directory
