@@ -8,7 +8,7 @@ set first=%cd%
 cls
 REM enter directories of required programs
 :UNREAL
-SET /P level="Enter the duplicated Star Wars Republic Commando GameData Directory:"
+SET /P level="Enter the duplicated Postal 2 Directory:"
 if exist "%level%\System\UCC.exe" (
   echo UCC Found.
 ) else (
@@ -46,7 +46,6 @@ if exist "%start%" (
 
 REM make directories
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies"
-REM "%start%\Splash" "%start%\Game"
 
 REM change directory to umodel
 cd /d "%model%"
