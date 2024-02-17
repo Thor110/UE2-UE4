@@ -48,14 +48,6 @@ REM make directories
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies"
 REM "%start%\Splash" "%start%\Game"
 
-REM make temporary directory and move the packages that do not contain any sounds
-mkdir "%level%\Temporary"
-move /Y "%level%\Sounds\banter_voice.uax" "%level%\Temporary"
-move /Y "%level%\Sounds\params_mus.uax" "%level%\Temporary"
-move /Y "%level%\Sounds\params_rumble.uax" "%level%\Temporary"
-move /Y "%level%\Sounds\params_sfx.uax" "%level%\Temporary"
-move /Y "%level%\Sounds\params_vox.uax" "%level%\Temporary"
-
 REM change directory to umodel
 cd /d "%model%"
 
@@ -69,6 +61,7 @@ for /f %%f in ('dir /b "%level%\Music"') do copy "%level%\Music\%%f" "%start%\Mu
 
 REM copy all movie files
 for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\Movies\%%f"
+REM change filetype?
 
 REM export texture packages with umodel
 umodel -path="%level%" -export *.utx
@@ -113,9 +106,6 @@ for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%
 REM change directory to original directory
 cd /d "%first%"
 
-Rem this mesh fails to convert to fbx so it is deleted
-del "%start%\StaticMeshes\markericons\TrapXSpotIcon.pskx"
-
 REM disable delayed expansion
 setlocal disableDelayedExpansion
 
@@ -155,21 +145,6 @@ for /D %%D in ("%start%\Animations\*") do (
         move /Y "%%~F" "%%~dpF.."
     )
 )
-
-REM delete directory that contains files that exist in the Materials folder already
-rd /s /q "%start%\Animations\bactadispensers\BactaDispenserGEO"
-
-REM move sound packages back and delete temporary directory
-move /Y "%level%\Temporary\banter_voice.uax" "%level%\Sounds"
-move /Y "%level%\Temporary\params_mus.uax" "%level%\Sounds"
-move /Y "%level%\Temporary\params_rumble.uax" "%level%\Sounds"
-move /Y "%level%\Temporary\params_sfx.uax" "%level%\Sounds"
-move /Y "%level%\Temporary\params_vox.uax" "%level%\Sounds"
-rd /s /q "%level%\Temporary"
-
-REM delete leftover files in umodel folder
-rd /s /q "%model%\UModelExport\"
-mkdir "%model%\UModelExport"
 
 pause
 REM pause and exit for now

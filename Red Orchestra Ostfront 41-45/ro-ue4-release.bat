@@ -96,7 +96,7 @@ REM for every file in the Sounds folder do batchexport with ucc
 for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\%%f" sound wav "%start%\Sounds\%%~nf"
 
 REM change directory to original directory
-cd "%first%"
+cd /d "%first%"
 
 REM disable delayed expansion
 setlocal disableDelayedExpansion
@@ -137,10 +137,6 @@ for /D %%D in ("%start%\Animations\*") do (
         move /Y "%%~F" "%%~dpF.."
     )
 )
-
-REM delete leftover files in umodel folder
-rd /s /q "%model%\UModelExport\"
-mkdir "%model%\UModelExport"
 
 pause
 REM pause and exit for now
