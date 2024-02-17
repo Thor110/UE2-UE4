@@ -1,0 +1,1273 @@
+Begin Map
+Begin Actor Class=LevelInfo Name=LevelInfo0
+    TimeSeconds=15.340584
+    TimeSecondsAlways=15.340584
+    Summary=LevelSummary'MyLevel.LevelSummary'
+    VisibleGroups="None,StartMenu"
+    CameraLocationDynamic=(X=-1145.429443,Y=-1497.452637,Z=-542.692810)
+    CameraLocationTop=(X=-648.577087,Y=-690.608215,Z=2586.940186)
+    CameraLocationFront=(X=-1380.397583,Y=-43.433083,Z=25436.941406)
+    CameraLocationSide=(Y=112.000000,Z=446759.125000)
+    CameraRotationDynamic=(Pitch=63636,Yaw=11712)
+    NavigationPointList=PlayerStart'MyLevel.PlayerStart0'
+    PhysicsVolumeList=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    AmbientBrightness=194
+    DistanceFogColor=(B=48,G=60,R=137)
+    DistanceFogStart=2000.000000
+    DistanceFogEnd=5000.000000
+    bNetDirty=True
+    Tag="LevelInfo"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'MyLevel.LevelInfo0',iLeaf=-1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Name="LevelInfo0"
+End Actor
+Begin Actor Class=Brush Name=Brush0
+    MainScale=(SheerAxis=SHEER_ZX)
+    PostScale=(SheerAxis=SHEER_ZX)
+    bNetDirty=True
+    LastRenderTime=505.498779
+    Tag="Brush"
+    Group="Cube"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=LevelInfo'MyLevel.LevelInfo0',iLeaf=-1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-14288.000000,Y=-9680.000000,Z=20688.000000)
+    Begin Brush Name=Brush
+       Begin PolyList
+          Begin Polygon
+             Origin   -04064.000000,-04096.000000,-04096.000000
+             Normal   -00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,+00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -04064.000000,-04096.000000,-04096.000000
+             Vertex   -04064.000000,-04096.000000,+04096.000000
+             Vertex   -04064.000000,+04096.000000,+04096.000000
+             Vertex   -04064.000000,+04096.000000,-04096.000000
+          End Polygon
+          Begin Polygon
+             Origin   -04064.000000,+04096.000000,-04096.000000
+             Normal   +00000.000000,+00001.000000,+00000.000000
+             TextureU +00001.003922,-00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -04064.000000,+04096.000000,-04096.000000
+             Vertex   -04064.000000,+04096.000000,+04096.000000
+             Vertex   +04096.000000,+04096.000000,+04096.000000
+             Vertex   +04096.000000,+04096.000000,-04096.000000
+          End Polygon
+          Begin Polygon
+             Origin   +04096.000000,+04096.000000,-04096.000000
+             Normal   +00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,-00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +04096.000000,+04096.000000,-04096.000000
+             Vertex   +04096.000000,+04096.000000,+04096.000000
+             Vertex   +04096.000000,-04096.000000,+04096.000000
+             Vertex   +04096.000000,-04096.000000,-04096.000000
+          End Polygon
+          Begin Polygon
+             Origin   +04096.000000,-04096.000000,-04096.000000
+             Normal   +00000.000000,-00001.000000,+00000.000000
+             TextureU -00001.003922,-00000.000000,-00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +04096.000000,-04096.000000,-04096.000000
+             Vertex   +04096.000000,-04096.000000,+04096.000000
+             Vertex   -04064.000000,-04096.000000,+04096.000000
+             Vertex   -04064.000000,-04096.000000,-04096.000000
+          End Polygon
+          Begin Polygon
+             Origin   -04064.000000,+04096.000000,+04096.000000
+             Normal   +00000.000000,+00000.000000,+00001.000000
+             TextureU +00001.003922,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00001.000000,+00000.000000
+             Vertex   -04064.000000,+04096.000000,+04096.000000
+             Vertex   -04064.000000,-04096.000000,+04096.000000
+             Vertex   +04096.000000,-04096.000000,+04096.000000
+             Vertex   +04096.000000,+04096.000000,+04096.000000
+          End Polygon
+          Begin Polygon
+             Origin   -04064.000000,-04096.000000,-04096.000000
+             Normal   +00000.000000,+00000.000000,-00001.000000
+             TextureU +00001.003922,+00000.000000,+00000.000000
+             TextureV +00000.000000,-00001.000000,+00000.000000
+             Vertex   -04064.000000,-04096.000000,-04096.000000
+             Vertex   -04064.000000,+04096.000000,-04096.000000
+             Vertex   +04096.000000,+04096.000000,-04096.000000
+             Vertex   +04096.000000,-04096.000000,-04096.000000
+          End Polygon
+       End PolyList
+    End Brush
+    Brush=Model'MyLevel.Brush'
+    PrePivot=(X=4096.000000,Y=4096.000000,Z=-4096.000000)
+    Name="Brush0"
+End Actor
+Begin Actor Class=DefaultPhysicsVolume Name=DefaultPhysicsVolume0
+    Priority=-1000000
+    bNoDelete=True
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="DefaultPhysicsVolume"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    bSelected=True
+    Name="DefaultPhysicsVolume0"
+End Actor
+Begin Actor Class=SceneManager Name=SceneManager0
+    Begin Object Class=ActionPause Name=ActionPause0
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint15'
+        Begin Object Class=SubActionOrientation Name=SubActionOrientation0
+            CamOrientation=(CamOrientation=CAMORIENT_LookAtActor,LookAtTag="center",MA=398148480)
+            Name="SubActionOrientation0"
+        End Object
+        SubActions(0)=SubActionOrientation'MyLevel.MyLevel.SubActionOrientation0'
+        StartControlPoint=(X=1.602600,Y=178.680359,Z=-6.000000)
+        EndControlPoint=(X=-1.602600,Y=-178.680359,Z=6.000000)
+        Name="ActionPause0"
+    End Object
+    Actions(0)=ActionPause'MyLevel.MyLevel.ActionPause0'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera3
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint7'
+        Duration=10.000000
+        StartControlPoint=(X=222.132019,Y=9.357147,Z=-86.466370)
+        EndControlPoint=(X=-222.132019,Y=-9.357147,Z=86.466370)
+        PathLength=659.163879
+        Name="ActionMoveCamera3"
+    End Object
+    Actions(1)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera3'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera0
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint16'
+        Duration=10.000000
+        StartControlPoint=(X=2.978394,Y=-246.162476,Z=-83.000000)
+        EndControlPoint=(X=-2.978394,Y=246.162476,Z=83.000000)
+        PathLength=732.669617
+        Name="ActionMoveCamera0"
+    End Object
+    Actions(2)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera0'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera1
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint6'
+        Duration=10.000000
+        StartControlPoint=(X=-251.386597,Y=-3.133484,Z=-91.000000)
+        EndControlPoint=(X=251.386597,Y=3.133484,Z=91.000000)
+        PathLength=726.740906
+        Name="ActionMoveCamera1"
+    End Object
+    Actions(3)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera1'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera2
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint8'
+        Duration=10.000000
+        StartControlPoint=(X=-3.631729,Y=264.917480,Z=0.142578)
+        EndControlPoint=(X=3.631729,Y=-264.917480,Z=-0.142578)
+        PathLength=762.124023
+        Name="ActionMoveCamera2"
+    End Object
+    Actions(4)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera2'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera4
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint1'
+        Duration=10.000000
+        StartControlPoint=(X=272.165039,Y=-5.996582,Z=92.000000)
+        EndControlPoint=(X=-272.165039,Y=5.996582,Z=-92.000000)
+        PathLength=782.676453
+        Name="ActionMoveCamera4"
+    End Object
+    Actions(5)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera4'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera5
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint2'
+        Duration=10.000000
+        StartControlPoint=(X=0.706665,Y=-224.991821,Z=78.973572)
+        EndControlPoint=(X=-0.706665,Y=224.991821,Z=-78.973572)
+        PathLength=736.376953
+        Name="ActionMoveCamera5"
+    End Object
+    Actions(6)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera5'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera6
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint3'
+        Duration=10.000000
+        StartControlPoint=(X=-301.853363,Y=-18.768188,Z=77.499222)
+        EndControlPoint=(X=301.853363,Y=18.768188,Z=-77.499222)
+        PathLength=769.855225
+        Name="ActionMoveCamera6"
+    End Object
+    Actions(7)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera6'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera7
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint15'
+        Duration=10.000000
+        StartControlPoint=(X=-3.747211,Y=258.162628,Z=-1.264374)
+        EndControlPoint=(X=3.747211,Y=-258.162628,Z=1.264374)
+        PathLength=819.185791
+        Name="ActionMoveCamera7"
+    End Object
+    Actions(8)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera7'
+    bLooping=True
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="loop"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1816.791016,Y=-686.092041,Z=114.445900)
+    bSelected=True
+    Name="SceneManager0"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint7
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-412.066498,Y=-141.365112,Z=-509.100769)
+    Rotation=(Pitch=-1856,Yaw=-16720)
+    bSelected=True
+    Name="InterpolationPoint7"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint16
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=51.548798,Y=-582.630920,Z=-701.421387)
+    Rotation=(Pitch=-900,Yaw=-33228)
+    bSelected=True
+    Name="InterpolationPoint16"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint6
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-381.010345,Y=-1037.305908,Z=-899.924500)
+    Rotation=(Pitch=1032,Yaw=-49752)
+    bSelected=True
+    Name="InterpolationPoint6"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint8
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-845.178833,Y=-575.853577,Z=-1107.926147)
+    Rotation=(Pitch=2444,Yaw=-65548)
+    bSelected=True
+    Name="InterpolationPoint8"
+End Actor
+Begin Actor Class=Light Name=Light3
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="Light"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=620.559204,Y=-561.872192,Z=-742.113281)
+    Rotation=(Pitch=1984,Yaw=11776)
+    LightPeriod=21
+    LightPhase=5
+    LightCone=204
+    bDirectional=True
+    bSelected=True
+    Name="Light3"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint1
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-366.950378,Y=-104.840508,Z=-905.067566)
+    Rotation=(Yaw=-81512)
+    bSelected=True
+    Name="InterpolationPoint1"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint2
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=89.184402,Y=-550.931091,Z=-698.149780)
+    Rotation=(Yaw=-98048)
+    bSelected=True
+    Name="InterpolationPoint2"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint3
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-360.700134,Y=-1055.493774,Z=-514.644226)
+    Rotation=(Pitch=-2064,Yaw=-114344)
+    bSelected=True
+    Name="InterpolationPoint3"
+End Actor
+Begin Actor Class=PlayerStart Name=PlayerStart0
+    bPathsChanged=True
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="PlayerStart"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Event="CheckStart"
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1729.129517,Y=-782.898926,Z=-3804.000000)
+    RelativeLocation=(X=-1114.916748,Y=-459.247681,Z=-3804.000000)
+    bSelected=True
+    Name="PlayerStart0"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor44
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-532.979675,Y=-254.748856,Z=-616.000000)
+    Rotation=(Pitch=1024,Yaw=2048)
+    StaticMesh=StaticMesh'Timb_mesh.bank.money_block'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance6'
+    DrawScale=5.000000
+    Skins(0)=Texture'Startup_HiRes.HiRes.100bill'
+    ColLocation=(X=-532.979675,Y=-254.748856,Z=-616.000000)
+    bSelected=True
+    Name="StaticMeshActor44"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor6
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-507.760803,Y=-346.502625,Z=-1192.894287)
+    Rotation=(Pitch=5120,Yaw=-9560,Roll=552)
+    StaticMesh=StaticMesh'Timb_mesh.Items.picket_timb'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance7'
+    DrawScale=5.000000
+    Skins(0)=Texture'Startup_HiRes.HiRes.protest8'
+    bLightChanged=True
+    ColLocation=(X=-507.760803,Y=-346.502625,Z=-1192.894287)
+    bSelected=True
+    Name="StaticMeshActor6"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor16
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-658.724121,Y=-465.788513,Z=-416.000000)
+    Rotation=(Pitch=5120,Yaw=33792)
+    StaticMesh=StaticMesh'Timb_mesh.fooo.milk_timb'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance8'
+    DrawScale=5.000000
+    Skins(0)=Texture'Startup_HiRes.HiRes.milk_timb'
+    ColLocation=(X=-658.724121,Y=-465.788513,Z=-416.000000)
+    bSelected=True
+    Name="StaticMeshActor16"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor3
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-501.258667,Y=-326.973633,Z=-465.000000)
+    Rotation=(Pitch=66560,Yaw=40960,Roll=-8192)
+    StaticMesh=StaticMesh'Timb_mesh.Items.paycheck'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance9'
+    DrawScale=5.000000
+    Skins(0)=Texture'Startup_HiRes.HiRes.cheque_timb'
+    ColLocation=(X=-501.258667,Y=-326.973633,Z=-465.000000)
+    bSelected=True
+    Name="StaticMeshActor3"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor7
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-191.838242,Y=-408.436188,Z=-527.000000)
+    Rotation=(Pitch=26624,Yaw=-27648,Roll=-9216)
+    StaticMesh=StaticMesh'Timb_mesh.Items.book_timb'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance10'
+    DrawScale=4.000000
+    Skins(0)=Texture'Startup_HiRes.HiRes.book_timb'
+    ColLocation=(X=-191.838242,Y=-408.436188,Z=-527.000000)
+    bSelected=True
+    Name="StaticMeshActor7"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint15
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-830.619751,Y=-533.897644,Z=-306.423492)
+    Rotation=(Pitch=-2868,Yaw=6084)
+    bSelected=True
+    Name="InterpolationPoint15"
+End Actor
+Begin Actor Class=LookTarget Name=LookTarget0
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="center"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-375.411743,Y=-586.531555,Z=-729.000000)
+    bSelected=True
+    Name="LookTarget0"
+End Actor
+Begin Actor Class=AmbientSound Name=AmbientSound1
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="AmbientSound"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    AmbientSound=Sound'AmbientSounds.235'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-383.014862,Y=-191.932861,Z=-504.000000)
+    SoundRadius=8.000000
+    SoundVolume=148
+    bSelected=True
+    Name="AmbientSound1"
+End Actor
+Begin Actor Class=AmbientSound Name=AmbientSound3
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="AmbientSound"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    AmbientSound=Sound'AmbientSounds.crickets2'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-417.995453,Y=-566.510376,Z=-298.000000)
+    SoundRadius=32.000000
+    SoundVolume=128
+    bSelected=True
+    Name="AmbientSound3"
+End Actor
+Begin Actor Class=AmbientSound Name=AmbientSound0
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="AmbientSound"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    AmbientSound=Sound'AmbientSounds.71'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-343.648651,Y=-1010.408325,Z=-875.000000)
+    SoundRadius=8.000000
+    SoundVolume=153
+    bSelected=True
+    Name="AmbientSound0"
+End Actor
+Begin Actor Class=AmbientSound Name=AmbientSound2
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="AmbientSound"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    AmbientSound=Sound'AmbientSounds.49'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-388.995453,Y=-534.510376,Z=-1146.000000)
+    SoundRadius=32.000000
+    SoundVolume=128
+    bSelected=True
+    Name="AmbientSound2"
+End Actor
+Begin Actor Class=ScriptedTrigger Name=ScriptedTrigger1
+    Begin Object Class=ACTION_WaitForTimer Name=ACTION_WaitForTimer2
+        PauseTime=0.500000
+        Name="ACTION_WaitForTimer2"
+    End Object
+    Actions(0)=ACTION_WaitForTimer'MyLevel.ACTION_WaitForTimer2'
+    Begin Object Class=ACTION_ShellMenu Name=ACTION_ShellMenu0
+        Name="ACTION_ShellMenu0"
+    End Object
+    Actions(1)=ACTION_ShellMenu'MyLevel.ACTION_ShellMenu0'
+    myMarker=AIMarker'MyLevel.AIMarker11'
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="loop"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1576.383179,Y=-721.091980)
+    bSelected=True
+    Name="ScriptedTrigger1"
+End Actor
+Begin Actor Class=SceneManager Name=SceneManager3
+    Begin Object Class=ActionPause Name=ActionPause2
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint10'
+        Begin Object Class=SubActionOrientation Name=SubActionOrientation2
+            CamOrientation=(CamOrientation=CAMORIENT_LookAtActor,LookAtTag="center",MA=625506464)
+            Name="SubActionOrientation2"
+        End Object
+        SubActions(0)=SubActionOrientation'MyLevel.MyLevel.SubActionOrientation2'
+        StartControlPoint=(X=2.141289,Y=-253.476013,Z=5.490143)
+        EndControlPoint=(X=-2.141289,Y=253.476013,Z=-5.490143)
+        PathLength=564.664429
+        Name="ActionPause2"
+    End Object
+    Actions(0)=ActionPause'MyLevel.MyLevel.ActionPause2'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera9
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint11'
+        Duration=10.000000
+        Begin Object Class=SubActionTitle Name=SubActionTitle3
+            CameraEffect=CameraTitle'MyLevel.MyLevel.CameraTitle3'
+            Duration=4.000000
+            Name="SubActionTitle3"
+        End Object
+        SubActions(0)=SubActionTitle'MyLevel.MyLevel.SubActionTitle3'
+        StartControlPoint=(X=-244.576324,Y=8.336243,Z=-23.828796)
+        EndControlPoint=(X=244.576324,Y=-8.336243,Z=23.828796)
+        PathLength=648.174316
+        Name="ActionMoveCamera9"
+    End Object
+    Actions(1)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera9'
+    NextSceneTag="Postal2Logo"
+    bLetPlayerSkip=True
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="RWSLogo"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1767.241943,Y=-687.365723,Z=114.000000)
+    bSelected=True
+    Name="SceneManager3"
+End Actor
+Begin Actor Class=Light Name=Light2
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="Light"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-914.955566,Y=-226.410187,Z=-973.000000)
+    Rotation=(Pitch=6180,Yaw=-16584)
+    LightEffect=LE_Spotlight
+    bDirectional=True
+    bSelected=True
+    Name="Light2"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor45
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-338.099518,Y=-256.633026,Z=-708.000000)
+    Rotation=(Pitch=-7168,Yaw=11264,Roll=-3072)
+    StaticMesh=StaticMesh'stuff.stuff1.Clipboard'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance11'
+    DrawScale=4.000000
+    Skins(0)=Texture'Startup_HiRes.HiRes.clipboard_timb'
+    ColLocation=(X=-338.099518,Y=-256.633026,Z=-708.000000)
+    bSelected=True
+    Name="StaticMeshActor45"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor46
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-472.809967,Y=-853.607605,Z=-852.000000)
+    Rotation=(Pitch=-41984,Yaw=28672,Roll=11264)
+    StaticMesh=StaticMesh'stuff.stuff1.GaryBook'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance12'
+    DrawScale=4.500000
+    Skins(0)=Texture'Startup_HiRes.HiRes.book_gary_timb'
+    ColLocation=(X=-472.809967,Y=-853.607605,Z=-852.000000)
+    bSelected=True
+    Name="StaticMeshActor46"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor47
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-519.960388,Y=-785.852478,Z=-496.000000)
+    Rotation=(Pitch=-3072,Yaw=-7168,Roll=3072)
+    StaticMesh=StaticMesh'stuff.stuff1.Food'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance13'
+    DrawScale=5.000000
+    ColLocation=(X=-519.960388,Y=-785.852478,Z=-496.000000)
+    bSelected=True
+    Name="StaticMeshActor47"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor49
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-660.573181,Y=-496.858459,Z=-1072.000000)
+    Rotation=(Pitch=9216,Yaw=-10240)
+    StaticMesh=StaticMesh'stuff.stuff1.NapalmProjectile'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance14'
+    DrawScale=2.000000
+    ColLocation=(X=-660.573181,Y=-496.858459,Z=-1072.000000)
+    bSelected=True
+    Name="StaticMeshActor49"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor50
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-693.856995,Y=-711.280029,Z=-1031.000000)
+    Rotation=(Pitch=2048,Yaw=-31744,Roll=68608)
+    StaticMesh=StaticMesh'stuff.stuff1.KrotchyToy'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance15'
+    DrawScale=3.000000
+    Skins(1)=Texture'Startup_HiRes.HiRes.Alpha'
+    ColLocation=(X=-693.856995,Y=-711.280029,Z=-1031.000000)
+    bSelected=True
+    Name="StaticMeshActor50"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor51
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-443.252502,Y=-396.786499,Z=-1046.000000)
+    Rotation=(Pitch=10240,Yaw=-10240)
+    StaticMesh=StaticMesh'stuff.stuff1.Steaks'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance16'
+    DrawScale=4.000000
+    ColLocation=(X=-443.252502,Y=-396.786499,Z=-1046.000000)
+    bSelected=True
+    Name="StaticMeshActor51"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor52
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-273.529633,Y=-895.101929,Z=-615.000000)
+    Rotation=(Pitch=4096,Yaw=-8192,Roll=-15360)
+    StaticMesh=StaticMesh'stuff.stuff1.Catnip'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance17'
+    DrawScale=4.000000
+    ColLocation=(X=-273.529633,Y=-895.101929,Z=-615.000000)
+    bSelected=True
+    Name="StaticMeshActor52"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor53
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-403.952911,Y=-651.090027,Z=-413.000000)
+    Rotation=(Pitch=-17512,Yaw=54964,Roll=-2048)
+    StaticMesh=StaticMesh'stuff.stuff1.Alternator'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance18'
+    DrawScale=3.000000
+    ColLocation=(X=-403.952911,Y=-651.090027,Z=-413.000000)
+    bSelected=True
+    Name="StaticMeshActor53"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor54
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1120.179688,Y=-710.840576,Z=-614.000000)
+    Rotation=(Pitch=6144,Yaw=-35840)
+    StaticMesh=StaticMesh'stuff.stuff1.Gift'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance19'
+    DrawScale=4.000000
+    ColLocation=(X=-1120.179688,Y=-710.840576,Z=-614.000000)
+    bSelected=True
+    Name="StaticMeshActor54"
+End Actor
+Begin Actor Class=Emitter Name=Emitter10
+    Begin Object Class=SpriteEmitter Name=SpriteEmitter22
+        UseColorScale=True
+        ColorScale(0)=(Color=(G=255,R=255))
+        ColorScale(1)=(RelativeTime=1.000000,Color=(R=255))
+        FadeOutStartTime=2.000000
+        FadeOut=True
+        FadeInEndTime=1.000000
+        FadeIn=True
+        MaxParticles=15
+        StartLocationRange=(X=(Min=-300.000000,Max=300.000000),Y=(Min=-300.000000,Max=300.000000),Z=(Min=-3.000000,Max=3.000000))
+        StartLocationShape=PTLS_Sphere
+        SphereRadiusRange=(Max=70.000000)
+        AcceptsProjectors=True
+        SpinParticles=True
+        SpinsPerSecondRange=(X=(Max=0.050000))
+        StartSpinRange=(X=(Max=1.000000))
+        UseSizeScale=True
+        UseRegularSizeScale=False
+        SizeScale(0)=(RelativeSize=0.200000)
+        SizeScale(1)=(RelativeTime=1.000000,RelativeSize=1.000000)
+        StartSizeRange=(X=(Min=250.000000,Max=300.000000))
+        DrawStyle=PTDS_Brighten
+        Texture=Texture'nathans.Skins.smoke5'
+        TextureUSubdivisions=1
+        TextureVSubdivisions=4
+        BlendBetweenSubdivisions=True
+        StartVelocityRange=(X=(Min=-1.000000,Max=1.000000),Y=(Min=-1.000000,Max=1.000000),Z=(Min=5.000000,Max=20.000000))
+        StartVelocityRadialRange=(Min=-1.000000,Max=-50.000000)
+        GetVelocityDirectionFrom=PTVD_AddRadial
+        WarmupTicksPerSecond=20.000000
+        RelativeWarmupTime=10.000000
+        Name="SpriteEmitter22"
+    End Object
+    Emitters(0)=SpriteEmitter'MyLevel.SpriteEmitter22'
+    bDynamicLight=True
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="Emitter"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-374.563690,Y=-585.401733,Z=-731.799805)
+    AmbientGlow=100
+    bUnlit=False
+    bSelected=True
+    Name="Emitter10"
+End Actor
+Begin Actor Class=SceneManager Name=SceneManager1
+    Begin Object Class=ActionPause Name=ActionPause1
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint11'
+        Begin Object Class=SubActionOrientation Name=SubActionOrientation1
+            CamOrientation=(CamOrientation=CAMORIENT_LookAtActor,LookAtTag="center",MA=622900384)
+            Name="SubActionOrientation1"
+        End Object
+        SubActions(0)=SubActionOrientation'MyLevel.MyLevel.SubActionOrientation1'
+        StartControlPoint=(X=-228.799133,Y=2.085907,Z=-29.000000)
+        EndControlPoint=(X=228.799133,Y=-2.085907,Z=29.000000)
+        PathLength=833.162720
+        Name="ActionPause1"
+    End Object
+    Actions(0)=ActionPause'MyLevel.MyLevel.ActionPause1'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera8
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint15'
+        Duration=9.000000
+        Begin Object Class=SubActionTitle Name=SubActionTitle4
+            CameraEffect=CameraTitle'MyLevel.MyLevel.CameraTitle4'
+            Duration=6.000000
+            Name="SubActionTitle4"
+        End Object
+        SubActions(0)=SubActionTitle'MyLevel.MyLevel.SubActionTitle4'
+        StartControlPoint=(X=69.346725,Y=197.526917,Z=-28.000000)
+        EndControlPoint=(X=-69.346725,Y=-197.526917,Z=28.000000)
+        PathLength=914.847473
+        Name="ActionMoveCamera8"
+    End Object
+    Actions(1)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera8'
+    NextSceneTag="loop"
+    bLetPlayerSkip=True
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="Postal2Logo"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1726.381714,Y=-683.974365,Z=114.000000)
+    bSelected=True
+    Name="SceneManager1"
+End Actor
+Begin Actor Class=SceneManager Name=SceneManager2
+    Begin Object Class=ActionPause Name=ActionPause3
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint0'
+        Begin Object Class=SubActionOrientation Name=SubActionOrientation3
+            CamOrientation=(CamOrientation=CAMORIENT_LookAtActor,LookAtTag="center",MA=367610304)
+            Name="SubActionOrientation3"
+        End Object
+        SubActions(0)=SubActionOrientation'MyLevel.MyLevel.SubActionOrientation3'
+        Begin Object Class=SubActionTrigger Name=SubActionTrigger0
+            EventName="PrecacheMenu"
+            Delay=0.100000
+            Name="SubActionTrigger0"
+        End Object
+        SubActions(1)=SubActionTrigger'MyLevel.MyLevel.SubActionTrigger0'
+        StartControlPoint=(X=351.963104,Y=-122.476440)
+        EndControlPoint=(X=-351.963104,Y=122.476440)
+        PathLength=819.016479
+        Name="ActionPause3"
+    End Object
+    Actions(0)=ActionPause'MyLevel.MyLevel.ActionPause3'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera10
+        PathStyle=PATHSTYLE_Bezier
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint10'
+        Duration=8.000000
+        Begin Object Class=SubActionFade Name=SubActionFade3
+            bFadeOut=False
+            Duration=6.000000
+            Name="SubActionFade3"
+        End Object
+        SubActions(0)=SubActionFade'MyLevel.MyLevel.SubActionFade3'
+        StartControlPoint=(X=-3.706375,Y=-301.610291)
+        EndControlPoint=(X=3.706375,Y=301.610291)
+        PathLength=884.825378
+        Name="ActionMoveCamera10"
+    End Object
+    Actions(1)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera10'
+    NextSceneTag="RWSLogo"
+    bLetPlayerSkip=True
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StartFirstTime"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1788.322876,Y=-641.358154,Z=114.000000)
+    bSelected=True
+    Name="SceneManager2"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint0
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-375.669586,Y=128.070526,Z=-610.365479)
+    Rotation=(Pitch=-2868,Yaw=19236)
+    bSelected=True
+    Name="InterpolationPoint0"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint10
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=139.982330,Y=-504.913116,Z=-545.365479)
+    Rotation=(Pitch=-2868,Yaw=19236)
+    bSelected=True
+    Name="InterpolationPoint10"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint11
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-217.060349,Y=-898.517822,Z=-736.257263)
+    Rotation=(Pitch=2040,Yaw=23632)
+    bSelected=True
+    Name="InterpolationPoint11"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor0
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-152.268250,Y=-772.534668,Z=-758.000000)
+    Rotation=(Pitch=-3676,Yaw=-5076,Roll=408)
+    StaticMesh=StaticMesh'stuff.stuff1.Penicillin'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance20'
+    DrawScale=3.000000
+    ColLocation=(X=-152.268250,Y=-772.534668,Z=-758.000000)
+    bSelected=True
+    Name="StaticMeshActor0"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor1
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-80.065285,Y=-563.467224,Z=-767.000000)
+    Rotation=(Pitch=-8260,Yaw=-348,Roll=-6472)
+    StaticMesh=StaticMesh'stuff.stuff1.Package'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance21'
+    DrawScale=4.000000
+    ColLocation=(X=-80.065285,Y=-563.467224,Z=-767.000000)
+    bSelected=True
+    Name="StaticMeshActor1"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor2
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-294.949371,Y=-636.767700,Z=-1014.000000)
+    StaticMesh=StaticMesh'stuff.stuff1.Newspaper'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance22'
+    DrawScale=5.000000
+    ColLocation=(X=-294.949371,Y=-636.767700,Z=-1014.000000)
+    bSelected=True
+    Name="StaticMeshActor2"
+End Actor
+Begin Actor Class=Light Name=Light1
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="Light"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-635.955566,Y=813.589844,Z=-799.000000)
+    Rotation=(Pitch=6180,Yaw=-16584)
+    LightEffect=LE_Spotlight
+    bDirectional=True
+    bSelected=True
+    Name="Light1"
+End Actor
+Begin Actor Class=Light Name=Light4
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="Light"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=250.559204,Y=-1182.872192,Z=-856.113281)
+    Rotation=(Pitch=1984,Yaw=11776)
+    LightPeriod=21
+    LightPhase=5
+    LightCone=204
+    bDirectional=True
+    bSelected=True
+    Name="Light4"
+End Actor
+Begin Actor Class=Light Name=Light0
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="Light"
+    Group="None,StartMenu"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1327.440796,Y=-1318.872192,Z=-439.113281)
+    Rotation=(Pitch=1984,Yaw=11776)
+    LightPeriod=21
+    LightPhase=5
+    LightCone=204
+    bDirectional=True
+    bSelected=True
+    Name="Light0"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor4
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-320.000000,Y=-784.000000,Z=-704.000000)
+    Rotation=(Pitch=-4096,Yaw=5120,Roll=25600)
+    StaticMesh=StaticMesh'TP_Weapons.Matches3'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance23'
+    DrawScale=4.500000
+    ColLocation=(X=-320.000000,Y=-784.000000,Z=-704.000000)
+    Name="StaticMeshActor4"
+End Actor
+Begin Actor Class=Brush Name=Brush7
+    CsgOper=CSG_Subtract
+    MainScale=(SheerAxis=SHEER_ZX)
+    PostScale=(SheerAxis=SHEER_ZX)
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="Brush"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-4128.000000,Y=3504.000000,Z=-17072.000000)
+    Begin Brush Name=Model8
+       Begin PolyList
+          Begin Polygon Texture=xPatchTex.Misc.flames_switch
+             Origin   +00032.000000,+04065.331787,+12976.000000
+             Normal   -00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,-00000.300000,+00000.000000
+             TextureV -00000.000000,-00000.000000,-00000.300000
+             Vertex   -04096.000000,-04096.000000,-04096.000000
+             Vertex   -04096.000000,-04096.000000,+28720.000000
+             Vertex   -04096.000000,+04096.000000,+28720.000000
+             Vertex   -04096.000000,+04096.000000,-04096.000000
+          End Polygon
+          Begin Polygon Texture=xPatchTex.Misc.flames_switch
+             Origin   +02698.666016,+00592.000000,+12976.000000
+             Normal   +00000.000000,+00001.000000,+00000.000000
+             TextureU -00000.300000,-00000.000000,-00000.000000
+             TextureV -00000.000000,-00000.000000,-00000.300000
+             Vertex   -04096.000000,+04096.000000,-04096.000000
+             Vertex   -04096.000000,+04096.000000,+28720.000000
+             Vertex   +04096.000000,+04096.000000,+28720.000000
+             Vertex   +04096.000000,+04096.000000,-04096.000000
+          End Polygon
+          Begin Polygon Texture=xPatchTex.Misc.flames_switch
+             Origin   +00032.000000,-01328.000488,+12976.000000
+             Normal   +00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,+00000.300000,+00000.000000
+             TextureV -00000.000000,-00000.000000,-00000.300000
+             Vertex   +04096.000000,+04096.000000,-04096.000000
+             Vertex   +04096.000000,+04096.000000,+28720.000000
+             Vertex   +04096.000000,-04096.000000,+28720.000000
+             Vertex   +04096.000000,-04096.000000,-04096.000000
+          End Polygon
+          Begin Polygon Texture=xPatchTex.Misc.flames_switch
+             Origin   +00032.000000,+00592.000000,+12976.000000
+             Normal   +00000.000000,-00001.000000,+00000.000000
+             TextureU +00000.300000,+00000.000000,+00000.000000
+             TextureV -00000.000000,-00000.000000,-00000.300000
+             Vertex   +04096.000000,-04096.000000,-04096.000000
+             Vertex   +04096.000000,-04096.000000,+28720.000000
+             Vertex   -04096.000000,-04096.000000,+28720.000000
+             Vertex   -04096.000000,-04096.000000,-04096.000000
+          End Polygon
+          Begin Polygon Texture=xPatchTex.Misc.flames_switch
+             Origin   +00032.000000,+00592.000000,+12976.000000
+             Normal   +00000.000000,+00000.000000,+00001.000000
+             TextureU +00000.300000,+00000.000000,+00000.000000
+             TextureV +00000.000000,-00000.300000,+00000.000000
+             Vertex   -04096.000000,+04096.000000,+28720.000000
+             Vertex   -04096.000000,-04096.000000,+28720.000000
+             Vertex   +04096.000000,-04096.000000,+28720.000000
+             Vertex   +04096.000000,+04096.000000,+28720.000000
+          End Polygon
+          Begin Polygon Texture=xPatchTex.Misc.flames_switch
+             Origin   +00032.000000,+00592.000000,+12976.000000
+             Normal   +00000.000000,+00000.000000,-00001.000000
+             TextureU -00000.300000,-00000.000000,-00000.000000
+             TextureV +00000.000000,-00000.300000,+00000.000000
+             Vertex   -04096.000000,-04096.000000,-04096.000000
+             Vertex   -04096.000000,+04096.000000,-04096.000000
+             Vertex   +04096.000000,+04096.000000,-04096.000000
+             Vertex   +04096.000000,-04096.000000,-04096.000000
+          End Polygon
+       End PolyList
+    End Brush
+    Brush=Model'MyLevel.Model8'
+    PrePivot=(X=-4096.000000,Y=4096.000000,Z=-4096.000000)
+    Name="Brush7"
+End Actor
+Begin Actor Class=ZoneInfo Name=ZoneInfo0
+    bDistanceFog=True
+    AmbientBrightness=136
+    DistanceFogColor=(B=7,G=5,R=6)
+    DistanceFogStart=5000.000000
+    DistanceFogEnd=15000.000000
+    bUseGlobalFog=False
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="ZoneInfo"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1666.214600,Y=-790.424072,Z=112.000000)
+    Name="ZoneInfo0"
+End Actor
+Begin Actor Class=InterpolationPoint Name=InterpolationPoint4
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="InterpolationPoint"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-830.062805,Y=-770.995056,Z=-355.288910)
+    Rotation=(Pitch=-5000,Yaw=5000)
+    Name="InterpolationPoint4"
+End Actor
+Begin Actor Class=SceneManager Name=SceneManager4
+    Begin Object Class=ActionPause Name=ActionPause4
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint4'
+        Begin Object Class=SubActionOrientation Name=SubActionOrientation4
+            CamOrientation=(CamOrientation=CAMORIENT_LookAtActor,LookAtTag="center",MA=623282080)
+            Name="SubActionOrientation4"
+        End Object
+        SubActions(0)=SubActionOrientation'MyLevel.MyLevel.SubActionOrientation4'
+        Begin Object Class=SubActionFade Name=SubActionFade0
+            bFadeOut=False
+            Duration=3.000000
+            Name="SubActionFade0"
+        End Object
+        SubActions(1)=SubActionFade'MyLevel.MyLevel.SubActionFade0'
+        PathLength=242.078491
+        Name="ActionPause4"
+    End Object
+    Actions(0)=ActionPause'MyLevel.MyLevel.ActionPause4'
+    Begin Object Class=ActionMoveCamera Name=ActionMoveCamera11
+        IntPoint=InterpolationPoint'MyLevel.InterpolationPoint15'
+        Duration=3.000000
+        PathLength=242.078491
+        Name="ActionMoveCamera11"
+    End Object
+    Actions(1)=ActionMoveCamera'MyLevel.MyLevel.ActionMoveCamera11'
+    NextSceneTag="loop"
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StartAfterFirstTime"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1746.070801,Y=-640.060303,Z=112.000000)
+    Name="SceneManager4"
+End Actor
+Begin Actor Class=ScriptedTrigger Name=ScriptedTrigger2
+    Begin Object Class=ACTION_UnlockAchievement Name=ACTION_UnlockAchievement0
+        AchievementAPIName="TestAchievement"
+        Name="ACTION_UnlockAchievement0"
+    End Object
+    Actions(0)=ACTION_UnlockAchievement'MyLevel.ACTION_UnlockAchievement0'
+    Begin Object Class=ACTION_IfShellMenu Name=ACTION_IfShellMenu2
+        Is=False
+        Name="ACTION_IfShellMenu2"
+    End Object
+    Actions(1)=ACTION_IfShellMenu'MyLevel.ACTION_IfShellMenu2'
+    Begin Object Class=ACTION_TriggerEvent Name=ACTION_TriggerEvent2
+        Event="StartAfterFirstTime"
+        Name="ACTION_TriggerEvent2"
+    End Object
+    Actions(2)=ACTION_TriggerEvent'MyLevel.ACTION_TriggerEvent2'
+    Begin Object Class=ACTION_EndSection Name=ACTION_EndSection2
+        Name="ACTION_EndSection2"
+    End Object
+    Actions(3)=ACTION_EndSection'MyLevel.ACTION_EndSection2'
+    Begin Object Class=ACTION_IfShellMenu Name=ACTION_IfShellMenu0
+        Name="ACTION_IfShellMenu0"
+    End Object
+    Actions(4)=ACTION_IfShellMenu'MyLevel.ACTION_IfShellMenu0'
+    Begin Object Class=ACTION_TriggerEvent Name=ACTION_TriggerEvent0
+        Event="StartFirstTime"
+        Name="ACTION_TriggerEvent0"
+    End Object
+    Actions(5)=ACTION_TriggerEvent'MyLevel.ACTION_TriggerEvent0'
+    Begin Object Class=ACTION_WaitForEvent Name=ACTION_WaitForEvent0
+        ExternalEvent="PrecacheMenu"
+        Name="ACTION_WaitForEvent0"
+    End Object
+    Actions(6)=ACTION_WaitForEvent'MyLevel.ACTION_WaitForEvent0'
+    Begin Object Class=ACTION_ShellMenu Name=ACTION_ShellMenu1
+        Command=Shell_Precache
+        Name="ACTION_ShellMenu1"
+    End Object
+    Actions(7)=ACTION_ShellMenu'MyLevel.ACTION_ShellMenu1'
+    Begin Object Class=ACTION_EndSection Name=ACTION_EndSection0
+        Name="ACTION_EndSection0"
+    End Object
+    Actions(8)=ACTION_EndSection'MyLevel.ACTION_EndSection0'
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="CheckStart"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1627.309814,Y=-720.680298)
+    Name="ScriptedTrigger2"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor10
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="StaticMeshActor"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-696.000000,Y=-686.000000,Z=-1082.000000)
+    Rotation=(Pitch=-3072,Yaw=-15360)
+    StaticMesh=StaticMesh'P2R_Meshes_D.Weapons.KrotchyPickup'
+    StaticMeshInstance=StaticMeshInstance'MyLevel.StaticMeshInstance24'
+    DrawScale=0.500000
+    ColLocation=(X=-696.000000,Y=-686.000000,Z=-1082.000000)
+    Name="StaticMeshActor10"
+End Actor
+Begin Actor Class=MaterialTrigger Name=MaterialTrigger0
+    MaterialsToTrigger(0)=MaterialSwitch'xPatchTex.Misc.flames_switch'
+    bNetDirty=True
+    LastRenderTime=15.340584
+    Tag="MenuBackgroundTrigger"
+    Level=LevelInfo'MyLevel.LevelInfo0'
+    Region=(Zone=ZoneInfo'MyLevel.ZoneInfo0',ZoneNumber=1)
+    PhysicsVolume=DefaultPhysicsVolume'MyLevel.DefaultPhysicsVolume0'
+    Location=(X=-1104.000000,Y=-1419.000000,Z=-561.000000)
+    bLightChanged=True
+    Name="MaterialTrigger0"
+End Actor
+Begin Surface
+End Surface
+End Map
