@@ -28,6 +28,7 @@ I also have a version on 5.3 but there is a lot more work to be done before it w
 
 # UModel Issues
 Please ensure that umodel is setup correctly and that it has it's export path set to "\UmodelExport\" in the umodel directory and that use object groups instead of types is ticked in the settings.
+
 That is "SaveGroups = true" in the umodel.cfg file.
 
 # Stargate SG-1 : The Alliance
