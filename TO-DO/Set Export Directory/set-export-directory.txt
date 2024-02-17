@@ -4,8 +4,14 @@ read the export directory from umodel.cfg
 
 so that if the user has manually set their umodel export directory it will still be right.
 
-
+ExportPath = "C:\umodel_win32\UmodelExport\"
 
 and set
 
 SaveGroups = true
+
+or just temporarily replace umodel.cfg
+
+rename umodel.cfg to umodel.tmp
+
+write the new umodel.cfg to umodel directory
