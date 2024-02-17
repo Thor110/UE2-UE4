@@ -26,9 +26,9 @@ This project will also have a middle ground where an Unreal Engine template hous
 
 I also have a version on 5.3 but there is a lot more work to be done before it will be ready to serve as a template for this project.
 
-# Read Only File Permissions Issue
-If the FBX Conversion fails it could be because the script has failed to edit the python script and place it in your Blender directory.
-A work around for this is to manually edit the script file "batch-fbx-convert.txt" to add your output directory and rename it to change the extensions to .py
+# UModel Issues
+Please ensure that umodel is setup correctly and that it has it's export path set to "\UmodelExport\" in the umodel directory and that use object groups instead of types is ticked in the settings.
+That is "SaveGroups = true" in the umodel.cfg file.
 
 # Stargate SG-1 : The Alliance
 ## UE2			: Stargate SG-1 : The Alliance
