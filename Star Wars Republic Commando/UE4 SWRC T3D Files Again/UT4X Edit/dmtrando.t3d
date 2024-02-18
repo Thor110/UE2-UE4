@@ -1580,7 +1580,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-879.999000,Y=8888.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -1642,7 +1642,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-1336.000000,Y=9232.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1657,7 +1657,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-424.001000,Y=9232.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1894,7 +1894,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-4168.000000,Y=9232.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1909,7 +1909,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-3256.000000,Y=9232.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1939,7 +1939,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			RelativeLocation=(X=-2992.000000,Y=10008.000000,Z=-1328.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2130,7 +2130,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-3712.000000,Y=8352.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -2146,7 +2146,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			RelativeLocation=(X=-2672.000000,Y=9368.000000,Z=-1328.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2355,7 +2355,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_hallwindowglass.ras_hallwindowglass'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_hallwindowglass.ras_hallwindowglass'
 			RelativeLocation=(X=-880.000000,Y=10128.000000,Z=-1384.000000)
 			RelativeScale3D=(X=0.900000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2369,7 +2369,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_hallwindowglass.ras_hallwindowglass'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_hallwindowglass.ras_hallwindowglass'
 			RelativeLocation=(X=-3712.000000,Y=10120.000000,Z=-1120.000000)
 			RelativeScale3D=(X=0.900000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2383,7 +2383,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halldevBB.ras_halldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halldevBB.ras_halldevBB'
 			RelativeLocation=(X=-6207.980000,Y=8503.960000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2591,7 +2591,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-5878.010000,Y=9182.010000,Z=-1318.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=67.500000,Roll=0.000000)
@@ -3618,7 +3618,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_Stairs.Stairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/Stairs.Stairs'
 			RelativeLocation=(X=-4072.100000,Y=3430.190000,Z=-891.581000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3902,7 +3902,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingAA.ras_hallceillingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingAA.ras_hallceillingAA'
 			RelativeLocation=(X=-4060.000000,Y=3225.990000,Z=-808.001000)
 			RelativeScale3D=(X=1.050000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -4021,7 +4021,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_datacoreroom_ras_dataplatform.ras_dataplatform'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/datacoreroom/ras_dataplatform.ras_dataplatform'
 			RelativeLocation=(X=-4032.000000,Y=5682.010000,Z=-1448.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4036,7 +4036,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_datacoreroom_ras_datacoreAA.ras_datacoreAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/datacoreroom/ras_datacoreAA.ras_datacoreAA'
 			RelativeLocation=(X=-4031.990000,Y=5682.010000,Z=-1388.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4375,7 +4375,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_datacoreroom_ras_datacorewallCC.ras_datacorewallCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/datacoreroom/ras_datacorewallCC.ras_datacorewallCC'
 			RelativeLocation=(X=-4756.000000,Y=7038.020000,Z=-1456.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5100,7 +5100,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_datacoreroom_ras_doorcylndr.ras_doorcylndr'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/datacoreroom/ras_doorcylndr.ras_doorcylndr'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-4060.000000,Y=4402.010000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -5158,7 +5158,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-4060.000000,Y=4206.010000,Z=-1452.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5173,7 +5173,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-3712.000000,Y=8242.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5188,7 +5188,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_datacoreroom_ras_datadoorjam.ras_datadoorjam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/datacoreroom/ras_datadoorjam.ras_datadoorjam'
 			RelativeLocation=(X=-3660.000000,Y=7946.020000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5224,7 +5224,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_datacoreroom_ras_controlroom.ras_controlroom'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/datacoreroom/ras_controlroom.ras_controlroom'
 			RelativeLocation=(X=-4060.000000,Y=4106.000000,Z=-808.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5239,7 +5239,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_datacoreroom_ras_controlroom.ras_controlroom'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/datacoreroom/ras_controlroom.ras_controlroom'
 			RelativeLocation=(X=-4064.000000,Y=4106.000000,Z=-808.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -5724,7 +5724,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			RelativeLocation=(X=-4051.990000,Y=4021.970000,Z=-1448.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.600000,Y=1.000000,Z=1.000000)
@@ -5739,7 +5739,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-6608.000000,Y=3680.000000,Z=-1064.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -5753,7 +5753,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-6608.010000,Y=2784.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5768,7 +5768,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			RelativeLocation=(X=-4752.000000,Y=10008.000000,Z=-1328.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -5796,7 +5796,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			RelativeLocation=(X=-4432.000000,Y=9368.000000,Z=-1328.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5826,7 +5826,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallpluggerCC.ras_hallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallpluggerCC.ras_hallpluggerCC'
 			RelativeLocation=(X=-6160.000000,Y=2712.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5888,7 +5888,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			RelativeLocation=(X=-5600.000000,Y=9064.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=67.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.600000,Y=1.000000,Z=1.000000)
@@ -5903,7 +5903,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			RelativeLocation=(X=-4640.000000,Y=9688.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.750000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -5917,7 +5917,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			RelativeLocation=(X=-3712.000000,Y=8744.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.750000,Y=1.000000,Z=1.000000)
@@ -5932,7 +5932,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halljunctiontop.ras_halljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halljunctiontop.ras_halljunctiontop'
 			RelativeLocation=(X=-3712.000000,Y=9688.000000,Z=-880.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -5946,7 +5946,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			RelativeLocation=(X=-2880.000000,Y=9688.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.750000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -5960,7 +5960,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halljunctiontop.ras_halljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halljunctiontop.ras_halljunctiontop'
 			RelativeLocation=(X=-6160.000000,Y=3232.000000,Z=-616.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -5974,7 +5974,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_datacoreroom_ras_datacoreceiling.ras_datacoreceiling'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/datacoreroom/ras_datacoreceiling.ras_datacoreceiling'
 			RelativeLocation=(X=-4011.690000,Y=5691.180000,Z=-259.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.600000)
@@ -6223,7 +6223,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Lights_SwingLightA.SwingLightA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Lights/SwingLightA.SwingLightA'
 			RelativeLocation=(X=495.999000,Y=7380.000000,Z=-1136.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6238,7 +6238,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_HangLight.Trando_HangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_HangLight.Trando_HangLight'
 			RelativeLocation=(X=550.689000,Y=7931.100000,Z=-1312.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=44.296875,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6253,7 +6253,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=552.169000,Y=7932.290000,Z=-1102.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=27.438354,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6268,7 +6268,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=495.859000,Y=7457.000000,Z=-1013.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6283,7 +6283,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=494.749000,Y=7305.900000,Z=-1013.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6757,7 +6757,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-3712.000000,Y=8228.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6772,7 +6772,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-3712.000000,Y=8364.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6787,7 +6787,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_Stairs.Stairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/Stairs.Stairs'
 			RelativeLocation=(X=-3760.100000,Y=6778.190000,Z=-1527.580000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6996,7 +6996,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingAA.ras_hallceillingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingAA.ras_hallceillingAA'
 			RelativeLocation=(X=-4060.000000,Y=3328.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.250000,Y=1.000000,Z=1.000000)
@@ -7011,7 +7011,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halldevBB.ras_halldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halldevBB.ras_halldevBB'
 			RelativeLocation=(X=-4060.000000,Y=4032.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7041,7 +7041,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallentr.Ras_hallwallentr'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallentr.Ras_hallwallentr'
 			RelativeLocation=(X=-4060.000000,Y=3136.000000,Z=-808.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.050000,Y=0.750000,Z=1.000000)
@@ -7056,7 +7056,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallpluggerBB.ras_hallpluggerBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallpluggerBB.ras_hallpluggerBB'
 			RelativeLocation=(X=-3464.000000,Y=3228.000000,Z=-808.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7071,7 +7071,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-4656.000000,Y=3232.000000,Z=-808.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
@@ -7087,7 +7087,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-4764.000000,Y=3232.000000,Z=-808.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
@@ -7117,7 +7117,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-5708.000000,Y=3684.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7132,7 +7132,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-5708.000000,Y=2784.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7293,7 +7293,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			RelativeLocation=(X=-1692.000000,Y=9688.000000,Z=-1568.000000)
 			RelativeScale3D=(X=1.200000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7307,7 +7307,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halljunctiontop.ras_halljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halljunctiontop.ras_halljunctiontop'
 			RelativeLocation=(X=-880.000000,Y=9688.000000,Z=-1124.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7335,7 +7335,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			RelativeLocation=(X=-879.999000,Y=9108.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.600000,Y=1.000000,Z=1.000000)
@@ -7868,7 +7868,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-7180.000000,Y=5080.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7883,7 +7883,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-6284.000000,Y=5080.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7898,7 +7898,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallpluggerCC.ras_hallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallpluggerCC.ras_hallpluggerCC'
 			RelativeLocation=(X=-7256.000000,Y=5528.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7913,7 +7913,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-7188.000000,Y=5976.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7927,7 +7927,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-6284.000000,Y=5976.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8031,7 +8031,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-7180.000000,Y=8056.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8046,7 +8046,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-6284.000000,Y=8056.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8061,7 +8061,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallpluggerCC.ras_hallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallpluggerCC.ras_hallpluggerCC'
 			RelativeLocation=(X=-7256.000000,Y=8504.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8076,7 +8076,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-7188.000000,Y=8952.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8090,7 +8090,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcorner.ras_hallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcorner.ras_hallcorner'
 			RelativeLocation=(X=-6284.000000,Y=8952.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8329,7 +8329,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingAA.ras_hallceillingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingAA.ras_hallceillingAA'
 			RelativeLocation=(X=-6736.000000,Y=6524.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8344,7 +8344,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingAA.ras_hallceillingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingAA.ras_hallceillingAA'
 			RelativeLocation=(X=-6736.000000,Y=7508.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8359,7 +8359,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallpluggerBB.ras_hallpluggerBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallpluggerBB.ras_hallpluggerBB'
 			RelativeLocation=(X=-6736.000000,Y=9020.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8462,7 +8462,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			RelativeLocation=(X=-5284.000000,Y=8984.010000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=0.950000,Y=1.000000,Z=1.000000)
@@ -8492,7 +8492,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halljunctiontop.ras_halljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halljunctiontop.ras_halljunctiontop'
 			RelativeLocation=(X=-6732.000000,Y=8504.000000,Z=-872.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8506,7 +8506,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halljunctiontop.ras_halljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halljunctiontop.ras_halljunctiontop'
 			RelativeLocation=(X=-6732.000000,Y=5528.000000,Z=-872.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8520,7 +8520,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-5804.000000,Y=5528.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -8684,7 +8684,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-5858.000000,Y=5528.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -8745,7 +8745,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-6208.000000,Y=8500.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8759,7 +8759,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-4984.000000,Y=9688.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8773,7 +8773,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-4200.000000,Y=9688.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8787,7 +8787,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-3712.000000,Y=9200.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8802,7 +8802,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-3220.000000,Y=9688.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8817,7 +8817,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-6732.000000,Y=8020.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8832,7 +8832,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-6732.000000,Y=6012.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8847,7 +8847,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-5832.000000,Y=5528.000000,Z=-1452.000000)
 			RelativeScale3D=(X=1.250000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8861,7 +8861,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_Stairs.Stairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/Stairs.Stairs'
 			RelativeLocation=(X=-892.100000,Y=7926.190000,Z=-1843.580000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.250000,Y=1.250000,Z=1.250000)
@@ -8936,7 +8936,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallpluggerCC.ras_hallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallpluggerCC.ras_hallpluggerCC'
 			RelativeLocation=(X=-6684.010000,Y=3232.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8965,7 +8965,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halldevBB.ras_halldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halldevBB.ras_halldevBB'
 			RelativeLocation=(X=-5518.000000,Y=3232.000000,Z=-1064.000000)
 			RelativeScale3D=(X=1.250000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8979,7 +8979,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halldevBB.ras_halldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halldevBB.ras_halldevBB'
 			RelativeLocation=(X=-5688.000000,Y=8840.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=67.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8994,7 +8994,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_halldevBB.ras_halldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_halldevBB.ras_halldevBB'
 			RelativeLocation=(X=-5480.000000,Y=9336.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=67.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9072,7 +9072,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-1348.010000,Y=6928.040000,Z=-1160.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-61.875000,Roll=0.000000)
@@ -10185,7 +10185,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_WallFixtures_WallFixE.WallFixE'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/WallFixtures/WallFixE.WallFixE'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-3924.840000,Y=2691.410000,Z=-1484.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -10201,7 +10201,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_WallFixtures_WallFixE.WallFixE'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/WallFixtures/WallFixE.WallFixE'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-3923.840000,Y=2691.430000,Z=-822.002000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -11184,7 +11184,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_Ras_dirtwalldevAA.Ras_dirtwalldevAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/Ras_dirtwalldevAA.Ras_dirtwalldevAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=1480.200000,Y=5624.520000,Z=-1570.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.021973,Roll=0.000000)
@@ -11846,7 +11846,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallwindow.ras_dirthallwindow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallwindow.ras_dirthallwindow'
 			RelativeLocation=(X=992.004000,Y=5616.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.900000,Y=1.000000,Z=1.000000)
@@ -11861,7 +11861,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=992.004000,Y=6424.000000,Z=-1568.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11924,7 +11924,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=1448.010000,Y=6076.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11939,7 +11939,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=536.004000,Y=6080.000000,Z=-1568.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -12179,7 +12179,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=4280.710000,Y=6079.280000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12194,7 +12194,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=3368.000000,Y=6080.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -12208,7 +12208,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallwindow.ras_dirthallwindow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallwindow.ras_dirthallwindow'
 			RelativeLocation=(X=3824.010000,Y=5624.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.900000,Y=1.000000,Z=1.000000)
@@ -12223,7 +12223,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3104.000000,Y=5304.000000,Z=-1328.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -12418,7 +12418,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3824.010000,Y=6960.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12433,7 +12433,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=2785.480000,Y=5946.060000,Z=-1326.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12633,7 +12633,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_Ras_dirtwalldevAA.Ras_dirtwalldevAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/Ras_dirtwalldevAA.Ras_dirtwalldevAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5096.210000,Y=5624.520000,Z=-1322.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.021973,Roll=0.000000)
@@ -12649,7 +12649,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_hallwindowglass.ras_hallwindowglass'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_hallwindowglass.ras_hallwindowglass'
 			RelativeLocation=(X=992.001000,Y=5184.000000,Z=-1384.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.900000,Y=1.000000,Z=1.000000)
@@ -12664,7 +12664,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_hallwindowglass.ras_hallwindowglass'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_hallwindowglass.ras_hallwindowglass'
 			RelativeLocation=(X=3824.000000,Y=5196.000000,Z=-1120.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.900000,Y=1.000000,Z=1.000000)
@@ -12679,7 +12679,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalldevBB.ras_dirthalldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalldevBB.ras_dirthalldevBB'
 			RelativeLocation=(X=6319.990000,Y=6808.040000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12842,7 +12842,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcornerCC1.ras_dirthallcornerCC1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcornerCC1.ras_dirthallcornerCC1'
 			RelativeLocation=(X=5512.000000,Y=5696.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12857,7 +12857,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcornerCC1.ras_dirthallcornerCC1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcornerCC1.ras_dirthallcornerCC1'
 			RelativeLocation=(X=5872.010000,Y=6752.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12888,7 +12888,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5990.020000,Y=6129.990000,Z=-1318.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=0.000000)
@@ -12904,7 +12904,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcornerCC1.ras_dirthallcornerCC1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcornerCC1.ras_dirthallcornerCC1'
 			RelativeLocation=(X=6784.010000,Y=11136.000000,Z=-1063.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12919,7 +12919,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcornerCC1.ras_dirthallcornerCC1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcornerCC1.ras_dirthallcornerCC1'
 			RelativeLocation=(X=6336.010000,Y=11248.000000,Z=-1063.990000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -13919,7 +13919,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_Stairs.Stairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/Stairs.Stairs'
 			RelativeLocation=(X=4184.100000,Y=11881.800000,Z=-891.581000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14059,7 +14059,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingAA.ras_hallceillingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingAA.ras_hallceillingAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4172.000000,Y=12086.000000,Z=-808.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -14180,7 +14180,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdataplatform.ras_dirtdataplatform'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_dirtdataplatform.ras_dirtdataplatform'
 			RelativeLocation=(X=4144.010000,Y=9629.990000,Z=-1448.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14194,7 +14194,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdatacoreAA.ras_dirtdatacoreAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_dirtdatacoreAA.ras_dirtdatacoreAA'
 			RelativeLocation=(X=4144.000000,Y=9629.990000,Z=-1388.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-135.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14239,7 +14239,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdatacorewallCC.ras_dirtdatacorewallCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_dirtdatacorewallCC.ras_dirtdatacorewallCC'
 			RelativeLocation=(X=4868.010000,Y=8273.980000,Z=-1456.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14383,7 +14383,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirtdoorcylndr.ras_dirtdoorcylndr'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirtdoorcylndr.ras_dirtdoorcylndr'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4172.000000,Y=10910.000000,Z=-1452.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14440,7 +14440,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4172.000000,Y=11106.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -14456,7 +14456,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3824.010000,Y=7070.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -14472,7 +14472,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdatadoorjam.ras_dirtdatadoorjam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_dirtdatadoorjam.ras_dirtdatadoorjam'
 			RelativeLocation=(X=3772.010000,Y=7365.980000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14507,7 +14507,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtcontrolroom.ras_dirtcontrolroom'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_dirtcontrolroom.ras_dirtcontrolroom'
 			RelativeLocation=(X=4172.010000,Y=11206.000000,Z=-808.001000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14521,7 +14521,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtcontrolroom.ras_dirtcontrolroom'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_dirtcontrolroom.ras_dirtcontrolroom'
 			RelativeLocation=(X=4176.010000,Y=11206.000000,Z=-808.001000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14980,7 +14980,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=6720.000000,Y=11632.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14995,7 +14995,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=6720.020000,Y=12528.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15010,7 +15010,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4864.010000,Y=5304.000000,Z=-1328.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -15042,7 +15042,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4544.010000,Y=5944.000000,Z=-1328.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15072,7 +15072,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallpluggerCC.ras_dirthallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallpluggerCC.ras_dirthallpluggerCC'
 			RelativeLocation=(X=6272.010000,Y=12600.000000,Z=-1064.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -15133,7 +15133,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5712.010000,Y=6248.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=0.000000)
@@ -15149,7 +15149,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4752.010000,Y=5624.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -15165,7 +15165,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3824.010000,Y=6568.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -15181,7 +15181,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalljunctiontop.ras_dirthalljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalljunctiontop.ras_dirthalljunctiontop'
 			RelativeLocation=(X=3824.010000,Y=5624.000000,Z=-880.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15196,7 +15196,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=2992.010000,Y=5624.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -15212,7 +15212,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalljunctiontop.ras_dirthalljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalljunctiontop.ras_dirthalljunctiontop'
 			RelativeLocation=(X=6272.010000,Y=12080.000000,Z=-616.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15227,7 +15227,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdatacoreceiling.ras_dirtdatacoreceiling'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_dirtdatacoreceiling.ras_dirtdatacoreceiling'
 			RelativeLocation=(X=4123.690000,Y=9620.820000,Z=-231.999000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.600000)
 			CustomProperties
@@ -15541,7 +15541,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_bigroom_ras_dirtbigroompillr.ras_dirtbigroompillr'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/bigroom/ras_dirtbigroompillr.ras_dirtbigroompillr'
 			RelativeLocation=(X=488.006000,Y=8684.000000,Z=-1568.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -15820,7 +15820,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3824.000000,Y=7084.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -15836,7 +15836,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3824.010000,Y=6948.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -15852,7 +15852,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_Stairs.Stairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/Stairs.Stairs'
 			RelativeLocation=(X=3872.110000,Y=8533.810000,Z=-1527.580000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16067,7 +16067,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingAA.ras_hallceillingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingAA.ras_hallceillingAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4172.010000,Y=11984.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -16083,7 +16083,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalldevBB.ras_dirthalldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalldevBB.ras_dirthalldevBB'
 			RelativeLocation=(X=4172.000000,Y=11280.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.250000,Y=1.000000,Z=1.000000)
@@ -16130,7 +16130,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_Ras_dirthallwallentr.Ras_dirthallwallentr'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/Ras_dirthallwallentr.Ras_dirthallwallentr'
 			RelativeLocation=(X=4172.000000,Y=12176.000000,Z=-808.000000)
 			RelativeScale3D=(X=1.050000,Y=0.750000,Z=1.000000)
 			CustomProperties
@@ -16144,7 +16144,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallpluggerCC.ras_dirthallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallpluggerCC.ras_dirthallpluggerCC'
 			RelativeLocation=(X=3576.000000,Y=12084.000000,Z=-808.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16159,7 +16159,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4768.010000,Y=12080.000000,Z=-808.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -16175,7 +16175,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4876.000000,Y=12080.000000,Z=-808.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -16191,7 +16191,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_Ras_dirtwalldevAA.Ras_dirtwalldevAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/Ras_dirtwalldevAA.Ras_dirtwalldevAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5484.010000,Y=12080.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -16207,7 +16207,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=5820.010000,Y=11628.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16222,7 +16222,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=5820.010000,Y=12528.000000,Z=-1064.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -16362,7 +16362,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=1804.000000,Y=5624.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -16378,7 +16378,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalljunctiontop.ras_dirthalljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalljunctiontop.ras_dirthalljunctiontop'
 			RelativeLocation=(X=992.003000,Y=5624.000000,Z=-1124.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16409,7 +16409,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallpluggerCC.ras_dirthallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallpluggerCC.ras_dirthallpluggerCC'
 			RelativeLocation=(X=472.004000,Y=5624.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16424,7 +16424,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingsmBB.ras_hallceillingsmBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingsmBB.ras_hallceillingsmBB'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=992.005000,Y=6204.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
@@ -16692,7 +16692,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_Ras_dirtwalldevAA.Ras_dirtwalldevAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/Ras_dirtwalldevAA.Ras_dirtwalldevAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=6844.020000,Y=9300.010000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
@@ -16798,7 +16798,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=7292.000000,Y=10232.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16813,7 +16813,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=6396.010000,Y=10232.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -16827,7 +16827,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallpluggerCC.ras_dirthallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallpluggerCC.ras_dirthallpluggerCC'
 			RelativeLocation=(X=7368.010000,Y=9784.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16842,7 +16842,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=7300.010000,Y=9336.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16857,7 +16857,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=6396.010000,Y=9336.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16946,7 +16946,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_Ras_dirtwalldevAA.Ras_dirtwalldevAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/Ras_dirtwalldevAA.Ras_dirtwalldevAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=6844.020000,Y=7292.010000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
@@ -16962,7 +16962,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=7292.010000,Y=7256.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16977,7 +16977,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=6396.010000,Y=7256.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -16991,7 +16991,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallpluggerCC.ras_dirthallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallpluggerCC.ras_dirthallpluggerCC'
 			RelativeLocation=(X=7368.010000,Y=6808.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17006,7 +17006,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=7300.010000,Y=6360.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17021,7 +17021,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcorner.ras_dirthallcorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcorner.ras_dirthallcorner'
 			RelativeLocation=(X=6396.010000,Y=6360.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17270,7 +17270,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingAA.ras_hallceillingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingAA.ras_hallceillingAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=6848.010000,Y=8788.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -17286,7 +17286,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallceillingAA.ras_hallceillingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallceillingAA.ras_hallceillingAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=6848.010000,Y=7804.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -17302,7 +17302,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallpluggerCC.ras_dirthallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallpluggerCC.ras_dirthallpluggerCC'
 			RelativeLocation=(X=6848.010000,Y=6292.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17407,7 +17407,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5396.010000,Y=6327.990000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=67.500000,Roll=0.000000)
@@ -17423,7 +17423,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalljunctiontop.ras_dirthalljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalljunctiontop.ras_dirthalljunctiontop'
 			RelativeLocation=(X=6844.010000,Y=6808.000000,Z=-872.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17438,7 +17438,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalljunctiontop.ras_dirthalljunctiontop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalljunctiontop.ras_dirthalljunctiontop'
 			RelativeLocation=(X=6844.010000,Y=9784.000000,Z=-872.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17453,7 +17453,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5916.010000,Y=9784.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
@@ -17617,7 +17617,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5970.000000,Y=9784.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
@@ -17678,7 +17678,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=6320.010000,Y=6812.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -17694,7 +17694,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5096.010000,Y=5624.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -17710,7 +17710,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4312.010000,Y=5624.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -17726,7 +17726,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3824.010000,Y=6112.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -17742,7 +17742,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3332.010000,Y=5624.000000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17757,7 +17757,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=6844.010000,Y=7292.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -17773,7 +17773,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=6844.010000,Y=9300.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -17789,7 +17789,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5944.010000,Y=9784.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -17805,7 +17805,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_Stairs.Stairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/Stairs.Stairs'
 			RelativeLocation=(X=1004.110000,Y=7385.810000,Z=-1843.580000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.250000,Y=1.250000,Z=1.250000)
@@ -17880,7 +17880,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallpluggerCC.ras_dirthallpluggerCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallpluggerCC.ras_dirthallpluggerCC'
 			RelativeLocation=(X=6796.010000,Y=12080.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17895,7 +17895,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_Ras_dirtwalldevAA.Ras_dirtwalldevAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/Ras_dirtwalldevAA.Ras_dirtwalldevAA'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5776.010000,Y=12080.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -17911,7 +17911,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalldevBB.ras_dirthalldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalldevBB.ras_dirthalldevBB'
 			RelativeLocation=(X=5630.010000,Y=12080.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.250000,Y=1.000000,Z=1.000000)
@@ -17926,7 +17926,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalldevBB.ras_dirthalldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalldevBB.ras_dirthalldevBB'
 			RelativeLocation=(X=5800.010000,Y=6472.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17941,7 +17941,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthalldevBB.ras_dirthalldevBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthalldevBB.ras_dirthalldevBB'
 			RelativeLocation=(X=5592.010000,Y=5976.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18019,7 +18019,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=1460.010000,Y=8383.960000,Z=-1160.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=118.125000,Roll=0.000000)
@@ -19036,7 +19036,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_WallFixtures_WallFixE.WallFixE'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/WallFixtures/WallFixE.WallFixE'
 			RelativeLocation=(X=4036.090000,Y=12621.400000,Z=-1484.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -19050,7 +19050,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_WallFixtures_WallFixE.WallFixE'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/WallFixtures/WallFixE.WallFixE'
 			RelativeLocation=(X=4034.840000,Y=12619.600000,Z=-822.002000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -20258,7 +20258,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_mainPutiePipesD.mainPutiePipesD'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/mainPutiePipesD.mainPutiePipesD'
 			RelativeLocation=(X=4110.900000,Y=9571.970000,Z=-643.995000)
 			RelativeRotation=(Pitch=0.000000,Yaw=50.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20273,7 +20273,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_mainPutiePipesD.mainPutiePipesD'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/mainPutiePipesD.mainPutiePipesD'
 			RelativeLocation=(X=4110.900000,Y=9571.970000,Z=-387.997000)
 			RelativeRotation=(Pitch=0.000000,Yaw=95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20472,7 +20472,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_cables.ras_cables'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_cables.ras_cables'
 			RelativeLocation=(X=3474.010000,Y=8922.740000,Z=-415.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.200000)
@@ -20487,7 +20487,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_cables.ras_cables'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_cables.ras_cables'
 			RelativeLocation=(X=4684.420000,Y=8861.110000,Z=-351.999000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.200000)
 			CustomProperties
@@ -20501,7 +20501,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_SpilledHoses.Trando_SpilledHoses'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_SpilledHoses.Trando_SpilledHoses'
 			RelativeLocation=(X=5472.990000,Y=8925.010000,Z=-988.010000)
 			RelativeRotation=(Pitch=45.000000,Yaw=118.125000,Roll=-39.375000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -20516,7 +20516,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_SpilledHoses.Trando_SpilledHoses'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_SpilledHoses.Trando_SpilledHoses'
 			RelativeLocation=(X=2785.000000,Y=9948.990000,Z=-1116.010000)
 			RelativeRotation=(Pitch=28.125000,Yaw=-56.250000,Roll=-106.875000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -20552,7 +20552,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_DebrisPileA.Trando_DebrisPileA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_DebrisPileA.Trando_DebrisPileA'
 			RelativeLocation=(X=3322.000000,Y=10828.000000,Z=-1448.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-101.250000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -20641,7 +20641,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA.CrateA'
 			RelativeLocation=(X=-2924.000000,Y=6716.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-84.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20656,7 +20656,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB.CrateB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB.CrateB'
 			RelativeLocation=(X=-5336.000000,Y=6300.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=50.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20671,7 +20671,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=6572.030000,Y=7066.010000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=11.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20686,7 +20686,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=6532.010000,Y=8456.010000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-61.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -26666,7 +26666,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_TopwedgeZ.ras_TopwedgeZ'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_TopwedgeZ.ras_TopwedgeZ'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-1942.300000,Y=5848.380000,Z=-788.004000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
@@ -26697,7 +26697,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			RelativeLocation=(X=-1888.000000,Y=5644.000000,Z=-1160.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-157.500000,Roll=0.000000)
 			RelativeScale3D=(X=0.850000,Y=1.000000,Z=1.000000)
@@ -26712,7 +26712,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-2248.000000,Y=5892.000000,Z=-1160.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
@@ -26728,7 +26728,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallcapdoor.ras_hallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallcapdoor.ras_hallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-2140.000000,Y=5892.000000,Z=-1160.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
@@ -27102,7 +27102,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcornerCC1.ras_dirthallcornerCC1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcornerCC1.ras_dirthallcornerCC1'
 			RelativeLocation=(X=1818.990000,Y=8647.390000,Z=-1160.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=118.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -27117,7 +27117,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcornerCC1.ras_dirthallcornerCC1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcornerCC1.ras_dirthallcornerCC1'
 			RelativeLocation=(X=1706.590000,Y=9095.270000,Z=-1160.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-61.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -27180,7 +27180,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_TopwedgeZ.ras_TopwedgeZ'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_TopwedgeZ.ras_TopwedgeZ'
 			RelativeLocation=(X=2054.280000,Y=9463.660000,Z=-788.015000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -27210,7 +27210,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallwallhalf.Ras_hallwallhalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallwallhalf.Ras_hallwallhalf'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=1999.980000,Y=9668.050000,Z=-1160.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.500000,Roll=0.000000)
@@ -27226,7 +27226,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=2359.980000,Y=9420.040000,Z=-1160.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -27242,7 +27242,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirthalls_ras_dirthallcapdoor.ras_dirthallcapdoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirthalls/ras_dirthallcapdoor.ras_dirthallcapdoor'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=2251.980000,Y=9420.050000,Z=-1160.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
@@ -28473,7 +28473,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_Stairs.Stairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/Stairs.Stairs'
 			RelativeLocation=(X=3012.970000,Y=8357.230000,Z=-1367.590000)
 			RelativeRotation=(Pitch=0.000000,Yaw=101.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.750000,Z=1.000000)
@@ -28592,7 +28592,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_computerCore_Stairs.Stairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/computerCore/Stairs.Stairs'
 			RelativeLocation=(X=-2896.970000,Y=6954.770000,Z=-1367.590000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.750000,Z=1.000000)
@@ -28637,7 +28637,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-2252.000000,Y=5924.000000,Z=-1160.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -28651,7 +28651,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-2140.000000,Y=5924.000000,Z=-1160.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -28665,7 +28665,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-1354.360000,Y=6937.430000,Z=-1160.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=28.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -28680,7 +28680,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-1255.580000,Y=6990.230000,Z=-1160.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=28.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -28695,7 +28695,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=1361.640000,Y=8325.480000,Z=-1160.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=28.125000,Roll=0.000000)
@@ -28711,7 +28711,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=1460.420000,Y=8378.280000,Z=-1160.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=28.125000,Roll=0.000000)
@@ -28727,7 +28727,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=2247.280000,Y=9473.570000,Z=-1160.010000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -28742,7 +28742,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=2359.280000,Y=9473.570000,Z=-1160.010000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -29051,7 +29051,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_HangLight.Trando_HangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_HangLight.Trando_HangLight'
 			RelativeLocation=(X=-445.310000,Y=7375.090000,Z=-1312.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=44.296875,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -29066,7 +29066,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=-443.830000,Y=7376.290000,Z=-1102.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=27.438354,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -29859,7 +29859,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=-138.052000,Y=8120.880000,Z=-1157.090000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-169.436646,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -29874,7 +29874,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=-327.301000,Y=7758.110000,Z=-1156.090000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-169.436646,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -29889,7 +29889,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=152.860000,Y=7236.980000,Z=-780.090000)
 			RelativeRotation=(Pitch=0.000000,Yaw=123.024902,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -29904,7 +29904,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=226.075000,Y=7651.910000,Z=-812.093000)
 			RelativeRotation=(Pitch=0.000000,Yaw=123.024902,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -29919,7 +29919,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=-18.254400,Y=7689.140000,Z=-835.092000)
 			RelativeRotation=(Pitch=0.000000,Yaw=122.980957,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -29934,7 +29934,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=-116.239000,Y=7651.240000,Z=-1104.090000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-169.436646,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -29993,7 +29993,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=294.322000,Y=7929.820000,Z=-820.096000)
 			RelativeRotation=(Pitch=0.000000,Yaw=156.774902,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30008,7 +30008,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=124.676000,Y=8315.490000,Z=-852.099000)
 			RelativeRotation=(Pitch=0.000000,Yaw=156.774902,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30023,7 +30023,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LongHang_Cable.Trando_LongHang_Cable'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LongHang_Cable.Trando_LongHang_Cable'
 			RelativeLocation=(X=-99.161900,Y=8210.710000,Z=-875.098000)
 			RelativeRotation=(Pitch=0.000000,Yaw=156.730957,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30054,7 +30054,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateC_Dest.CrateC_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateC_Dest.CrateC_Dest'
 			RelativeLocation=(X=115.824000,Y=7687.750000,Z=-1880.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=5.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.800000,Z=1.000000)
@@ -30069,7 +30069,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=204.600000,Y=7586.270000,Z=-1630.580000)
 			RelativeRotation=(Pitch=50.537109,Yaw=87.934570,Roll=82.946777)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.200000)
@@ -30331,7 +30331,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA.CrateA'
 			RelativeLocation=(X=-2840.000000,Y=6488.000000,Z=-1452.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30346,7 +30346,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA.CrateA'
 			RelativeLocation=(X=-4844.010000,Y=6840.010000,Z=-1311.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-135.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30361,7 +30361,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA.CrateA'
 			RelativeLocation=(X=-7016.010000,Y=6496.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=118.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30376,7 +30376,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB.CrateB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB.CrateB'
 			RelativeLocation=(X=-6544.000000,Y=7288.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30391,7 +30391,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_DebrisPileA.Trando_DebrisPileA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_DebrisPileA.Trando_DebrisPileA'
 			RelativeLocation=(X=6989.990000,Y=11152.000000,Z=-1064.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30406,7 +30406,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_DebrisPileA.Trando_DebrisPileA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_DebrisPileA.Trando_DebrisPileA'
 			RelativeLocation=(X=6429.940000,Y=7439.980000,Z=-1324.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=50.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30421,7 +30421,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=6484.020000,Y=8360.030000,Z=-1231.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=168.750000,Roll=39.375000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -31645,7 +31645,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_WallFixtures_WallFixE.WallFixE'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/WallFixtures/WallFixE.WallFixE'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-82.909200,Y=8715.410000,Z=-1193.960000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -31660,7 +31660,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_WallFixtures_WallFixE.WallFixE'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/WallFixtures/WallFixE.WallFixE'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-85.228200,Y=8722.960000,Z=-797.157000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -32807,7 +32807,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_WallFixtures_WallFixE.WallFixE'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/WallFixtures/WallFixE.WallFixE'
 			RelativeLocation=(X=196.087000,Y=6596.400000,Z=-1193.960000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -32822,7 +32822,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_WallFixtures_WallFixE.WallFixE'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/WallFixtures/WallFixE.WallFixE'
 			RelativeLocation=(X=196.405000,Y=6596.850000,Z=-797.157000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33587,7 +33587,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=5494.950000,Y=5991.030000,Z=-1320.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=16.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33602,7 +33602,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=4010.010000,Y=6417.020000,Z=-1320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -33616,7 +33616,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=639.604000,Y=7077.260000,Z=-1819.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.200000)
@@ -33631,7 +33631,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA.CrateA'
 			RelativeLocation=(X=-530.009000,Y=8252.090000,Z=-1824.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-174.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33646,7 +33646,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB.CrateB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB.CrateB'
 			RelativeLocation=(X=-548.000000,Y=7527.000000,Z=-1819.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -33660,7 +33660,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=767.044000,Y=7907.230000,Z=-1822.040000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-39.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33675,7 +33675,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=759.429000,Y=7800.180000,Z=-1734.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-168.750000,Roll=39.375000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33690,7 +33690,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=4960.930000,Y=8457.040000,Z=-1317.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=61.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33705,7 +33705,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA.CrateA'
 			RelativeLocation=(X=-6462.040000,Y=8257.040000,Z=-1318.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-135.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33720,7 +33720,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA.CrateA'
 			RelativeLocation=(X=-5207.960000,Y=9469.130000,Z=-1318.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=157.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33735,7 +33735,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA.CrateA'
 			RelativeLocation=(X=-3937.960000,Y=8832.130000,Z=-1318.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33750,7 +33750,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA.CrateA'
 			RelativeLocation=(X=-4030.040000,Y=3438.050000,Z=-1447.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33765,7 +33765,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=4115.940000,Y=11833.100000,Z=-1447.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-5.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33893,7 +33893,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateC_Dest.CrateC_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateC_Dest.CrateC_Dest'
 			RelativeLocation=(X=3835.010000,Y=7223.390000,Z=-1320.040000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-61.875000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -33908,7 +33908,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateC_Dest.CrateC_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateC_Dest.CrateC_Dest'
 			RelativeLocation=(X=-3732.890000,Y=8114.200000,Z=-1320.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-61.875000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -35192,7 +35192,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_hallpluggerBB.ras_hallpluggerBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/ras_hallpluggerBB.ras_hallpluggerBB'
 			RelativeLocation=(X=-359.997000,Y=9688.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -35417,7 +35417,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-6724.000000,Y=4558.000000,Z=-1066.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.300000,Y=1.000000,Z=1.000000)
@@ -35432,7 +35432,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-6160.000000,Y=3696.000000,Z=-1066.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.300000,Y=1.000000,Z=1.000000)
@@ -35447,7 +35447,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-5664.000000,Y=3232.000000,Z=-1066.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -35461,7 +35461,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-5372.000000,Y=3232.000000,Z=-1066.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -35475,7 +35475,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-6734.000000,Y=5076.000000,Z=-1320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.300000,Y=1.000000,Z=1.000000)
@@ -35490,7 +35490,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_Ras_hallfloordev.Ras_hallfloordev'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/hall_system/Ras_hallfloordev.Ras_hallfloordev'
 			RelativeLocation=(X=-6282.000000,Y=5530.000000,Z=-1320.000000)
 			RelativeScale3D=(X=0.300000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -36575,7 +36575,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_lightsaber_ras_lightsaberAA.ras_lightsaberAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/lightsaber/ras_lightsaberAA.ras_lightsaberAA'
 			RelativeLocation=(X=-4198.020000,Y=3912.020000,Z=-804.009000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-140.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -36601,7 +36601,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_SpilledHoses.Trando_SpilledHoses'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_SpilledHoses.Trando_SpilledHoses'
 			RelativeLocation=(X=1231.980000,Y=6022.000000,Z=-1360.010000)
 			RelativeRotation=(Pitch=45.000000,Yaw=118.125000,Roll=-39.375000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -36710,7 +36710,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=6290.350000,Y=8394.010000,Z=-1319.070000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -36736,7 +36736,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_Vert_FallenPipe2.Trando_Vert_FallenPipe2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_Vert_FallenPipe2.Trando_Vert_FallenPipe2'
 			RelativeLocation=(X=6360.020000,Y=11270.000000,Z=-1062.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=106.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -36751,7 +36751,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_DebrisPileB.Trando_DebrisPileB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_DebrisPileB.Trando_DebrisPileB'
 			RelativeLocation=(X=4550.000000,Y=5826.000000,Z=-1318.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-39.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -36766,7 +36766,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_cables.ras_cables'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/Dirtdatacore/ras_cables.ras_cables'
 			RelativeLocation=(X=3627.990000,Y=5668.740000,Z=-883.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-22.500000,Roll=0.000000)
 			RelativeScale3D=(X=0.600000,Y=0.600000,Z=0.600000)
@@ -36924,7 +36924,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_DebrisPileB.Trando_DebrisPileB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_DebrisPileB.Trando_DebrisPileB'
 			RelativeLocation=(X=7094.080000,Y=9452.050000,Z=-1318.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-168.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -36990,7 +36990,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_DebrisPileA.Trando_DebrisPileA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_DebrisPileA.Trando_DebrisPileA'
 			RelativeLocation=(X=1846.010000,Y=5898.000000,Z=-1566.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-118.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -37016,7 +37016,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_SpilledHoses.Trando_SpilledHoses'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_SpilledHoses.Trando_SpilledHoses'
 			RelativeLocation=(X=6756.170000,Y=6578.120000,Z=-1122.090000)
 			RelativeRotation=(Pitch=-11.250000,Yaw=0.000000,Roll=-73.125000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)

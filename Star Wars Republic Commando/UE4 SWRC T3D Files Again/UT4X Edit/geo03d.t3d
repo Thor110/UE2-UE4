@@ -1014,7 +1014,7 @@ Begin Map
 		Wait at top time=10.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Doors_FdyDoorA.FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover0_D_CatwalkExit"
 		Tags(0)="D_CatwalkExit"
 	End Actor
@@ -1037,7 +1037,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Doors_FdyDoorA.FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover9_D_Conveyor03"
 		Tags(0)="D_Conveyor03"
 	End Actor
@@ -2080,7 +2080,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Doors_FdyDoorA.FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover1_D_Conveyor01"
 		Tags(0)="D_Conveyor01"
 	End Actor
@@ -2530,7 +2530,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FanSpire.FanSpire'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FanSpire.FanSpire'
 			RelativeLocation=(X=-12210.900000,Y=14092.900000,Z=-3074.070000)
 			RelativeRotation=(Pitch=0.000000,Yaw=20.500488,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2545,7 +2545,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Machines_FanEngine.FanEngine'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Machines/FanEngine.FanEngine'
 			RelativeLocation=(X=-12070.200000,Y=12022.600000,Z=-2664.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.961304,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2583,7 +2583,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Controler.Controler'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Controler.Controler'
 			RelativeLocation=(X=-13896.000000,Y=19592.000000,Z=-1504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2612,7 +2612,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Shield_Jam_door.Pile_Shield_Jam_door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Shield_Jam_door.Pile_Shield_Jam_door'
 		ActorLabel="Mover16_D_ControlWindow"
 		Tags(0)="D_ControlWindow"
 	End Actor
@@ -2620,7 +2620,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-15680.000000,Y=19680.000000,Z=-1744.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2634,7 +2634,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-14416.000000,Y=19680.000000,Z=-1744.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2648,7 +2648,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-16336.000000,Y=18528.000000,Z=-2203.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
@@ -2663,7 +2663,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-15616.000000,Y=18880.000000,Z=-2200.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.700000,Y=1.000000,Z=1.000000)
@@ -2678,7 +2678,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-16344.000000,Y=19312.000000,Z=-2203.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2693,7 +2693,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-15608.000000,Y=19328.000000,Z=-2200.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2708,7 +2708,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-14600.000000,Y=18508.000000,Z=-2184.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
@@ -3867,7 +3867,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryDoorFrameSmall.FactoryDoorFrameSmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryDoorFrameSmall.FactoryDoorFrameSmall'
 			RelativeLocation=(X=-17340.000000,Y=18284.000000,Z=-1502.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4768,7 +4768,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-12808.000000,Y=19296.000000,Z=-1183.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=-101.250000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4906,7 +4906,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-14351.900000,Y=18517.000000,Z=-1445.000000)
 			RelativeRotation=(Pitch=84.375000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5431,7 +5431,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-13110.800000,Y=18857.900000,Z=-1588.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -5445,7 +5445,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-13226.000000,Y=20326.000000,Z=-1502.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-137.570801,Roll=180.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=-1.500000)
@@ -5460,7 +5460,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-14258.000000,Y=20438.000000,Z=-1342.010000)
 			RelativeRotation=(Pitch=-50.625000,Yaw=90.373535,Roll=90.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=-1.500000)
@@ -6148,7 +6148,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-18212.000000,Y=19678.000000,Z=-1744.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6162,7 +6162,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-19476.000000,Y=19684.000000,Z=-1744.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6176,7 +6176,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-20744.000000,Y=19690.000000,Z=-1744.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6190,7 +6190,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-23272.000000,Y=19694.000000,Z=-1744.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6204,7 +6204,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-17215.600000,Y=19689.400000,Z=-1698.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.600000,Y=0.900000,Z=0.600000)
@@ -6219,7 +6219,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_CircleBaseLanding.CircleBaseLanding'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/CircleBaseLanding.CircleBaseLanding'
 			RelativeLocation=(X=-12051.600000,Y=12114.600000,Z=-2248.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6382,7 +6382,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-17400.000000,Y=19636.000000,Z=-2380.000000)
 			RelativeRotation=(Pitch=0.829468,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6397,7 +6397,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-19339.500000,Y=19728.900000,Z=-2380.000000)
 			RelativeRotation=(Pitch=0.829468,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6412,7 +6412,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-14433.000000,Y=19634.000000,Z=-2354.000000)
 			RelativeRotation=(Pitch=0.812988,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6427,7 +6427,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-24982.000000,Y=19706.000000,Z=-1728.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.600000,Y=1.300000,Z=0.600000)
@@ -6442,7 +6442,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-17728.000000,Y=19724.000000,Z=-2380.000000)
 			RelativeRotation=(Pitch=0.829468,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6469,7 +6469,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_MainTargetA.MainTargetA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/MainTargetA.MainTargetA'
 		ActorLabel="Mover30_SmallFan02"
 		Tags(0)="SmallFan02"
 	End Actor
@@ -6489,7 +6489,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_MainTargetA.MainTargetA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/MainTargetA.MainTargetA'
 		ActorLabel="Mover19_SmallFan01"
 		Tags(0)="SmallFan01"
 	End Actor
@@ -7511,7 +7511,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-16322.200000,Y=18150.400000,Z=-1192.090000)
@@ -7548,7 +7548,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-15148.000000,Y=19745.000000,Z=-1962.990000)
@@ -7565,7 +7565,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-15884.000000,Y=19745.000000,Z=-1962.990000)
@@ -7603,7 +7603,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-14908.000000,Y=18145.000000,Z=-1130.990000)
@@ -7662,7 +7662,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-14791.200000,Y=16580.100000,Z=-1848.090000)
@@ -7700,7 +7700,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13524.800000,Y=19098.600000,Z=-1177.210000)
@@ -7717,7 +7717,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-14059.000000,Y=19952.200000,Z=-1200.100000)
@@ -7734,7 +7734,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-14035.000000,Y=19280.200000,Z=-1200.100000)
@@ -7814,7 +7814,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-16944.000000,Y=19680.000000,Z=-1744.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9812,7 +9812,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryDoorFrameSmall.FactoryDoorFrameSmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryDoorFrameSmall.FactoryDoorFrameSmall'
 			RelativeLocation=(X=-12868.100000,Y=19415.900000,Z=-1501.000000)
 			RelativeScale3D=(X=1.100000,Y=1.200000,Z=1.020000)
 			CustomProperties
@@ -11003,7 +11003,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-22800.800000,Y=19678.400000,Z=-1328.030000)
 			RelativeRotation=(Pitch=-89.582520,Yaw=90.087891,Roll=0.065918)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11018,7 +11018,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-16616.100000,Y=20176.000000,Z=-2064.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.950562,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11033,7 +11033,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-14248.100000,Y=20192.000000,Z=-2064.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.950562,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11069,7 +11069,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-22070.400000,Y=20451.700000,Z=-1736.810000)
@@ -11248,7 +11248,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-12808.100000,Y=19415.900000,Z=-976.024000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=-140.625000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11263,7 +11263,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-12824.200000,Y=19871.800000,Z=-984.092000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=140.625000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11278,7 +11278,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-12824.200000,Y=19983.800000,Z=-1200.080000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=101.250000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11403,7 +11403,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Doors_FdyDoorA.FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover4_D_BridgeExit"
 		Tags(0)="D_BridgeExit"
 	End Actor
@@ -11623,7 +11623,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Doors_FdyDoorA.FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover68_D_BridgeEntrance"
 		Tags(0)="D_BridgeEntrance"
 	End Actor
@@ -12388,7 +12388,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryDoorFrameSmall.FactoryDoorFrameSmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryDoorFrameSmall.FactoryDoorFrameSmall'
 			RelativeLocation=(X=-20968.200000,Y=20064.000000,Z=-1694.080000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.379028,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12403,7 +12403,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-14104.300000,Y=20247.900000,Z=-1328.070000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=89.582520)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12418,7 +12418,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-14112.300000,Y=19023.900000,Z=-1328.080000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=-89.780273)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12703,7 +12703,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-12884.000000,Y=19656.000000,Z=-612.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=5.625000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13164,7 +13164,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-21306.800000,Y=21087.300000,Z=-2261.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=79.030151,Roll=0.439453)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13327,7 +13327,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-20218.900000,Y=21087.300000,Z=-2257.040000)
 			RelativeRotation=(Pitch=0.000000,Yaw=79.030151,Roll=0.439453)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13342,7 +13342,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-23692.200000,Y=19656.000000,Z=-2371.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13431,7 +13431,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubeCab.BigThreeTubeCab'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubeCab.BigThreeTubeCab'
 			RelativeLocation=(X=-14526.000000,Y=17792.000000,Z=-1408.010000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -13839,7 +13839,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-19264.600000,Y=18663.500000,Z=-1697.690000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14048,7 +14048,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-12040.000000,Y=14714.000000,Z=-1734.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14063,7 +14063,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-12040.000000,Y=13450.000000,Z=-1734.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14152,7 +14152,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-15584.000000,Y=18526.000000,Z=-2276.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14388,7 +14388,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-17234.200000,Y=18821.000000,Z=-2784.860000)
 			RelativeRotation=(Pitch=44.763794,Yaw=-89.560547,Roll=89.093628)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
@@ -14486,7 +14486,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-17320.000000,Y=18416.000000,Z=-1384.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.600000,Y=0.600000,Z=0.600000)
@@ -14501,7 +14501,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-21064.000000,Y=21496.000000,Z=-1552.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.550000,Z=0.200000)
@@ -14516,7 +14516,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-20472.000000,Y=21496.000000,Z=-1552.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.550000,Z=0.200000)
@@ -14579,7 +14579,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-14008.000000,Y=12128.000000,Z=-1748.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14594,7 +14594,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-12136.000000,Y=10256.000000,Z=-1748.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14741,7 +14741,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-20024.100000,Y=19744.000000,Z=-1312.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.049438,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14924,7 +14924,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12098.200000,Y=18884.100000,Z=-1795.030000)
@@ -14941,7 +14941,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-11161.800000,Y=17316.600000,Z=-1575.170000)
@@ -15174,7 +15174,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-22302.600000,Y=21763.800000,Z=-1587.890000)
@@ -16161,7 +16161,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-15097.700000,Y=18898.900000,Z=-4176.050000)
 			RelativeRotation=(Pitch=0.000000,Yaw=115.554199,Roll=0.000000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
@@ -16555,7 +16555,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-22000.700000,Y=18055.600000,Z=-1841.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -16570,7 +16570,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-20032.700000,Y=18039.600000,Z=-1841.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -16585,7 +16585,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-18816.700000,Y=18039.600000,Z=-1841.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -16748,7 +16748,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-19152.600000,Y=18663.500000,Z=-1697.690000)
 			RelativeRotation=(Pitch=0.000000,Yaw=45.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16763,7 +16763,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-17808.600000,Y=18519.500000,Z=-1505.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16778,7 +16778,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-17904.600000,Y=18695.500000,Z=-1713.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16793,7 +16793,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-18032.600000,Y=18695.500000,Z=-1713.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17157,7 +17157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-15487.500000,Y=19644.800000,Z=-2364.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17417,7 +17417,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-22784.600000,Y=20031.500000,Z=-2235.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17432,7 +17432,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-17823.900000,Y=18686.200000,Z=-1895.040000)
@@ -17458,7 +17458,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-20153.400000,Y=19574.600000,Z=-1963.040000)
@@ -18662,7 +18662,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Arena_GateShield_2.GateShield_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Arena/GateShield_2.GateShield_2'
 			RelativeLocation=(X=-23600.000000,Y=19712.000000,Z=-2080.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-88.961792,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18677,7 +18677,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Arena_GateShield_2.GateShield_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Arena/GateShield_2.GateShield_2'
 			RelativeLocation=(X=-14320.000000,Y=19664.000000,Z=-2080.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-88.961792,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18692,7 +18692,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Arena_GateShield_2.GateShield_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Arena/GateShield_2.GateShield_2'
 			RelativeLocation=(X=-21840.000000,Y=18096.000000,Z=-1456.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-88.961792,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -18789,7 +18789,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-23255.100000,Y=20180.600000,Z=-1779.910000)
@@ -18835,7 +18835,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryHallDoor.FactoryHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryHallDoor.FactoryHallDoor'
 			RelativeLocation=(X=-21641.300000,Y=19656.700000,Z=-2368.480000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -19316,7 +19316,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-18024.000000,Y=19230.000000,Z=-2340.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -19330,7 +19330,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-19032.000000,Y=19230.000000,Z=-2340.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -19344,7 +19344,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-18841.900000,Y=18245.900000,Z=-2094.020000)
 			RelativeRotation=(Pitch=86.852417,Yaw=-135.527344,Roll=133.961792)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=-1.500000)
@@ -19463,7 +19463,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-22008.000000,Y=19694.000000,Z=-1744.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -19723,7 +19723,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryDoorFrameSmall.FactoryDoorFrameSmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryDoorFrameSmall.FactoryDoorFrameSmall'
 			RelativeLocation=(X=-20966.200000,Y=18741.000000,Z=-1692.080000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.379028,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20209,7 +20209,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Ammo_Geo_AmmpPlt.Geo_AmmpPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Ammo/Geo_AmmpPlt.Geo_AmmpPlt'
 			RelativeLocation=(X=-17954.100000,Y=17728.900000,Z=-2223.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20224,7 +20224,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Ammo_Geo_AmmpPlt.Geo_AmmpPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Ammo/Geo_AmmpPlt.Geo_AmmpPlt'
 			RelativeLocation=(X=-20639.000000,Y=16983.800000,Z=-1694.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20239,7 +20239,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Ammo_Geo_AmmpPlt.Geo_AmmpPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Ammo/Geo_AmmpPlt.Geo_AmmpPlt'
 			RelativeLocation=(X=-13458.900000,Y=17488.200000,Z=-1498.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=101.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20254,7 +20254,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-17020.700000,Y=19335.400000,Z=-2202.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20269,7 +20269,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Ammo_Geo_AmmpPlt.Geo_AmmpPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Ammo/Geo_AmmpPlt.Geo_AmmpPlt'
 			RelativeLocation=(X=-12282.900000,Y=15920.200000,Z=-2224.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=39.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -21070,7 +21070,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Grate_Walkway.Grate_Walkway'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Grate_Walkway.Grate_Walkway'
 			RelativeLocation=(X=-20768.000000,Y=19564.000000,Z=-1711.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=1.000000,Z=0.500000)
@@ -21085,7 +21085,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Grate_Walkway.Grate_Walkway'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Grate_Walkway.Grate_Walkway'
 			RelativeLocation=(X=-20768.000000,Y=20940.000000,Z=-1732.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -21100,7 +21100,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-22928.000000,Y=19368.000000,Z=-2100.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.300000,Z=0.200000)
@@ -21115,7 +21115,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-22927.000000,Y=19368.000000,Z=-2448.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21130,7 +21130,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-21071.000000,Y=19368.000000,Z=-2448.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21145,7 +21145,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-21071.000000,Y=19368.000000,Z=-2099.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.200000,Y=0.150000,Z=0.200000)
@@ -21160,7 +21160,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-21071.000000,Y=19368.000000,Z=-2099.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21175,7 +21175,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-12143.000000,Y=10253.000000,Z=-4883.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -21190,7 +21190,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-14011.000000,Y=12126.000000,Z=-5020.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -21205,7 +21205,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FoundryHall.FoundryHall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FoundryHall.FoundryHall'
 			RelativeLocation=(X=-12040.000000,Y=13451.000000,Z=-4988.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -21220,7 +21220,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-14908.000000,Y=18145.000000,Z=520.001000)
@@ -21237,7 +21237,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-16322.000000,Y=18151.000000,Z=456.001000)
@@ -21254,7 +21254,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-12328.000000,Y=15360.000000,Z=-2076.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.502000,Z=0.200000)
@@ -21269,7 +21269,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-12328.000000,Y=15359.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21284,7 +21284,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-12328.000000,Y=14735.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21299,7 +21299,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-12328.000000,Y=14107.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21314,7 +21314,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-12328.000000,Y=13467.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21329,7 +21329,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-12328.000000,Y=12867.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21344,7 +21344,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-11752.000000,Y=15360.000000,Z=-2076.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.502000,Z=0.200000)
@@ -21359,7 +21359,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-11752.000000,Y=15359.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21374,7 +21374,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-11752.000000,Y=14735.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21389,7 +21389,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-11752.000000,Y=14107.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21404,7 +21404,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-11752.000000,Y=13467.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -21419,7 +21419,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-11752.000000,Y=12867.000000,Z=-2424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -22065,7 +22065,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-21064.000000,Y=21496.000000,Z=-1600.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.550000,Z=0.200000)
@@ -22080,7 +22080,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-20472.000000,Y=21496.000000,Z=-1600.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.550000,Z=0.200000)
@@ -22095,7 +22095,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-16201.800000,Y=17677.900000,Z=-1125.360000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -22110,7 +22110,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-16112.500000,Y=20202.200000,Z=-650.005000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.950562,Roll=180.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -22125,7 +22125,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-17506.200000,Y=19431.300000,Z=-155.013000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.049438,Roll=90.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -22140,7 +22140,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-16149.700000,Y=17943.700000,Z=-258.013000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.049438,Roll=90.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -22155,7 +22155,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-16753.700000,Y=18864.200000,Z=-356.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -22170,7 +22170,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-16820.200000,Y=19741.700000,Z=1617.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -22206,7 +22206,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-20166.500000,Y=20052.100000,Z=-2031.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.950562,Roll=180.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -22221,7 +22221,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-22708.900000,Y=20079.800000,Z=-1641.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.950562,Roll=180.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -22236,7 +22236,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-21853.500000,Y=20985.000000,Z=-2118.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=140.905151,Roll=0.439453)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -22251,7 +22251,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-21747.500000,Y=20219.300000,Z=-2118.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=67.780151,Roll=0.439453)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -22266,7 +22266,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-22570.700000,Y=20253.300000,Z=-2118.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-16.605835,Roll=0.417480)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -22281,7 +22281,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-22443.300000,Y=20108.600000,Z=-2249.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=174.655151,Roll=0.439453)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -22296,7 +22296,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-21737.700000,Y=20093.500000,Z=-2249.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-174.094849,Roll=0.439453)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -22311,7 +22311,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-13162.100000,Y=18390.900000,Z=-1588.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -22325,7 +22325,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-13966.700000,Y=18839.200000,Z=-1588.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=5.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -22340,7 +22340,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-12279.200000,Y=20355.500000,Z=-1715.000000)
 			RelativeScale3D=(X=1.600000,Y=1.600000,Z=1.600000)
 			CustomProperties
@@ -22354,7 +22354,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryDoorFrameSmall.FactoryDoorFrameSmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryDoorFrameSmall.FactoryDoorFrameSmall'
 			RelativeLocation=(X=-13800.100000,Y=17539.500000,Z=-1502.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.736328,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.500000,Z=0.800000)
@@ -22369,7 +22369,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryDoorFrameSmall.FactoryDoorFrameSmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryDoorFrameSmall.FactoryDoorFrameSmall'
 			RelativeLocation=(X=-12789.600000,Y=18393.000000,Z=-1503.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.263672,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.500000,Z=0.800000)
@@ -22384,7 +22384,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryDoorFrameSmall.FactoryDoorFrameSmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryDoorFrameSmall.FactoryDoorFrameSmall'
 			RelativeLocation=(X=-21176.700000,Y=17348.900000,Z=-1693.730000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.736328,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.700000,Z=1.000000)
@@ -23155,7 +23155,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-12328.000000,Y=15360.000000,Z=-2140.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.502000,Z=0.200000)
@@ -23170,7 +23170,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-11752.000000,Y=15360.000000,Z=-2140.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.502000,Z=0.200000)
@@ -23185,7 +23185,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-21064.000000,Y=21496.000000,Z=-1680.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.550000,Z=0.200000)
@@ -23200,7 +23200,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-20472.000000,Y=21496.000000,Z=-1680.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.550000,Z=0.200000)
@@ -23215,7 +23215,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-20756.600000,Y=19143.500000,Z=-2229.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=67.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -23399,7 +23399,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-15392.800000,Y=18303.800000,Z=-1505.730000)
 			RelativeRotation=(Pitch=-2.680664,Yaw=90.659180,Roll=-2.812500)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.200000)
@@ -23426,7 +23426,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-15520.800000,Y=17855.800000,Z=-1513.730000)
 			RelativeRotation=(Pitch=-2.680664,Yaw=90.659180,Roll=-2.812500)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -23441,7 +23441,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_GEO_TubeSecond.GEO_TubeSecond'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/GEO_TubeSecond.GEO_TubeSecond'
 			RelativeLocation=(X=-15444.900000,Y=17939.800000,Z=-1513.730000)
 			RelativeRotation=(Pitch=2.592773,Yaw=89.417725,Roll=-2.153320)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -23676,7 +23676,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-22928.000000,Y=19368.000000,Z=-2164.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.300000,Z=0.200000)
@@ -23691,7 +23691,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-21071.000000,Y=19368.000000,Z=-2163.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.200000,Y=0.150000,Z=0.200000)
@@ -23706,7 +23706,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-21071.000000,Y=19368.000000,Z=-2163.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.070000,Z=0.200000)
@@ -24008,7 +24008,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-24054.000000,Y=19706.000000,Z=-3872.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.600000,Y=1.300000,Z=0.600000)
@@ -24035,7 +24035,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-22251.500000,Y=18135.900000,Z=-3397.600000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.600000,Y=1.300000,Z=0.600000)
@@ -24162,7 +24162,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoorDetail_2.PileDoorDetail_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoorDetail_2.PileDoorDetail_2'
 			RelativeLocation=(X=-12022.200000,Y=16270.700000,Z=-2528.970000)
 			RelativeRotation=(Pitch=11.156616,Yaw=96.366577,Roll=178.780518)
 			RelativeScale3D=(X=0.950000,Y=1.000000,Z=1.000000)
@@ -24177,7 +24177,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoorDetail_2.PileDoorDetail_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoorDetail_2.PileDoorDetail_2'
 			RelativeLocation=(X=-11118.200000,Y=18581.500000,Z=-1894.950000)
 			RelativeRotation=(Pitch=11.178589,Yaw=-87.994995,Roll=179.384766)
 			RelativeScale3D=(X=0.700000,Y=1.000000,Z=1.000000)
@@ -24192,7 +24192,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoorDetail_2.PileDoorDetail_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoorDetail_2.PileDoorDetail_2'
 			RelativeLocation=(X=-12064.000000,Y=17809.900000,Z=-1641.990000)
 			RelativeRotation=(Pitch=16.979370,Yaw=89.516602,Roll=177.583008)
 			RelativeScale3D=(X=0.950000,Y=1.000000,Z=1.000000)
@@ -24207,7 +24207,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_TubeConnectionCurve_2.TubeConnectionCurve_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/TubeConnectionCurve_2.TubeConnectionCurve_2'
 			RelativeLocation=(X=-11098.700000,Y=17885.600000,Z=-1990.010000)
 			RelativeRotation=(Pitch=-3.685913,Yaw=89.890137,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -24222,7 +24222,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_TubeConnectionCurve_2.TubeConnectionCurve_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/TubeConnectionCurve_2.TubeConnectionCurve_2'
 			RelativeLocation=(X=-12064.100000,Y=17925.000000,Z=-1910.010000)
 			RelativeRotation=(Pitch=5.251465,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -24237,7 +24237,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_TubeConnectionCurve_2.TubeConnectionCurve_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/TubeConnectionCurve_2.TubeConnectionCurve_2'
 			RelativeLocation=(X=-12101.600000,Y=18476.300000,Z=-2187.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -24252,7 +24252,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_TubeConnectionCurve_2.TubeConnectionCurve_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/TubeConnectionCurve_2.TubeConnectionCurve_2'
 			RelativeLocation=(X=-11120.200000,Y=18469.000000,Z=-2179.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -24267,7 +24267,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoorDetail_2.PileDoorDetail_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoorDetail_2.PileDoorDetail_2'
 			RelativeLocation=(X=-12138.000000,Y=17291.300000,Z=-2333.010000)
 			RelativeRotation=(Pitch=18.918457,Yaw=88.632202,Roll=-179.456177)
 			RelativeScale3D=(X=1.150000,Y=1.000000,Z=1.000000)
@@ -24282,7 +24282,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_Pipe_Elbow.PileDoor_Pipe_Elbow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_Pipe_Elbow.PileDoor_Pipe_Elbow'
 			RelativeLocation=(X=-12031.500000,Y=18949.100000,Z=-1593.990000)
 			RelativeRotation=(Pitch=-0.060425,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -24297,7 +24297,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeFacade.PileDoor_PipeFacade'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeFacade.PileDoor_PipeFacade'
 			RelativeLocation=(X=-12057.000000,Y=19058.900000,Z=-1264.860000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -24312,7 +24312,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubeCab.BigThreeTubeCab'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubeCab.BigThreeTubeCab'
 			RelativeLocation=(X=-11654.000000,Y=19174.300000,Z=-1430.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -24326,7 +24326,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeFacade.PileDoor_PipeFacade'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeFacade.PileDoor_PipeFacade'
 			RelativeLocation=(X=-11527.800000,Y=19582.600000,Z=-1181.870000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.994507,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -24341,7 +24341,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_GESmallTube.GESmallTube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/GESmallTube.GESmallTube'
 			RelativeLocation=(X=-11702.100000,Y=20347.500000,Z=-1715.000000)
 			RelativeScale3D=(X=1.600000,Y=1.600000,Z=1.600000)
 			CustomProperties
@@ -24355,7 +24355,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12119.000000,Y=18788.400000,Z=-1272.280000)
@@ -24396,7 +24396,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-18651.500000,Y=19677.100000,Z=-1859.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=2.000000,Y=0.800000,Z=0.800000)
@@ -24411,7 +24411,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-18636.400000,Y=19348.000000,Z=-1861.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=2.000000,Y=0.800000,Z=0.800000)
@@ -24426,7 +24426,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-18624.700000,Y=19249.900000,Z=-1861.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=2.000000,Y=0.800000,Z=0.800000)
@@ -24441,7 +24441,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-18600.900000,Y=19134.000000,Z=-1861.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=2.000000,Y=0.800000,Z=0.800000)
@@ -24456,7 +24456,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-18683.900000,Y=18419.100000,Z=-1884.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=2.000000,Y=0.800000,Z=0.800000)
@@ -24471,7 +24471,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-18632.600000,Y=18870.600000,Z=-1884.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=2.000000,Y=0.800000,Z=0.800000)
@@ -24486,7 +24486,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile.Pile'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile.Pile'
 			RelativeLocation=(X=-18686.000000,Y=19000.500000,Z=-1884.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=2.000000,Y=0.800000,Z=0.800000)
@@ -24501,7 +24501,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoorDetail_2.PileDoorDetail_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoorDetail_2.PileDoorDetail_2'
 			RelativeLocation=(X=-21279.600000,Y=21839.000000,Z=-1524.900000)
 			RelativeRotation=(Pitch=-16.671753,Yaw=-178.851929,Roll=-178.588257)
 			RelativeScale3D=(X=0.650000,Y=1.000000,Z=1.000000)
@@ -24516,7 +24516,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_TubeConnectionCurve_2.TubeConnectionCurve_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/TubeConnectionCurve_2.TubeConnectionCurve_2'
 			RelativeLocation=(X=-22328.000000,Y=21320.000000,Z=-2104.000000)
 			RelativeRotation=(Pitch=-11.244507,Yaw=-89.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -24531,7 +24531,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeJoint.PileDoor_PipeJoint'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeJoint.PileDoor_PipeJoint'
 			RelativeLocation=(X=-22336.000000,Y=20960.000000,Z=-2096.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -24545,7 +24545,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeFacade.PileDoor_PipeFacade'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeFacade.PileDoor_PipeFacade'
 			RelativeLocation=(X=-22336.000000,Y=21184.000000,Z=-1808.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.087891,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -24560,7 +24560,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeFacade.PileDoor_PipeFacade'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeFacade.PileDoor_PipeFacade'
 			RelativeLocation=(X=-22719.200000,Y=20682.200000,Z=-1812.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.087891,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=-1.000000)
@@ -24575,7 +24575,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_TubeConnectionCurve_2.TubeConnectionCurve_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/TubeConnectionCurve_2.TubeConnectionCurve_2'
 			RelativeLocation=(X=-23205.400000,Y=20199.900000,Z=-2256.220000)
 			RelativeRotation=(Pitch=-15.221558,Yaw=-89.862671,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -24590,7 +24590,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeFacade.PileDoor_PipeFacade'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeFacade.PileDoor_PipeFacade'
 			RelativeLocation=(X=-23208.200000,Y=20243.300000,Z=-1950.880000)
 			RelativeScale3D=(X=1.070000,Y=1.050000,Z=1.070000)
 			CustomProperties
@@ -24604,7 +24604,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_WindowFrame.Pile_WindowFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_WindowFrame.Pile_WindowFrame'
 			RelativeLocation=(X=-22044.000000,Y=20127.400000,Z=-1974.360000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.540000,Y=0.380000,Z=0.600000)
@@ -24640,7 +24640,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-23121.500000,Y=20709.900000,Z=-1674.910000)
@@ -24666,7 +24666,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_WindowFrame.Pile_WindowFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_WindowFrame.Pile_WindowFrame'
 			RelativeLocation=(X=-17244.400000,Y=18798.300000,Z=-2087.360000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.700000,Y=0.340000,Z=0.500000)
@@ -24681,7 +24681,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_WindowFrame.Pile_WindowFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_WindowFrame.Pile_WindowFrame'
 			RelativeLocation=(X=-16811.400000,Y=18395.100000,Z=-2101.360000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.700000,Y=0.350000,Z=0.600000)
@@ -24696,7 +24696,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-15983.000000,Y=17671.800000,Z=-1801.360000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.500000,Z=1.000000)
@@ -24711,7 +24711,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_TubeConnectionCurve_2.TubeConnectionCurve_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/TubeConnectionCurve_2.TubeConnectionCurve_2'
 			RelativeLocation=(X=-14264.000000,Y=16640.000000,Z=-2224.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -24725,7 +24725,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoorDetail_2.PileDoorDetail_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoorDetail_2.PileDoorDetail_2'
 			RelativeLocation=(X=-14328.000000,Y=16640.000000,Z=-1936.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -24740,7 +24740,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoorDetail_2.PileDoorDetail_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoorDetail_2.PileDoorDetail_2'
 			RelativeLocation=(X=-13304.000000,Y=16640.000000,Z=-1936.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.760000,Y=1.000000,Z=1.000000)
@@ -24755,7 +24755,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_TubeConnectionCurve_2.TubeConnectionCurve_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/TubeConnectionCurve_2.TubeConnectionCurve_2'
 			RelativeLocation=(X=-12432.000000,Y=16640.000000,Z=-2224.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -24770,7 +24770,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13223.200000,Y=16698.300000,Z=-1833.580000)
@@ -24796,7 +24796,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-11977.100000,Y=16656.400000,Z=-1809.580000)
@@ -24843,7 +24843,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeFacade.PileDoor_PipeFacade'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeFacade.PileDoor_PipeFacade'
 			RelativeLocation=(X=-11856.000000,Y=16192.000000,Z=-1936.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -24857,7 +24857,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-11658.800000,Y=15531.600000,Z=-1905.140000)
@@ -24904,7 +24904,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-16247.000000,Y=18119.800000,Z=-2329.360000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=0.500000,Z=1.000000)
@@ -24919,7 +24919,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-14311.200000,Y=17927.900000,Z=-2353.360000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=0.500000,Z=1.000000)
@@ -24934,7 +24934,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryDoorFrameSmall.FactoryDoorFrameSmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryDoorFrameSmall.FactoryDoorFrameSmall'
 			RelativeLocation=(X=-18056.000000,Y=18296.000000,Z=-2216.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=0.800000)
@@ -24949,7 +24949,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubeCab.BigThreeTubeCab'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubeCab.BigThreeTubeCab'
 			RelativeLocation=(X=-12400.100000,Y=15440.100000,Z=-2056.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -24964,7 +24964,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-12301.500000,Y=15496.700000,Z=-2262.040000)
 			RelativeRotation=(Pitch=0.000000,Yaw=140.905151,Roll=0.390015)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -24979,7 +24979,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-11573.500000,Y=15960.500000,Z=-2318.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=140.905151,Roll=0.439453)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -24994,7 +24994,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Pipes.Pile_Entry_Pipes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Pipes.Pile_Entry_Pipes'
 			RelativeLocation=(X=-11856.000000,Y=16216.000000,Z=-2128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.016479,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -25009,7 +25009,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-12629.500000,Y=15520.700000,Z=-2022.210000)
 			RelativeRotation=(Pitch=90.000000,Yaw=-129.094849,Roll=135.439453)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -25024,7 +25024,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-12613.500000,Y=15488.700000,Z=-2278.210000)
 			RelativeRotation=(Pitch=90.000000,Yaw=50.905151,Roll=-44.560547)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -25039,7 +25039,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubeCab.BigThreeTubeCab'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubeCab.BigThreeTubeCab'
 			RelativeLocation=(X=-12400.100000,Y=15328.300000,Z=-1824.050000)
 			RelativeRotation=(Pitch=90.000000,Yaw=90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -25054,7 +25054,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubeCab.BigThreeTubeCab'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubeCab.BigThreeTubeCab'
 			RelativeLocation=(X=-11472.100000,Y=15320.300000,Z=-1968.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -25069,7 +25069,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubeCab.BigThreeTubeCab'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubeCab.BigThreeTubeCab'
 			RelativeLocation=(X=-11320.100000,Y=15320.300000,Z=-2224.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -25084,7 +25084,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Pipes.Pile_Entry_Pipes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Pipes.Pile_Entry_Pipes'
 			RelativeLocation=(X=-14864.400000,Y=17700.600000,Z=-2106.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -25099,7 +25099,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Pipes.Pile_Entry_Pipes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Pipes.Pile_Entry_Pipes'
 			RelativeLocation=(X=-23208.000000,Y=20312.000000,Z=-2112.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.600000,Y=0.600000,Z=0.600000)
@@ -25114,7 +25114,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Pipes.Pile_Entry_Pipes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Pipes.Pile_Entry_Pipes'
 			RelativeLocation=(X=-22328.000000,Y=21128.000000,Z=-1960.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -25129,7 +25129,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-22565.500000,Y=20944.900000,Z=-2118.050000)
 			RelativeRotation=(Pitch=0.000000,Yaw=140.905151,Roll=0.439453)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -25144,7 +25144,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Pipes.Pile_Entry_Pipes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Pipes.Pile_Entry_Pipes'
 			RelativeLocation=(X=-22824.000000,Y=20688.000000,Z=-1976.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
 			CustomProperties
@@ -25158,7 +25158,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-22554.700000,Y=20461.300000,Z=-2142.070000)
 			RelativeRotation=(Pitch=0.000000,Yaw=118.394165,Roll=0.417480)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -25173,7 +25173,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-22085.400000,Y=20937.000000,Z=-2118.050000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-134.719849,Roll=0.439453)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -25188,7 +25188,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR_Doors_FdyDoorA.FdyDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_PR/Doors/FdyDoorA.FdyDoorA'
 			RelativeLocation=(X=2944.000000,Y=224.000000,Z=-128.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -25202,7 +25202,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-12464.300000,Y=17767.100000,Z=-1332.960000)
 			RelativeRotation=(Pitch=61.875000,Yaw=-180.000000,Roll=-90.000000)
 			RelativeScale3D=(X=2.500000,Y=2.300000,Z=2.000000)
@@ -25262,7 +25262,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-11677.100000,Y=19140.100000,Z=-1529.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=70.554199,Roll=-180.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=-1.500000)
@@ -25277,7 +25277,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-11658.200000,Y=16918.200000,Z=-2693.500000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=-2.570801,Roll=84.375000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=-1.500000)
@@ -25292,7 +25292,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-12370.200000,Y=16926.300000,Z=-2693.500000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=-2.570801,Roll=95.625000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=-1.500000)
@@ -25346,7 +25346,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-12860.000000,Y=19464.000000,Z=-612.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=5.625000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -25361,7 +25361,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-12860.000000,Y=19856.000000,Z=-612.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=5.625000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -25439,7 +25439,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-23246.500000,Y=19207.400000,Z=-1800.910000)
@@ -25465,7 +25465,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeJoint.PileDoor_PipeJoint'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeJoint.PileDoor_PipeJoint'
 			RelativeLocation=(X=-12031.300000,Y=15975.100000,Z=-2817.900000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-4.938354)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -25480,7 +25480,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeJoint.PileDoor_PipeJoint'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeJoint.PileDoor_PipeJoint'
 			RelativeLocation=(X=-14841.000000,Y=17090.500000,Z=-2225.100000)
 			RelativeScale3D=(X=1.000000,Y=1.600000,Z=1.000000)
 			CustomProperties
@@ -25494,7 +25494,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeFacade.PileDoor_PipeFacade'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeFacade.PileDoor_PipeFacade'
 			RelativeLocation=(X=-14837.200000,Y=17653.800000,Z=-1925.320000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -25530,7 +25530,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-20434.100000,Y=19077.900000,Z=-2238.080000)
 			RelativeRotation=(Pitch=2.043457,Yaw=-84.896851,Roll=178.813477)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=-1.000000)
@@ -25641,7 +25641,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_TubeConnectionCurve_2.TubeConnectionCurve_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/TubeConnectionCurve_2.TubeConnectionCurve_2'
 			RelativeLocation=(X=-21360.000000,Y=21840.000000,Z=-1800.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -25656,7 +25656,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Collision.Pile_Entry_Collision'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Collision.Pile_Entry_Collision'
 			RelativeLocation=(X=-22320.000000,Y=20896.000000,Z=-2040.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.600000,Y=1.200000,Z=1.700000)
@@ -25671,7 +25671,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Collision.Pile_Entry_Collision'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Collision.Pile_Entry_Collision'
 			RelativeLocation=(X=-22592.000000,Y=20696.000000,Z=-2048.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.900000,Y=1.200000,Z=1.500000)
@@ -25686,7 +25686,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Collision.Pile_Entry_Collision'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Collision.Pile_Entry_Collision'
 			RelativeLocation=(X=-23200.000000,Y=20024.000000,Z=-2192.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-174.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.900000,Y=1.200000,Z=1.500000)
@@ -25701,7 +25701,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Collision.Pile_Entry_Collision'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Collision.Pile_Entry_Collision'
 			RelativeLocation=(X=-14864.000000,Y=17896.000000,Z=-2168.000000)
 			RelativeScale3D=(X=1.900000,Y=1.500000,Z=1.500000)
 			CustomProperties
@@ -25715,7 +25715,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Collision.Pile_Entry_Collision'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Collision.Pile_Entry_Collision'
 			RelativeLocation=(X=-11848.000000,Y=15976.000000,Z=-2208.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.900000,Y=1.500000,Z=1.500000)
@@ -25730,7 +25730,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-20835.600000,Y=21918.600000,Z=-1421.890000)
@@ -25924,7 +25924,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-20138.100000,Y=19093.900000,Z=-2238.080000)
 			RelativeRotation=(Pitch=2.043457,Yaw=-84.896851,Roll=178.813477)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=-1.000000)
@@ -25939,7 +25939,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_Foundry_SpirepipeStation.SpirepipeStation'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/Foundry/SpirepipeStation.SpirepipeStation'
 			RelativeLocation=(X=-19818.100000,Y=19117.900000,Z=-2238.080000)
 			RelativeRotation=(Pitch=2.043457,Yaw=-84.896851,Roll=178.813477)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=-1.000000)
@@ -25954,7 +25954,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_BigThreeTubes.BigThreeTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/BigThreeTubes.BigThreeTubes'
 			RelativeLocation=(X=-19678.500000,Y=19172.100000,Z=-1583.010000)
 			RelativeRotation=(Pitch=-11.250000,Yaw=90.049438,Roll=-179.994507)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -25969,7 +25969,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-15017.600000,Y=19074.100000,Z=-1955.090000)
@@ -26069,7 +26069,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_WindowFrame.Pile_WindowFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_WindowFrame.Pile_WindowFrame'
 			RelativeLocation=(X=-14272.100000,Y=19643.200000,Z=-1340.390000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -26157,7 +26157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Pipes.Pile_Entry_Pipes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Pipes.Pile_Entry_Pipes'
 			RelativeLocation=(X=-12088.000000,Y=19031.100000,Z=-1466.970000)
 			RelativeRotation=(Pitch=11.250000,Yaw=84.358521,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -26720,7 +26720,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_FactoryDoorFrameSmall.FactoryDoorFrameSmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/FactoryDoorFrameSmall.FactoryDoorFrameSmall'
 			RelativeLocation=(X=-14194.100000,Y=17901.900000,Z=-1503.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.980000)
 			CustomProperties
@@ -27307,7 +27307,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-14124.400000,Y=19149.600000,Z=-1469.090000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.219727)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -27322,7 +27322,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-14127.600000,Y=20146.200000,Z=-1469.090000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.219727)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -27337,7 +27337,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileConnection.PileConnection'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileConnection.PileConnection'
 			RelativeLocation=(X=-14141.100000,Y=17832.200000,Z=-1250.080000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-89.780273)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -27352,7 +27352,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13907.200000,Y=17711.000000,Z=-1334.210000)
@@ -27369,7 +27369,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_PileDoor_PipeJoint_Closed.PileDoor_PipeJoint_Closed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/PileDoor_PipeJoint_Closed.PileDoor_PipeJoint_Closed'
 			RelativeLocation=(X=-11627.400000,Y=19605.400000,Z=-1457.230000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -28108,7 +28108,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-13606.000000,Y=19674.000000,Z=-8208.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.600000,Y=1.300000,Z=0.600000)
@@ -28197,7 +28197,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Collision.Pile_Entry_Collision'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Collision.Pile_Entry_Collision'
 			RelativeLocation=(X=-12087.000000,Y=18774.000000,Z=-2069.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-16.875000)
 			RelativeScale3D=(X=1.600000,Y=1.200000,Z=1.700000)
@@ -28212,7 +28212,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Pile_Entry_Collision.Pile_Entry_Collision'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Pile_Entry_Collision.Pile_Entry_Collision'
 			RelativeLocation=(X=-21098.000000,Y=21843.000000,Z=-1738.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.600000,Y=1.200000,Z=1.700000)
@@ -28517,7 +28517,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-22927.000000,Y=19368.000000,Z=-2099.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.200000,Y=0.150000,Z=0.200000)
@@ -28532,7 +28532,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-22927.000000,Y=19368.000000,Z=-2163.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.200000,Y=0.150000,Z=0.200000)
@@ -28708,7 +28708,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-15218.000000,Y=19340.000000,Z=-2289.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.038100,Z=0.200000)
@@ -28723,7 +28723,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-15218.000000,Y=19340.000000,Z=-2099.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.200000,Y=0.086000,Z=0.200000)
@@ -28738,7 +28738,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-15218.000000,Y=19340.000000,Z=-2163.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.200000,Y=0.086000,Z=0.200000)
@@ -28753,7 +28753,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-15219.000000,Y=18920.000000,Z=-2289.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.038100,Z=0.200000)
@@ -28768,7 +28768,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-14803.000000,Y=19340.000000,Z=-2289.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.038100,Z=0.200000)
@@ -28783,7 +28783,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-14803.000000,Y=19340.000000,Z=-2099.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.200000,Y=0.086000,Z=0.200000)
@@ -28798,7 +28798,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-14803.000000,Y=19340.000000,Z=-2163.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=0.200000,Y=0.086000,Z=0.200000)
@@ -28813,7 +28813,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-14804.000000,Y=18920.000000,Z=-2289.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.038100,Z=0.200000)
@@ -28828,7 +28828,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-15219.000000,Y=18911.000000,Z=-2099.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.085000,Z=0.200000)
@@ -28843,7 +28843,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-15219.000000,Y=18911.000000,Z=-2163.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.085000,Z=0.200000)
@@ -28858,7 +28858,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-14803.000000,Y=19330.000000,Z=-2099.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.085000,Z=0.200000)
@@ -28873,7 +28873,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_NewDecap_Bar.Bar'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/NewDecap/Bar.Bar'
 			RelativeLocation=(X=-14803.000000,Y=19330.000000,Z=-2163.010000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-90.000000)
 			RelativeScale3D=(X=0.200000,Y=0.085000,Z=0.200000)
@@ -28888,7 +28888,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM_AnimalPen_LongHangLight.LongHangLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_GM/AnimalPen/LongHangLight.LongHangLight'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-15017.600000,Y=19074.100000,Z=412.914000)

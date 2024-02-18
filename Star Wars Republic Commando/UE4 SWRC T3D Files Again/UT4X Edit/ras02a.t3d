@@ -1535,7 +1535,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_landingGearFoot.landingGearFoot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/landingGearFoot.landingGearFoot'
 			RelativeLocation=(X=-6926.480000,Y=-43.347300,Z=-1619.300000)
 			RelativeRotation=(Pitch=5.625000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=0.750000,Z=0.750000)
@@ -1550,7 +1550,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_landingGearShin.landingGearShin'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/landingGearShin.landingGearShin'
 			RelativeLocation=(X=-5662.880000,Y=-43.349100,Z=-826.512000)
 			RelativeRotation=(Pitch=22.500000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=0.750000,Z=0.750000)
@@ -1565,7 +1565,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_landingGearThigh.landingGearThigh'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/landingGearThigh.landingGearThigh'
 			RelativeLocation=(X=-4424.410000,Y=-43.347400,Z=-386.998000)
 			RelativeRotation=(Pitch=22.500000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=0.750000,Z=0.750000)
@@ -2722,7 +2722,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-8320.000000,Y=-768.000000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2737,7 +2737,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-8320.000000,Y=-768.000000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2752,7 +2752,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-8320.000000,Y=-768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2767,7 +2767,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-6782.180000,Y=-760.638000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2782,7 +2782,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-6782.180000,Y=-760.638000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2797,7 +2797,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-6782.200000,Y=-759.638000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2812,7 +2812,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-5248.000000,Y=-768.000000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2827,7 +2827,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-5248.000000,Y=-768.000000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2842,7 +2842,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-5248.000000,Y=-768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2857,7 +2857,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-3712.000000,Y=-768.000000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2872,7 +2872,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-3712.000000,Y=-768.000000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2887,7 +2887,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-3712.000000,Y=-768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2902,7 +2902,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-2176.000000,Y=-768.000000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2917,7 +2917,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-2176.000000,Y=-768.000000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2932,7 +2932,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-2176.000000,Y=-768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2947,7 +2947,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-8320.000000,Y=768.000000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2962,7 +2962,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-8320.000000,Y=768.000000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2977,7 +2977,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-8320.000000,Y=768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2992,7 +2992,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-6903.000000,Y=768.000000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3007,7 +3007,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-6903.000000,Y=768.000000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3022,7 +3022,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-6903.000000,Y=768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3037,7 +3037,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-5248.000000,Y=768.000000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3052,7 +3052,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-5248.000000,Y=768.000000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3067,7 +3067,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-5248.000000,Y=768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3082,7 +3082,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-3712.000000,Y=768.000000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3097,7 +3097,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-3712.000000,Y=768.000000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3112,7 +3112,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-3712.000000,Y=768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3127,7 +3127,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-2176.000000,Y=768.000000,Z=-2816.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3142,7 +3142,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-2176.000000,Y=768.000000,Z=-1280.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3157,7 +3157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_landingGear_Lgear_supportBeamA.Lgear_supportBeamA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/landingGear/Lgear_supportBeamA.Lgear_supportBeamA'
 			RelativeLocation=(X=-2176.000000,Y=768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3589,7 +3589,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_jucuzzi.Trando_jucuzzi'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_jucuzzi.Trando_jucuzzi'
 			RelativeLocation=(X=-5280.000000,Y=1024.000000,Z=-1568.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3604,7 +3604,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-4000.000000,Y=1076.000000,Z=-1536.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3619,7 +3619,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=-6832.000000,Y=1056.000000,Z=-1536.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3633,7 +3633,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=-3838.000000,Y=1432.000000,Z=-896.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3647,7 +3647,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=-379.160000,Y=-0.724478,Z=-774.002000)
 			RelativeRotation=(Pitch=39.375000,Yaw=78.750000,Roll=78.750000)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)
@@ -3662,7 +3662,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=-1472.000000,Y=-400.001000,Z=-896.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-82.831421,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3677,7 +3677,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=-3168.000000,Y=-1104.000000,Z=-896.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3691,7 +3691,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM_maintenanceSystem1_roundTubeGenerator.roundTubeGenerator'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM/maintenanceSystem1/roundTubeGenerator.roundTubeGenerator'
 			RelativeLocation=(X=-5120.000000,Y=-1088.000000,Z=-144.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3705,7 +3705,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM_maintenanceSystem1_roundTubeGenerator.roundTubeGenerator'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM/maintenanceSystem1/roundTubeGenerator.roundTubeGenerator'
 			RelativeLocation=(X=-8096.370000,Y=1050.150000,Z=-1398.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3719,7 +3719,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-4256.000000,Y=1072.000000,Z=-1536.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3733,7 +3733,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-4260.000000,Y=1068.000000,Z=-1424.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3748,7 +3748,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-3984.000000,Y=1072.000000,Z=-1424.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3762,7 +3762,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-4320.010000,Y=-1056.000000,Z=-912.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3777,7 +3777,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-4320.010000,Y=-1056.000000,Z=-800.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=84.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3792,7 +3792,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-3968.010000,Y=-1056.000000,Z=-912.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3807,7 +3807,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-4022.020000,Y=-1046.720000,Z=-798.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-118.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3833,7 +3833,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_vacuum_tube.vacuum_tube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/vacuum_tube.vacuum_tube'
 			RelativeLocation=(X=-8136.350000,Y=1576.810000,Z=-1162.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5319,7 +5319,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=-5487.570000,Y=-1075.580000,Z=-841.059000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.750000,Roll=33.750000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5592,7 +5592,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=-4478.050000,Y=2408.030000,Z=-1496.970000)
 			RelativeRotation=(Pitch=16.875000,Yaw=84.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5607,7 +5607,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-4467.120000,Y=-2387.070000,Z=-741.027000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5743,7 +5743,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_Custm_Hose_OverRail.Trando_Custm_Hose_OverRail'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_Custm_Hose_OverRail.Trando_Custm_Hose_OverRail'
 			RelativeLocation=(X=-7684.790000,Y=29.163700,Z=-931.527000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6144,7 +6144,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoorJam.RAS_RegDoorJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoorJam.RAS_RegDoorJam'
 			RelativeLocation=(X=-4481.980000,Y=2676.900000,Z=-1544.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.000000,Z=1.000000)
@@ -6725,7 +6725,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoorJam.RAS_RegDoorJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoorJam.RAS_RegDoorJam'
 			RelativeLocation=(X=-4476.200000,Y=-2493.410000,Z=-896.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.000000,Z=1.000000)
@@ -7099,7 +7099,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoor.RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover7_ExitDoor"
 		Tags(0)="ExitDoor"
 	End Actor
@@ -7107,7 +7107,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoorJam.RAS_RegDoorJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoorJam.RAS_RegDoorJam'
 			RelativeLocation=(X=-9088.210000,Y=-2493.410000,Z=-256.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.000000,Z=1.000000)
@@ -7359,7 +7359,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoor.RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover2_ExitControlRoomL"
 		Tags(0)="ExitControlRoomL"
 	End Actor
@@ -7367,7 +7367,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoorJam.RAS_RegDoorJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoorJam.RAS_RegDoorJam'
 			RelativeLocation=(X=-7541.970000,Y=3638.890000,Z=-1551.530000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.000000,Z=1.000000)
@@ -7596,7 +7596,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoor.RAS_RegDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoor.RAS_RegDoor'
 			RelativeLocation=(X=-4484.000000,Y=2555.000000,Z=-1535.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7611,7 +7611,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoor.RAS_RegDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoor.RAS_RegDoor'
 			RelativeLocation=(X=-4475.000000,Y=-2552.000000,Z=-895.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7707,7 +7707,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2_Trando_Trando_LeanTo_A.Trando_LeanTo_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM2/Trando/Trando_LeanTo_A.Trando_LeanTo_A'
 			RelativeLocation=(X=-7266.000000,Y=925.984000,Z=-1492.980000)
 			RelativeRotation=(Pitch=-16.875000,Yaw=16.875000,Roll=16.875000)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8870,7 +8870,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-7545.160000,Y=-381.108000,Z=-2213.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
@@ -8885,7 +8885,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-7328.650000,Y=-1295.790000,Z=-781.999000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
 			CustomProperties
@@ -8899,7 +8899,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-6287.100000,Y=103.721000,Z=-782.002000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
@@ -8914,7 +8914,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-5261.880000,Y=107.148000,Z=-773.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
@@ -8971,7 +8971,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM_maintenanceSystem1_roundTubeGenerator.roundTubeGenerator'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM/maintenanceSystem1/roundTubeGenerator.roundTubeGenerator'
 			RelativeLocation=(X=-3720.830000,Y=406.433000,Z=-739.002000)
 			RelativeRotation=(Pitch=-78.750000,Yaw=0.000000,Roll=-90.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.800000)
@@ -8986,7 +8986,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-3238.610000,Y=532.475000,Z=-1703.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
@@ -9001,7 +9001,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-1835.100000,Y=-511.075000,Z=-1703.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
@@ -9016,7 +9016,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-6063.200000,Y=2163.560000,Z=-1543.900000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.400000,Z=1.000000)
@@ -9031,7 +9031,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysDoorB.hangSysDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysDoorB.hangSysDoorB'
 			RelativeLocation=(X=-7552.980000,Y=2736.380000,Z=-1543.510000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.900000,Z=1.000000)
@@ -9046,7 +9046,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysCeilingLrg.hangSysCeilingLrg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysCeilingLrg.hangSysCeilingLrg'
 			RelativeLocation=(X=-7576.220000,Y=3123.940000,Z=-984.611000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.600000,Y=1.600000,Z=1.000000)
@@ -9061,7 +9061,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7288.460000,Y=3007.890000,Z=-1544.740000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9076,7 +9076,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTanksMed.hangSysTanksMed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTanksMed.hangSysTanksMed'
 			RelativeLocation=(X=-7287.630000,Y=3438.440000,Z=-1543.540000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9091,7 +9091,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysDoorB.hangSysDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysDoorB.hangSysDoorB'
 			RelativeLocation=(X=-7557.750000,Y=3531.960000,Z=-1534.510000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.900000,Z=1.000000)
@@ -9106,7 +9106,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTanksMed.hangSysTanksMed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTanksMed.hangSysTanksMed'
 			RelativeLocation=(X=-7815.050000,Y=3454.050000,Z=-1543.540000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9120,7 +9120,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7814.420000,Y=2967.420000,Z=-1543.740000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9134,7 +9134,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-7567.230000,Y=3250.510000,Z=-1533.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.200000)
@@ -9657,7 +9657,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoor.RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover1_FirstDoor"
 		Tags(0)="FirstDoor"
 	End Actor
@@ -9665,7 +9665,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoorJam.RAS_RegDoorJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoorJam.RAS_RegDoorJam'
 			RelativeLocation=(X=-7552.030000,Y=2521.670000,Z=-1550.530000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.000000,Z=1.000000)
@@ -9680,7 +9680,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-7279.570000,Y=1360.840000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9695,7 +9695,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-7847.050000,Y=1383.160000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9710,7 +9710,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-8111.600000,Y=1833.500000,Z=-1539.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
@@ -9725,7 +9725,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-7062.720000,Y=1828.120000,Z=-1529.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9740,7 +9740,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-6371.680000,Y=1359.190000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9755,7 +9755,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWindowCap.hangSysWindowCap'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWindowCap.hangSysWindowCap'
 			RelativeLocation=(X=-8341.470000,Y=1303.860000,Z=-1537.850000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=0.800000,Z=1.100000)
@@ -9770,7 +9770,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7316.110000,Y=2170.800000,Z=-1544.740000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9785,7 +9785,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7816.170000,Y=2175.720000,Z=-1543.740000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -9800,7 +9800,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysCeilingLrg.hangSysCeilingLrg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysCeilingLrg.hangSysCeilingLrg'
 			RelativeLocation=(X=-7554.940000,Y=2169.990000,Z=-984.611000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.000000)
@@ -9815,7 +9815,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-7548.630000,Y=1634.790000,Z=-1533.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.350000,Y=1.300000,Z=0.200000)
@@ -9830,7 +9830,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-6624.290000,Y=1828.730000,Z=-1529.830000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -9845,7 +9845,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTanksMed.hangSysTanksMed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTanksMed.hangSysTanksMed'
 			RelativeLocation=(X=-6348.880000,Y=2038.100000,Z=-1543.540000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9859,7 +9859,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTanksMed.hangSysTanksMed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTanksMed.hangSysTanksMed'
 			RelativeLocation=(X=-5687.930000,Y=2044.240000,Z=-1543.540000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9874,7 +9874,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-4183.670000,Y=2182.870000,Z=-1543.900000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.100000,Z=1.000000)
@@ -9889,7 +9889,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-4811.210000,Y=2195.850000,Z=-1543.900000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.100000,Z=1.000000)
@@ -9904,7 +9904,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-5665.130000,Y=1368.640000,Z=-1538.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9919,7 +9919,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-5448.220000,Y=1841.740000,Z=-1529.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9934,7 +9934,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-4839.150000,Y=1360.190000,Z=-1536.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9949,7 +9949,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-5064.980000,Y=1840.640000,Z=-1538.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -9964,7 +9964,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-4163.460000,Y=1358.990000,Z=-1539.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9979,7 +9979,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysRamp_NO_ROOF.hangSysRamp_NO_ROOF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysRamp_NO_ROOF.hangSysRamp_NO_ROOF'
 			RelativeLocation=(X=-2973.110000,Y=1221.220000,Z=-1226.510000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9994,7 +9994,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-3858.280000,Y=1842.400000,Z=-1537.840000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10009,7 +10009,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-6405.970000,Y=1379.950000,Z=-1533.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.300000,Y=1.700000,Z=0.200000)
@@ -10024,7 +10024,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMed.hangSysFloorMed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMed.hangSysFloorMed'
 			RelativeLocation=(X=-8120.170000,Y=1366.130000,Z=-1532.630000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.850000,Y=1.300000,Z=0.200000)
@@ -10039,7 +10039,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysDoorB.hangSysDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysDoorB.hangSysDoorB'
 			RelativeLocation=(X=-7551.180000,Y=2311.040000,Z=-1536.510000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.900000,Z=1.000000)
@@ -10054,7 +10054,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-7848.600000,Y=1865.140000,Z=-1533.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10069,7 +10069,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-7282.170000,Y=1860.270000,Z=-1533.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -10084,7 +10084,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-6380.630000,Y=1851.510000,Z=-1533.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10099,7 +10099,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-5650.520000,Y=1858.510000,Z=-1533.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -10114,7 +10114,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-4843.210000,Y=1853.860000,Z=-1533.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10129,7 +10129,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-4148.640000,Y=1851.840000,Z=-1535.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -10144,7 +10144,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysDoorB.hangSysDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysDoorB.hangSysDoorB'
 			RelativeLocation=(X=-4499.690000,Y=2423.950000,Z=-1543.510000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.900000,Z=1.000000)
@@ -10179,7 +10179,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-2252.810000,Y=1373.670000,Z=-896.798000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10194,7 +10194,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-1945.200000,Y=1842.700000,Z=-897.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.600000,Z=1.000000)
@@ -10209,7 +10209,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-1367.180000,Y=1844.120000,Z=-895.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.500000,Z=1.000000)
@@ -10224,7 +10224,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-1114.140000,Y=1636.040000,Z=-896.568000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
 			CustomProperties
@@ -10238,7 +10238,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-1117.210000,Y=1172.470000,Z=-896.568000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
 			CustomProperties
@@ -10252,7 +10252,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-1117.720000,Y=647.445000,Z=-897.078000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10286,7 +10286,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFrameA.hangSysFrameA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFrameA.hangSysFrameA'
 			RelativeLocation=(X=-1568.000000,Y=384.000000,Z=-896.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10300,7 +10300,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-2065.890000,Y=346.120000,Z=-919.900000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.200000,Z=1.000000)
@@ -10315,7 +10315,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-2064.740000,Y=-312.561000,Z=-919.900000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.200000,Z=1.000000)
@@ -10330,7 +10330,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFrameA.hangSysFrameA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFrameA.hangSysFrameA'
 			RelativeLocation=(X=-1586.120000,Y=-315.389000,Z=-896.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10463,7 +10463,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoorJam.RAS_RegDoorJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoorJam.RAS_RegDoorJam'
 			RelativeLocation=(X=-198.588000,Y=72.823400,Z=-894.670000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.000000,Z=1.000000)
@@ -10478,7 +10478,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-685.382000,Y=-272.407000,Z=-894.570000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.300000,Z=1.000000)
@@ -10493,7 +10493,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-689.365000,Y=332.374000,Z=-894.570000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.300000,Z=1.000000)
@@ -10508,7 +10508,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysDoorB.hangSysDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysDoorB.hangSysDoorB'
 			RelativeLocation=(X=-373.637000,Y=2.282930,Z=-894.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.900000,Z=1.000000)
@@ -10543,7 +10543,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-1111.500000,Y=-571.009000,Z=-896.568000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
 			CustomProperties
@@ -10557,7 +10557,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-1114.570000,Y=-1034.580000,Z=-896.568000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
 			CustomProperties
@@ -10571,7 +10571,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-1112.790000,Y=-1612.610000,Z=-897.078000)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=1.000000)
 			CustomProperties
@@ -10585,7 +10585,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-1954.460000,Y=-1831.290000,Z=-897.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.600000,Z=1.000000)
@@ -10600,7 +10600,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-1367.680000,Y=-1833.700000,Z=-895.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.500000,Z=1.000000)
@@ -10615,7 +10615,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-2252.460000,Y=-1354.120000,Z=-892.799000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10630,7 +10630,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-1038.670000,Y=376.025000,Z=-901.568000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10644,7 +10644,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-1068.560000,Y=-306.413000,Z=-907.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -10659,7 +10659,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysCeilingMedB.hangSysCeilingMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysCeilingMedB.hangSysCeilingMedB'
 			RelativeLocation=(X=-1613.130000,Y=29.999500,Z=-338.580000)
 			RelativeScale3D=(X=1.900000,Y=1.200000,Z=1.000000)
 			CustomProperties
@@ -10673,7 +10673,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysCeilingMedB.hangSysCeilingMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysCeilingMedB.hangSysCeilingMedB'
 			RelativeLocation=(X=-727.509000,Y=21.008800,Z=-338.580000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.600000,Y=1.200000,Z=1.000000)
@@ -10708,7 +10708,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-1627.980000,Y=1386.990000,Z=-891.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.700000,Z=0.200000)
@@ -10723,7 +10723,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-1575.450000,Y=645.623000,Z=-891.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.900000,Y=0.900000,Z=0.200000)
@@ -10738,7 +10738,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-1230.680000,Y=20.383700,Z=-891.440000)
 			RelativeScale3D=(X=1.600000,Y=1.200000,Z=0.200000)
 			CustomProperties
@@ -10752,7 +10752,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-1584.760000,Y=-609.674000,Z=-891.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.900000,Y=1.000000,Z=0.200000)
@@ -10767,7 +10767,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-1650.010000,Y=-1378.540000,Z=-891.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.700000,Z=0.200000)
@@ -10802,7 +10802,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-4790.220000,Y=-2189.600000,Z=-898.901000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10816,7 +10816,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-4174.210000,Y=-2181.150000,Z=-898.901000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10830,7 +10830,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysDoorB.hangSysDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysDoorB.hangSysDoorB'
 			RelativeLocation=(X=-4473.110000,Y=-2353.700000,Z=-898.511000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.900000,Z=1.000000)
@@ -10845,7 +10845,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-4139.460000,Y=-1360.000000,Z=-896.799000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10860,7 +10860,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-4812.460000,Y=-1360.000000,Z=-892.799000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10875,7 +10875,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-2569.880000,Y=-1839.220000,Z=-897.840000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10890,7 +10890,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-3122.280000,Y=-1839.640000,Z=-897.840000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10905,7 +10905,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-3568.890000,Y=-1840.000000,Z=-895.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10920,7 +10920,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-3941.740000,Y=-1839.000000,Z=-895.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10935,7 +10935,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysRamp_NO_ROOF.hangSysRamp_NO_ROOF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysRamp_NO_ROOF.hangSysRamp_NO_ROOF'
 			RelativeLocation=(X=-5976.060000,Y=-1215.270000,Z=-583.236000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10950,7 +10950,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-5088.110000,Y=-1838.470000,Z=-895.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.400000,Z=1.000000)
@@ -10965,7 +10965,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-2798.820000,Y=-1373.850000,Z=-891.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.700000,Z=0.200000)
@@ -10980,7 +10980,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-4510.260000,Y=1646.900000,Z=-1532.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.350000,Y=1.300000,Z=0.200000)
@@ -10995,7 +10995,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMed.hangSysFloorMed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMed.hangSysFloorMed'
 			RelativeLocation=(X=-5254.490000,Y=1361.790000,Z=-1532.630000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.850000,Y=2.100000,Z=0.200000)
@@ -11010,7 +11010,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMed.hangSysFloorMed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMed.hangSysFloorMed'
 			RelativeLocation=(X=-3873.410000,Y=1354.670000,Z=-1532.630000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.850000,Y=1.400000,Z=0.200000)
@@ -11036,7 +11036,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-4138.920000,Y=-1863.780000,Z=-901.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11051,7 +11051,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-4826.620000,Y=-1872.250000,Z=-907.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -11150,7 +11150,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-3379.170000,Y=-1358.510000,Z=-896.799000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11219,7 +11219,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-3115.250000,Y=665.531000,Z=-1565.040000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=28.125000)
 			RelativeScale3D=(X=-1.000000,Y=1.400000,Z=1.300000)
@@ -11234,7 +11234,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-2434.190000,Y=663.766000,Z=-1203.080000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=28.125000)
 			RelativeScale3D=(X=-1.000000,Y=1.400000,Z=1.300000)
@@ -11249,7 +11249,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-2319.790000,Y=-354.862000,Z=-919.900000)
 			RelativeScale3D=(X=-1.000000,Y=1.200000,Z=1.000000)
 			CustomProperties
@@ -11263,7 +11263,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-2320.940000,Y=303.818000,Z=-919.900000)
 			RelativeScale3D=(X=-1.000000,Y=1.200000,Z=1.000000)
 			CustomProperties
@@ -11277,7 +11277,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-5839.690000,Y=-599.012000,Z=-936.093000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=28.125000)
 			RelativeScale3D=(X=-1.000000,Y=1.200000,Z=1.000000)
@@ -11292,7 +11292,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-6414.030000,Y=-607.028000,Z=-640.134000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=28.125000)
 			RelativeScale3D=(X=-1.000000,Y=1.200000,Z=1.000000)
@@ -11489,7 +11489,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM_maintenanceSystem1_roundTubeGenerator.roundTubeGenerator'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM/maintenanceSystem1/roundTubeGenerator.roundTubeGenerator'
 			RelativeLocation=(X=-3617.010000,Y=-622.440000,Z=-2103.000000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -11504,7 +11504,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM_maintenanceSystem1_longCeilingPipe.longCeilingPipe'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM/maintenanceSystem1/longCeilingPipe.longCeilingPipe'
 			RelativeLocation=(X=-5411.850000,Y=-587.910000,Z=-2114.350000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -11519,7 +11519,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM_maintenanceSystem1_roundTubeGenerator.roundTubeGenerator'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM/maintenanceSystem1/roundTubeGenerator.roundTubeGenerator'
 			RelativeLocation=(X=-3619.610000,Y=422.949000,Z=-1822.000000)
 			RelativeRotation=(Pitch=-90.000000,Yaw=0.000000,Roll=-90.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -11534,7 +11534,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-7725.010000,Y=-1840.790000,Z=-262.754000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11549,7 +11549,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-8751.770000,Y=-1352.810000,Z=-252.984000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11564,7 +11564,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-8163.440000,Y=-1841.400000,Z=-262.634000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -11579,7 +11579,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-6835.120000,Y=-1832.790000,Z=-262.754000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11594,7 +11594,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-7524.510000,Y=-1363.860000,Z=-259.984000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11609,7 +11609,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-7273.550000,Y=-1833.400000,Z=-262.634000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -11624,7 +11624,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-5947.510000,Y=-1810.990000,Z=-1529.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11639,7 +11639,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-6639.370000,Y=-1342.630000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11654,7 +11654,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-6385.940000,Y=-1811.600000,Z=-1529.830000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -11669,7 +11669,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-5045.840000,Y=-1807.890000,Z=-1529.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11684,7 +11684,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-5736.880000,Y=-1338.960000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11699,7 +11699,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-5484.270000,Y=-1808.500000,Z=-1529.830000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -11714,7 +11714,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-4141.720000,Y=-1817.030000,Z=-1529.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11729,7 +11729,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-4833.750000,Y=-1348.040000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11744,7 +11744,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-4581.140000,Y=-1817.580000,Z=-1529.830000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -11759,7 +11759,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-3245.590000,Y=-1841.950000,Z=-1529.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11774,7 +11774,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-3937.620000,Y=-1372.960000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11789,7 +11789,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-3685.010000,Y=-1842.500000,Z=-1529.830000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -11804,7 +11804,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-2297.020000,Y=-1647.450000,Z=-1530.950000)
 			RelativeScale3D=(X=1.000000,Y=1.300000,Z=1.000000)
 			CustomProperties
@@ -11818,7 +11818,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-2339.760000,Y=-1852.830000,Z=-1529.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11833,7 +11833,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-3031.790000,Y=-1383.840000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11848,7 +11848,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-2779.180000,Y=-1853.380000,Z=-1529.830000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -11863,7 +11863,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-2296.080000,Y=-1172.420000,Z=-1530.950000)
 			RelativeScale3D=(X=1.000000,Y=1.300000,Z=1.000000)
 			CustomProperties
@@ -11919,7 +11919,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-9400.650000,Y=-2165.320000,Z=-261.029000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -11933,7 +11933,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-8795.880000,Y=-2169.170000,Z=-261.029000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -11947,7 +11947,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWindowCap.hangSysWindowCap'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWindowCap.hangSysWindowCap'
 			RelativeLocation=(X=-9425.020000,Y=-1301.090000,Z=-249.463000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.100000,Y=0.400000,Z=1.000000)
@@ -11962,7 +11962,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-9439.300000,Y=-1355.420000,Z=-258.984000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11977,7 +11977,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-8504.140000,Y=-919.483000,Z=-283.568000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -11991,7 +11991,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-9442.640000,Y=-1855.600000,Z=-277.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -12006,7 +12006,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-8575.020000,Y=-1839.970000,Z=-262.754000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12021,7 +12021,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7840.090000,Y=-921.843000,Z=-260.029000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.200000,Z=1.000000)
@@ -12036,7 +12036,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7850.690000,Y=-657.429000,Z=-247.029000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=1.000000)
@@ -12051,7 +12051,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7193.460000,Y=-911.513000,Z=-260.029000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.200000,Z=1.000000)
@@ -12066,7 +12066,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7204.370000,Y=-648.047000,Z=-247.029000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=1.000000)
@@ -12081,7 +12081,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-6709.670000,Y=-707.706000,Z=-580.571000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-168.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12096,7 +12096,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-7399.950000,Y=-104.386000,Z=-2082.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
@@ -12111,7 +12111,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWindowCap.hangSysWindowCap'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWindowCap.hangSysWindowCap'
 			RelativeLocation=(X=-9001.720000,Y=-908.986000,Z=-260.463000)
 			RelativeScale3D=(X=1.100000,Y=0.100000,Z=1.000000)
 			CustomProperties
@@ -12125,7 +12125,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-9011.640000,Y=-927.759000,Z=-258.984000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -12139,7 +12139,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-8763.770000,Y=-1856.750000,Z=-283.568000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12154,7 +12154,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-4502.260000,Y=-1696.930000,Z=-893.220000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.350000,Y=1.300000,Z=0.200000)
@@ -12169,7 +12169,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMed.hangSysFloorMed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMed.hangSysFloorMed'
 			RelativeLocation=(X=-3758.980000,Y=-1400.030000,Z=-892.410000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.850000,Y=1.900000,Z=0.200000)
@@ -12184,7 +12184,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMed.hangSysFloorMed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMed.hangSysFloorMed'
 			RelativeLocation=(X=-5108.670000,Y=-1400.130000,Z=-892.410000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.850000,Y=1.300000,Z=0.200000)
@@ -12199,7 +12199,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-8121.150000,Y=-1390.690000,Z=-251.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.050000,Y=1.700000,Z=0.200000)
@@ -12214,7 +12214,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-7063.350000,Y=-1360.240000,Z=-254.440000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.700000,Z=0.200000)
@@ -12229,7 +12229,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysFloorMedB.hangSysFloorMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysFloorMedB.hangSysFloorMedB'
 			RelativeLocation=(X=-9099.030000,Y=-1635.430000,Z=-249.220000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.350000,Y=1.300000,Z=0.200000)
@@ -12244,7 +12244,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysDoorB.hangSysDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysDoorB.hangSysDoorB'
 			RelativeLocation=(X=-9097.710000,Y=-2374.560000,Z=-261.511000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.900000,Z=1.000000)
@@ -12364,7 +12364,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-4163.920000,Y=1841.350000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12379,7 +12379,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-3552.020000,Y=1359.700000,Z=-902.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12394,7 +12394,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-3780.680000,Y=1840.250000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -12409,7 +12409,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysWindowCap_2.hangSysWindowCap_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysWindowCap_2.hangSysWindowCap_2'
 			RelativeLocation=(X=-3546.300000,Y=1873.920000,Z=-908.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12424,7 +12424,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-4980.170000,Y=1842.300000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12439,7 +12439,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-4368.920000,Y=1361.400000,Z=-897.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12454,7 +12454,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-4596.930000,Y=1841.200000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -12469,7 +12469,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-5793.920000,Y=1847.150000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12484,7 +12484,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-5182.200000,Y=1364.520000,Z=-897.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12499,7 +12499,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-5410.680000,Y=1846.050000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -12514,7 +12514,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-6596.720000,Y=1847.800000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12529,7 +12529,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-5984.820000,Y=1366.150000,Z=-898.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12544,7 +12544,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-6213.480000,Y=1846.700000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -12559,7 +12559,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-7414.220000,Y=1843.550000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12574,7 +12574,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-6802.320000,Y=1361.900000,Z=-897.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12589,7 +12589,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-7030.980000,Y=1842.450000,Z=-904.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -12604,7 +12604,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWindowCap.hangSysWindowCap'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWindowCap.hangSysWindowCap'
 			RelativeLocation=(X=-7524.870000,Y=1325.620000,Z=-884.850000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.800000,Z=1.000000)
@@ -12619,7 +12619,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-7548.630000,Y=1373.030000,Z=-899.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12674,7 +12674,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-4425.330000,Y=83.186300,Z=-777.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
@@ -12689,7 +12689,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-6834.810000,Y=-1836.530000,Z=-1529.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12704,7 +12704,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-7526.670000,Y=-1368.170000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12719,7 +12719,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-7273.240000,Y=-1837.140000,Z=-1529.830000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -12734,7 +12734,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-7724.690000,Y=-1833.690000,Z=-1529.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12749,7 +12749,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-8416.550000,Y=-1365.330000,Z=-1527.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12764,7 +12764,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallB.hangSysWallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallB.hangSysWallB'
 			RelativeLocation=(X=-8163.120000,Y=-1834.300000,Z=-1529.830000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.870000,Z=1.000000)
@@ -12779,7 +12779,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7833.020000,Y=-907.213000,Z=-907.029000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=1.000000)
@@ -12794,7 +12794,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysTankMedB.hangSysTankMedB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysTankMedB.hangSysTankMedB'
 			RelativeLocation=(X=-7186.700000,Y=-897.831000,Z=-907.029000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=1.000000)
@@ -12819,7 +12819,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-4619.740000,Y=-1824.790000,Z=-260.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12834,7 +12834,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-5231.000000,Y=-1343.890000,Z=-249.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12849,7 +12849,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-5002.980000,Y=-1823.690000,Z=-260.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -12864,7 +12864,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-3805.990000,Y=-1829.640000,Z=-256.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12879,7 +12879,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-4417.710000,Y=-1347.010000,Z=-249.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12894,7 +12894,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-4189.230000,Y=-1828.540000,Z=-256.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -12909,7 +12909,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-3003.190000,Y=-1830.290000,Z=-256.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12924,7 +12924,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-3615.090000,Y=-1348.640000,Z=-250.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12939,7 +12939,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-3386.430000,Y=-1829.190000,Z=-256.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -12954,7 +12954,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-2185.690000,Y=-1826.040000,Z=-256.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12969,7 +12969,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-2797.590000,Y=-1344.390000,Z=-249.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12984,7 +12984,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWallA.hangSysWallA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWallA.hangSysWallA'
 			RelativeLocation=(X=-2568.930000,Y=-1824.940000,Z=-256.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.070000,Z=1.000000)
@@ -12999,7 +12999,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysWindowCap.hangSysWindowCap'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR/Hangar/hangSysWindowCap.hangSysWindowCap'
 			RelativeLocation=(X=-2075.040000,Y=-1308.110000,Z=-236.850000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.800000,Z=1.000000)
@@ -13014,7 +13014,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM_Dave_hangSysFrameB_2.hangSysFrameB_2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_03_GM/Dave/hangSysFrameB_2.hangSysFrameB_2'
 			RelativeLocation=(X=-2051.280000,Y=-1355.520000,Z=-251.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13108,7 +13108,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-6790.320000,Y=-1536.360000,Z=-271.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -13122,7 +13122,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-6790.320000,Y=-1536.360000,Z=-158.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=174.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13137,7 +13137,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Doors_RAS_RegDoor.RAS_RegDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Doors/RAS_RegDoor.RAS_RegDoor'
 			RelativeLocation=(X=-286.000000,Y=5.000000,Z=-892.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14634,7 +14634,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-4860.070000,Y=1584.420000,Z=-1310.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
@@ -14649,7 +14649,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-4812.110000,Y=1583.480000,Z=-1310.700000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
 			CustomProperties
@@ -14663,7 +14663,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-4171.870000,Y=-1582.250000,Z=-664.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
@@ -14678,7 +14678,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-4130.000000,Y=-1583.390000,Z=-664.700000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
 			CustomProperties
@@ -14692,7 +14692,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-5690.040000,Y=1589.800000,Z=-1310.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
@@ -14707,7 +14707,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-5646.080000,Y=1588.840000,Z=-1310.700000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
 			CustomProperties
@@ -14721,7 +14721,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-4829.050000,Y=-1581.680000,Z=-671.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
@@ -14736,7 +14736,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-4787.180000,Y=-1582.820000,Z=-671.700000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
 			CustomProperties
@@ -14750,7 +14750,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign06.Sign06'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign06.Sign06'
 			RelativeLocation=(X=-8352.100000,Y=988.921000,Z=-1342.860000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14764,7 +14764,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign04.Sign04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign04.Sign04'
 			RelativeLocation=(X=-6014.140000,Y=2172.410000,Z=-1282.380000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -14779,7 +14779,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign04.Sign04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign04.Sign04'
 			RelativeLocation=(X=-3254.520000,Y=866.736000,Z=-1072.390000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -14794,7 +14794,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign04.Sign04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign04.Sign04'
 			RelativeLocation=(X=-2642.130000,Y=877.279000,Z=-786.390000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -14809,7 +14809,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-1345.370000,Y=408.996000,Z=-710.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
@@ -14824,7 +14824,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-1346.310000,Y=361.036000,Z=-710.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
@@ -14839,7 +14839,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-1358.270000,Y=-292.722000,Z=-710.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
@@ -14854,7 +14854,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign07.Sign07'
 			RelativeLocation=(X=-1359.210000,Y=-340.682000,Z=-710.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.300000,Z=0.600000)
@@ -14869,7 +14869,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign06.Sign06'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign06.Sign06'
 			RelativeLocation=(X=-2068.190000,Y=-20.013100,Z=-615.726000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14883,7 +14883,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign06.Sign06'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Signs/Sign06.Sign06'
 			RelativeLocation=(X=-5993.220000,Y=-905.628000,Z=-239.726000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15056,7 +15056,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-7264.270000,Y=-1064.340000,Z=-271.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15071,7 +15071,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-7705.250000,Y=-1555.310000,Z=-271.004000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-28.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15097,7 +15097,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-7218.270000,Y=-1387.340000,Z=-271.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -15111,7 +15111,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-7870.370000,Y=-1256.330000,Z=-271.008000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15126,7 +15126,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-8388.300000,Y=-1077.360000,Z=-271.011000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-8.695679,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15141,7 +15141,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA_Dest.CrateA_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateA_Dest.CrateA_Dest'
 			RelativeLocation=(X=-8318.300000,Y=-1262.360000,Z=-271.011000)
 			RelativeRotation=(Pitch=0.000000,Yaw=161.542969,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15302,7 +15302,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=-7543.590000,Y=3511.270000,Z=-1503.970000)
 			RelativeRotation=(Pitch=16.875000,Yaw=84.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15338,7 +15338,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateB_Dest.CrateB_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Crates/CrateB_Dest.CrateB_Dest'
 			RelativeLocation=(X=-1297.010000,Y=-642.005000,Z=-896.013000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.373535,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15840,7 +15840,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Cabinets_ras_weaponscabAA.ras_weaponscabAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Cabinets/ras_weaponscabAA.ras_weaponscabAA'
 			RelativeLocation=(X=-4757.000000,Y=-2120.000000,Z=-922.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15924,7 +15924,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM_maintenanceSystem1_roundTubeGenerator.roundTubeGenerator'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_GM/maintenanceSystem1/roundTubeGenerator.roundTubeGenerator'
 			RelativeLocation=(X=-2589.370000,Y=-958.852000,Z=-388.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15939,7 +15939,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_bigroom_ras_circlelightAAA.ras_circlelightAAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/bigroom/ras_circlelightAAA.ras_circlelightAAA'
 			RelativeLocation=(X=-7277.000000,Y=-41.000000,Z=842.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
 			CustomProperties
@@ -15953,7 +15953,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_bigroom_ras_circlelightAAA.ras_circlelightAAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/bigroom/ras_circlelightAAA.ras_circlelightAAA'
 			RelativeLocation=(X=-6451.000000,Y=19.000000,Z=1248.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
 			CustomProperties
@@ -15967,7 +15967,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_bigroom_ras_circlelightAAA.ras_circlelightAAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl/bigroom/ras_circlelightAAA.ras_circlelightAAA'
 			RelativeLocation=(X=-5673.000000,Y=54.000000,Z=1332.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
 			CustomProperties
@@ -15981,7 +15981,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-8082.650000,Y=-1290.790000,Z=-830.999000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
 			CustomProperties
@@ -15995,7 +15995,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-6520.650000,Y=363.210000,Z=-1760.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
 			CustomProperties
@@ -16009,7 +16009,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-6008.650000,Y=363.210000,Z=-1760.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
 			CustomProperties
@@ -16023,7 +16023,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_DesConduitA.DesConduitA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/PipesConduits/DesConduitA.DesConduitA'
 			RelativeLocation=(X=-5496.650000,Y=363.210000,Z=-1760.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
 			CustomProperties

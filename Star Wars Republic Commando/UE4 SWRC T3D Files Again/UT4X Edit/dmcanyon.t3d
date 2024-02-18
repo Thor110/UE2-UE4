@@ -773,7 +773,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Debris_DebriB.DebriB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Debris/DebriB.DebriB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-4928.000000,Y=-4671.990000,Z=1084.000000)
@@ -790,7 +790,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Debris_DebriB.DebriB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR/Debris/DebriB.DebriB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-6264.050000,Y=-5219.960000,Z=1079.970000)
