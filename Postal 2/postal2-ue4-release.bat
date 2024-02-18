@@ -44,7 +44,7 @@ if exist "%start%" (
   goto :EXPORT
 )
 
-REM make directories
+REM make required directories in the UE4 folder
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies"
 
 REM change directory to umodel
@@ -52,13 +52,14 @@ cd /d "%model%"
 
 REM export animations packages with umodel
 umodel -path="%level%" -export *.ukx
+
 REM for all files in the games Animations folder move folders of the same name from umodelexport folder to UE4 Animations folder
 for /f "delims=|" %%f in ('dir /b "%level%\Animations"') do move "%model%\UmodelExport\%%~nf" "%start%\Animations\%%~nf"
 
-REM for all directories in the music folder of the game move to the UE4 music folder
+REM for all files in the games Music folder of the game move to the UE4 Music folder
 for /f %%f in ('dir /b "%level%\Music"') do copy "%level%\Music\%%f" "%start%\Music\%%f"
 
-REM copy all movie files
+REM for all files in the games Movies folder of the game move to the UE4 Movies folder
 for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\Movies\%%f"
 REM change filetype?
 
@@ -148,33 +149,3 @@ for /D %%D in ("%start%\Animations\*") do (
 pause
 REM pause and exit for now
 exit
-
-findstr /L /S /N /M  "Material" *.props.txt* > %first%\A.txt
-findstr /L /S /N /M  "Diffuse" *.props.txt* > %first%\B.txt
-
-pause
-
-Rem clear cluttered files
-
-del %first%\C.txt
-
-@echo off
-SETLOCAL EnableDelayedExpansion
-for /F "tokens=* delims=." %%a in (%first%\A.txt) do (
-    call :myInnerLoop "%%a"
-)
-
-goto :eof
-
-:myInnerLoop
-for /F "tokens=* delims=." %%b in (%first%\B.txt) do (
-    if "%~1"=="%%b" (
-        goto :next
-    )
-)
-echo %~1 >> %first%\C.txt
-
-:next
-goto :eof
-
-pause

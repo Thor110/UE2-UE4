@@ -44,9 +44,8 @@ if exist "%start%" (
   goto :EXPORT
 )
 
-REM make directories
+REM make required directories in the UE4 folder
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies"
-REM "%start%\Splash" "%start%\Game"
 
 REM make temporary directory and move the packages that do not contain any sounds
 mkdir "%level%\Temporary"
@@ -61,13 +60,14 @@ cd /d "%model%"
 
 REM export animations packages with umodel
 umodel -path="%level%" -export *.ukx
+
 REM for all files in the games Animations folder move folders of the same name from umodelexport folder to UE4 Animations folder
 for /f "delims=|" %%f in ('dir /b "%level%\Animations"') do move "%model%\UmodelExport\%%~nf" "%start%\Animations\%%~nf"
 
-REM for all directories in the music folder of the game move to the UE4 music folder
+REM for all files in the games Music folder of the game move to the UE4 Music folder
 for /f %%f in ('dir /b "%level%\Music"') do copy "%level%\Music\%%f" "%start%\Music\%%f"
 
-REM copy all movie files
+REM for all files in the games Movies folder of the game move to the UE4 Movies folder
 for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\Movies\%%f"
 
 REM export texture packages with umodel
