@@ -1,0 +1,402 @@
+Begin Map
+	Begin Level Name=/Game/Materials/entry-UT2004
+	Begin Actor Class=Brush Name=BigAdditiveBrush
+		Begin Object Name="BrushComponent0"
+			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		BrushType=Brush_Add
+		Begin Brush Name=Model_6
+			Begin PolyList
+				Begin Polygon Item=Side LightMapScale=2048.0 Link=0
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   -00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,+00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00228.000000,-00228.000000,-00228.000000
+					Vertex   -00228.000000,-00228.000000,+00228.000000
+					Vertex   -00228.000000,+00228.000000,+00228.000000
+					Vertex   -00228.000000,+00228.000000,-00228.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048.0 Link=1
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00001.000000,+00000.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00228.000000,+00228.000000,-00228.000000
+					Vertex   -00228.000000,+00228.000000,+00228.000000
+					Vertex   +00228.000000,+00228.000000,+00228.000000
+					Vertex   +00228.000000,+00228.000000,-00228.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048.0 Link=2
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,-00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00228.000000,+00228.000000,-00228.000000
+					Vertex   +00228.000000,+00228.000000,+00228.000000
+					Vertex   +00228.000000,-00228.000000,+00228.000000
+					Vertex   +00228.000000,-00228.000000,-00228.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048.0 Link=3
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,-00001.000000,+00000.000000
+					TextureU -00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00228.000000,-00228.000000,-00228.000000
+					Vertex   +00228.000000,-00228.000000,+00228.000000
+					Vertex   -00228.000000,-00228.000000,+00228.000000
+					Vertex   -00228.000000,-00228.000000,-00228.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048.0 Link=4
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00000.000000,+00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00001.000000,+00000.000000
+					Vertex   -00228.000000,+00228.000000,+00228.000000
+					Vertex   -00228.000000,-00228.000000,+00228.000000
+					Vertex   +00228.000000,-00228.000000,+00228.000000
+					Vertex   +00228.000000,+00228.000000,+00228.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048.0 Link=5
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00000.000000,-00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,-00001.000000,+00000.000000
+					Vertex   -00228.000000,-00228.000000,-00228.000000
+					Vertex   -00228.000000,+00228.000000,-00228.000000
+					Vertex   +00228.000000,+00228.000000,-00228.000000
+					Vertex   +00228.000000,-00228.000000,-00228.000000
+				End Polygon
+			End PolyList
+		End Brush
+		Brush=Model'Model_6'
+		BrushComponent=BrushComponent0
+		ActorLabel="BigAdditiveBrush"
+	End Actor
+	Begin Actor Class=Note Name=LevelInfo0_Note
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		Text=""
+		RootComponent=SceneComp
+		SpriteScale=4.0
+		ActorLabel="LevelInfo0_Note"
+	End Actor
+	Begin Actor Class=Brush Name=Brush0_Brush
+		Begin Object Name="BrushComponent0"
+			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		BrushType=Brush_Add
+		Begin Brush Name=Model_6
+			Begin PolyList
+				Begin Polygon Item=Side LightMapScale=128.0 Link=0
+					Origin   -00128.000000,-00128.000000,-00128.000000
+					Normal   -00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,+00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00128.000000,-00128.000000,-00128.000000
+					Vertex   -00128.000000,-00128.000000,+00128.000000
+					Vertex   -00128.000000,+00128.000000,+00128.000000
+					Vertex   -00128.000000,+00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=128.0 Link=1
+					Origin   -00128.000000,+00128.000000,-00128.000000
+					Normal   +00000.000000,+00001.000000,+00000.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00128.000000,+00128.000000,-00128.000000
+					Vertex   -00128.000000,+00128.000000,+00128.000000
+					Vertex   +00128.000000,+00128.000000,+00128.000000
+					Vertex   +00128.000000,+00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=128.0 Link=2
+					Origin   +00128.000000,+00128.000000,-00128.000000
+					Normal   +00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,-00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00128.000000,+00128.000000,-00128.000000
+					Vertex   +00128.000000,+00128.000000,+00128.000000
+					Vertex   +00128.000000,-00128.000000,+00128.000000
+					Vertex   +00128.000000,-00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=128.0 Link=3
+					Origin   +00128.000000,-00128.000000,-00128.000000
+					Normal   +00000.000000,-00001.000000,+00000.000000
+					TextureU -00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00128.000000,-00128.000000,-00128.000000
+					Vertex   +00128.000000,-00128.000000,+00128.000000
+					Vertex   -00128.000000,-00128.000000,+00128.000000
+					Vertex   -00128.000000,-00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=128.0 Link=4
+					Origin   -00128.000000,+00128.000000,+00128.000000
+					Normal   +00000.000000,+00000.000000,+00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00001.000000,+00000.000000
+					Vertex   -00128.000000,+00128.000000,+00128.000000
+					Vertex   -00128.000000,-00128.000000,+00128.000000
+					Vertex   +00128.000000,-00128.000000,+00128.000000
+					Vertex   +00128.000000,+00128.000000,+00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=128.0 Link=5
+					Origin   -00128.000000,-00128.000000,-00128.000000
+					Normal   +00000.000000,+00000.000000,-00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,-00001.000000,+00000.000000
+					Vertex   -00128.000000,-00128.000000,-00128.000000
+					Vertex   -00128.000000,+00128.000000,-00128.000000
+					Vertex   +00128.000000,+00128.000000,-00128.000000
+					Vertex   +00128.000000,-00128.000000,-00128.000000
+				End Polygon
+			End PolyList
+		End Brush
+		Brush=Model'Model_6'
+		BrushComponent=BrushComponent0
+		ActorLabel="Brush0_Brush"
+		Tags(0)="Brush"
+	End Actor
+	Begin Actor Class=Brush Name=Brush2_Brush
+		Begin Object Name="BrushComponent0"
+			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		BrushType=Brush_Subtract
+		Begin Brush Name=Model_6
+			Begin PolyList
+				Begin Polygon Item=Side LightMapScale=128.0 Link=0
+					Origin   -00128.000000,-00128.000000,-00128.000000
+					Normal   -00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,+00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00128.000000,-00128.000000,-00128.000000
+					Vertex   -00128.000000,-00128.000000,+00128.000000
+					Vertex   -00128.000000,+00128.000000,+00128.000000
+					Vertex   -00128.000000,+00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=128.0 Link=1
+					Origin   -00128.000000,+00128.000000,-00128.000000
+					Normal   +00000.000000,+00001.000000,+00000.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00128.000000,+00128.000000,-00128.000000
+					Vertex   -00128.000000,+00128.000000,+00128.000000
+					Vertex   +00128.000000,+00128.000000,+00128.000000
+					Vertex   +00128.000000,+00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side Texture=/Game/Materials/UDN-LevelLoadingTex_LoadingBar_Mat.UDN-LevelLoadingTex_LoadingBar_Mat LightMapScale=128.0 Link=2
+					Origin   +00128.000000,+00128.000000,-00128.000000
+					Normal   +00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,-00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00128.000000,+00128.000000,-00128.000000
+					Vertex   +00128.000000,+00128.000000,+00128.000000
+					Vertex   +00128.000000,-00128.000000,+00128.000000
+					Vertex   +00128.000000,-00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=128.0 Link=3
+					Origin   +00128.000000,-00128.000000,-00128.000000
+					Normal   +00000.000000,-00001.000000,+00000.000000
+					TextureU -00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00128.000000,-00128.000000,-00128.000000
+					Vertex   +00128.000000,-00128.000000,+00128.000000
+					Vertex   -00128.000000,-00128.000000,+00128.000000
+					Vertex   -00128.000000,-00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=128.0 Link=4
+					Origin   -00128.000000,+00128.000000,+00128.000000
+					Normal   +00000.000000,+00000.000000,+00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00001.000000,+00000.000000
+					Vertex   -00128.000000,+00128.000000,+00128.000000
+					Vertex   -00128.000000,-00128.000000,+00128.000000
+					Vertex   +00128.000000,-00128.000000,+00128.000000
+					Vertex   +00128.000000,+00128.000000,+00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=128.0 Link=5
+					Origin   -00128.000000,-00128.000000,-00128.000000
+					Normal   +00000.000000,+00000.000000,-00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,-00001.000000,+00000.000000
+					Vertex   -00128.000000,-00128.000000,-00128.000000
+					Vertex   -00128.000000,+00128.000000,-00128.000000
+					Vertex   +00128.000000,+00128.000000,-00128.000000
+					Vertex   +00128.000000,-00128.000000,-00128.000000
+				End Polygon
+			End PolyList
+		End Brush
+		Brush=Model'Model_6'
+		BrushComponent=BrushComponent0
+		ActorLabel="Brush2_Brush"
+		Tags(0)="Brush"
+	End Actor
+	Begin Actor Class=PlayerStart Name=PlayerStart0_PlayerStart
+		Begin Object Name="CollisionCapsule"
+			RelativeLocation=(X=-64.000000,Y=0.000000,Z=-44.000000)
+		End Object
+		ActorLabel="PlayerStart0_PlayerStart"
+		Tags(0)="PlayerStart"
+	End Actor
+	Begin Actor Class=PointLight Name=Light0_Light
+		Begin Object Class=PointLightComponent Name="LightComponent0"
+		End Object
+		Begin Object Name="LightComponent0"
+			bUseInverseSquaredFalloff=False
+			LightFalloffExponent=1.9
+			AttenuationRadius=1408.0
+			SourceRadius=64.0
+			LightColor=(B=128.0,G=128.0,R=128.0,A=255.0)
+			Intensity=70.0
+			Mobility=Static
+			RelativeLocation=(X=-16.000000,Y=-14.000000,Z=-22.000000)
+		End Object
+		LightEffect=NewEnumerator0
+		LightType=NewEnumerator1
+		LightComponent="LightComponent0"
+		RootComponent="LightComponent0"
+		ActorLabel="Light0_Light"
+		Tags(0)="Light"
+	End Actor
+	Begin Actor Class=Note Name=LevelLoadingView0_LevelLoadingView
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		Text="Unconverted: LevelLoadingView"
+		RootComponent=SceneComp
+		ActorLabel="LevelLoadingView0_LevelLoadingView"
+		Tags(0)="LevelLoadingView"
+	End Actor
+	Begin Actor Class=Note Name=DefaultPhysicsVolume77_DefaultPhysicsVolume
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		Text="Unconverted: DefaultPhysicsVolume"
+		RootComponent=SceneComp
+		ActorLabel="DefaultPhysicsVolume77_DefaultPhysicsVolume"
+		Tags(0)="DefaultPhysicsVolume"
+	End Actor
+	Begin Actor Class=Note Name=Scout22_Scout
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		Text="Unconverted: Scout"
+		RootComponent=SceneComp
+		ActorLabel="Scout22_Scout"
+		Tags(0)="Scout"
+	End Actor
+	Begin Actor Class=Note Name=AIController22_AIController
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		Text="Unconverted: AIController"
+		RootComponent=SceneComp
+		ActorLabel="AIController22_AIController"
+		Tags(0)="AIController"
+	End Actor
+	Begin Actor Class=Note Name=NoteConvertedMap
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+			RelativeLocation=(X=0.000000,Y=200.000000,Z=0.000000)
+		End Object
+		Text="Converted Map: entry.t3d"
+		RootComponent=SceneComp
+		ActorLabel="NoteConvertedMap"
+	End Actor
+	Begin Actor Class=Note Name=NoteScale
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+			RelativeLocation=(X=0.000000,Y=300.000000,Z=0.000000)
+		End Object
+		Text="Scale: 1.0"
+		RootComponent=SceneComp
+		ActorLabel="NoteScale"
+	End Actor
+	Begin Actor Class=LightmassImportanceVolume Name=LightMassImpVolume
+		Begin Object Name="BrushComponent0"
+			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		BrushType=Brush_Add
+		Begin Brush Name=Model_6
+			Begin PolyList
+				Begin Polygon Item=Side Link=0
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   -00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,+00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00178.000000,-00178.000000,-00178.000000
+					Vertex   -00178.000000,-00178.000000,+00178.000000
+					Vertex   -00178.000000,+00178.000000,+00178.000000
+					Vertex   -00178.000000,+00178.000000,-00178.000000
+				End Polygon
+				Begin Polygon Item=Side Link=1
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00001.000000,+00000.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00178.000000,+00178.000000,-00178.000000
+					Vertex   -00178.000000,+00178.000000,+00178.000000
+					Vertex   +00178.000000,+00178.000000,+00178.000000
+					Vertex   +00178.000000,+00178.000000,-00178.000000
+				End Polygon
+				Begin Polygon Item=Side Link=2
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,-00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00178.000000,+00178.000000,-00178.000000
+					Vertex   +00178.000000,+00178.000000,+00178.000000
+					Vertex   +00178.000000,-00178.000000,+00178.000000
+					Vertex   +00178.000000,-00178.000000,-00178.000000
+				End Polygon
+				Begin Polygon Item=Side Link=3
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,-00001.000000,+00000.000000
+					TextureU -00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00178.000000,-00178.000000,-00178.000000
+					Vertex   +00178.000000,-00178.000000,+00178.000000
+					Vertex   -00178.000000,-00178.000000,+00178.000000
+					Vertex   -00178.000000,-00178.000000,-00178.000000
+				End Polygon
+				Begin Polygon Item=Side Link=4
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00000.000000,+00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00001.000000,+00000.000000
+					Vertex   -00178.000000,+00178.000000,+00178.000000
+					Vertex   -00178.000000,-00178.000000,+00178.000000
+					Vertex   +00178.000000,-00178.000000,+00178.000000
+					Vertex   +00178.000000,+00178.000000,+00178.000000
+				End Polygon
+				Begin Polygon Item=Side Link=5
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00000.000000,-00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,-00001.000000,+00000.000000
+					Vertex   -00178.000000,-00178.000000,-00178.000000
+					Vertex   -00178.000000,+00178.000000,-00178.000000
+					Vertex   +00178.000000,+00178.000000,-00178.000000
+					Vertex   +00178.000000,-00178.000000,-00178.000000
+				End Polygon
+			End PolyList
+		End Brush
+		Brush=Model'Model_6'
+		BrushComponent=BrushComponent0
+		ActorLabel="LightMassImpVolume"
+	End Actor
+	End Level
+	Begin Surface
+	End Surface
+End Map
