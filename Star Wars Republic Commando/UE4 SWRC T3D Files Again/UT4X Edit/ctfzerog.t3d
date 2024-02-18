@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -04095.998535,-03552.000000,-00568.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   +00000.000000,-04607.997559,+01504.000000
 					Vertex   +00000.000000,-04607.997559,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -10380.886719,-06328.716309,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.114596,-00000.486690,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   -03711.998535,-04607.996582,+01504.000000
 					Vertex   -03711.998535,-04607.996582,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -04095.998535,-03456.000000,-00792.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   -03712.000000,-00000.000977,+01504.000000
 					Vertex   -03712.000000,-00000.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -04403.758789,-02950.136475,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.114783,+00000.486646,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+01504.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_RAS_HangarWall_Mat.Multiplayer_Textures_RAS_HangarWall_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/RAS_HangarWall_Mat.HangarWall_Mat LightMapScale=128.0 Link=4
 					Origin   -08192.782227,-05119.999023,+02047.214478
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   -03712.000000,-00000.000977,+01504.000000
 					Vertex   -03711.998535,-04607.996582,+01504.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -07391.999023,-04639.999512,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -239,7 +239,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -00032.000000,+02784.000000,+00992.000000
 					Normal   +00000.599999,+00000.000000,-00000.800001
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -249,7 +249,7 @@ Begin Map
 					Vertex   +00255.999512,-03072.000488,+00192.000000
 					Vertex   -00000.000732,-03072.000244,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=1
 					Origin   +03311.999268,+00768.000000,-00732.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -259,7 +259,7 @@ Begin Map
 					Vertex   -02752.000183,-03072.000122,+00192.000000
 					Vertex   -02752.000000,-03072.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -03328.000488,+01696.000488,+00456.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -269,7 +269,7 @@ Begin Map
 					Vertex   -02752.000549,-00000.001953,+00192.000000
 					Vertex   -02751.999878,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=3
 					Origin   -03375.999512,+04800.000000,-00732.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -279,7 +279,7 @@ Begin Map
 					Vertex   +00256.000488,+00000.000977,+00192.000000
 					Vertex   -00000.000977,-00000.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   +03263.999268,+00768.000061,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -289,7 +289,7 @@ Begin Map
 					Vertex   -02752.000549,-00000.001953,+00192.000000
 					Vertex   -02752.000183,-03072.000122,+00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -00032.000000,+02784.000000,+00992.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -313,7 +313,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=0
 					Origin   +02495.999512,+01504.000000,+01184.000000
 					Normal   +00000.605003,+00000.000000,-00000.796223
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -323,7 +323,7 @@ Begin Map
 					Vertex   +00253.999023,-01793.999756,+00192.000000
 					Vertex   -00000.001953,-01540.000000,-00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=1
 					Origin   +02495.999512,+01504.000000,+01184.000000
 					Normal   +00000.000000,-00000.605004,-00000.796222
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -333,7 +333,7 @@ Begin Map
 					Vertex   -01794.000977,-01793.999878,+00192.000000
 					Vertex   -01794.000488,-01540.000122,-00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=2
 					Origin   -00799.626465,+01392.000488,+00372.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -343,7 +343,7 @@ Begin Map
 					Vertex   -01794.000000,+00254.000000,+00192.000000
 					Vertex   -01794.000977,-00000.000488,-00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=3
 					Origin   +02495.999512,+01504.000000,+01184.000000
 					Normal   +00000.000000,+00000.605003,-00000.796223
 					TextureU +00000.000000,-00000.796069,+00000.605206
@@ -353,7 +353,7 @@ Begin Map
 					Vertex   +00253.999512,+00254.000244,+00192.000000
 					Vertex   -00000.000977,-00000.000488,-00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   +04287.999512,-01023.998779,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -363,7 +363,7 @@ Begin Map
 					Vertex   -01794.000000,+00254.000000,+00192.000000
 					Vertex   -01794.000977,-01793.999878,+00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   +02495.999512,+01504.000000,+01184.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -387,7 +387,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   +03264.000488,+00927.999512,-00568.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -397,7 +397,7 @@ Begin Map
 					Vertex   +00000.000000,+04608.000000,+01504.000000
 					Vertex   +00000.000000,+04608.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   +00927.999512,-03328.000488,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -407,7 +407,7 @@ Begin Map
 					Vertex   +03712.000000,+04608.000000,+01504.000000
 					Vertex   +03712.000000,+04608.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +03264.000488,+01151.999512,-00792.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -417,7 +417,7 @@ Begin Map
 					Vertex   +03712.000000,+00000.000000,+01504.000000
 					Vertex   +03712.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -00990.735474,+03264.368408,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -427,7 +427,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+01504.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_RAS_HangarWall_Mat.Multiplayer_Textures_RAS_HangarWall_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/RAS_HangarWall_Mat.HangarWall_Mat LightMapScale=128.0 Link=4
 					Origin   +02048.785156,+00512.000000,+02047.214478
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -437,7 +437,7 @@ Begin Map
 					Vertex   +03712.000000,+00000.000000,+01504.000000
 					Vertex   +03712.000000,+04608.000000,+01504.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -00032.000000,-00032.000000,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -461,7 +461,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -00032.000000,-00032.000122,+00992.000000
 					Normal   -00000.600000,+00000.000000,-00000.800000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -471,7 +471,7 @@ Begin Map
 					Vertex   -00256.000000,+00000.000000,+00192.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=1
 					Origin   -03375.999512,+01983.999634,-00732.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -481,7 +481,7 @@ Begin Map
 					Vertex   +02752.000000,+00000.000000,+00192.000000
 					Vertex   +02752.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +03264.000488,+01055.999390,+00456.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -491,7 +491,7 @@ Begin Map
 					Vertex   +02752.000000,-03072.000000,+00192.000000
 					Vertex   +02752.000000,-03072.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=3
 					Origin   +03343.999023,-02048.000000,-00732.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -501,7 +501,7 @@ Begin Map
 					Vertex   -00256.000000,-03072.000000,+00192.000000
 					Vertex   +00000.000000,-03072.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   -02048.000000,+02048.000000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -511,7 +511,7 @@ Begin Map
 					Vertex   +02752.000000,-03072.000000,+00192.000000
 					Vertex   +02752.000000,+00000.000000,+00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -00032.000000,-00032.000122,+00992.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -555,7 +555,7 @@ Begin Map
 					Vertex   +00991.999980,+00512.000000,-00191.999856
 					Vertex   +00991.999858,+00000.000000,-00191.999979
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +01222.340332,+00128.000122,-00924.868591
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -565,7 +565,7 @@ Begin Map
 					Vertex   +00991.999980,+00512.000000,+00192.000144
 					Vertex   +00992.000225,+00000.000000,+00192.000235
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   +04900.966797,+00864.000000,-00527.515076
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.272823,+00000.000000,-00000.419008
@@ -575,7 +575,7 @@ Begin Map
 					Vertex   +00447.999980,+00512.000000,+00192.000144
 					Vertex   +00448.000103,+00000.000000,+00192.000388
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   +04978.600098,+00863.178223,+00335.613037
 					Normal   -00000.393920,+00000.000000,+00000.919145
 					TextureU +00000.415735,+00000.000000,-00000.277785
@@ -585,7 +585,7 @@ Begin Map
 					Vertex   -00000.000020,+00512.000000,+00000.000144
 					Vertex   +00000.000225,+00000.000000,+00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_DD_diffuse_Mat.Kam_DD_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   +03303.229492,-01056.179199,-00076.427734
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -596,7 +596,7 @@ Begin Map
 					Vertex   +00256.000042,+00511.999969,-00191.999856
 					Vertex   -00000.000020,+00512.000000,+00000.000144
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_DD_diffuse_Mat.Kam_DD_diffuse_Mat LightMapScale=128.0 Link=6
 					Origin   +02367.230469,-01056.000244,-00076.427734
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -621,7 +621,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat.Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/DET_MP_Det_HallwayPanels_Mat.MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=0
 					Origin   +00393.284088,+00256.000061,+00135.619247
 					Normal   -00000.600000,+00000.000000,-00000.800000
 					TextureU +00000.271440,+00000.000000,-00000.962455
@@ -631,7 +631,7 @@ Begin Map
 					Vertex   +00256.000042,+00511.999969,-00191.999856
 					Vertex   +00256.000225,+00000.000000,-00191.999979
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat.Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/DET_MP_Det_HallwayPanels_Mat.MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=1
 					Origin   +00595.230164,+00255.999939,-00580.427979
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.999229,+00000.000000,-00000.039260
@@ -641,7 +641,7 @@ Begin Map
 					Vertex   +00991.999980,+00512.000000,-00191.999856
 					Vertex   +00991.999858,+00000.000000,-00191.999979
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +04448.119629,+00320.000000,-00924.868591
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -651,7 +651,7 @@ Begin Map
 					Vertex   +00991.999980,+00512.000000,+00192.000144
 					Vertex   +00992.000225,+00000.000000,+00192.000235
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   +01294.578003,-00351.999756,+00326.090942
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.392659,+00000.000000,+00000.309547
@@ -661,7 +661,7 @@ Begin Map
 					Vertex   +00447.999980,+00512.000000,+00192.000144
 					Vertex   +00448.000103,+00000.000000,+00192.000388
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   +00692.595947,-00351.999878,+00335.613037
 					Normal   -00000.393920,+00000.000000,+00000.919145
 					TextureU -00000.415735,+00000.000000,-00000.277785
@@ -671,7 +671,7 @@ Begin Map
 					Vertex   -00000.000020,+00512.000000,+00000.000144
 					Vertex   +00000.000225,+00000.000000,+00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_DD_diffuse_Mat.Kam_DD_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   +03399.229492,+01504.000122,-00076.427734
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -682,7 +682,7 @@ Begin Map
 					Vertex   +00256.000042,+00511.999969,-00191.999856
 					Vertex   -00000.000020,+00512.000000,+00000.000144
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_DD_diffuse_Mat.Kam_DD_diffuse_Mat LightMapScale=128.0 Link=6
 					Origin   +02367.230469,+01503.999756,-00076.427734
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -953,7 +953,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -02660.498535,-04494.408691,-00184.000000
 					Normal   -00000.776115,-00000.630591,+00000.000000
 					TextureU +00000.310329,-00000.392040,+00000.000000
@@ -963,7 +963,7 @@ Begin Map
 					Vertex   +00000.015747,-00000.031250,+00000.000000
 					Vertex   +00000.015625,-00000.031250,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -973,7 +973,7 @@ Begin Map
 					Vertex   +00624.000000,+00000.000000,+00000.000000
 					Vertex   +00624.000000,+00000.000000,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -983,7 +983,7 @@ Begin Map
 					Vertex   +00624.000000,-00768.000000,+00000.000000
 					Vertex   +00624.000000,-00768.000000,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -992,7 +992,7 @@ Begin Map
 					Vertex   +00624.000000,-00768.000000,+00000.000000
 					Vertex   +00624.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1015,7 +1015,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -01536.000000,-00544.000000,+01184.000000
 					Normal   -00000.605004,+00000.000000,-00000.796223
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1025,7 +1025,7 @@ Begin Map
 					Vertex   -00254.000000,+01794.000000,+00192.000000
 					Vertex   +00000.000000,+01540.000000,-00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=1
 					Origin   -01536.000000,-00544.000000,+01184.000000
 					Normal   +00000.000000,+00000.605004,-00000.796223
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1035,7 +1035,7 @@ Begin Map
 					Vertex   +01794.000000,+01794.000000,+00192.000000
 					Vertex   +01794.000000,+01540.000000,-00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=2
 					Origin   -04831.625977,-00655.999512,+00372.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1045,7 +1045,7 @@ Begin Map
 					Vertex   +01794.000000,-00254.000000,+00192.000000
 					Vertex   +01794.000000,+00000.000000,-00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=3
 					Origin   -01536.000000,-00544.000000,+01184.000000
 					Normal   +00000.000000,-00000.605004,-00000.796223
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1055,7 +1055,7 @@ Begin Map
 					Vertex   -00254.000000,-00254.000000,+00192.000000
 					Vertex   +00000.000000,+00000.000000,-00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   -02048.000000,+02048.000000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1065,7 +1065,7 @@ Begin Map
 					Vertex   +01794.000000,-00254.000000,+00192.000000
 					Vertex   +01794.000000,+01794.000000,+00192.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -01536.000000,-00544.000000,+01184.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1089,7 +1089,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=0
 					Origin   -02676.000732,+03570.938477,-00511.741577
 					Normal   +00000.000000,+00000.986463,+00000.163983
 					TextureU +00000.000000,-00000.082078,-00000.493217
@@ -1099,7 +1099,7 @@ Begin Map
 					Vertex   -00256.000099,-00000.002038,+00000.000000
 					Vertex   -00256.000099,-00064.001000,+00385.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=1
 					Origin   +00191.998840,+00319.998993,-00255.999969
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1109,7 +1109,7 @@ Begin Map
 					Vertex   -00256.000160,-00320.001763,+00000.000122
 					Vertex   -00256.000099,-00256.001885,+00385.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=2
 					Origin   +01391.998535,-02743.841309,-00866.858154
 					Normal   +00000.000000,-00000.986463,+00000.163984
 					TextureU +00000.000000,+00000.082078,-00000.493217
@@ -1119,7 +1119,7 @@ Begin Map
 					Vertex   -00000.000129,-00320.001824,+00000.000122
 					Vertex   -00000.000251,-00256.001702,+00385.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
 					Origin   +00703.998779,-00192.000397,-00255.999924
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1129,7 +1129,7 @@ Begin Map
 					Vertex   -00000.000129,-00000.002038,+00000.000000
 					Vertex   -00000.000129,-00064.001000,+00385.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.001007,+00384.001007,+00416.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1139,7 +1139,7 @@ Begin Map
 					Vertex   -00000.000129,-00320.001824,+00000.000122
 					Vertex   -00256.000160,-00320.001763,+00000.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=5
 					Origin   +00599.365845,-02355.998535,-02880.000488
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.666667,+00000.000000,+00000.000000
@@ -1163,7 +1163,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=0
 					Origin   -02676.000732,+02573.203125,-00353.911987
 					Normal   +00000.000000,+00000.986463,+00000.163983
 					TextureU +00000.000000,-00000.082078,-00000.493217
@@ -1173,7 +1173,7 @@ Begin Map
 					Vertex   -00256.000099,-00000.002038,+00000.000000
 					Vertex   -00256.000099,-00064.001000,+00385.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=1
 					Origin   +00191.998840,+00319.998993,-00255.999969
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1183,7 +1183,7 @@ Begin Map
 					Vertex   -00256.000160,-00320.001763,+00000.000122
 					Vertex   -00256.000099,-00256.001885,+00385.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=2
 					Origin   +01391.998535,-03741.576660,-01024.687744
 					Normal   +00000.000000,-00000.986463,+00000.163984
 					TextureU +00000.000000,+00000.082078,-00000.493217
@@ -1193,7 +1193,7 @@ Begin Map
 					Vertex   -00000.000129,-00320.001824,+00000.000122
 					Vertex   -00000.000251,-00256.001702,+00385.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
 					Origin   +00703.998779,-00192.000397,-00255.999924
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1203,7 +1203,7 @@ Begin Map
 					Vertex   -00000.000129,-00000.002038,+00000.000000
 					Vertex   -00000.000129,-00064.001000,+00385.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.001007,-00639.999023,+00416.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1213,7 +1213,7 @@ Begin Map
 					Vertex   -00000.000129,-00320.001824,+00000.000122
 					Vertex   -00256.000160,-00320.001763,+00000.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Shaders_Kam_BB_shader_Mat.Multiplayer_Textures_Shaders_Kam_BB_shader_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Shaders_Kam_BB_shader_Mat.Kam_BB_shader_Mat LightMapScale=128.0 Link=5
 					Origin   +00599.365845,-03379.998535,-02880.000488
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.666667,+00000.000000,+00000.000000
@@ -1237,7 +1237,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=0
 					Origin   -162874.187500,+205405.703125,+262143.984375
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.620703,-00000.784046,+00000.000000
@@ -1247,7 +1247,7 @@ Begin Map
 					Vertex   -00623.984253,-00000.031372,+00000.000000
 					Vertex   -00623.984375,-00000.031250,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1257,7 +1257,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -01006.311279,+01695.849854,-00184.000000
 					Normal   +00000.776114,-00000.630593,+00000.000000
 					TextureU -00000.452811,+00000.212042,+00000.000000
@@ -1267,7 +1267,7 @@ Begin Map
 					Vertex   -00624.000000,-00768.000000,+00000.000000
 					Vertex   -00624.000000,-00768.000000,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1276,7 +1276,7 @@ Begin Map
 					Vertex   -00624.000000,-00768.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1299,7 +1299,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -03595.666016,+04206.193359,-00184.000244
 					Normal   +00000.776115,+00000.630591,+00000.000000
 					TextureU -00000.310329,-00000.392040,+00000.000000
@@ -1309,7 +1309,7 @@ Begin Map
 					Vertex   -00000.015991,+00000.032494,+00000.000000
 					Vertex   -00000.015991,+00000.032250,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=1
 					Origin   +00319.999939,+01152.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1319,7 +1319,7 @@ Begin Map
 					Vertex   -00624.000061,+00000.001000,+00000.000000
 					Vertex   -00624.000061,+00000.001000,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=2
 					Origin   +00064.000061,+01151.999756,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1329,7 +1329,7 @@ Begin Map
 					Vertex   -00624.000183,+00768.000512,+00000.000000
 					Vertex   -00624.000183,+00768.000512,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
 					Origin   +00319.999939,+01152.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1338,7 +1338,7 @@ Begin Map
 					Vertex   -00624.000183,+00768.000512,+00000.000000
 					Vertex   -00624.000061,+00000.001000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   +00319.999878,+01407.999878,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1361,7 +1361,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=0
 					Origin   +161338.140625,-205661.609375,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU -00000.620703,+00000.784046,+00000.000000
@@ -1371,7 +1371,7 @@ Begin Map
 					Vertex   +00623.984375,+00000.031860,+00000.000000
 					Vertex   +00623.984497,+00000.031677,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=1
 					Origin   -01407.999878,-00384.000092,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1381,7 +1381,7 @@ Begin Map
 					Vertex   +00000.000366,+00000.000000,+00000.000000
 					Vertex   +00000.000366,+00000.000000,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -04459.666992,+02670.193359,-00184.000305
 					Normal   -00000.776114,+00000.630592,+00000.000000
 					TextureU -00000.310329,-00000.392040,+00000.000000
@@ -1391,7 +1391,7 @@ Begin Map
 					Vertex   +00624.000000,+00768.000000,+00000.000000
 					Vertex   +00624.000000,+00768.000000,-02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures_General_WallPanel_Whitish_Mat.CoreShip_Textures_General_WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_WallPanel_Whitish_Mat.WallPanel_Whitish_Mat LightMapScale=128.0 Link=3
 					Origin   -01407.999878,-00384.000092,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1400,7 +1400,7 @@ Begin Map
 					Vertex   +00624.000000,+00768.000000,+00000.000000
 					Vertex   +00000.000366,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   -01407.999756,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1423,7 +1423,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   +00232.000000,+00421.490479,+00942.586975
 					Normal   +00000.000000,+00000.832050,+00000.554700
 					TextureU +00000.000000,-00000.353553,+00000.353553
@@ -1433,7 +1433,7 @@ Begin Map
 					Vertex   +00000.000000,+00192.000393,+00672.000000
 					Vertex   +00255.999878,+00192.000393,+00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   +00231.999878,+00084.077515,+01152.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -1443,7 +1443,7 @@ Begin Map
 					Vertex   -00000.000244,+00000.000271,+00672.000000
 					Vertex   +00255.999634,+00000.000271,+00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +00231.999878,-00302.586853,+01061.490356
 					Normal   +00000.000000,-00000.832050,+00000.554700
 					TextureU +00000.000000,-00000.353553,-00000.353553
@@ -1453,7 +1453,7 @@ Begin Map
 					Vertex   -00000.000244,-00127.999729,+00480.000122
 					Vertex   +00255.999756,-00127.999729,+00480.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   +00231.999878,-00512.000000,+00724.077148
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,-00000.500000
@@ -1463,7 +1463,7 @@ Begin Map
 					Vertex   -00000.000244,-00127.999729,+00192.000244
 					Vertex   +00255.999756,-00127.999729,+00192.000244
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   +00231.999878,-00421.490234,+00337.412964
 					Normal   +00000.000000,-00000.832050,-00000.554700
 					TextureU +00000.000000,+00000.353553,-00000.353553
@@ -1473,7 +1473,7 @@ Begin Map
 					Vertex   -00000.000244,+00000.000515,+00000.000000
 					Vertex   +00255.999756,+00000.000515,+00000.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   +00231.999878,-00084.076965,+00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -1483,7 +1483,7 @@ Begin Map
 					Vertex   +00000.000000,+00192.000393,+00000.000000
 					Vertex   +00256.000000,+00192.000393,+00000.000061
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=6
 					Origin   +00232.000000,+00302.587280,+00218.509705
 					Normal   +00000.000000,+00000.832051,-00000.554700
 					TextureU +00000.000000,+00000.353553,+00000.353553
@@ -1493,7 +1493,7 @@ Begin Map
 					Vertex   -00000.000244,+00320.000271,+00192.000122
 					Vertex   +00255.999756,+00320.000271,+00192.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=7
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=7
 					Origin   +00231.999878,+00512.000122,+00555.922607
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,+00000.500000
@@ -1503,7 +1503,7 @@ Begin Map
 					Vertex   -00000.000244,+00320.000271,+00480.000122
 					Vertex   +00255.999756,+00320.000271,+00480.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat.Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=8
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/DET_MP_Det_HallwayPanels_Mat.MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=8
 					Origin   -00511.999969,+00512.000000,+00427.922607
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.707107,+00000.707107
@@ -1517,7 +1517,7 @@ Begin Map
 					Vertex   +00000.000000,+00192.000393,+00672.000000
 					Vertex   -00000.000244,+00320.000271,+00480.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat.Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=9
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/DET_MP_Det_HallwayPanels_Mat.MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=9
 					Origin   -00256.000000,+00512.000000,+00852.077332
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.707107,-00000.707107
@@ -1545,7 +1545,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   +00232.000000,+00330.980682,+01033.096680
 					Normal   +00000.000000,+00000.832050,+00000.554700
 					TextureU +00000.000000,-00000.353553,+00000.353553
@@ -1555,7 +1555,7 @@ Begin Map
 					Vertex   +00000.000000,+00192.000393,+00672.000000
 					Vertex   +00255.999878,+00192.000393,+00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   +00232.000000,-00043.922386,+01152.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -1565,7 +1565,7 @@ Begin Map
 					Vertex   -00000.000244,+00000.000271,+00672.000000
 					Vertex   +00255.999634,+00000.000271,+00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +00231.999878,-00393.096588,+00970.980713
 					Normal   +00000.000000,-00000.832050,+00000.554700
 					TextureU +00000.000000,-00000.353553,-00000.353553
@@ -1575,7 +1575,7 @@ Begin Map
 					Vertex   -00000.000244,-00127.999729,+00480.000122
 					Vertex   +00255.999756,-00127.999729,+00480.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   +00231.999878,-00511.999908,+00596.077148
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,-00000.500000
@@ -1585,7 +1585,7 @@ Begin Map
 					Vertex   -00000.000244,-00127.999729,+00192.000244
 					Vertex   +00255.999756,-00127.999729,+00192.000244
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   +00231.999878,-00330.980591,+00246.903320
 					Normal   +00000.000000,-00000.832050,-00000.554700
 					TextureU +00000.000000,+00000.353553,-00000.353553
@@ -1595,7 +1595,7 @@ Begin Map
 					Vertex   -00000.000244,+00000.000515,+00000.000000
 					Vertex   +00255.999756,+00000.000515,+00000.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   +00232.000000,+00043.923073,+00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -1605,7 +1605,7 @@ Begin Map
 					Vertex   +00000.000000,+00192.000393,+00000.000000
 					Vertex   +00256.000000,+00192.000393,+00000.000061
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=6
 					Origin   +00232.000000,+00393.096649,+00309.019348
 					Normal   +00000.000000,+00000.832051,-00000.554700
 					TextureU +00000.000000,+00000.353553,+00000.353553
@@ -1615,7 +1615,7 @@ Begin Map
 					Vertex   -00000.000244,+00320.000271,+00192.000122
 					Vertex   +00255.999756,+00320.000271,+00192.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=7
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=7
 					Origin   +00231.999878,+00511.999969,+00683.922607
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,+00000.500000
@@ -1625,7 +1625,7 @@ Begin Map
 					Vertex   -00000.000244,+00320.000271,+00480.000122
 					Vertex   +00255.999756,+00320.000271,+00480.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat.Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=8
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/DET_MP_Det_HallwayPanels_Mat.MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=8
 					Origin   -00511.999969,+00512.000000,+00427.922607
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.707107,+00000.707107
@@ -1639,7 +1639,7 @@ Begin Map
 					Vertex   +00000.000000,+00192.000393,+00672.000000
 					Vertex   -00000.000244,+00320.000271,+00480.000122
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat.Multiplayer_Textures_DET_MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=9
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/DET_MP_Det_HallwayPanels_Mat.MP_Det_HallwayPanels_Mat LightMapScale=128.0 Link=9
 					Origin   -00256.000000,+00512.000000,+00852.077332
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.707107,-00000.707107
@@ -1667,7 +1667,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -02744.752686,-02452.485596,-00925.137024
 					Normal   +00000.316227,+00000.948683,+00000.000000
 					TextureU -00000.948683,+00000.316229,+00000.000000
@@ -1677,7 +1677,7 @@ Begin Map
 					Vertex   +00000.000023,-00000.001977,+00000.001061
 					Vertex   +00192.000023,-00064.001854,+00000.000969
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -00183.264923,-00767.998474,+03519.793701
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -1687,7 +1687,7 @@ Begin Map
 					Vertex   +00000.000146,-01216.001427,+00000.001214
 					Vertex   +00191.999962,-01152.001793,+00000.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -00660.297607,-03160.839355,-00925.137024
 					Normal   +00000.316227,-00000.948684,+00000.000000
 					TextureU -00000.948683,-00000.316230,+00000.000000
@@ -1697,7 +1697,7 @@ Begin Map
 					Vertex   +00000.000161,-01216.001275,-00031.998817
 					Vertex   +00192.000054,-01152.001519,-00031.998710
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -01206.737305,-00767.998474,-03071.795654
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -1707,7 +1707,7 @@ Begin Map
 					Vertex   +00000.000207,-00000.002038,-00031.998878
 					Vertex   +00192.000146,-00064.001977,-00031.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   -00192.001068,+00319.998993,-00127.999893
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1717,7 +1717,7 @@ Begin Map
 					Vertex   +00000.000161,-01216.001275,-00031.998817
 					Vertex   +00000.000146,-01216.001427,+00000.001214
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   -03935.795898,+01440.000244,-00925.137024
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1773,7 +1773,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -02488.752441,-01236.485352,-00925.137085
 					Normal   -00000.316227,-00000.948683,+00000.000000
 					TextureU -00000.948683,+00000.316229,+00000.000000
@@ -1783,7 +1783,7 @@ Begin Map
 					Vertex   +00000.000008,+00000.001930,+00000.001061
 					Vertex   -00191.999923,+00064.001686,+00000.000969
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -00377.264771,+00448.001709,+03519.793701
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -1793,7 +1793,7 @@ Begin Map
 					Vertex   -00000.000274,+01216.000953,+00000.001214
 					Vertex   -00191.999999,+01152.001197,+00000.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -00362.370178,+05016.833984,-00925.137085
 					Normal   -00000.316228,+00000.948683,+00000.000000
 					TextureU +00000.948804,+00000.315866,+00000.000000
@@ -1803,7 +1803,7 @@ Begin Map
 					Vertex   -00000.000274,+01216.000953,-00031.998817
 					Vertex   -00191.999984,+01152.000709,-00031.998710
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -00378.737213,+00448.001709,-03071.795654
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -1813,7 +1813,7 @@ Begin Map
 					Vertex   -00000.000205,+00000.001991,-00031.998878
 					Vertex   -00192.000030,+00064.001930,-00031.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_General_As_GenWall2b_Mat.AssaultShip_Textures_General_As_GenWall2b_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_GenWall2b_Mat.As_GenWall2b_Mat LightMapScale=128.0 Link=4
 					Origin   +00447.998901,+01600.002441,-00127.999893
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1823,7 +1823,7 @@ Begin Map
 					Vertex   -00000.000274,+01216.000953,-00031.998817
 					Vertex   -00000.000274,+01216.000953,+00000.001214
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   +02911.793457,+00416.001709,-00925.137085
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2955,7 +2955,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -03328.417480,-01118.735352,-00568.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -2965,7 +2965,7 @@ Begin Map
 					Vertex   +00000.000000,+00192.000000,+00016.000000
 					Vertex   +00000.000000,+00192.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -01119.999512,+03264.000488,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -2975,7 +2975,7 @@ Begin Map
 					Vertex   +00520.000000,+00192.000000,+00016.000000
 					Vertex   +00520.000000,+00192.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +03264.000488,+01055.999512,-00568.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -2985,7 +2985,7 @@ Begin Map
 					Vertex   +00520.000000,+00000.000000,+00016.000000
 					Vertex   +00520.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   +01054.735474,-03328.417480,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -2995,7 +2995,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00016.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_RAS_HangarWall_Mat.Multiplayer_Textures_RAS_HangarWall_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/RAS_HangarWall_Mat.HangarWall_Mat LightMapScale=128.0 Link=4
 					Origin   +02048.785156,+00512.000000,+02047.214478
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3005,7 +3005,7 @@ Begin Map
 					Vertex   +00520.000000,+00000.000000,+00016.000000
 					Vertex   +00520.000000,+00192.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -00032.000000,-00032.000000,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3029,7 +3029,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -3039,7 +3039,7 @@ Begin Map
 					Vertex   +00000.000000,+00512.000000,+00000.000000
 					Vertex   +00000.000000,+00512.000000,-01696.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -01823.999756,+04672.000488,+01192.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -3049,7 +3049,7 @@ Begin Map
 					Vertex   +00256.000000,+00512.000000,+00000.000000
 					Vertex   +00256.000000,+00512.000000,-01696.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -3059,7 +3059,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 					Vertex   +00256.000000,+00000.000000,-01696.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -03628.888184,-00312.716797,+01416.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.114596,-00000.486690,+00000.000000
@@ -3069,7 +3069,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-01696.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3079,7 +3079,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 					Vertex   +00256.000000,+00512.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -00640.000000,+01376.000000,+01952.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3117,7 +3117,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -03328.417480,-01118.735352,-00568.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -3127,7 +3127,7 @@ Begin Map
 					Vertex   +00000.000000,+00192.000000,+00016.000000
 					Vertex   +00000.000000,+00192.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -01119.999512,+03264.000488,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -3137,7 +3137,7 @@ Begin Map
 					Vertex   +00520.000000,+00192.000000,+00016.000000
 					Vertex   +00520.000000,+00192.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +03264.000488,+01055.999512,-00568.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -3147,7 +3147,7 @@ Begin Map
 					Vertex   +00520.000000,+00000.000000,+00016.000000
 					Vertex   +00520.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   +01054.735474,-03328.417480,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -3157,7 +3157,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00016.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_RAS_HangarWall_Mat.Multiplayer_Textures_RAS_HangarWall_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/RAS_HangarWall_Mat.HangarWall_Mat LightMapScale=128.0 Link=4
 					Origin   +02048.785156,+00512.000000,+02047.214478
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3167,7 +3167,7 @@ Begin Map
 					Vertex   +00520.000000,+00000.000000,+00016.000000
 					Vertex   +00520.000000,+00192.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -00032.000000,-00032.000000,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3191,7 +3191,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -3201,7 +3201,7 @@ Begin Map
 					Vertex   +00000.000000,+00512.000000,+00000.000000
 					Vertex   +00000.000000,+00512.000000,-01696.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   +02348.239990,+00505.863037,+01416.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.114783,+00000.486646,+00000.000000
@@ -3211,7 +3211,7 @@ Begin Map
 					Vertex   +00256.000000,+00512.000000,+00000.000000
 					Vertex   +00256.000000,+00512.000000,-01696.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -3221,7 +3221,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 					Vertex   +00256.000000,+00000.000000,-01696.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   +00543.999512,-04480.000488,+01192.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -3231,7 +3231,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-01696.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3241,7 +3241,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 					Vertex   +00256.000000,+00512.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -00640.000000,-01184.000000,+01952.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3265,7 +3265,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -3275,7 +3275,7 @@ Begin Map
 					Vertex   +00000.000000,+00512.000000,+00016.000000
 					Vertex   +00000.000000,+00512.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3285,7 +3285,7 @@ Begin Map
 					Vertex   +00256.000000,+00512.000000,+00016.000000
 					Vertex   +00256.000000,+00512.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -3295,7 +3295,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00016.000000
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3305,7 +3305,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00016.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3315,7 +3315,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00016.000000
 					Vertex   +00256.000000,+00512.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3339,7 +3339,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -3349,7 +3349,7 @@ Begin Map
 					Vertex   +00000.000000,+00512.000000,+00016.000000
 					Vertex   +00000.000000,+00512.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3359,7 +3359,7 @@ Begin Map
 					Vertex   +00256.000000,+00512.000000,+00016.000000
 					Vertex   +00256.000000,+00512.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -3369,7 +3369,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00016.000000
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3379,7 +3379,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00016.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3389,7 +3389,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00016.000000
 					Vertex   +00256.000000,+00512.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures_Chall_As_Floor2carl_Mat.AssaultShip_Textures_Chall_As_Floor2carl_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Chall_As_Floor2carl_Mat.As_Floor2carl_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4593,7 +4593,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -12688.015625,-00640.000000,-00960.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -4603,7 +4603,7 @@ Begin Map
 					Vertex   +00000.000000,+81920.000000,+00000.000000
 					Vertex   +00000.000000,+81920.000000,-24576.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=1
 					Origin   -12688.015625,-00640.000000,-00960.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4613,7 +4613,7 @@ Begin Map
 					Vertex   +81920.000000,+81920.000000,+00000.000000
 					Vertex   +81920.000000,+81920.000000,-24576.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=2
 					Origin   -12688.015625,-00640.000000,-00960.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4623,7 +4623,7 @@ Begin Map
 					Vertex   +81920.000000,+00000.000000,+00000.000000
 					Vertex   +81920.000000,+00000.000000,-24576.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=3
 					Origin   -12688.015625,-00640.000000,-00960.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4633,7 +4633,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-24576.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=4
 					Origin   -12688.015625,-00640.000000,-00960.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4643,7 +4643,7 @@ Begin Map
 					Vertex   +81920.000000,+00000.000000,+00000.000000
 					Vertex   +81920.000000,+81920.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/KaminoTextures_Prologue_floortest_Mat.KaminoTextures_Prologue_floortest_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/KaminoTextures/Prologue_floortest_Mat.floortest_Mat LightMapScale=128.0 Link=5
 					Origin   +31447.367188,-05996.351563,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.006003,-00000.009350,+00000.000000
@@ -5081,7 +5081,7 @@ Begin Map
 					Vertex   -00991.999287,-00512.000000,-00191.999856
 					Vertex   -00991.999287,+00000.000000,-00191.999979
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -00543.879883,-00128.000290,-00924.868530
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -5091,7 +5091,7 @@ Begin Map
 					Vertex   -00991.999287,-00512.000000,+00192.000144
 					Vertex   -00991.999897,+00000.000000,+00192.000235
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -04222.504395,-00864.000977,-00527.515076
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.272823,+00000.000000,-00000.419008
@@ -5101,7 +5101,7 @@ Begin Map
 					Vertex   -00447.999592,-00511.999878,+00192.000144
 					Vertex   -00447.999928,+00000.000000,+00192.000388
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -04300.136719,-00863.179260,+00335.613007
 					Normal   +00000.393920,+00000.000000,+00000.919145
 					TextureU -00000.415735,+00000.000000,-00000.277785
@@ -5111,7 +5111,7 @@ Begin Map
 					Vertex   +00000.000194,-00511.999756,+00000.000144
 					Vertex   -00000.000203,+00000.000000,+00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_DD_diffuse_Mat.Kam_DD_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   -02624.767578,+01056.177368,-00076.427734
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5122,7 +5122,7 @@ Begin Map
 					Vertex   -00255.999760,-00511.999786,-00191.999856
 					Vertex   +00000.000194,-00511.999756,+00000.000144
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_DD_diffuse_Mat.Kam_DD_diffuse_Mat LightMapScale=128.0 Link=6
 					Origin   -01688.769897,+01055.999390,-00076.427734
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5167,7 +5167,7 @@ Begin Map
 					Vertex   -00991.999287,-00512.000000,-00191.999856
 					Vertex   -00991.999287,+00000.000000,-00191.999979
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -00543.879883,-00128.000290,-00924.868530
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -5177,7 +5177,7 @@ Begin Map
 					Vertex   -00991.999287,-00512.000000,+00192.000144
 					Vertex   -00991.999897,+00000.000000,+00192.000235
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -04222.504395,-00864.000977,-00527.515076
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.272823,+00000.000000,-00000.419008
@@ -5187,7 +5187,7 @@ Begin Map
 					Vertex   -00447.999592,-00511.999878,+00192.000144
 					Vertex   -00447.999928,+00000.000000,+00192.000388
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -04300.136719,-00863.179260,+00335.613007
 					Normal   +00000.393920,+00000.000000,+00000.919145
 					TextureU -00000.415735,+00000.000000,-00000.277785
@@ -5197,7 +5197,7 @@ Begin Map
 					Vertex   +00000.000194,-00511.999756,+00000.000144
 					Vertex   -00000.000203,+00000.000000,+00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_DD_diffuse_Mat.Kam_DD_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   -02624.767578,+01056.177368,-00076.427734
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5208,7 +5208,7 @@ Begin Map
 					Vertex   -00255.999760,-00511.999786,-00191.999856
 					Vertex   +00000.000194,-00511.999756,+00000.000144
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_DD_diffuse_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_DD_diffuse_Mat.Kam_DD_diffuse_Mat LightMapScale=128.0 Link=6
 					Origin   -01688.769897,+01055.999390,-00076.427734
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5263,7 +5263,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -04095.998535,-03552.000000,-00568.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5273,7 +5273,7 @@ Begin Map
 					Vertex   +03088.000000,+00000.002441,-00004.000000
 					Vertex   +03088.000000,+00000.002441,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -10380.886719,-06328.716309,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.114596,-00000.486690,+00000.000000
@@ -5283,7 +5283,7 @@ Begin Map
 					Vertex   +00000.001465,+00000.003418,-00004.000000
 					Vertex   +00000.001465,+00000.003418,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -04095.998535,-03456.000000,-00792.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5293,7 +5293,7 @@ Begin Map
 					Vertex   +00000.000000,+00479.999023,-00004.000000
 					Vertex   +00000.000000,+00479.999023,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -04403.758789,-02950.136475,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.114783,+00000.486646,+00000.000000
@@ -5303,7 +5303,7 @@ Begin Map
 					Vertex   +03088.000000,+00480.000000,-00004.000000
 					Vertex   +03088.000000,+00480.000000,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -01094.136719,-08712.000000,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.486646,+00000.000000,+00000.114783
@@ -5313,7 +5313,7 @@ Begin Map
 					Vertex   +00000.000000,+00479.999023,-00004.000000
 					Vertex   +00000.001465,+00000.003418,-00004.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -07391.999023,-04639.999512,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5337,7 +5337,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -04095.998535,-03552.000000,-00568.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5347,7 +5347,7 @@ Begin Map
 					Vertex   +03088.000000,+00000.002441,-00004.000000
 					Vertex   +03088.000000,+00000.002441,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -10380.886719,-06328.716309,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.114596,-00000.486690,+00000.000000
@@ -5357,7 +5357,7 @@ Begin Map
 					Vertex   +00000.001465,+00000.003418,-00004.000000
 					Vertex   +00000.001465,+00000.003418,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -04095.998535,-03456.000000,-00792.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5367,7 +5367,7 @@ Begin Map
 					Vertex   +00000.000000,+00479.999023,-00004.000000
 					Vertex   +00000.000000,+00479.999023,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -04403.758789,-02950.136475,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.114783,+00000.486646,+00000.000000
@@ -5377,7 +5377,7 @@ Begin Map
 					Vertex   +03088.000000,+00480.000000,-00004.000000
 					Vertex   +03088.000000,+00480.000000,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -01094.136719,-08712.000000,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.486646,+00000.000000,+00000.114783
@@ -5387,7 +5387,7 @@ Begin Map
 					Vertex   +00000.000000,+00479.999023,-00004.000000
 					Vertex   +00000.001465,+00000.003418,-00004.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -07391.999023,-04639.999512,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5441,7 +5441,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -04095.998535,-03552.000000,-00568.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5451,7 +5451,7 @@ Begin Map
 					Vertex   +03088.000000,+00000.002441,-00004.000000
 					Vertex   +03088.000000,+00000.002441,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -10380.886719,-06328.716309,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.114596,-00000.486690,+00000.000000
@@ -5461,7 +5461,7 @@ Begin Map
 					Vertex   +00000.001465,+00000.003418,-00004.000000
 					Vertex   +00000.001465,+00000.003418,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -04095.998535,-03456.000000,-00792.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5471,7 +5471,7 @@ Begin Map
 					Vertex   +00000.000000,+00479.999023,-00004.000000
 					Vertex   +00000.000000,+00479.999023,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -04403.758789,-02950.136475,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.114783,+00000.486646,+00000.000000
@@ -5481,7 +5481,7 @@ Begin Map
 					Vertex   +03088.000000,+00480.000000,-00004.000000
 					Vertex   +03088.000000,+00480.000000,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -01094.136719,-08712.000000,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.486646,+00000.000000,+00000.114783
@@ -5491,7 +5491,7 @@ Begin Map
 					Vertex   +00000.000000,+00479.999023,-00004.000000
 					Vertex   +00000.001465,+00000.003418,-00004.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -07391.999023,-04639.999512,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5545,7 +5545,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -07904.000488,-10271.999023,-00568.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -5555,7 +5555,7 @@ Begin Map
 					Vertex   -03087.998047,-00000.001953,-00004.000000
 					Vertex   -03087.998047,-00000.001953,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -01619.113770,-07495.284180,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.114596,+00000.486690,+00000.000000
@@ -5565,7 +5565,7 @@ Begin Map
 					Vertex   -00000.002441,+00000.000000,-00004.000000
 					Vertex   -00000.002441,+00000.000000,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -07904.000000,-10368.000000,-00792.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -5575,7 +5575,7 @@ Begin Map
 					Vertex   +00000.000488,-00479.998047,-00004.000000
 					Vertex   +00000.000488,-00479.998047,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -07596.239746,-10873.863281,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.114783,-00000.486646,+00000.000000
@@ -5585,7 +5585,7 @@ Begin Map
 					Vertex   -03087.998047,-00479.999023,-00004.000000
 					Vertex   -03087.998047,-00479.999023,-00480.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -10905.860352,-05111.999512,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.486646,+00000.000000,+00000.114783
@@ -5595,7 +5595,7 @@ Begin Map
 					Vertex   +00000.000488,-00479.998047,-00004.000000
 					Vertex   -00000.002441,+00000.000000,-00004.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -04608.002930,-09183.997070,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -5819,7 +5819,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -04095.998535,-03552.000000,-00568.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5829,7 +5829,7 @@ Begin Map
 					Vertex   +00000.000000,-00255.997559,+00000.000000
 					Vertex   +00000.001465,-00511.993164,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -10380.886719,-06328.716309,-00568.000000
 					Normal   +00000.000000,-00000.808741,+00000.588165
 					TextureU +00000.114596,-00000.486690,+00000.000000
@@ -5839,7 +5839,7 @@ Begin Map
 					Vertex   -00512.000000,-00256.000000,+00000.000000
 					Vertex   -00511.998535,-00511.995605,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -04095.998535,-03456.000000,-00792.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5849,7 +5849,7 @@ Begin Map
 					Vertex   -00512.001465,-00000.004395,+00000.000000
 					Vertex   -00512.000000,+00000.000000,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -04403.758789,-02950.136475,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.114783,+00000.486646,+00000.000000
@@ -5859,7 +5859,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.001465,+00000.004395,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -01094.136719,-08712.000000,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.486646,+00000.000000,+00000.114783
@@ -5869,7 +5869,7 @@ Begin Map
 					Vertex   -00512.001465,-00000.004395,+00000.000000
 					Vertex   -00512.000000,-00256.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -07391.999023,-04639.999512,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5893,7 +5893,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -04095.998535,-03552.000000,-00568.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5903,7 +5903,7 @@ Begin Map
 					Vertex   +00000.000000,-00255.997559,+00000.000000
 					Vertex   +00000.001465,-00511.993164,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -10380.886719,-06328.716309,-00568.000000
 					Normal   +00000.000000,-00000.808741,+00000.588165
 					TextureU +00000.114596,-00000.486690,+00000.000000
@@ -5913,7 +5913,7 @@ Begin Map
 					Vertex   -00512.000000,-00256.000000,+00000.000000
 					Vertex   -00511.998535,-00511.995605,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -04095.998535,-03456.000000,-00792.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5923,7 +5923,7 @@ Begin Map
 					Vertex   -00512.001465,-00000.004395,+00000.000000
 					Vertex   -00512.000000,+00000.000000,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -04403.758789,-02950.136475,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.114783,+00000.486646,+00000.000000
@@ -5933,7 +5933,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.001465,+00000.004395,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -01094.136719,-08712.000000,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.486646,+00000.000000,+00000.114783
@@ -5943,7 +5943,7 @@ Begin Map
 					Vertex   -00512.001465,-00000.004395,+00000.000000
 					Vertex   -00512.000000,-00256.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -07391.999023,-04639.999512,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5967,7 +5967,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -04095.998535,-03552.000000,-00568.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5977,7 +5977,7 @@ Begin Map
 					Vertex   +00000.000000,-00255.997559,+00000.000000
 					Vertex   +00000.001465,-00511.993164,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -10380.886719,-06328.716309,-00568.000000
 					Normal   +00000.000000,-00000.808741,+00000.588165
 					TextureU +00000.114596,-00000.486690,+00000.000000
@@ -5987,7 +5987,7 @@ Begin Map
 					Vertex   -00512.000000,-00256.000000,+00000.000000
 					Vertex   -00511.998535,-00511.995605,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -04095.998535,-03456.000000,-00792.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5997,7 +5997,7 @@ Begin Map
 					Vertex   -00512.001465,-00000.004395,+00000.000000
 					Vertex   -00512.000000,+00000.000000,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -04403.758789,-02950.136475,-00568.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.114783,+00000.486646,+00000.000000
@@ -6007,7 +6007,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.001465,+00000.004395,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -01094.136719,-08712.000000,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.486646,+00000.000000,+00000.114783
@@ -6017,7 +6017,7 @@ Begin Map
 					Vertex   -00512.001465,-00000.004395,+00000.000000
 					Vertex   -00512.000000,-00256.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -07391.999023,-04639.999512,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -6041,7 +6041,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -06688.000977,-09312.000000,-00568.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -6051,7 +6051,7 @@ Begin Map
 					Vertex   -00000.001465,+00255.997559,+00000.000000
 					Vertex   -00000.000977,+00511.993652,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -00403.114258,-06535.285156,-00568.000000
 					Normal   +00000.000000,+00000.808740,+00000.588166
 					TextureU -00000.114596,+00000.486690,+00000.000000
@@ -6061,7 +6061,7 @@ Begin Map
 					Vertex   +00512.000000,+00255.999512,+00000.000000
 					Vertex   +00511.997559,+00511.995605,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -06688.000000,-09408.000977,-00792.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -6071,7 +6071,7 @@ Begin Map
 					Vertex   +00512.000977,+00000.004883,+00000.000000
 					Vertex   +00512.000000,+00000.000000,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -06380.240234,-09913.861328,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.114783,-00000.486646,+00000.000000
@@ -6081,7 +6081,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000488,-00000.003906,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -09689.861328,-04152.002441,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.486646,+00000.000000,+00000.114783
@@ -6091,7 +6091,7 @@ Begin Map
 					Vertex   +00512.000977,+00000.004883,+00000.000000
 					Vertex   +00512.000000,+00255.999512,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -03392.000000,-08224.000000,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6115,7 +6115,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -06688.000977,-09312.000000,-00568.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -6125,7 +6125,7 @@ Begin Map
 					Vertex   -00000.001465,+00255.997559,+00000.000000
 					Vertex   -00000.000977,+00511.993652,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -00403.114258,-06535.285156,-00568.000000
 					Normal   +00000.000000,+00000.808740,+00000.588166
 					TextureU -00000.114596,+00000.486690,+00000.000000
@@ -6135,7 +6135,7 @@ Begin Map
 					Vertex   +00512.000000,+00255.999512,+00000.000000
 					Vertex   +00511.997559,+00511.995605,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -06688.000000,-09408.000977,-00792.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -6145,7 +6145,7 @@ Begin Map
 					Vertex   +00512.000977,+00000.004883,+00000.000000
 					Vertex   +00512.000000,+00000.000000,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -06380.240234,-09913.861328,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.114783,-00000.486646,+00000.000000
@@ -6155,7 +6155,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000488,-00000.003906,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -09689.861328,-04152.002441,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.486646,+00000.000000,+00000.114783
@@ -6165,7 +6165,7 @@ Begin Map
 					Vertex   +00512.000977,+00000.004883,+00000.000000
 					Vertex   +00512.000000,+00255.999512,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -03392.000000,-08224.000000,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6189,7 +6189,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -06688.000977,-09312.000000,-00568.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -6199,7 +6199,7 @@ Begin Map
 					Vertex   -00000.001465,+00255.997559,+00000.000000
 					Vertex   -00000.000977,+00511.993652,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -00403.114258,-06535.285156,-00568.000000
 					Normal   +00000.000000,+00000.808740,+00000.588166
 					TextureU -00000.114596,+00000.486690,+00000.000000
@@ -6209,7 +6209,7 @@ Begin Map
 					Vertex   +00512.000000,+00255.999512,+00000.000000
 					Vertex   +00511.997559,+00511.995605,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   -06688.000000,-09408.000977,-00792.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -6219,7 +6219,7 @@ Begin Map
 					Vertex   +00512.000977,+00000.004883,+00000.000000
 					Vertex   +00512.000000,+00000.000000,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   -06380.240234,-09913.861328,-00568.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.114783,-00000.486646,+00000.000000
@@ -6229,7 +6229,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000488,-00000.003906,-00352.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -09689.861328,-04152.002441,-03020.241211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.486646,+00000.000000,+00000.114783
@@ -6239,7 +6239,7 @@ Begin Map
 					Vertex   +00512.000977,+00000.004883,+00000.000000
 					Vertex   +00512.000000,+00255.999512,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_MP_KamFloor_Mat.Multiplayer_Textures_Kamino_MP_KamFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_MP_KamFloor_Mat.MP_KamFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -03392.000000,-08224.000000,-00032.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6337,7 +6337,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -6347,7 +6347,7 @@ Begin Map
 					Vertex   +00000.000000,+00256.000000,+00000.000000
 					Vertex   +00000.000000,+00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6357,7 +6357,7 @@ Begin Map
 					Vertex   +00256.000000,+00256.000000,+00000.000000
 					Vertex   +00256.000000,+00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6367,7 +6367,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 					Vertex   +00256.000000,+00000.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -6377,7 +6377,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6387,7 +6387,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 					Vertex   +00256.000000,+00256.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6444,7 +6444,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -6454,7 +6454,7 @@ Begin Map
 					Vertex   +00000.000000,+00256.000000,+00000.000000
 					Vertex   +00000.000000,+00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6464,7 +6464,7 @@ Begin Map
 					Vertex   +00256.000000,+00256.000000,+00000.000000
 					Vertex   +00256.000000,+00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6474,7 +6474,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 					Vertex   +00256.000000,+00000.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -6484,7 +6484,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6494,7 +6494,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 					Vertex   +00256.000000,+00256.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat.Multiplayer_Textures_Kamino_Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/Kamino_Kam_CC_diffuse_Mat.Kam_CC_diffuse_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000

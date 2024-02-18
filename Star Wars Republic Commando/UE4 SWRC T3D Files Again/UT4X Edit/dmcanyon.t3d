@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -02048.000000,-02048.000000,-02048.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   +00000.000000,+36864.000000,+28672.000000
 					Vertex   +00000.000000,+36864.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   -02048.000000,+02048.000000,-02048.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   +55296.000000,+36864.000000,+28672.000000
 					Vertex   +55296.000000,+36864.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +02048.000000,+02048.000000,-02048.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   +55296.000000,+00000.000000,+28672.000000
 					Vertex   +55296.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +02048.000000,-02048.000000,-02048.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+28672.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -02048.000000,+02048.000000,+02048.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   +55296.000000,+00000.000000,+28672.000000
 					Vertex   +55296.000000,+36864.000000,+28672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   -02048.000000,-02048.000000,-02048.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.000000,+00000.000000
@@ -334,7 +334,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat.Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Midday_Top_Mat.GEO_Midday_Top_Mat LightMapScale=128.0 Link=0
 					Origin   +18944.000000,+07680.000000,-01408.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -344,7 +344,7 @@ Begin Map
 					Vertex   -01024.000000,+01024.000000,+00000.000000
 					Vertex   -01024.000000,+01024.000000,-01024.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat.Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Midday_Top_Mat.GEO_Midday_Top_Mat LightMapScale=128.0 Link=1
 					Origin   +18944.000000,+07680.000000,-01408.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -354,7 +354,7 @@ Begin Map
 					Vertex   +00000.000000,+01024.000000,+00000.000000
 					Vertex   +00000.000000,+01024.000000,-01024.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat.Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Midday_Top_Mat.GEO_Midday_Top_Mat LightMapScale=128.0 Link=2
 					Origin   +18944.000000,+07680.000000,-01408.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -364,7 +364,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-01024.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat.Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Midday_Top_Mat.GEO_Midday_Top_Mat LightMapScale=128.0 Link=3
 					Origin   +18944.000000,+07680.000000,-01408.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -374,7 +374,7 @@ Begin Map
 					Vertex   -01024.000000,+00000.000000,+00000.000000
 					Vertex   -01024.000000,+00000.000000,-01024.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat.Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Midday_Top_Mat.GEO_Midday_Top_Mat LightMapScale=128.0 Link=4
 					Origin   +18944.000000,+07680.000000,-01408.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -384,7 +384,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+01024.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat.Exteriors_Textures_SkyDome_GEO_Midday_Top_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Midday_Top_Mat.GEO_Midday_Top_Mat LightMapScale=128.0 Link=5
 					Origin   +18944.000000,+07680.000000,-01408.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -920,7 +920,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00000.997937,+00000.064195,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -930,7 +930,7 @@ Begin Map
 					Vertex   -01800.000000,+01368.000000,+00000.000000
 					Vertex   -01800.000000,+01368.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -940,7 +940,7 @@ Begin Map
 					Vertex   +00048.000000,+01368.000000,+00000.000000
 					Vertex   +00048.000000,+01368.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.999385,-00000.035066,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -950,7 +950,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -960,7 +960,7 @@ Begin Map
 					Vertex   -01888.000000,+00000.000000,+00000.000000
 					Vertex   -01888.000000,+00000.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_sandstonish_Mat.Exteriors_Textures_General_sandstonish_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_sandstonish_Mat.sandstonish_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -970,7 +970,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00048.000000,+01368.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -994,7 +994,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00000.986950,+00000.161026,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1004,7 +1004,7 @@ Begin Map
 					Vertex   -01856.001484,+00000.000109,+00000.000000
 					Vertex   -01856.001484,+00000.000109,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1014,7 +1014,7 @@ Begin Map
 					Vertex   +00031.998516,+00000.000109,+00000.000000
 					Vertex   +00031.998516,+00000.000109,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.999870,+00000.016132,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1024,7 +1024,7 @@ Begin Map
 					Vertex   +00064.020000,-01984.662000,-00008.000000
 					Vertex   +00064.020000,-01984.662000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   -00000.357319,-00000.933982,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1034,7 +1034,7 @@ Begin Map
 					Vertex   -02047.980000,-01176.662000,-00008.000000
 					Vertex   -02047.980000,-01176.662000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_sandstonish_Mat.Exteriors_Textures_General_sandstonish_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_sandstonish_Mat.sandstonish_Mat LightMapScale=128.0 Link=4
 					Origin   +12707.152344,+02027.085938,+00096.497070
 					Normal   -00000.001012,-00000.005010,+00000.999987
 					TextureU +00000.199975,+00000.979786,-00000.005369
@@ -1044,7 +1044,7 @@ Begin Map
 					Vertex   +00064.020000,-01984.662000,-00008.000000
 					Vertex   +00031.998516,+00000.000109,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1068,7 +1068,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=0
 					Origin   +00323.972107,+00272.217163,-00128.000000
 					Normal   -00000.087118,+00000.996198,+00000.000000
 					TextureU +00000.382683,+00000.923880,+00000.000000
@@ -1078,7 +1078,7 @@ Begin Map
 					Vertex   +00320.000395,+02928.001758,+00248.000000
 					Vertex   +00320.000395,+02928.001758,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=1
 					Origin   +00421.939026,+00508.730469,-00128.000000
 					Normal   +00000.357193,+00000.934031,+00000.000000
 					TextureU +00000.923880,-00000.382683,+00000.000000
@@ -1088,7 +1088,7 @@ Begin Map
 					Vertex   +02429.802152,+02121.169727,+00248.000000
 					Vertex   +02429.802152,+02121.169727,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=2
 					Origin   +00658.452148,+00410.763306,-00128.000000
 					Normal   +00000.657503,-00000.753449,+00000.002380
 					TextureU -00000.382683,-00000.923880,+00000.000000
@@ -1098,7 +1098,7 @@ Begin Map
 					Vertex   -00001.308199,+00000.426562,+00248.000000
 					Vertex   +00000.000395,+00000.001758,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=3
 					Origin   +00560.485291,+00174.250122,-00128.000000
 					Normal   -00000.986935,-00000.161103,-00000.002466
 					TextureU -00000.923880,+00000.382683,+00000.000000
@@ -1108,7 +1108,7 @@ Begin Map
 					Vertex   -00467.333590,+02859.149219,+00248.000000
 					Vertex   -00467.333590,+02859.149219,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_sandstonish_Mat.Exteriors_Textures_General_sandstonish_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_sandstonish_Mat.sandstonish_Mat LightMapScale=128.0 Link=4
 					Origin   -01767.689941,+06398.367188,+00129.880127
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.919999,-00000.391895,-00000.004372
@@ -1118,7 +1118,7 @@ Begin Map
 					Vertex   -00001.308199,+00000.426562,+00248.000000
 					Vertex   +02429.802152,+02121.169727,+00248.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=5
 					Origin   +00323.972107,+00272.217163,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.923880,-00000.382683,+00000.000000
@@ -1142,7 +1142,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1152,7 +1152,7 @@ Begin Map
 					Vertex   +02304.000000,+05184.000000,+00256.000000
 					Vertex   +02304.000000,+05184.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.117818,+00000.993035,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1162,7 +1162,7 @@ Begin Map
 					Vertex   +04192.000000,+04960.000000,+00256.000000
 					Vertex   +04192.000000,+04960.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1172,7 +1172,7 @@ Begin Map
 					Vertex   +04192.000000,+00000.000000,+00256.000000
 					Vertex   +04192.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   -00000.117818,-00000.993035,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1182,7 +1182,7 @@ Begin Map
 					Vertex   +02304.000000,+00224.000000,+00256.000000
 					Vertex   +02304.000000,+00224.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_sandstonish_Mat.Exteriors_Textures_General_sandstonish_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_sandstonish_Mat.sandstonish_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1192,7 +1192,7 @@ Begin Map
 					Vertex   +04192.000000,+00000.000000,+00256.000000
 					Vertex   +04192.000000,+04960.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1216,7 +1216,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00000.999983,+00000.005780,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1226,7 +1226,7 @@ Begin Map
 					Vertex   +00032.000000,+05536.000000,+00256.000000
 					Vertex   +00032.000000,+05536.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.287348,+00000.957826,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1236,7 +1236,7 @@ Begin Map
 					Vertex   +02272.000000,+04864.000000,+00256.000000
 					Vertex   +02272.000000,+04864.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1246,7 +1246,7 @@ Begin Map
 					Vertex   +02272.000000,-00096.000000,+00256.000000
 					Vertex   +02272.000000,-00096.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   -00000.042216,-00000.999108,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1256,7 +1256,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00256.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_sandstonish_Mat.Exteriors_Textures_General_sandstonish_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_sandstonish_Mat.sandstonish_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1266,7 +1266,7 @@ Begin Map
 					Vertex   +02272.000000,-00096.000000,+00256.000000
 					Vertex   +02272.000000,+04864.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_blendboulder_Mat.Exteriors_Textures_General_blendboulder_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_blendboulder_Mat.blendboulder_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1404,7 +1404,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +03775.999512,+05503.999023,-01280.000000
 					Normal   -00000.707113,-00000.707101,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1414,7 +1414,7 @@ Begin Map
 					Vertex   -02048.000610,+00383.995568,+00512.000000
 					Vertex   -02048.000610,+00383.995568,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   -182099.765625,-184659.781250,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.707107,+00000.707107,+00000.000000
@@ -1424,7 +1424,7 @@ Begin Map
 					Vertex   -00384.000488,+00000.001488,+00512.000000
 					Vertex   -00384.000488,+00000.001488,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   +03775.999512,+05503.999023,-01280.000000
 					Normal   -00000.707106,+00000.707108,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1434,7 +1434,7 @@ Begin Map
 					Vertex   -01663.999756,+02303.999779,+00512.000000
 					Vertex   -01663.999756,+02303.999779,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +188627.781250,-183251.750000,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.707107,+00000.707107,+00000.000000
@@ -1444,7 +1444,7 @@ Begin Map
 					Vertex   -00000.000488,+02304.000756,+00512.000000
 					Vertex   -00000.000488,+02304.000756,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   +03071.999268,+01919.999512,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1454,7 +1454,7 @@ Begin Map
 					Vertex   -00000.000488,+02304.000756,+00512.000000
 					Vertex   -00000.000488,+00000.001000,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   +09233.896484,+04739.681641,-00320.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1464,7 +1464,7 @@ Begin Map
 					Vertex   -00384.000488,+00000.001488,+00512.000000
 					Vertex   -01664.012817,+00000.000390,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=6
 					Origin   +03775.999512,+05503.999023,-01280.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1474,7 +1474,7 @@ Begin Map
 					Vertex   -02048.000244,+00384.007104,+00512.000000
 					Vertex   -02048.000366,+01920.000023,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=7
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=7
 					Origin   -01169.603027,+06270.311523,-00320.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1484,7 +1484,7 @@ Begin Map
 					Vertex   -01663.999756,+02303.999779,+00512.000000
 					Vertex   -00384.000488,+02304.001244,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=8
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=8
 					Origin   +04032.000000,+05503.999023,-01248.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1498,7 +1498,7 @@ Begin Map
 					Vertex   -02048.000366,+01920.000023,+00512.000000
 					Vertex   -02048.000366,+00384.000023,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=9
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=9
 					Origin   +03071.999268,+01919.999512,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1526,7 +1526,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +02176.000244,+02304.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1536,7 +1536,7 @@ Begin Map
 					Vertex   -00000.000977,-01536.000977,+00320.000000
 					Vertex   -00000.000977,-01536.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   +02175.999512,+01535.999756,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1546,7 +1546,7 @@ Begin Map
 					Vertex   -01280.000488,-01536.000977,+00320.000000
 					Vertex   -01280.000488,-01536.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   +01407.999756,+01536.000244,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1556,7 +1556,7 @@ Begin Map
 					Vertex   -01279.999878,-00000.000244,+00320.000000
 					Vertex   -01279.999878,-00000.000244,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +01408.000000,+02303.999756,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1566,7 +1566,7 @@ Begin Map
 					Vertex   -00000.000244,-00000.000244,+00320.000000
 					Vertex   -00000.000244,-00000.000244,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   +02175.999512,+01535.999756,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1576,7 +1576,7 @@ Begin Map
 					Vertex   -01279.999878,-00000.000244,+00320.000000
 					Vertex   -01280.000488,-01536.000977,+00320.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   +02176.000244,+02304.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1600,7 +1600,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +00063.999878,-01984.000122,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1610,7 +1610,7 @@ Begin Map
 					Vertex   +00000.000878,-00128.000244,+00000.000000
 					Vertex   +00000.000878,-00128.000244,-00320.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   -00703.999390,-01983.999634,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1620,7 +1620,7 @@ Begin Map
 					Vertex   +00000.001000,-00064.000000,+00000.000000
 					Vertex   +00000.001000,-00064.000000,-00320.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   -00703.999756,-01216.000488,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1630,7 +1630,7 @@ Begin Map
 					Vertex   +00640.001000,-00064.000122,+00000.000000
 					Vertex   +00640.001000,-00064.000122,-00320.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +00064.000061,-01216.000122,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1640,7 +1640,7 @@ Begin Map
 					Vertex   +00640.000756,-00127.999878,+00000.000000
 					Vertex   +00640.000756,-00127.999878,-00320.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=4
 					Origin   -00703.999390,-01983.999634,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1650,7 +1650,7 @@ Begin Map
 					Vertex   +00640.001000,-00064.000122,+00000.000000
 					Vertex   +00000.001000,-00064.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=5
 					Origin   +00063.999878,-01984.000122,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1674,7 +1674,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat.Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_WallTrimArches_Mat.MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=0
 					Origin   +02377.040039,+03648.000000,-01187.500977
 					Normal   -00000.707107,+00000.707107,+00000.000000
 					TextureU -00002.702703,+00000.000000,+00000.000000
@@ -1684,7 +1684,7 @@ Begin Map
 					Vertex   +00128.000000,+00000.000000,+00320.001000
 					Vertex   +00128.000000,+00000.000000,+00192.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat.Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_WallTrimArches_Mat.MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=1
 					Origin   +02441.545898,+03638.454102,-01187.500977
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00002.020305,+00002.020305,+00000.000000
@@ -1694,7 +1694,7 @@ Begin Map
 					Vertex   +00384.000000,+00000.000000,+00320.001000
 					Vertex   +00384.000000,+00000.000000,+00192.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat.Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_WallTrimArches_Mat.MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=2
 					Origin   +02432.000000,+03564.329834,-01187.500977
 					Normal   +00000.707107,+00000.707107,+00000.000000
 					TextureU +00000.000000,+00002.702703,+00000.000000
@@ -1704,7 +1704,7 @@ Begin Map
 					Vertex   +00576.000000,-00191.999878,+00320.001000
 					Vertex   +00576.000000,-00191.999878,+00192.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=3
 					Origin   +01023.999878,+00000.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1714,7 +1714,7 @@ Begin Map
 					Vertex   -00064.000000,-00192.000000,+00320.001000
 					Vertex   -00064.000000,-00192.000000,+00192.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=4
 					Origin   +00256.000092,+00767.999329,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1724,7 +1724,7 @@ Begin Map
 					Vertex   +00576.000000,-00191.999878,+00320.001000
 					Vertex   +00384.000000,+00000.000000,+00320.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=5
 					Origin   +00256.000214,+00000.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1748,7 +1748,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat.Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_WallTrimArches_Mat.MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=0
 					Origin   +01932.780029,+04287.999023,-01184.000977
 					Normal   +00000.707107,-00000.707107,+00000.000000
 					TextureU +00002.702703,+00000.000000,+00000.000000
@@ -1758,7 +1758,7 @@ Begin Map
 					Vertex   -00128.000000,-00000.000122,+00320.001000
 					Vertex   -00128.000000,-00000.000122,+00192.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat.Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_WallTrimArches_Mat.MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=1
 					Origin   +01933.222900,+04274.776367,-01184.000977
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00002.020305,-00002.020305,+00000.000000
@@ -1768,7 +1768,7 @@ Begin Map
 					Vertex   -00384.000000,+00000.000061,+00320.001000
 					Vertex   -00384.000000,+00000.000061,+00192.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat.Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_WallTrimArches_Mat.MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=2
 					Origin   +01920.000000,+04232.108887,-01184.000977
 					Normal   -00000.707106,-00000.707107,+00000.000000
 					TextureU +00000.000000,-00002.702703,+00000.000000
@@ -1778,7 +1778,7 @@ Begin Map
 					Vertex   -00576.000000,+00191.999756,+00320.001000
 					Vertex   -00576.000000,+00191.999756,+00192.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=3
 					Origin   -00127.999695,-00256.000092,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1788,7 +1788,7 @@ Begin Map
 					Vertex   +00064.000000,+00191.999695,+00320.001000
 					Vertex   +00064.000000,+00191.999939,+00192.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=4
 					Origin   +00639.999634,-01023.999146,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1798,7 +1798,7 @@ Begin Map
 					Vertex   -00576.000000,+00191.999756,+00320.001000
 					Vertex   -00384.000000,+00000.000061,+00320.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=5
 					Origin   +00639.999512,-00256.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1822,7 +1822,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=0
 					Origin   -32458.732422,+336387.062500,+150205.156250
 					Normal   +00000.405495,+00000.405496,-00000.819235
 					TextureU -00000.579284,-00000.579284,-00000.573462
@@ -1832,7 +1832,7 @@ Begin Map
 					Vertex   +00836.596441,+00068.512728,+00448.000000
 					Vertex   +00383.999762,-00383.999876,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=1
 					Origin   +00806.434143,-00713.089600,-00128.000000
 					Normal   +00000.707040,-00000.707173,+00000.000000
 					TextureU -00000.707106,-00000.707106,+00000.000000
@@ -1841,7 +1841,7 @@ Begin Map
 					Vertex   +00383.999762,-00383.999876,+00448.000000
 					Vertex   +00383.999762,-00383.999876,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=2
 					Origin   +00263.377930,-01256.144775,-00128.000000
 					Normal   -00000.707107,-00000.707107,+00000.000000
 					TextureU -00000.707106,+00000.707106,+00000.000000
@@ -1851,7 +1851,7 @@ Begin Map
 					Vertex   -00000.000238,+00000.000124,+00448.000000
 					Vertex   -00000.000238,+00000.000124,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=3
 					Origin   -11321.839844,+05441.549316,-00128.000000
 					Normal   -00000.707101,+00000.707112,+00000.000000
 					TextureU -00000.707106,-00000.707106,+00000.000000
@@ -1860,7 +1860,7 @@ Begin Map
 					Vertex   -00000.000238,+00000.000124,+00448.000000
 					Vertex   +00452.557135,+00452.550265,+00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=4
 					Origin   +00263.377930,-01256.144775,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.707106,+00000.707106,+00000.000000
@@ -1884,7 +1884,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   -32916.234375,+336165.687500,+150205.156250
 					Normal   +00000.405513,+00000.405483,-00000.819233
 					TextureU -00000.579284,-00000.579284,-00000.573462
@@ -1894,7 +1894,7 @@ Begin Map
 					Vertex   +00516.591293,+00388.510471,+00448.000000
 					Vertex   +00063.999740,-00063.999630,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=1
 					Origin   +00348.921875,-00934.489258,-00128.000000
 					Normal   +00000.707043,-00000.707171,+00000.000000
 					TextureU -00000.707107,-00000.707107,+00000.000000
@@ -1903,7 +1903,7 @@ Begin Map
 					Vertex   +00063.999740,-00063.999630,+00448.000000
 					Vertex   +00063.999740,-00063.999630,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   +06035.425781,+00547.659546,+00128.000000
 					Normal   -00000.707161,-00000.707053,+00000.000000
 					TextureU +00000.707106,-00000.707107,+00000.000000
@@ -1913,7 +1913,7 @@ Begin Map
 					Vertex   +00041.416000,-00041.410000,+00448.000000
 					Vertex   +00009.416000,-00009.410000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   -00737.192993,-00934.489014,-00128.000000
 					Normal   -00000.703526,+00000.703526,+00000.100504
 					TextureU +00000.707107,+00000.707107,+00000.000000
@@ -1922,7 +1922,7 @@ Begin Map
 					Vertex   +00041.416000,-00041.410000,+00448.000000
 					Vertex   +00493.963607,+00411.137577,+00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   +02897.583984,+04766.410156,-00800.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1946,7 +1946,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   -32916.234375,+336165.687500,+150205.156250
 					Normal   +00000.405481,+00000.405515,-00000.819233
 					TextureU -00000.579284,-00000.579284,-00000.573462
@@ -1956,7 +1956,7 @@ Begin Map
 					Vertex   +00411.180293,+00493.921471,+00448.000000
 					Vertex   -00009.367314,+00009.373742,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   +07387.198730,+07633.387695,+00199.985901
 					Normal   +00000.703526,-00000.703527,+00000.100504
 					TextureU +00000.707107,+00000.707107,+00000.000000
@@ -1965,7 +1965,7 @@ Begin Map
 					Vertex   -00041.367314,+00041.373742,+00448.000000
 					Vertex   -00009.367314,+00009.373742,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   +06374.836914,+00208.248505,+00128.000000
 					Normal   -00000.707049,-00000.707165,+00000.000000
 					TextureU +00000.707106,-00000.707107,+00000.000000
@@ -1975,7 +1975,7 @@ Begin Map
 					Vertex   -00063.999883,+00063.999962,+00448.000000
 					Vertex   -00063.999883,+00063.999962,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   -00737.192993,-00934.489014,-00128.000000
 					Normal   -00000.707104,+00000.707110,+00000.000000
 					TextureU +00000.707107,+00000.707107,+00000.000000
@@ -1984,7 +1984,7 @@ Begin Map
 					Vertex   -00063.999883,+00063.999962,+00448.000000
 					Vertex   +00388.552607,+00516.548546,+00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   +03236.995117,+04426.999023,-00800.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2008,7 +2008,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +07540.244141,+01002.907471,+00356.766602
 					Normal   -00000.402491,-00000.402491,+00000.822193
 					TextureU +00000.707106,-00000.707107,+00000.000000
@@ -2018,7 +2018,7 @@ Begin Map
 					Vertex   +00009.413691,-00009.409752,-00015.984375
 					Vertex   +00482.634639,+00399.810676,+00416.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   -32206.132813,+335871.656250,+150205.156250
 					Normal   +00000.405499,+00000.405499,-00000.819232
 					TextureU -00000.579284,-00000.579284,-00000.573462
@@ -2028,7 +2028,7 @@ Begin Map
 					Vertex   +00493.961055,+00411.138648,+00416.000000
 					Vertex   +00009.413691,-00009.409752,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=2
 					Origin   +01059.078003,-01228.645752,-00128.000000
 					Normal   +00000.676068,-00000.735632,-00000.042170
 					TextureU -00000.707107,-00000.707107,+00000.000000
@@ -2038,7 +2038,7 @@ Begin Map
 					Vertex   +00009.413691,-00009.409752,-00016.000549
 					Vertex   +00009.413691,-00009.409752,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +00516.020508,-01771.703125,-00128.000000
 					Normal   -00000.707107,-00000.707107,+00000.000000
 					TextureU -00000.707107,+00000.707107,+00000.000000
@@ -2048,7 +2048,7 @@ Begin Map
 					Vertex   -00265.370000,+00265.374000,-00016.000549
 					Vertex   -00265.370000,+00265.374000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=4
 					Origin   -00027.036743,-01228.645508,-00128.000000
 					Normal   -00000.735635,+00000.676064,-00000.042166
 					TextureU +00000.707107,+00000.707107,+00000.000000
@@ -2058,7 +2058,7 @@ Begin Map
 					Vertex   +00143.864619,+00738.608863,+00415.999756
 					Vertex   +00155.177852,+00749.921546,+00415.999756
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   +03630.370117,+04449.625977,-00800.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2082,7 +2082,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat.Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_WallTrimArches_Mat.MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=0
 					Origin   +02079.430908,+03935.430908,-01184.000977
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU -00002.020305,-00002.020305,+00000.000000
@@ -2092,7 +2092,7 @@ Begin Map
 					Vertex   -00256.000000,+00064.000000,+00000.001000
 					Vertex   -00256.000000,+00064.000000,-00127.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=1
 					Origin   -00127.999664,+00767.999512,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2102,7 +2102,7 @@ Begin Map
 					Vertex   +00384.000000,+00064.000000,+00000.001000
 					Vertex   +00384.000000,+00064.000000,-00127.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat.Multiplayer_Textures_CAN_MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_WallTrimArches_Mat.MP_CAN_WallTrimArches_Mat LightMapScale=128.0 Link=2
 					Origin   +02021.589478,+03877.589600,-01184.000977
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00002.020305,+00002.020305,+00000.000000
@@ -2112,7 +2112,7 @@ Begin Map
 					Vertex   +00384.000000,-00192.000000,+00000.001000
 					Vertex   +00384.000000,-00192.000000,-00127.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=3
 					Origin   +00639.999695,+00000.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2122,7 +2122,7 @@ Begin Map
 					Vertex   -00256.000000,-00191.999939,+00000.001000
 					Vertex   -00256.000000,-00191.999939,-00127.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=4
 					Origin   -00127.999664,+00767.999512,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2132,7 +2132,7 @@ Begin Map
 					Vertex   +00384.000000,-00192.000000,+00000.001000
 					Vertex   +00384.000000,+00064.000000,+00000.001000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=5
 					Origin   -00127.999756,+00000.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2262,7 +2262,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +00127.997986,+00128.001999,-00127.999992
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2272,7 +2272,7 @@ Begin Map
 					Vertex   +00000.000001,+00000.001968,+00000.001000
 					Vertex   -00063.999953,+00000.001984,-00255.998992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.001999,+00128.001968,-00127.999992
 					Normal   -00000.969351,+00000.040390,+00000.242338
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2282,7 +2282,7 @@ Begin Map
 					Vertex   +00000.000016,+00384.001953,-00063.999000
 					Vertex   -00064.000014,+00384.002014,-00319.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   -00128.002029,+00384.002014,-00127.999992
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2292,7 +2292,7 @@ Begin Map
 					Vertex   +00256.000001,+00384.002075,-00063.999000
 					Vertex   +00320.000093,+00384.002075,-00319.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +00127.997955,+00384.002014,-00127.999992
 					Normal   +00000.969351,+00000.040389,+00000.242338
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2302,7 +2302,7 @@ Begin Map
 					Vertex   +00255.999986,+00000.001999,+00000.001000
 					Vertex   +00319.999910,+00000.001999,-00255.998992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.001999,+00128.001968,+00128.000000
 					Normal   +00000.000000,+00000.164399,+00000.986394
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2312,7 +2312,7 @@ Begin Map
 					Vertex   +00256.000001,+00384.002075,-00063.999000
 					Vertex   +00000.000016,+00384.001953,-00063.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   +00127.997986,+00128.001999,-00127.999992
 					Normal   +00000.000000,-00000.164399,-00000.986394
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2336,7 +2336,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=0
 					Origin   +337635.000000,+34090.695313,+150205.156250
 					Normal   +00000.405494,-00000.405494,-00000.819237
 					TextureU -00000.579284,+00000.579284,-00000.573462
@@ -2346,7 +2346,7 @@ Begin Map
 					Vertex   +00068.510732,-00836.604263,+00448.000000
 					Vertex   -00384.001353,-00384.002090,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=1
 					Origin   +00534.902344,+00825.573914,-00128.000000
 					Normal   -00000.707178,-00000.707035,+00000.000000
 					TextureU -00000.707106,+00000.707106,+00000.000000
@@ -2355,7 +2355,7 @@ Begin Map
 					Vertex   -00384.001353,-00384.002090,+00448.000000
 					Vertex   -00384.001353,-00384.002090,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=2
 					Origin   -00008.152954,+01368.630127,-00128.000000
 					Normal   -00000.707107,+00000.707107,+00000.000000
 					TextureU +00000.707106,+00000.707106,+00000.000000
@@ -2365,7 +2365,7 @@ Begin Map
 					Vertex   -00000.001353,-00000.002090,+00448.000000
 					Vertex   -00000.001353,-00000.002090,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=3
 					Origin   +06689.541504,+12953.845703,-00128.000000
 					Normal   +00000.707117,+00000.707096,+00000.000000
 					TextureU -00000.707106,+00000.707106,+00000.000000
@@ -2374,7 +2374,7 @@ Begin Map
 					Vertex   -00000.001353,-00000.002090,+00448.000000
 					Vertex   +00452.548452,-00452.565322,+00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=4
 					Origin   -00008.152954,+01368.630127,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.707106,+00000.707106,+00000.000000
@@ -2398,7 +2398,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +337109.656250,+32964.230469,+150205.156250
 					Normal   +00000.405474,-00000.405521,-00000.819233
 					TextureU -00000.579284,+00000.579284,-00000.573462
@@ -2408,7 +2408,7 @@ Begin Map
 					Vertex   +00388.509410,-00516.595171,+00448.000000
 					Vertex   -00063.999867,-00064.000078,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=1
 					Origin   +00009.510742,-00300.921875,-00128.000000
 					Normal   -00000.707174,-00000.707039,+00000.000000
 					TextureU -00000.707107,+00000.707107,+00000.000000
@@ -2417,7 +2417,7 @@ Begin Map
 					Vertex   -00063.999867,-00064.000078,+00448.000000
 					Vertex   -00063.999867,-00064.000078,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   -01005.542603,-00289.804108,+00128.000000
 					Normal   -00000.707026,+00000.707187,+00000.000000
 					TextureU -00000.707113,-00000.707101,+00000.000000
@@ -2427,7 +2427,7 @@ Begin Map
 					Vertex   -00041.411000,-00041.420000,+00448.000000
 					Vertex   -00009.411000,-00009.420000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +00009.614136,+06997.853027,+00199.985901
 					Normal   +00000.703526,+00000.703526,+00000.100504
 					TextureU -00000.707106,+00000.707108,+00000.000000
@@ -2436,7 +2436,7 @@ Begin Map
 					Vertex   -00041.411000,-00041.420000,+00448.000000
 					Vertex   +00411.136607,-00493.967607,+00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   +03214.411133,+02846.419922,-00800.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2460,7 +2460,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +337109.656250,+32964.230469,+150205.156250
 					Normal   +00000.405500,-00000.405499,-00000.819232
 					TextureU -00000.579284,+00000.579284,-00000.573462
@@ -2470,7 +2470,7 @@ Begin Map
 					Vertex   +00493.920410,-00411.175171,+00448.000000
 					Vertex   +00009.372681,+00009.372314,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   +06081.388672,-01643.203613,+00199.985901
 					Normal   -00000.703527,-00000.703526,+00000.100504
 					TextureU +00000.707106,-00000.707107,+00000.000000
@@ -2479,7 +2479,7 @@ Begin Map
 					Vertex   +00041.372681,+00041.372314,+00448.000000
 					Vertex   +00009.372681,+00009.372314,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   -01344.953613,-00629.224121,+00128.000000
 					Normal   -00000.707110,+00000.707103,+00000.000000
 					TextureU -00000.707113,-00000.707101,+00000.000000
@@ -2489,7 +2489,7 @@ Begin Map
 					Vertex   +00063.999756,+00063.999756,+00448.000000
 					Vertex   +00063.999756,+00063.999756,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +00009.511139,+00785.192871,-00128.000000
 					Normal   +00000.707106,+00000.707107,+00000.000000
 					TextureU +00000.707107,-00000.707107,+00000.000000
@@ -2498,7 +2498,7 @@ Begin Map
 					Vertex   +00063.999756,+00063.999756,+00448.000000
 					Vertex   +00516.547607,-00388.547607,+00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   +02875.000000,+02507.000000,-00800.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2522,7 +2522,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   -00134.591797,-01378.922974,+00356.766602
 					Normal   -00000.402491,+00000.402491,+00000.822193
 					TextureU -00000.707113,-00000.707101,+00000.000000
@@ -2532,7 +2532,7 @@ Begin Map
 					Vertex   -00265.409936,-00265.412691,-00015.984375
 					Vertex   +00143.810523,-00738.633639,+00416.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   +337231.531250,+32670.117188,+150205.156250
 					Normal   +00000.405499,-00000.405500,-00000.819232
 					TextureU -00000.579284,+00000.579284,-00000.573462
@@ -2542,7 +2542,7 @@ Begin Map
 					Vertex   +00155.138648,-00749.960055,+00416.000000
 					Vertex   -00265.409936,-00265.412691,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=2
 					Origin   +00131.354492,-00595.077759,-00128.000000
 					Normal   -00000.735632,-00000.676068,-00000.042171
 					TextureU -00000.707107,+00000.707107,+00000.000000
@@ -2552,7 +2552,7 @@ Begin Map
 					Vertex   -00265.409936,-00265.412691,-00016.000549
 					Vertex   -00265.409936,-00265.412691,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   -00411.703003,-00052.020416,-00128.000000
 					Normal   -00000.707106,+00000.707107,+00000.000000
 					TextureU +00000.707107,+00000.707107,+00000.000000
@@ -2562,7 +2562,7 @@ Begin Map
 					Vertex   +00009.374000,+00009.371000,-00016.000549
 					Vertex   +00009.374000,+00009.371000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=4
 					Origin   +00131.354736,+00491.036743,-00128.000000
 					Normal   +00000.676070,+00000.735629,-00000.042176
 					TextureU +00000.707107,-00000.707107,+00000.000000
@@ -2572,7 +2572,7 @@ Begin Map
 					Vertex   +00482.608863,-00399.863619,+00415.999756
 					Vertex   +00493.921363,-00411.177096,+00415.999756
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   +03313.625977,+02529.628906,-00800.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2596,7 +2596,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   -00384.002014,+00127.997963,-00127.999992
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2606,7 +2606,7 @@ Begin Map
 					Vertex   -00000.000029,-00000.001984,+00000.001000
 					Vertex   +00063.999917,-00000.001999,-00255.998992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.002029,+00127.998016,-00127.999992
 					Normal   +00000.969351,-00000.040390,+00000.242338
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2616,7 +2616,7 @@ Begin Map
 					Vertex   +00000.000016,-00384.001831,-00063.999000
 					Vertex   +00063.999955,-00384.001770,-00319.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   -00128.001984,-00128.002014,-00127.999992
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2626,7 +2626,7 @@ Begin Map
 					Vertex   -00255.999770,-00384.001678,-00063.999000
 					Vertex   -00319.999892,-00384.001862,-00319.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   -00384.001709,-00128.001770,-00127.999992
 					Normal   -00000.969351,-00000.040390,+00000.242338
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2636,7 +2636,7 @@ Begin Map
 					Vertex   -00256.000014,-00000.002037,+00000.001000
 					Vertex   -00319.999770,-00000.002060,-00255.998992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.002029,+00127.998016,+00128.000000
 					Normal   +00000.000000,-00000.164399,+00000.986394
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2646,7 +2646,7 @@ Begin Map
 					Vertex   -00255.999770,-00384.001678,-00063.999000
 					Vertex   +00000.000016,-00384.001831,-00063.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   -00384.002014,+00127.997963,-00127.999992
 					Normal   +00000.000000,+00000.164399,-00000.986394
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2670,7 +2670,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +00063.999878,-01984.000122,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2680,7 +2680,7 @@ Begin Map
 					Vertex   -00639.999000,-00000.000244,+00320.000000
 					Vertex   -00639.999000,-00000.000244,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   -00703.999390,-01983.999634,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2690,7 +2690,7 @@ Begin Map
 					Vertex   -00639.999000,+00064.000000,+00320.000000
 					Vertex   -00639.999000,+00064.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   -00703.999756,-01216.000488,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2700,7 +2700,7 @@ Begin Map
 					Vertex   +00000.001000,+00063.999878,+00320.000000
 					Vertex   +00000.001000,+00063.999878,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +00064.000061,-01216.000122,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2710,7 +2710,7 @@ Begin Map
 					Vertex   +00000.000756,+00000.000122,+00320.000000
 					Vertex   +00000.000756,+00000.000122,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=4
 					Origin   -00703.999390,-01983.999634,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2720,7 +2720,7 @@ Begin Map
 					Vertex   +00000.001000,+00063.999878,+00320.000000
 					Vertex   -00639.999000,+00064.000000,+00320.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_ShadowColor_Mat.Exteriors_Textures_General_ShadowColor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_ShadowColor_Mat.ShadowColor_Mat LightMapScale=128.0 Link=5
 					Origin   +00063.999878,-01984.000122,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2744,7 +2744,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +02176.000244,+02304.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2754,7 +2754,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   +06275.010742,+00933.729980,-00128.000000
 					Normal   -00000.919144,-00000.393921,+00000.000000
 					TextureU +00000.393992,-00000.919114,+00000.000000
@@ -2764,7 +2764,7 @@ Begin Map
 					Vertex   -00192.000488,+00447.999023,+00000.000000
 					Vertex   -00192.000488,+00447.999023,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   +04163.682617,+00814.103516,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2774,7 +2774,7 @@ Begin Map
 					Vertex   -00191.999878,+01087.999756,+00000.000000
 					Vertex   -00191.999878,+01087.999756,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +02175.999512,+01536.000000,-00128.000000
 					Normal   -00000.919145,+00000.393919,+00000.000000
 					TextureU -00000.393992,-00000.919114,+00000.000000
@@ -2784,7 +2784,7 @@ Begin Map
 					Vertex   -00000.000244,+01535.999756,+00000.000000
 					Vertex   -00000.000244,+01535.999756,-00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   +04928.000000,+06016.000000,-01056.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2794,7 +2794,7 @@ Begin Map
 					Vertex   -00191.999878,+01087.999756,+00000.000000
 					Vertex   -00192.000488,+00447.999023,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   +02176.000244,+02304.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3164,7 +3164,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +03008.000244,+04080.000000,-00943.999451
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3174,7 +3174,7 @@ Begin Map
 					Vertex   +00000.000244,-00256.000000,+00031.999549
 					Vertex   +00320.000244,-00320.000000,+00031.999793
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   +00127.999931,+00000.000000,+00591.206543
 					Normal   -00000.140029,-00000.700141,+00000.700139
 					TextureU +00000.000000,-00000.866025,-00000.500000
@@ -3184,7 +3184,7 @@ Begin Map
 					Vertex   +00000.000244,-00288.000000,-00000.000451
 					Vertex   +00320.000244,-00384.000000,-00032.000451
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   +00127.999931,-00512.000061,+00295.603180
 					Normal   -00000.272166,-00000.680414,-00000.680414
 					TextureU +00000.000000,+00000.000000,-00001.000000
@@ -3194,7 +3194,7 @@ Begin Map
 					Vertex   +00000.000244,-00256.000000,-00032.000451
 					Vertex   +00320.000244,-00320.000000,-00096.000451
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00511.999908,-00295.603394
 					Normal   -00000.196116,+00000.000000,-00000.980581
 					TextureU +00000.000000,+00000.866025,-00000.500000
@@ -3204,7 +3204,7 @@ Begin Map
 					Vertex   +00000.000244,+00000.000000,-00032.000451
 					Vertex   +00320.000244,+00064.000000,-00096.000207
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   +00127.999985,+00000.000000,-00591.206360
 					Normal   -00000.272165,+00000.680413,-00000.680415
 					TextureU +00000.000000,+00000.866025,+00000.500000
@@ -3214,7 +3214,7 @@ Begin Map
 					Vertex   +00000.000244,+00032.000000,-00000.000451
 					Vertex   +00320.000244,+00128.000000,-00032.000451
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   +00128.000000,+00512.000061,-00295.603149
 					Normal   -00000.140028,+00000.700140,+00000.700140
 					TextureU +00000.000000,+00000.000000,+00001.000000
@@ -3224,7 +3224,7 @@ Begin Map
 					Vertex   +00000.000244,+00000.000000,+00031.999549
 					Vertex   +00320.000244,+00064.000000,+00031.999549
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=6
 					Origin   -00127.999969,+00512.000061,-00295.603149
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.866025
@@ -3236,7 +3236,7 @@ Begin Map
 					Vertex   +00000.000244,-00256.000000,+00031.999549
 					Vertex   +00000.000244,+00000.000000,+00031.999549
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=7
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=7
 					Origin   +00127.999985,+00511.999969,+00295.603302
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,-00000.866025
@@ -3262,7 +3262,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +01600.000244,+05679.999512,-00943.999634
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3272,7 +3272,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000267,+00031.999549
 					Vertex   +00319.999969,+00320.000214,+00031.999793
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   -00144.000000,+00495.999908,+00591.206543
 					Normal   +00000.700141,-00000.140029,+00000.700139
 					TextureU +00000.866025,+00000.000000,-00000.500000
@@ -3282,7 +3282,7 @@ Begin Map
 					Vertex   +00287.999969,+00000.000237,-00000.000451
 					Vertex   +00383.999939,+00320.000214,-00032.000451
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   +00368.000061,+00495.999969,+00295.603180
 					Normal   +00000.680414,-00000.272166,-00000.680414
 					TextureU +00000.000000,+00000.000000,-00001.000000
@@ -3292,7 +3292,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000267,-00032.000451
 					Vertex   +00319.999969,+00320.000214,-00096.000451
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   +00367.999817,+00495.999969,-00295.603363
 					Normal   +00000.000000,-00000.196116,-00000.980581
 					TextureU -00000.866025,+00000.000000,-00000.500000
@@ -3302,7 +3302,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000244,-00032.000451
 					Vertex   -00064.000061,+00320.000183,-00096.000207
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   -00144.000031,+00495.999908,-00591.206421
 					Normal   -00000.680413,-00000.272165,-00000.680415
 					TextureU -00000.866025,+00000.000000,+00000.500000
@@ -3312,7 +3312,7 @@ Begin Map
 					Vertex   -00032.000000,+00000.000252,-00000.000451
 					Vertex   -00127.999969,+00320.000092,-00032.000451
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   -00656.000061,+00495.999969,-00295.603119
 					Normal   -00000.700140,-00000.140028,+00000.700140
 					TextureU +00000.000000,+00000.000000,+00001.000000
@@ -3322,7 +3322,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000244,+00031.999549
 					Vertex   -00064.000061,+00320.000183,+00031.999549
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=6
 					Origin   -00656.000000,+00240.000000,-00295.603119
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.866025
@@ -3334,7 +3334,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000267,+00031.999549
 					Vertex   +00000.000000,+00000.000244,+00031.999549
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=7
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=7
 					Origin   -00655.999817,+00495.999878,+00295.603302
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,-00000.866025
@@ -3360,7 +3360,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=0
 					Origin   +01343.998413,+02736.000488,-00943.999756
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -3370,7 +3370,7 @@ Begin Map
 					Vertex   -00255.999878,-00000.000229,+00031.999549
 					Vertex   -00319.999878,-00320.000183,+00031.999793
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=1
 					Origin   -00368.000061,-00271.999847,+00591.206543
 					Normal   -00000.700141,+00000.140029,+00000.700138
 					TextureU -00000.866025,+00000.000000,-00000.500000
@@ -3380,7 +3380,7 @@ Begin Map
 					Vertex   -00287.999817,-00000.000206,-00000.000451
 					Vertex   -00383.999756,-00320.000153,-00032.000451
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=2
 					Origin   -00880.000122,-00271.999939,+00295.603180
 					Normal   -00000.680414,+00000.272166,-00000.680413
 					TextureU +00000.000000,+00000.000000,-00001.000000
@@ -3390,7 +3390,7 @@ Begin Map
 					Vertex   -00255.999878,-00000.000229,-00032.000451
 					Vertex   -00319.999878,-00320.000183,-00096.000451
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=3
 					Origin   -00879.999695,-00271.999817,-00295.603363
 					Normal   +00000.000000,+00000.196116,-00000.980581
 					TextureU +00000.866025,+00000.000000,-00000.500000
@@ -3400,7 +3400,7 @@ Begin Map
 					Vertex   +00000.000031,-00000.000244,-00032.000451
 					Vertex   +00064.000046,-00320.000275,-00096.000207
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=4
 					Origin   -00368.000061,-00271.999847,-00591.206421
 					Normal   +00000.680413,+00000.272165,-00000.680415
 					TextureU +00000.866025,+00000.000000,+00000.500000
@@ -3410,7 +3410,7 @@ Begin Map
 					Vertex   +00032.000015,-00000.000275,-00000.000451
 					Vertex   +00127.999908,-00319.999969,-00032.000451
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=5
 					Origin   +00143.999969,-00271.999939,-00295.603119
 					Normal   +00000.700140,+00000.140028,+00000.700140
 					TextureU +00000.000000,+00000.000000,+00001.000000
@@ -3420,7 +3420,7 @@ Begin Map
 					Vertex   +00000.000031,-00000.000244,+00031.999549
 					Vertex   +00064.000046,-00320.000275,+00031.999549
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=6
 					Origin   +00143.999908,-00015.999992,-00295.603119
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.866025
@@ -3432,7 +3432,7 @@ Begin Map
 					Vertex   -00255.999878,-00000.000229,+00031.999549
 					Vertex   +00000.000031,-00000.000244,+00031.999549
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat.Multiplayer_Textures_CAN_MP_CAN_Bunker_Mat LightMapScale=128.0 Link=7
+				Begin Polygon Item=Side Texture=/Game/Materials/Multiplayer_Textures/CAN_MP_CAN_Bunker_Mat.MP_CAN_Bunker_Mat LightMapScale=128.0 Link=7
 					Origin   +00143.999695,-00271.999756,+00295.603302
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,-00000.866025

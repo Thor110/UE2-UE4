@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -02048.000000,-02048.000000,-02048.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-44032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   -02048.000000,+02048.000000,-02048.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   +23040.000000,+00000.000000,+00000.000000
 					Vertex   +23040.000000,+00000.000000,-44032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +02048.000000,+02048.000000,-02048.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   +23040.000000,-38144.000000,+00000.000000
 					Vertex   +23040.000000,-38144.000000,-44032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +02048.000000,-02048.000000,-02048.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   +00000.000000,-38144.000000,+00000.000000
 					Vertex   +00000.000000,-38144.000000,-44032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -02048.000000,+02048.000000,+02048.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   +23040.000000,-38144.000000,+00000.000000
 					Vertex   +23040.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_BoulderBase_Mat.Exteriors_Textures_General_BoulderBase_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_BoulderBase_Mat.BoulderBase_Mat LightMapScale=128.0 Link=5
 					Origin   +00144.000000,-01568.000000,+00000.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.250000,+00000.000000,+00000.000000
@@ -2172,7 +2172,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2182,7 +2182,7 @@ Begin Map
 					Vertex   +00000.000000,+01183.997000,+00064.002400
 					Vertex   +00000.000000,+01183.997000,+00000.002400
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2192,7 +2192,7 @@ Begin Map
 					Vertex   +02592.000000,+01183.997000,+00064.002400
 					Vertex   +02592.000000,+01183.997000,+00000.002400
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2202,7 +2202,7 @@ Begin Map
 					Vertex   +02592.000000,-00000.003000,+00064.002400
 					Vertex   +02592.000000,-00000.003000,+00000.002400
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2212,7 +2212,7 @@ Begin Map
 					Vertex   +00000.000000,-00000.003000,+00064.002400
 					Vertex   +00000.000000,-00000.003000,+00000.002400
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2222,7 +2222,7 @@ Begin Map
 					Vertex   +02592.000000,-00000.003000,+00064.002400
 					Vertex   +02592.000000,+01183.997000,+00064.002400
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2246,7 +2246,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2256,7 +2256,7 @@ Begin Map
 					Vertex   -02464.000000,-00000.003000,+00000.002000
 					Vertex   -02464.000000,-00000.003000,-00063.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2266,7 +2266,7 @@ Begin Map
 					Vertex   +00000.000000,-00000.003000,+00000.002000
 					Vertex   +00000.000000,-00000.003000,-00063.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2276,7 +2276,7 @@ Begin Map
 					Vertex   +00000.000000,-01312.003000,+00000.002000
 					Vertex   +00000.000000,-01312.003000,-00063.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2286,7 +2286,7 @@ Begin Map
 					Vertex   -02464.000000,-01312.003000,+00000.002000
 					Vertex   -02464.000000,-01312.003000,-00063.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_MainTurretMetal_Mat.Exteriors_Textures_General_MainTurretMetal_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_MainTurretMetal_Mat.MainTurretMetal_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2296,7 +2296,7 @@ Begin Map
 					Vertex   +00000.000000,-01312.003000,+00000.002000
 					Vertex   +00000.000000,-00000.003000,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MainTurretMetalDetail_256_Mat.Exteriors_Textures_Unique_MainTurretMetalDetail_256_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MainTurretMetalDetail_256_Mat.MainTurretMetalDetail_256_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7238,7 +7238,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -01156.000000,+00899.999878,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -7248,7 +7248,7 @@ Begin Map
 					Vertex   -00000.001000,+00659.996000,+00544.002000
 					Vertex   -00000.001000,+00659.996000,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=1
 					Origin   -01156.000122,+01155.999878,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7258,7 +7258,7 @@ Begin Map
 					Vertex   +00075.999000,+00659.995878,+00544.002000
 					Vertex   +00075.999000,+00659.995878,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=2
 					Origin   -00900.000122,+01156.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7268,7 +7268,7 @@ Begin Map
 					Vertex   +00075.999000,-00000.003878,+00544.002000
 					Vertex   +00075.999000,-00000.003878,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   -00900.000183,+00900.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7278,7 +7278,7 @@ Begin Map
 					Vertex   -00000.001000,-00000.003939,+00544.002000
 					Vertex   -00000.001000,-00000.003939,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=4
 					Origin   -01156.000122,+01155.999878,+00128.000015
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7288,7 +7288,7 @@ Begin Map
 					Vertex   +00075.999000,-00000.003878,+00544.002000
 					Vertex   +00075.999000,+00659.995878,+00544.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=5
 					Origin   -01156.000000,+00899.999878,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7312,7 +7312,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -01156.000000,+00899.999878,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -7322,7 +7322,7 @@ Begin Map
 					Vertex   +00003.999000,-00000.003878,+00000.002000
 					Vertex   +00003.999000,-00000.003878,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=1
 					Origin   -01156.000122,+01155.999878,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7332,7 +7332,7 @@ Begin Map
 					Vertex   +00079.999000,-00000.004122,+00000.002000
 					Vertex   +00079.999000,-00000.004122,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=2
 					Origin   -00900.000122,+01156.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7342,7 +7342,7 @@ Begin Map
 					Vertex   +00079.999000,-00696.003878,+00000.002000
 					Vertex   +00079.999000,-00696.003878,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   -00900.000183,+00900.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7352,7 +7352,7 @@ Begin Map
 					Vertex   +00003.999000,-00696.003954,+00000.002000
 					Vertex   +00003.999000,-00696.003954,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=4
 					Origin   -01156.000122,+01155.999878,+00128.000015
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7362,7 +7362,7 @@ Begin Map
 					Vertex   +00079.999000,-00696.003878,+00000.002000
 					Vertex   +00079.999000,-00000.004122,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=5
 					Origin   -01156.000000,+00899.999878,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7386,7 +7386,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -7396,7 +7396,7 @@ Begin Map
 					Vertex   -01532.000000,-00000.003000,+00000.002000
 					Vertex   -01532.000000,-00000.003000,-00063.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7406,7 +7406,7 @@ Begin Map
 					Vertex   +00000.000000,-00000.003000,+00000.002000
 					Vertex   +00000.000000,-00000.003000,-00063.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7416,7 +7416,7 @@ Begin Map
 					Vertex   +00000.000000,-01868.003000,+00000.002000
 					Vertex   +00000.000000,-01868.003000,-00063.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7426,7 +7426,7 @@ Begin Map
 					Vertex   -01532.000000,-01868.003000,+00000.002000
 					Vertex   -01532.000000,-01868.003000,-00063.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7436,7 +7436,7 @@ Begin Map
 					Vertex   +00000.000000,-01868.003000,+00000.002000
 					Vertex   +00000.000000,-00000.003000,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MainTurretMetalDetail_256_Mat.Exteriors_Textures_Unique_MainTurretMetalDetail_256_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MainTurretMetalDetail_256_Mat.MainTurretMetalDetail_256_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7460,7 +7460,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -7470,7 +7470,7 @@ Begin Map
 					Vertex   +00000.000000,+02020.000000,+00064.002000
 					Vertex   +00000.000000,+02020.000000,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7480,7 +7480,7 @@ Begin Map
 					Vertex   +01608.000000,+02020.000000,+00064.002000
 					Vertex   +01608.000000,+02020.000000,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7490,7 +7490,7 @@ Begin Map
 					Vertex   +01608.000000,+00000.000000,+00064.002000
 					Vertex   +01608.000000,+00000.000000,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7500,7 +7500,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00064.002000
 					Vertex   +00000.000000,+00000.000000,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7510,7 +7510,7 @@ Begin Map
 					Vertex   +01608.000000,+00000.000000,+00064.002000
 					Vertex   +01608.000000,+02020.000000,+00064.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7534,7 +7534,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -01156.000000,+00899.999878,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -7544,7 +7544,7 @@ Begin Map
 					Vertex   +00007.999000,+00000.000122,+00000.002000
 					Vertex   +00007.999000,+00000.000122,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=1
 					Origin   -01156.000122,+01155.999878,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7554,7 +7554,7 @@ Begin Map
 					Vertex   +00083.999000,-00000.000122,+00000.002000
 					Vertex   +00083.999000,-00000.000122,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=2
 					Origin   -00900.000122,+01156.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7564,7 +7564,7 @@ Begin Map
 					Vertex   +00083.999000,-01867.999878,+00000.002000
 					Vertex   +00083.999000,-01867.999878,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   -00900.000183,+00900.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7574,7 +7574,7 @@ Begin Map
 					Vertex   +00007.999000,-01867.999939,+00000.002000
 					Vertex   +00007.999000,-01867.999939,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=4
 					Origin   -01156.000122,+01155.999878,+00128.000015
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7584,7 +7584,7 @@ Begin Map
 					Vertex   +00083.999000,-01867.999878,+00000.002000
 					Vertex   +00083.999000,-00000.000122,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=5
 					Origin   -01156.000000,+00899.999878,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7826,7 +7826,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -01719.999023,+02032.000732,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7836,7 +7836,7 @@ Begin Map
 					Vertex   +00072.000977,+00004.000732,+00000.002000
 					Vertex   +00072.000977,+00004.000732,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=1
 					Origin   -01463.999146,+02032.000977,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7846,7 +7846,7 @@ Begin Map
 					Vertex   +00072.000977,-00071.998779,+00000.002000
 					Vertex   +00072.000977,-00071.998779,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=2
 					Origin   -01463.999146,+01776.000977,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -7856,7 +7856,7 @@ Begin Map
 					Vertex   -01535.998291,-00071.998901,+00000.002000
 					Vertex   -01535.998291,-00071.998901,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   -01719.998779,+01776.001099,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7866,7 +7866,7 @@ Begin Map
 					Vertex   -01535.999023,+00004.001099,+00000.002000
 					Vertex   -01535.999023,+00004.001099,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=4
 					Origin   -01463.999146,+02032.000977,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7876,7 +7876,7 @@ Begin Map
 					Vertex   -01535.998291,-00071.998901,+00000.002000
 					Vertex   +00072.000977,-00071.998779,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=5
 					Origin   -01719.999023,+02032.000732,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7900,7 +7900,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -01719.999023,+02032.000732,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7910,7 +7910,7 @@ Begin Map
 					Vertex   +00072.000977,+00004.000732,+00000.002000
 					Vertex   +00072.000977,+00004.000732,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=1
 					Origin   -01463.999146,+02032.000977,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7920,7 +7920,7 @@ Begin Map
 					Vertex   +00072.000977,-00071.998779,+00000.002000
 					Vertex   +00072.000977,-00071.998779,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=2
 					Origin   -01463.999146,+01776.000977,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -7930,7 +7930,7 @@ Begin Map
 					Vertex   -01535.998291,-00071.998901,+00000.002000
 					Vertex   -01535.998291,-00071.998901,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   -01719.998779,+01776.001099,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7940,7 +7940,7 @@ Begin Map
 					Vertex   -01535.999023,+00004.001099,+00000.002000
 					Vertex   -01535.999023,+00004.001099,-00543.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=4
 					Origin   -01463.999146,+02032.000977,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7950,7 +7950,7 @@ Begin Map
 					Vertex   -01535.998291,-00071.998901,+00000.002000
 					Vertex   +00072.000977,-00071.998779,+00000.002000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=5
 					Origin   -01719.999023,+02032.000732,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -9468,7 +9468,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=0
 					Origin   -00085.512115,-00515.344971,-00125.899994
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU -00000.001529,-00001.000002,+00000.000000
@@ -9478,7 +9478,7 @@ Begin Map
 					Vertex   +00000.000060,-00000.000375,-00000.000109
 					Vertex   +00000.000060,-00000.000375,-00256.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=1
 					Origin   -00085.119308,-00259.344696,-00125.899994
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.001528,+00000.000000
@@ -9488,7 +9488,7 @@ Begin Map
 					Vertex   +00255.999915,+00000.000052,-00000.000109
 					Vertex   +00255.999915,+00000.000052,-00256.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=2
 					Origin   +00170.487732,-00515.734497,-00125.899994
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.001534,+00001.000003,+00000.000000
@@ -9498,7 +9498,7 @@ Begin Map
 					Vertex   +00255.999961,-00256.000314,-00000.000109
 					Vertex   +00255.999961,-00256.000314,-00256.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_BoulderBase_Mat.Exteriors_Textures_General_BoulderBase_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_BoulderBase_Mat.BoulderBase_Mat LightMapScale=128.0 Link=3
 					Origin   -06862.213379,-07548.660156,-19513.203125
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -9508,7 +9508,7 @@ Begin Map
 					Vertex   -00000.000009,-00256.000070,-00000.000109
 					Vertex   -00000.000009,-00256.000070,-00256.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=4
 					Origin   -00085.510925,-00515.344971,+00130.100006
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.001529,-00001.000002,+00000.000000
@@ -9518,7 +9518,7 @@ Begin Map
 					Vertex   +00255.999961,-00256.000314,-00000.000109
 					Vertex   +00255.999915,+00000.000052,-00000.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=5
 					Origin   -00839.775269,-00404.241577,-00514.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00004.000009,-00000.006135,+00000.000000
@@ -10061,7 +10061,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -10071,7 +10071,7 @@ Begin Map
 					Vertex   +00000.000000,+00063.997000,-00064.998061
 					Vertex   +00000.000000,+00063.997000,-00608.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_MainTurretMetal_Mat.Exteriors_Textures_General_MainTurretMetal_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_MainTurretMetal_Mat.MainTurretMetal_Mat LightMapScale=128.0 Link=1
 					Origin   +04096.000000,-00735.997009,-00136.002014
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10081,7 +10081,7 @@ Begin Map
 					Vertex   +02592.000000,+00063.997000,-00064.998061
 					Vertex   +02592.000000,+00063.997000,-00608.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_MainTurretMetal_Mat.Exteriors_Textures_General_MainTurretMetal_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_MainTurretMetal_Mat.MainTurretMetal_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -10091,7 +10091,7 @@ Begin Map
 					Vertex   +02592.000000,-00000.003000,-00064.998061
 					Vertex   +02592.000000,-00000.003000,-00608.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_MainTurretMetal_Mat.Exteriors_Textures_General_MainTurretMetal_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_MainTurretMetal_Mat.MainTurretMetal_Mat LightMapScale=128.0 Link=3
 					Origin   +05589.000000,-01983.996948,-00136.002014
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -10101,7 +10101,7 @@ Begin Map
 					Vertex   +00000.000000,-00000.003000,-00064.998061
 					Vertex   +00000.000000,-00000.003000,-00608.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_MainTurretMetal_Mat.Exteriors_Textures_General_MainTurretMetal_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_MainTurretMetal_Mat.MainTurretMetal_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10111,7 +10111,7 @@ Begin Map
 					Vertex   +02592.000000,-00000.003000,-00064.998061
 					Vertex   +02592.000000,+00063.997000,-00064.998061
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_MainTurretMetal_Mat.Exteriors_Textures_General_MainTurretMetal_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_MainTurretMetal_Mat.MainTurretMetal_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10135,7 +10135,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -10145,7 +10145,7 @@ Begin Map
 					Vertex   +00000.000000,+00063.997000,-00064.998061
 					Vertex   +00000.000000,+00063.997000,-00608.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=1
 					Origin   +04096.000000,-00735.997009,-00136.002014
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10155,7 +10155,7 @@ Begin Map
 					Vertex   +02592.000000,+00063.997000,-00064.998061
 					Vertex   +02592.000000,+00063.997000,-00608.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Wall_Mat.Exteriors_Textures_Unique_MT_Wall_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Wall_Mat.MT_Wall_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -10165,7 +10165,7 @@ Begin Map
 					Vertex   +02592.000000,-00000.003000,-00064.998061
 					Vertex   +02592.000000,-00000.003000,-00608.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10175,7 +10175,7 @@ Begin Map
 					Vertex   +00000.000000,-00000.003000,-00064.998061
 					Vertex   +00000.000000,-00000.003000,-00608.998000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10185,7 +10185,7 @@ Begin Map
 					Vertex   +02592.000000,-00000.003000,-00064.998061
 					Vertex   +02592.000000,+00063.997000,-00064.998061
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_Unique_MT_Metal_Base_Mat.Exteriors_Textures_Unique_MT_Metal_Base_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/Unique_MT_Metal_Base_Mat.MT_Metal_Base_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000

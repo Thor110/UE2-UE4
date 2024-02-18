@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_grass_Mat.LowerKashyyyk_Textures_General_grass_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_grass_Mat.grass_Mat LightMapScale=128.0 Link=0
 					Origin   +02144.000000,+02112.000000,-01536.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.333333,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   +00000.000000,+37760.000000,+16960.000000
 					Vertex   +00000.000000,+37760.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_grass_Mat.LowerKashyyyk_Textures_General_grass_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_grass_Mat.grass_Mat LightMapScale=128.0 Link=1
 					Origin   +02144.000000,+04032.000000,-01536.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.333333,+00000.000000,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   +39040.000000,+37760.000000,+16960.000000
 					Vertex   +39040.000000,+37760.000000,-00000.000488
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_grass_Mat.LowerKashyyyk_Textures_General_grass_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_grass_Mat.grass_Mat LightMapScale=128.0 Link=2
 					Origin   +04064.000000,+04032.000000,-01536.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.333333,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   +39040.000000,+00000.000000,+16960.000000
 					Vertex   +39040.000000,+00000.000000,-00000.000488
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_grass_Mat.LowerKashyyyk_Textures_General_grass_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_grass_Mat.grass_Mat LightMapScale=128.0 Link=3
 					Origin   +04064.000000,+02112.000000,-01536.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.333333,+00000.000000,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+16960.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_grass_Mat.LowerKashyyyk_Textures_General_grass_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_grass_Mat.grass_Mat LightMapScale=128.0 Link=4
 					Origin   +02144.000000,+04032.000000,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.333333,+00000.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   +39040.000000,+00000.000000,+16960.000000
 					Vertex   +39040.000000,+37760.000000,+16960.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_grass_Mat.LowerKashyyyk_Textures_General_grass_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_grass_Mat.grass_Mat LightMapScale=128.0 Link=5
 					Origin   +02144.000000,+02112.000000,-01536.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.333333,+00000.000000,+00000.000000
@@ -327,7 +327,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Unique_SkyDome_LFV3_Mat.LowerKashyyyk_Textures_Unique_SkyDome_LFV3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Unique_SkyDome_LFV3_Mat.SkyDome_LFV3_Mat LightMapScale=128.0 Link=0
 					Origin   -00064.000000,-00064.000000,-00064.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -337,7 +337,7 @@ Begin Map
 					Vertex   -00128.000000,+00000.000000,+00000.000000
 					Vertex   -00128.000000,+00000.000000,-00128.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Unique_SkyDome_FTV3_Mat.LowerKashyyyk_Textures_Unique_SkyDome_FTV3_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Unique_SkyDome_FTV3_Mat.SkyDome_FTV3_Mat LightMapScale=128.0 Link=1
 					Origin   -00064.000000,+00064.000000,-00064.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -347,7 +347,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00128.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Unique_SkyDome_RTV3_Mat.LowerKashyyyk_Textures_Unique_SkyDome_RTV3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Unique_SkyDome_RTV3_Mat.SkyDome_RTV3_Mat LightMapScale=128.0 Link=2
 					Origin   +00064.000000,+00064.000000,-00064.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -357,7 +357,7 @@ Begin Map
 					Vertex   +00000.000000,-00128.000000,+00000.000000
 					Vertex   +00000.000000,-00128.000000,-00128.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Unique_SkyDome_BKV3_Mat.LowerKashyyyk_Textures_Unique_SkyDome_BKV3_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Unique_SkyDome_BKV3_Mat.SkyDome_BKV3_Mat LightMapScale=128.0 Link=3
 					Origin   +00064.000000,-00064.000000,-00064.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -367,7 +367,7 @@ Begin Map
 					Vertex   -00128.000000,-00128.000000,+00000.000000
 					Vertex   -00128.000000,-00128.000000,-00128.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Unique_SkyDome_UPV3_Mat.LowerKashyyyk_Textures_Unique_SkyDome_UPV3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Unique_SkyDome_UPV3_Mat.SkyDome_UPV3_Mat LightMapScale=128.0 Link=4
 					Origin   -00064.000000,+00064.000000,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -377,7 +377,7 @@ Begin Map
 					Vertex   +00000.000000,-00128.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Unique_SkyDome_FTV3_Mat.LowerKashyyyk_Textures_Unique_SkyDome_FTV3_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Unique_SkyDome_FTV3_Mat.SkyDome_FTV3_Mat LightMapScale=128.0 Link=5
 					Origin   -00064.000000,-00064.000000,-00064.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -401,7 +401,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -00992.131775,-06040.333984,-01285.949707
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -411,7 +411,7 @@ Begin Map
 					Vertex   -00000.000646,-01696.002031,+00832.000293
 					Vertex   -00000.000646,-01696.002031,+00000.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   -00031.999924,+02099.999268,-00112.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -421,7 +421,7 @@ Begin Map
 					Vertex   -00256.000097,-01696.001787,+00832.000293
 					Vertex   -00256.000097,-01696.001787,+00000.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -00992.131775,-06040.333984,-01285.949707
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00002.000000,+00000.000000
@@ -431,7 +431,7 @@ Begin Map
 					Vertex   -00256.000158,-00000.003740,+00832.000293
 					Vertex   -00256.000158,-00000.003740,+00000.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -00992.131775,-06040.333984,-01285.949707
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -441,7 +441,7 @@ Begin Map
 					Vertex   +00000.000017,-00000.003984,+00832.000293
 					Vertex   +00000.000017,-00000.003984,+00000.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -00992.131775,-06040.333984,-01285.949707
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -451,7 +451,7 @@ Begin Map
 					Vertex   -00256.000158,-00000.003740,+00832.000293
 					Vertex   -00256.000097,-01696.001787,+00832.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.131775,-06040.333984,-01285.949707
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -475,7 +475,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -00012.000053,+00083.999939,-00112.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -485,7 +485,7 @@ Begin Map
 					Vertex   -00000.000059,-00127.999863,+00832.000321
 					Vertex   -00000.000059,-00127.999863,+00000.000321
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   -00012.000099,-00235.999878,-00112.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -495,7 +495,7 @@ Begin Map
 					Vertex   -00048.000043,-00127.999817,+00832.000321
 					Vertex   -00048.000043,-00127.999817,+00000.000321
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -00332.000153,-00235.999939,-00112.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -505,7 +505,7 @@ Begin Map
 					Vertex   -00047.999952,+00000.000095,+00832.000321
 					Vertex   -00047.999952,+00000.000095,+00000.000321
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -00331.999786,+00083.999947,-00112.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -515,7 +515,7 @@ Begin Map
 					Vertex   -00000.000013,+00000.000045,+00832.000321
 					Vertex   -00000.000013,+00000.000045,+00000.000321
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -00012.000099,-00235.999878,+00112.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -525,7 +525,7 @@ Begin Map
 					Vertex   -00047.999952,+00000.000095,+00832.000321
 					Vertex   -00048.000043,-00127.999817,+00832.000321
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   -00012.000053,+00083.999939,-00112.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -579,7 +579,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   +00159.999939,+00128.000000,-00016.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -589,7 +589,7 @@ Begin Map
 					Vertex   -00000.000350,-00256.000071,+00031.999993
 					Vertex   -00000.000350,-00256.000071,-00000.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   +00159.999817,-00128.000000,-00016.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -599,7 +599,7 @@ Begin Map
 					Vertex   -00320.000182,-00256.000056,+00031.999995
 					Vertex   -00320.000182,-00256.000056,-00000.000008
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -00159.999969,-00127.999947,-00016.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -609,7 +609,7 @@ Begin Map
 					Vertex   -00320.000060,-00000.000132,+00031.999993
 					Vertex   -00320.000045,-00000.000132,-00000.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -00159.999817,+00128.000000,-00016.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -619,7 +619,7 @@ Begin Map
 					Vertex   -00000.000228,-00000.000155,+00031.999993
 					Vertex   -00000.000228,-00000.000155,-00000.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   +00159.999817,-00128.000000,+00016.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -629,7 +629,7 @@ Begin Map
 					Vertex   -00320.000045,-00000.000132,+00031.999993
 					Vertex   -00320.000167,-00256.000041,+00031.999993
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   +00159.999939,+00128.000000,-00016.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -653,7 +653,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=0
 					Origin   +00159.999939,+00128.000000,-00016.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -663,7 +663,7 @@ Begin Map
 					Vertex   +00000.000300,+00006.000480,-00000.000007
 					Vertex   +00000.000300,+00006.000480,-00032.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=1
 					Origin   +00159.999847,-00127.999969,-00016.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -673,7 +673,7 @@ Begin Map
 					Vertex   -00111.999578,+00006.000480,-00000.000007
 					Vertex   -00111.999578,+00006.000480,-00032.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=2
 					Origin   -00159.999969,-00127.999947,-00016.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -683,7 +683,7 @@ Begin Map
 					Vertex   -00111.999547,+00256.000336,-00000.000007
 					Vertex   -00111.999547,+00256.000336,-00032.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=3
 					Origin   -00159.999817,+00128.000000,-00016.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -693,7 +693,7 @@ Begin Map
 					Vertex   +00000.000453,+00256.000427,-00000.000007
 					Vertex   +00000.000453,+00256.000427,-00032.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=4
 					Origin   +00159.999817,-00128.000000,+00016.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -703,7 +703,7 @@ Begin Map
 					Vertex   -00111.999547,+00256.000336,-00000.000007
 					Vertex   -00111.999578,+00006.000480,-00000.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=5
 					Origin   +00159.999969,+00127.999947,-00016.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -736,7 +736,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -00992.390686,-05306.978516,-01285.949707
 					Normal   +00000.991440,-00000.130561,+00000.000000
 					TextureU -00000.522243,-00003.965761,+00000.000000
@@ -746,7 +746,7 @@ Begin Map
 					Vertex   -00160.000657,-01214.996562,+00832.000293
 					Vertex   -00160.000657,-01214.996562,+00000.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -00992.390686,-05306.978516,-01285.949707
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00002.000000,+00000.000000,+00000.000000
@@ -756,7 +756,7 @@ Begin Map
 					Vertex   -00416.000230,-01214.996562,+00832.000293
 					Vertex   -00416.000230,-01214.996562,+00000.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -00992.390686,-05306.978516,-01285.949707
 					Normal   -00000.991440,+00000.130560,+00000.000000
 					TextureU +00000.000000,+00002.000000,+00000.000000
@@ -766,7 +766,7 @@ Begin Map
 					Vertex   -00256.000413,+00000.002339,+00832.000293
 					Vertex   -00256.000413,+00000.002339,+00000.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -00352.257141,+01457.358154,-00112.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -776,7 +776,7 @@ Begin Map
 					Vertex   -00000.000009,+00000.001729,+00832.000293
 					Vertex   -00000.000009,+00000.001729,+00000.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -00992.390686,-05306.978516,-01285.949707
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00003.965761,+00000.522243,+00000.000000
@@ -786,7 +786,7 @@ Begin Map
 					Vertex   -00256.000413,+00000.002339,+00832.000293
 					Vertex   -00416.000230,-01214.996562,+00832.000293
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.390686,-05306.978516,-01285.949707
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -810,7 +810,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -00194.271988,-00064.695518,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -820,7 +820,7 @@ Begin Map
 					Vertex   -00160.000475,-00191.999956,+00015.999589
 					Vertex   -00160.000475,-00191.999956,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=1
 					Origin   -00194.272141,-00320.695374,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -830,7 +830,7 @@ Begin Map
 					Vertex   -00385.000230,-00191.999956,+00015.999589
 					Vertex   -00385.000230,-00191.999956,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=2
 					Origin   -00450.271790,-00320.695190,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -840,7 +840,7 @@ Begin Map
 					Vertex   -00385.000292,+00000.000044,+00015.999589
 					Vertex   -00385.000292,+00000.000044,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=3
 					Origin   -00450.271729,-00064.695633,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -850,7 +850,7 @@ Begin Map
 					Vertex   -00160.000597,+00000.000044,+00015.999589
 					Vertex   -00160.000597,+00000.000044,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=4
 					Origin   -00194.272141,-00320.695374,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -860,7 +860,7 @@ Begin Map
 					Vertex   -00385.000292,+00000.000044,+00015.999589
 					Vertex   -00385.000230,-00191.999956,+00015.999589
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=5
 					Origin   -00194.271988,-00064.695518,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -884,7 +884,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   +00239.727936,-00064.695572,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -894,7 +894,7 @@ Begin Map
 					Vertex   -00160.000414,-00191.999956,+00141.999589
 					Vertex   -00160.000414,-00191.999956,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=1
 					Origin   +00239.727768,-00320.695374,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -904,7 +904,7 @@ Begin Map
 					Vertex   -00168.000414,-00191.999956,+00141.999589
 					Vertex   -00168.000414,-00191.999956,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=2
 					Origin   -00016.271957,-00320.695282,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -914,7 +914,7 @@ Begin Map
 					Vertex   -00168.000353,+00000.000044,+00141.999589
 					Vertex   -00168.000353,+00000.000044,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=3
 					Origin   -00016.271851,-00064.695610,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -924,7 +924,7 @@ Begin Map
 					Vertex   -00160.000597,+00000.000044,+00141.999589
 					Vertex   -00160.000597,+00000.000044,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=4
 					Origin   +00239.727768,-00320.695374,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -934,7 +934,7 @@ Begin Map
 					Vertex   -00168.000353,+00000.000044,+00141.999589
 					Vertex   -00168.000414,-00191.999956,+00141.999589
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=5
 					Origin   +00239.727936,-00064.695572,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -958,7 +958,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -01323.136963,-06052.347656,-00821.945984
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -968,7 +968,7 @@ Begin Map
 					Vertex   +00800.000525,+00000.000344,-00000.000472
 					Vertex   +00800.000525,+00000.000344,-00598.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -01323.136963,-06052.347656,-00821.945984
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00002.000000,+00000.000000,+00000.000000
@@ -978,7 +978,7 @@ Begin Map
 					Vertex   -00159.999230,+00000.000344,-00000.000472
 					Vertex   -00159.999230,+00000.000344,-00598.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -01323.136963,-06052.347656,-00821.945984
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00002.000000,+00000.000000
@@ -988,7 +988,7 @@ Begin Map
 					Vertex   -00159.999292,+00480.000344,-00000.000472
 					Vertex   -00159.999292,+00480.000344,-00598.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -01323.136963,-06052.347656,-00821.945984
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -998,7 +998,7 @@ Begin Map
 					Vertex   +00800.000403,+00480.000344,-00000.000472
 					Vertex   +00800.000403,+00480.000344,-00598.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -01323.136963,-06052.347656,-00821.945984
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -1008,7 +1008,7 @@ Begin Map
 					Vertex   -00159.999292,+00480.000344,-00000.000472
 					Vertex   -00159.999230,+00000.000344,-00000.000472
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -01323.136963,-06052.347656,-00821.945984
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -1032,7 +1032,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -01626.140381,-06252.347168,-00821.946228
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -1042,7 +1042,7 @@ Begin Map
 					Vertex   +00320.002671,-00000.000656,+00597.999728
 					Vertex   +00320.002671,-00000.000656,-00000.000211
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -01626.140381,-06252.347168,-00821.946228
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -1052,7 +1052,7 @@ Begin Map
 					Vertex   +00320.002671,-00264.000168,+00597.999728
 					Vertex   +00320.002671,-00264.000168,-00000.000211
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=2
 					Origin   -00397.789734,-00316.482788,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1062,7 +1062,7 @@ Begin Map
 					Vertex   +00000.002671,-00264.000168,+00597.999728
 					Vertex   +00000.002671,-00264.000168,-00000.000211
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -01626.140381,-06252.347168,-00821.946228
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00002.000000,+00000.000000
@@ -1072,7 +1072,7 @@ Begin Map
 					Vertex   +00000.002732,-00000.000656,+00597.999728
 					Vertex   +00000.002732,-00000.000656,-00000.000211
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -01626.140381,-06252.347168,-00821.946228
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -1082,7 +1082,7 @@ Begin Map
 					Vertex   +00000.002671,-00264.000168,+00597.999728
 					Vertex   +00320.002671,-00264.000168,+00597.999728
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -01626.140381,-06252.347168,-00821.946228
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -1106,7 +1106,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -01394.130005,-06304.332031,-01021.945984
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -1116,7 +1116,7 @@ Begin Map
 					Vertex   -00000.009221,-00000.004426,-00000.001571
 					Vertex   -00000.009221,-00000.004426,-00320.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -01394.130005,-06304.332031,-01021.945984
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1126,7 +1126,7 @@ Begin Map
 					Vertex   -00000.009160,+00735.995574,-00000.001449
 					Vertex   -00000.009160,+00735.995574,-00320.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -00393.463318,+00200.800308,-00072.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1136,7 +1136,7 @@ Begin Map
 					Vertex   +00289.990718,+00735.995086,-00000.001449
 					Vertex   +00289.990718,+00735.995086,-00320.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -01394.130005,-06304.332031,-01021.945984
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -1146,7 +1146,7 @@ Begin Map
 					Vertex   +00289.990718,-00000.004426,-00000.001571
 					Vertex   +00289.990718,-00000.004426,-00320.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -01394.130005,-06304.332031,-01021.945984
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1156,7 +1156,7 @@ Begin Map
 					Vertex   +00289.990718,+00735.995086,-00000.001449
 					Vertex   -00000.009160,+00735.995574,-00000.001449
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -01394.130005,-06304.332031,-01021.945984
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00002.000000,+00000.000000,+00000.000000
@@ -1180,7 +1180,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -00751.131226,-06315.331543,-01021.946411
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1190,7 +1190,7 @@ Begin Map
 					Vertex   -00466.003399,+00000.008246,-00000.001632
 					Vertex   -00466.003399,+00000.008246,-00320.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -00751.131226,-06315.331543,-01021.946411
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -1200,7 +1200,7 @@ Begin Map
 					Vertex   -00000.003521,+00000.008246,-00000.001510
 					Vertex   -00000.003521,+00000.008246,-00320.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   +00529.002136,-00350.998749,-00072.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1210,7 +1210,7 @@ Begin Map
 					Vertex   -00000.004010,-00468.991754,-00000.001510
 					Vertex   -00000.004010,-00468.991754,-00320.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -00751.131226,-06315.331543,-01021.946411
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -1220,7 +1220,7 @@ Begin Map
 					Vertex   -00466.003521,-00468.991754,-00000.001632
 					Vertex   -00466.003521,-00468.991754,-00320.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -00751.131226,-06315.331543,-01021.946411
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -1230,7 +1230,7 @@ Begin Map
 					Vertex   -00000.004010,-00468.991754,-00000.001510
 					Vertex   -00000.003521,+00000.008246,-00000.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -00751.131226,-06315.331543,-01021.946411
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00002.000000,+00000.000000,+00000.000000
@@ -1254,7 +1254,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   +00337.002075,-00542.998352,-00072.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1264,7 +1264,7 @@ Begin Map
 					Vertex   -00000.003399,+00178.008246,+00177.998368
 					Vertex   -00000.003399,+00178.008246,-00000.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -00294.130981,-06315.331055,-01163.946045
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -1274,7 +1274,7 @@ Begin Map
 					Vertex   +00198.996479,+00178.008246,+00177.998490
 					Vertex   +00198.996479,+00178.008124,-00000.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   +00529.002136,-00350.998749,-00072.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1284,7 +1284,7 @@ Begin Map
 					Vertex   +00198.995990,+00000.008246,+00177.998490
 					Vertex   +00198.995990,+00000.008368,-00000.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -00294.130981,-06315.331055,-01163.946045
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -1294,7 +1294,7 @@ Begin Map
 					Vertex   -00000.003521,+00000.008246,+00177.998368
 					Vertex   -00000.003521,+00000.008246,-00000.001510
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -00294.130981,-06315.331055,-01163.946045
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -1304,7 +1304,7 @@ Begin Map
 					Vertex   +00198.995990,+00000.008246,+00177.998490
 					Vertex   +00198.996479,+00178.008246,+00177.998490
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -00294.130981,-06315.331055,-01163.946045
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00002.000000,+00000.000000,+00000.000000
@@ -1328,7 +1328,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -00992.133301,-07480.330078,-01285.950073
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -1338,7 +1338,7 @@ Begin Map
 					Vertex   -01696.003545,+00000.000898,+00831.999927
 					Vertex   -01696.003545,+00000.000898,-00000.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   +00873.999207,+01065.999756,-00112.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1348,7 +1348,7 @@ Begin Map
 					Vertex   -01696.003308,+00256.000166,+00831.999927
 					Vertex   -01696.003308,+00256.000166,-00000.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -00992.133301,-07480.330078,-01285.950073
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -1358,7 +1358,7 @@ Begin Map
 					Vertex   -00000.005620,+00256.000166,+00831.999927
 					Vertex   -00000.005620,+00256.000166,-00000.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -00992.133301,-07480.330078,-01285.950073
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00002.000000,+00000.000000
@@ -1368,7 +1368,7 @@ Begin Map
 					Vertex   -00000.005742,+00000.000044,+00831.999927
 					Vertex   -00000.005742,+00000.000044,-00000.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -00992.133301,-07480.330078,-01285.950073
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1378,7 +1378,7 @@ Begin Map
 					Vertex   -00000.005620,+00256.000166,+00831.999927
 					Vertex   -01696.003308,+00256.000166,+00831.999927
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.133301,-07480.330078,-01285.950073
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -1402,7 +1402,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -00944.133057,-04094.330078,-01285.949951
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00002.000000,+00000.000000,+00000.000000
@@ -1412,7 +1412,7 @@ Begin Map
 					Vertex   -01696.003301,+00000.000898,+00832.000049
 					Vertex   -01696.003301,+00000.000898,+00000.000049
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -00944.133057,-04094.330078,-01285.949951
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00002.000000,+00000.000000
@@ -1422,7 +1422,7 @@ Begin Map
 					Vertex   -01696.003064,+00256.000166,+00832.000049
 					Vertex   -01696.003064,+00256.000166,+00000.000049
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -00944.133057,-04094.330078,-01285.949951
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -1432,7 +1432,7 @@ Begin Map
 					Vertex   -00000.005376,+00256.000166,+00832.000049
 					Vertex   -00000.005376,+00256.000166,+00000.000049
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -00944.133057,-04094.330078,-01285.949951
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -1442,7 +1442,7 @@ Begin Map
 					Vertex   -00000.005498,+00000.000044,+00832.000049
 					Vertex   -00000.005498,+00000.000044,+00000.000049
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -00944.133057,-04094.330078,-01285.949951
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1452,7 +1452,7 @@ Begin Map
 					Vertex   -00000.005376,+00256.000166,+00832.000049
 					Vertex   -01696.003064,+00256.000166,+00832.000049
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -00944.133057,-04094.330078,-01285.949951
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -1476,7 +1476,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -04096.129883,-07478.330078,-01285.949951
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -1486,7 +1486,7 @@ Begin Map
 					Vertex   -00000.003545,+00000.000898,-00000.000073
 					Vertex   -00000.003545,+00000.000898,-00832.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   +00873.999207,+01065.999756,-00112.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1496,7 +1496,7 @@ Begin Map
 					Vertex   -00000.003301,+00063.999922,-00000.000073
 					Vertex   -00000.003301,+00063.999922,-00832.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   +00873.999939,+01385.999756,-00112.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1506,7 +1506,7 @@ Begin Map
 					Vertex   +01903.994258,+00063.999922,-00000.000073
 					Vertex   +01903.994258,+00063.999922,-00832.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   +01193.998779,+01385.998779,-00112.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1516,7 +1516,7 @@ Begin Map
 					Vertex   +01903.994258,+00000.000044,-00000.000073
 					Vertex   +01903.994258,+00000.000044,-00832.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   +00873.998901,+01066.000122,+00111.999939
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1526,7 +1526,7 @@ Begin Map
 					Vertex   +01903.994258,+00063.999922,-00000.000073
 					Vertex   -00000.003301,+00063.999922,-00000.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   +01193.997559,+01066.000122,-00112.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1672,7 +1672,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -00194.272003,-00064.695679,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -1682,7 +1682,7 @@ Begin Map
 					Vertex   +00000.000525,-00479.999656,-00000.000472
 					Vertex   +00000.000525,-00479.999656,-00152.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=1
 					Origin   -00194.272141,-00320.695374,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1692,7 +1692,7 @@ Begin Map
 					Vertex   -00414.999230,-00479.999656,-00000.000472
 					Vertex   -00414.999230,-00479.999656,-00152.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -00450.271759,-00320.695190,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1702,7 +1702,7 @@ Begin Map
 					Vertex   -00414.999230,+00000.000344,-00000.000472
 					Vertex   -00414.999230,+00000.000344,-00152.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -00450.271759,-00064.695679,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -1712,7 +1712,7 @@ Begin Map
 					Vertex   +00000.000525,+00000.000344,-00000.000472
 					Vertex   +00000.000525,+00000.000344,-00152.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -00194.272125,-00320.695190,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -1722,7 +1722,7 @@ Begin Map
 					Vertex   -00414.999230,+00000.000344,-00000.000472
 					Vertex   -00414.999230,-00479.999656,-00000.000472
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=5
 					Origin   -00194.271988,-00064.695518,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1746,7 +1746,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -00194.271988,-00064.695518,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1756,7 +1756,7 @@ Begin Map
 					Vertex   +00000.000525,-00222.999656,+00151.999528
 					Vertex   +00000.000525,-00222.999656,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=1
 					Origin   -00194.272141,-00320.695374,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1766,7 +1766,7 @@ Begin Map
 					Vertex   -00190.999230,-00222.999656,+00151.999528
 					Vertex   -00190.999230,-00222.999656,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -00450.271759,-00320.695190,-00128.000015
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1776,7 +1776,7 @@ Begin Map
 					Vertex   -00190.999230,+00000.000344,+00151.999528
 					Vertex   -00190.999230,+00000.000344,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=3
 					Origin   -00450.271729,-00064.695633,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1786,7 +1786,7 @@ Begin Map
 					Vertex   +00000.000525,+00000.000344,+00151.999528
 					Vertex   +00000.000525,+00000.000344,-00000.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -00194.272125,-00320.695190,+00127.999985
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -1796,7 +1796,7 @@ Begin Map
 					Vertex   -00190.999230,+00000.000344,+00151.999528
 					Vertex   -00190.999230,-00222.999656,+00151.999528
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=5
 					Origin   -00194.271988,-00064.695518,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1820,7 +1820,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -00194.271988,-00064.695518,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1830,7 +1830,7 @@ Begin Map
 					Vertex   +00000.000525,-00224.999656,+00103.999528
 					Vertex   +00000.000525,-00224.999656,-00048.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat.LowerKashyyyk_Textures_Shaders_ButressSpecu_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_ButressSpecu_Mat.ButressSpecu_Mat LightMapScale=128.0 Link=1
 					Origin   -00194.272141,-00320.695374,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1840,7 +1840,7 @@ Begin Map
 					Vertex   -00190.999230,-00224.999656,+00103.999528
 					Vertex   -00190.999230,-00224.999656,-00048.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -00450.271759,-00320.695160,-00128.000015
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1850,7 +1850,7 @@ Begin Map
 					Vertex   -00190.999230,+00000.000344,-00000.000472
 					Vertex   -00190.999230,+00000.000344,-00048.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -00450.271729,-00064.695633,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1860,7 +1860,7 @@ Begin Map
 					Vertex   +00000.000525,+00000.000344,-00000.000472
 					Vertex   +00000.000525,+00000.000344,-00048.000411
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -00194.272125,-00320.695160,+00127.999985
 					Normal   +00000.000000,+00000.419570,+00000.907723
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -1870,7 +1870,7 @@ Begin Map
 					Vertex   -00190.999230,+00000.000344,-00000.000472
 					Vertex   -00190.999230,-00224.999656,+00103.999528
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   -00194.271988,-00064.695518,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2435,7 +2435,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -08700.255859,-05677.256348,-01042.959106
 					Normal   -00000.707107,-00000.707107,+00000.000000
 					TextureU -00002.000000,+00000.000000,+00000.000000
@@ -2445,7 +2445,7 @@ Begin Map
 					Vertex   -02580.176770,+02580.263369,+00832.007927
 					Vertex   -02580.176770,+02580.263369,+00000.007927
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -08700.255859,-05677.256348,-01042.959106
 					Normal   -00000.707105,+00000.707109,+00000.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -2455,7 +2455,7 @@ Begin Map
 					Vertex   -02534.922863,+02625.517031,+00832.007927
 					Vertex   -02534.922863,+02625.517031,+00000.007927
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -08700.255859,-05677.256348,-01042.959106
 					Normal   +00000.707107,+00000.707107,+00000.000000
 					TextureU +00002.828428,-00002.828427,+00000.000000
@@ -2465,7 +2465,7 @@ Begin Map
 					Vertex   +00079.249752,+00011.345645,+00832.007927
 					Vertex   +00079.249752,+00011.345645,+00000.007927
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -08700.255859,-05677.256348,-01042.959106
 					Normal   +00000.707099,-00000.707115,+00000.000000
 					TextureU -00002.000000,+00000.000000,+00000.000000
@@ -2475,7 +2475,7 @@ Begin Map
 					Vertex   +00033.994327,-00033.908750,+00832.007927
 					Vertex   +00033.994327,-00033.908750,+00000.007927
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -08700.255859,-05677.256348,-01042.959106
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00002.828427,+00002.828426,+00000.000000
@@ -2485,7 +2485,7 @@ Begin Map
 					Vertex   +00079.249752,+00011.345645,+00832.007927
 					Vertex   -02534.922863,+02625.517031,+00832.007927
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -08700.255859,-05677.256348,-01042.959106
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -2509,7 +2509,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -09712.218750,-08710.220703,-01042.956543
 					Normal   -00000.290285,-00000.956940,+00000.000000
 					TextureU -00003.827761,+00001.161139,+00000.000000
@@ -2519,7 +2519,7 @@ Begin Map
 					Vertex   +00000.192412,+00000.212187,+00000.006927
 					Vertex   +00000.192412,+00000.212187,-00831.993073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -09712.218750,-08710.220703,-01042.956543
 					Normal   -00000.956939,+00000.290290,+00000.000000
 					TextureU +00000.000000,+00002.000000,+00000.000000
@@ -2529,7 +2529,7 @@ Begin Map
 					Vertex   +00018.770537,+00061.454863,+00000.006927
 					Vertex   +00018.770537,+00061.454863,-00831.993073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -09712.218750,-08710.220703,-01042.956543
 					Normal   +00000.290284,+00000.956940,+00000.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -2539,7 +2539,7 @@ Begin Map
 					Vertex   +03556.576750,-01011.726045,+00000.006927
 					Vertex   +03556.576750,-01011.726045,-00831.993073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -09712.218750,-08710.220703,-01042.956543
 					Normal   +00000.956937,-00000.290296,+00000.000000
 					TextureU +00000.000000,-00002.000000,+00000.000000
@@ -2549,7 +2549,7 @@ Begin Map
 					Vertex   +03537.997786,-01072.970186,+00000.006927
 					Vertex   +03537.997786,-01072.970186,-00831.993073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -09712.218750,-08710.220703,-01042.956543
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.161139,+00003.827761,+00000.000000
@@ -2559,7 +2559,7 @@ Begin Map
 					Vertex   +03556.576750,-01011.726045,+00000.006927
 					Vertex   +00018.770537,+00061.454863,+00000.006927
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -09712.218750,-08710.220703,-01042.956543
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -6071,7 +6071,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -02516.037598,-02515.919434,-00112.000000
 					Normal   +00000.000000,-00000.999915,-00000.013001
 					TextureU -00001.000001,+00000.000000,+00000.000000
@@ -6081,7 +6081,7 @@ Begin Map
 					Vertex   -03695.949234,-00001.029023,+00008.009927
 					Vertex   -03709.949234,+00009.970977,-00837.990073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   -02836.036621,-02515.920166,-00112.000000
 					Normal   -00000.999863,+00000.000000,+00000.016546
 					TextureU +00000.000000,+00001.000001,+00000.000000
@@ -6091,7 +6091,7 @@ Begin Map
 					Vertex   -03695.948257,+00062.969756,+00008.009927
 					Vertex   -03709.948257,+00073.969756,-00837.990073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -02836.035156,-02195.919922,-00112.000000
 					Normal   +00000.000000,+00000.999915,+00000.013001
 					TextureU +00003.999452,+00000.000000,-00000.066174
@@ -6101,7 +6101,7 @@ Begin Map
 					Vertex   +00001.048325,+00062.970732,+00008.009927
 					Vertex   -00012.951339,+00073.970732,-00837.990073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -02516.036621,-02195.920898,-00112.000000
 					Normal   +00000.999863,+00000.000000,-00000.016546
 					TextureU +00000.000000,-00001.000001,+00000.000000
@@ -6111,7 +6111,7 @@ Begin Map
 					Vertex   +00001.048325,-00001.029512,+00008.009927
 					Vertex   -00012.952049,+00009.970488,-00837.990073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -02836.036621,-02515.920166,+00112.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -6121,7 +6121,7 @@ Begin Map
 					Vertex   +00001.048325,+00062.970732,+00008.009927
 					Vertex   -03695.948257,+00062.969756,+00008.009927
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   -02516.037598,-02515.919434,-00112.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00001.000001,+00000.000000
@@ -6145,7 +6145,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -12785.533203,-05391.577637,-01452.961182
 					Normal   +00000.547126,-00000.837050,+00000.000000
 					TextureU -00003.348202,-00002.188503,+00000.000000
@@ -6155,7 +6155,7 @@ Begin Map
 					Vertex   -00413.519229,-00270.296934,+00407.999927
 					Vertex   -00413.518740,-00270.296934,-00000.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -12785.533203,-05391.577637,-01452.961182
 					Normal   -00000.831482,-00000.555552,+00000.000000
 					TextureU -00002.222206,+00003.325928,+00000.000000
@@ -6165,7 +6165,7 @@ Begin Map
 					Vertex   -00449.073916,-00217.082822,+00407.999927
 					Vertex   -00449.073672,-00217.082822,-00000.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -12785.533203,-05391.577637,-01452.961182
 					Normal   -00000.547128,+00000.837049,+00000.000000
 					TextureU +00003.348197,+00002.188511,+00000.000000
@@ -6175,7 +6175,7 @@ Begin Map
 					Vertex   -00035.553652,+00053.209902,+00407.999927
 					Vertex   -00035.553652,+00053.209902,-00000.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -12785.533203,-05391.577637,-01452.961182
 					Normal   +00000.831469,+00000.555571,+00000.000000
 					TextureU +00002.222282,-00003.325878,+00000.000000
@@ -6185,7 +6185,7 @@ Begin Map
 					Vertex   +00000.002988,-00000.004453,+00407.999927
 					Vertex   +00000.002988,-00000.004209,-00000.000073
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -12785.533203,-05391.577637,-01452.961182
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00002.188502,+00003.348203,+00000.000000
@@ -6195,7 +6195,7 @@ Begin Map
 					Vertex   -00035.553652,+00053.209902,+00407.999927
 					Vertex   -00449.073916,-00217.082822,+00407.999927
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -12785.533203,-05391.577637,-01452.961182
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -7106,7 +7106,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=0
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -7116,7 +7116,7 @@ Begin Map
 					Vertex   +00000.000000,+00128.000000,+00000.000000
 					Vertex   +00000.000000,+00128.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=1
 					Origin   -00064.000000,+00064.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -7126,7 +7126,7 @@ Begin Map
 					Vertex   +00128.000000,+00128.000000,+00000.000000
 					Vertex   +00128.000000,+00128.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=2
 					Origin   +00064.000000,+00064.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -7136,7 +7136,7 @@ Begin Map
 					Vertex   +00128.000000,+00000.000000,+00000.000000
 					Vertex   +00128.000000,+00000.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=3
 					Origin   +00064.000000,-00064.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -7146,7 +7146,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat.LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_TR_Metal_Rsty1_Mat.TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
 					Origin   -00064.000000,+00064.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7156,7 +7156,7 @@ Begin Map
 					Vertex   +00128.000000,+00000.000000,+00000.000000
 					Vertex   +00128.000000,+00128.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=5
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7180,7 +7180,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=0
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -7190,7 +7190,7 @@ Begin Map
 					Vertex   +00000.000000,+00128.000000,+00000.000000
 					Vertex   +00000.000000,+00128.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=1
 					Origin   -00064.000000,+00064.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -7200,7 +7200,7 @@ Begin Map
 					Vertex   +00128.000000,+00128.000000,+00000.000000
 					Vertex   +00128.000000,+00128.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=2
 					Origin   +00064.000000,+00064.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -7210,7 +7210,7 @@ Begin Map
 					Vertex   +00128.000000,+00000.000000,+00000.000000
 					Vertex   +00128.000000,+00000.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=3
 					Origin   +00064.000000,-00064.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -7220,7 +7220,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat.LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_TR_Metal_Rsty1_Mat.TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
 					Origin   -00064.000000,+00064.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7230,7 +7230,7 @@ Begin Map
 					Vertex   +00128.000000,+00000.000000,+00000.000000
 					Vertex   +00128.000000,+00128.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=5
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7254,7 +7254,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=0
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -7264,7 +7264,7 @@ Begin Map
 					Vertex   +00000.000000,+00128.000000,+00000.000000
 					Vertex   +00000.000000,+00128.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=1
 					Origin   -00064.000000,+00064.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -7274,7 +7274,7 @@ Begin Map
 					Vertex   +00128.000000,+00128.000000,+00000.000000
 					Vertex   +00128.000000,+00128.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=2
 					Origin   +00064.000000,+00064.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -7284,7 +7284,7 @@ Begin Map
 					Vertex   +00128.000000,+00000.000000,+00000.000000
 					Vertex   +00128.000000,+00000.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=3
 					Origin   +00064.000000,-00064.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -7294,7 +7294,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat.LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_TR_Metal_Rsty1_Mat.TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
 					Origin   -00064.000000,+00064.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7304,7 +7304,7 @@ Begin Map
 					Vertex   +00128.000000,+00000.000000,+00000.000000
 					Vertex   +00128.000000,+00128.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=5
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7328,7 +7328,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=0
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -7338,7 +7338,7 @@ Begin Map
 					Vertex   +00000.000000,+00128.000000,+00000.000000
 					Vertex   +00000.000000,+00128.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=1
 					Origin   -00064.000000,+00064.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -7348,7 +7348,7 @@ Begin Map
 					Vertex   +00128.000000,+00128.000000,+00000.000000
 					Vertex   +00128.000000,+00128.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=2
 					Origin   +00064.000000,+00064.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -7358,7 +7358,7 @@ Begin Map
 					Vertex   +00128.000000,+00000.000000,+00000.000000
 					Vertex   +00128.000000,+00000.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=3
 					Origin   +00064.000000,-00064.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -7368,7 +7368,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00160.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat.LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_TR_Metal_Rsty1_Mat.TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
 					Origin   -00064.000000,+00064.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7378,7 +7378,7 @@ Begin Map
 					Vertex   +00128.000000,+00000.000000,+00000.000000
 					Vertex   +00128.000000,+00128.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=5
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8757,7 +8757,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -09688.214844,-02217.218262,-01657.960205
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -8767,7 +8767,7 @@ Begin Map
 					Vertex   +00017.000156,+00009.004424,-00000.000205
 					Vertex   +00017.000156,+00009.004424,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   -00096.576279,-05128.158691,-00112.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000001,+00000.000000,+00000.000000
@@ -8777,7 +8777,7 @@ Begin Map
 					Vertex   -00015.998867,+00009.006377,-00000.000205
 					Vertex   -00015.998867,+00009.006377,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -09688.214844,-02217.218262,-01657.960205
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -8787,7 +8787,7 @@ Begin Map
 					Vertex   -00015.999844,+00960.001738,-00000.000205
 					Vertex   -00015.999844,+00960.001738,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=3
 					Origin   -09688.214844,-02217.218262,-01657.960205
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -8797,7 +8797,7 @@ Begin Map
 					Vertex   +00017.000156,+00960.001250,-00000.000205
 					Vertex   +00017.000156,+00960.001250,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=4
 					Origin   -09688.214844,-02217.218262,-01657.960205
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -8807,7 +8807,7 @@ Begin Map
 					Vertex   -00015.999844,+00960.001738,-00000.000205
 					Vertex   -00015.998867,+00009.006377,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=5
 					Origin   -09688.214844,-02217.218262,-01657.960205
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.000000,+00000.000000,+00000.000000
@@ -8831,7 +8831,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -00096.577148,-04808.160156,-00112.000061
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -8841,7 +8841,7 @@ Begin Map
 					Vertex   -00000.000044,-00584.995576,+00425.999795
 					Vertex   -00000.000044,-00584.995576,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=1
 					Origin   -10088.214844,-02217.219971,-01657.959961
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00002.000000,+00000.000000,+00000.000000
@@ -8851,7 +8851,7 @@ Begin Map
 					Vertex   -00263.999067,-00584.993623,+00425.999795
 					Vertex   -00263.999067,-00584.993623,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=2
 					Origin   -10088.214844,-02217.219971,-01657.959961
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -8861,7 +8861,7 @@ Begin Map
 					Vertex   -00264.000044,+00003.001738,+00425.999795
 					Vertex   -00264.000044,+00003.001738,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -00416.576172,-04808.159180,-00112.000061
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -8871,7 +8871,7 @@ Begin Map
 					Vertex   -00000.000044,+00003.001250,+00425.999795
 					Vertex   -00000.000044,+00003.001250,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -00096.576172,-05128.158691,+00111.999939
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -8881,7 +8881,7 @@ Begin Map
 					Vertex   -00264.000044,+00003.001738,+00425.999795
 					Vertex   -00263.999067,-00584.993623,+00425.999795
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   -00096.577568,-04808.160156,-00112.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000001,+00000.000000,+00000.000000
@@ -8905,7 +8905,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_WetConc_Mat.LowerKashyyyk_Textures_General_WetConc_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_WetConc_Mat.WetConc_Mat LightMapScale=128.0 Link=0
 					Origin   -10632.215820,-02217.219238,-01657.960327
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -8915,7 +8915,7 @@ Begin Map
 					Vertex   -00000.003727,+00017.000273,-00000.000205
 					Vertex   -00000.003727,+00017.000273,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   +01558.723877,-03249.581543,-00112.000008
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000001,+00000.000000
@@ -8925,7 +8925,7 @@ Begin Map
 					Vertex   -00000.004703,-00018.998994,-00000.000205
 					Vertex   -00000.004703,-00018.998994,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   +01558.722656,-03569.581787,-00112.000008
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000001,+00000.000000,+00000.000000
@@ -8935,7 +8935,7 @@ Begin Map
 					Vertex   -00976.000797,-00018.999727,-00000.000205
 					Vertex   -00976.000797,-00018.999727,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   +01238.724243,-03569.581543,-00112.000008
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000001,+00000.000000
@@ -8945,7 +8945,7 @@ Begin Map
 					Vertex   -00976.000797,+00017.000273,-00000.000205
 					Vertex   -00976.000797,+00017.000273,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   +01558.723511,-03249.581543,+00111.999962
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -8955,7 +8955,7 @@ Begin Map
 					Vertex   -00976.000797,-00018.999727,-00000.000205
 					Vertex   -00000.004703,-00018.998994,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   +01238.724854,-03249.582520,-00112.000008
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000001,+00000.000000
@@ -8979,7 +8979,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -00096.577568,-04808.160156,-00112.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000001,+00000.000000
@@ -8989,7 +8989,7 @@ Begin Map
 					Vertex   +00000.000156,-00390.995576,+00425.999795
 					Vertex   +00000.000156,-00390.995576,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   -00096.576279,-05128.158691,-00112.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000001,+00000.000000,+00000.000000
@@ -8999,7 +8999,7 @@ Begin Map
 					Vertex   -00015.998867,-00390.993623,+00425.999795
 					Vertex   -00015.998867,-00390.993623,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -00416.576324,-05128.158203,-00112.000031
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -9009,7 +9009,7 @@ Begin Map
 					Vertex   -00015.999844,+00000.001738,+00425.999795
 					Vertex   -00015.999844,+00000.001738,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -00416.576172,-04808.159180,-00112.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000001,+00000.000000,+00000.000000
@@ -9019,7 +9019,7 @@ Begin Map
 					Vertex   +00000.000156,+00000.001250,+00425.999795
 					Vertex   +00000.000156,+00000.001250,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -00096.576324,-05128.158691,+00111.999969
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -9029,7 +9029,7 @@ Begin Map
 					Vertex   -00015.999844,+00000.001738,+00425.999795
 					Vertex   -00015.998867,-00390.993623,+00425.999795
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   -00096.577568,-04808.160156,-00112.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000001,+00000.000000,+00000.000000
@@ -9053,7 +9053,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   +02198.725342,-02289.582520,-00112.000061
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -9063,7 +9063,7 @@ Begin Map
 					Vertex   -00000.003727,+00000.000273,+00000.000795
 					Vertex   -00000.003727,+00000.000273,-00425.999205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   +02518.723389,-02289.581299,-00112.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000001,+00000.000000
@@ -9073,7 +9073,7 @@ Begin Map
 					Vertex   -00000.005680,-00015.998750,+00000.000795
 					Vertex   -00000.005680,-00015.998750,-00425.999205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   +02518.723145,-02609.582031,-00112.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000001,+00000.000000,+00000.000000
@@ -9083,7 +9083,7 @@ Begin Map
 					Vertex   -00296.000461,-00015.999727,+00000.000795
 					Vertex   -00296.000461,-00015.999727,-00425.999205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   +02198.723389,-02609.580566,-00112.000061
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -9093,7 +9093,7 @@ Begin Map
 					Vertex   -00296.000446,+00000.000273,+00000.000795
 					Vertex   -00296.000446,+00000.000273,-00425.999205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   +02518.723389,-02289.581299,+00111.999939
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -9103,7 +9103,7 @@ Begin Map
 					Vertex   -00296.000461,-00015.999727,+00000.000795
 					Vertex   -00000.005680,-00015.998750,+00000.000795
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   +02198.724854,-02289.582520,-00112.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000001,+00000.000000
@@ -9127,7 +9127,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -00096.577568,-04808.160156,-00112.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000001,+00000.000000
@@ -9137,7 +9137,7 @@ Begin Map
 					Vertex   +00000.000156,-00559.995576,+00425.999795
 					Vertex   +00000.000156,-00559.995576,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   -00096.576279,-05128.158691,-00112.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000001,+00000.000000,+00000.000000
@@ -9147,7 +9147,7 @@ Begin Map
 					Vertex   -00015.998867,-00559.993623,+00425.999795
 					Vertex   -00015.998867,-00559.993623,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -00416.576324,-05128.158203,-00112.000031
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -9157,7 +9157,7 @@ Begin Map
 					Vertex   -00015.999844,+00000.001738,+00425.999795
 					Vertex   -00015.999844,+00000.001738,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -00416.576172,-04808.159180,-00112.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000001,+00000.000000,+00000.000000
@@ -9167,7 +9167,7 @@ Begin Map
 					Vertex   +00000.000156,+00000.001250,+00425.999795
 					Vertex   +00000.000156,+00000.001250,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -00096.576324,-05128.158691,+00111.999969
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -9177,7 +9177,7 @@ Begin Map
 					Vertex   -00015.999844,+00000.001738,+00425.999795
 					Vertex   -00015.998867,-00559.993623,+00425.999795
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   -00096.577568,-04808.160156,-00112.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000001,+00000.000000,+00000.000000
@@ -9201,7 +9201,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -02615.154297,-02512.856934,-00112.000031
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -9211,7 +9211,7 @@ Begin Map
 					Vertex   +00108.004062,-00000.000459,-00000.000205
 					Vertex   +00108.004062,-00000.000459,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   -02935.153320,-02512.858154,-00112.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000001,+00000.000000
@@ -9221,7 +9221,7 @@ Begin Map
 					Vertex   +00108.006016,+00015.999053,-00000.000205
 					Vertex   +00108.006016,+00015.999053,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -02935.152832,-02192.857422,-00112.000031
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -9231,7 +9231,7 @@ Begin Map
 					Vertex   +00720.001865,+00016.000029,-00000.000205
 					Vertex   +00720.001865,+00016.000029,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -02615.153564,-02192.858398,-00112.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000001,+00000.000000
@@ -9241,7 +9241,7 @@ Begin Map
 					Vertex   +00720.001331,-00000.000215,-00000.000205
 					Vertex   +00720.001331,-00000.000215,-00426.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -02935.153320,-02512.858154,+00111.999969
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -9251,7 +9251,7 @@ Begin Map
 					Vertex   +00720.001865,+00016.000029,-00000.000205
 					Vertex   +00108.006016,+00015.999053,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   -02615.154785,-02512.856934,-00112.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00001.000001,+00000.000000
@@ -13442,7 +13442,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   +00159.999969,+00127.999947,-00016.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -13452,7 +13452,7 @@ Begin Map
 					Vertex   -00000.000350,-00256.000071,+00004.999993
 					Vertex   -00000.000319,-00256.000102,-00000.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   +00159.999847,-00127.999969,-00016.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -13462,7 +13462,7 @@ Begin Map
 					Vertex   -00320.000182,-00256.000056,+00004.999995
 					Vertex   -00320.000197,-00256.000102,-00000.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -00159.999969,-00127.999947,-00016.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -13472,7 +13472,7 @@ Begin Map
 					Vertex   -00320.000060,-00000.000132,+00004.999993
 					Vertex   -00320.000075,-00000.000102,-00000.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -00159.999847,+00127.999969,-00016.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -13482,7 +13482,7 @@ Begin Map
 					Vertex   -00000.000228,-00000.000155,+00004.999993
 					Vertex   -00000.000197,-00000.000102,-00000.000007
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   +00159.999832,-00127.999901,+00016.000008
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -13492,7 +13492,7 @@ Begin Map
 					Vertex   -00320.000045,-00000.000132,+00004.999993
 					Vertex   -00320.000167,-00256.000041,+00004.999993
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   +00159.999954,+00128.000092,-00015.999993
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -14022,7 +14022,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -14032,7 +14032,7 @@ Begin Map
 					Vertex   -01687.652409,+00000.000000,+00039.952774
 					Vertex   -01687.619084,+00000.000000,-00000.149826
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -14042,7 +14042,7 @@ Begin Map
 					Vertex   -00000.116154,+00000.000000,+00039.968582
 					Vertex   -00000.000187,+00000.000000,+00000.000015
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.999996,+00000.000000,+00000.002901
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -14052,7 +14052,7 @@ Begin Map
 					Vertex   -00000.116154,-01520.000000,+00039.968582
 					Vertex   -00000.000187,-01520.000000,+00000.000015
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -14062,7 +14062,7 @@ Begin Map
 					Vertex   -01687.652409,-01520.000000,+00039.952774
 					Vertex   -01687.619084,-01520.000000,-00000.149826
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -14072,7 +14072,7 @@ Begin Map
 					Vertex   -00000.116154,-01520.000000,+00039.968582
 					Vertex   -00000.116154,+00000.000000,+00039.968582
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat.LowerKashyyyk_Textures_Shaders_CocreteWetV2_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_CocreteWetV2_Mat.CocreteWetV2_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -14323,7 +14323,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=0
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   -00000.982753,+00000.184924,+00000.000000
 					TextureU +00000.195090,+00000.980785,+00000.000000
@@ -14333,7 +14333,7 @@ Begin Map
 					Vertex   +00068.971558,+00366.540527,+00006.000200
 					Vertex   +00068.971558,+00366.540527,+00000.000200
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=1
 					Origin   -00039.028435,+00061.540512,-00128.000000
 					Normal   +00000.215541,+00000.976495,+00000.000000
 					TextureU +00000.980785,-00000.195090,+00000.000000
@@ -14343,7 +14343,7 @@ Begin Map
 					Vertex   +00689.512207,+00229.568970,+00006.000200
 					Vertex   +00689.512207,+00229.568970,+00000.000200
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=2
 					Origin   +00086.512070,+00036.568954,-00128.000000
 					Normal   +00000.978196,-00000.207683,+00000.000000
 					TextureU -00000.195090,-00000.980785,+00000.000000
@@ -14353,7 +14353,7 @@ Begin Map
 					Vertex   +00612.540527,-00132.971558,+00006.000200
 					Vertex   +00612.540527,-00132.971558,+00000.000200
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=3
 					Origin   +00061.540512,-00088.971565,-00128.000000
 					Normal   -00000.212141,-00000.977239,+00000.000000
 					TextureU -00000.980785,+00000.195090,+00000.000000
@@ -14363,7 +14363,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00006.000200
 					Vertex   +00000.000000,+00000.000000,+00000.000200
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat.LowerKashyyyk_Textures_General_TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_TR_Metal_Rsty1_Mat.TR_Metal_Rsty1_Mat LightMapScale=128.0 Link=4
 					Origin   -00039.028435,+00061.540512,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.980785,-00000.195090,+00000.000000
@@ -14373,7 +14373,7 @@ Begin Map
 					Vertex   +00612.540527,-00132.971558,+00006.000200
 					Vertex   +00689.512207,+00229.568970,+00006.000200
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_Shaders_MetalStrips_Mat.LowerKashyyyk_Textures_Shaders_MetalStrips_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_MetalStrips_Mat.MetalStrips_Mat LightMapScale=128.0 Link=5
 					Origin   -00064.000000,-00064.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.980785,-00000.195090,+00000.000000
@@ -15068,7 +15068,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -05286.782227,+00073.169250,-00128.000000
 					Normal   +00000.495925,-00000.868365,+00000.000000
 					TextureU -00000.773010,-00000.634393,+00000.000000
@@ -15078,7 +15078,7 @@ Begin Map
 					Vertex   -03324.098164,+00328.145632,+00774.008863
 					Vertex   -03324.098164,+00328.145632,+00685.008863
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   -05484.672852,-00089.235504,-00128.000000
 					Normal   -00000.773010,-00000.634394,+00000.000000
 					TextureU -00000.634393,+00000.773010,+00000.000000
@@ -15088,7 +15088,7 @@ Begin Map
 					Vertex   -03537.253438,+00587.876345,+00774.008863
 					Vertex   -03537.254414,+00587.876650,+00685.008863
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -05647.076172,+00108.654266,-00128.000000
 					Normal   -00000.826664,+00000.562696,+00000.000000
 					TextureU +00000.773010,+00000.634393,+00000.000000
@@ -15098,7 +15098,7 @@ Begin Map
 					Vertex   -02699.301289,+01818.924776,+00774.008863
 					Vertex   -02699.301289,+01818.924776,+00685.008863
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -05449.185059,+00271.059235,-00128.000000
 					Normal   +00000.727800,+00000.685789,+00000.000000
 					TextureU +00002.743156,-00002.911202,+00000.000000
@@ -15108,7 +15108,7 @@ Begin Map
 					Vertex   -02004.628926,+01081.696749,+00774.008863
 					Vertex   -02004.628926,+01081.696749,+00685.008863
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -05484.672852,-00089.235443,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.983700,+00003.473461,+00000.000000
@@ -15118,7 +15118,7 @@ Begin Map
 					Vertex   -02699.301289,+01818.924776,+00774.008863
 					Vertex   -03537.253438,+00587.876345,+00774.008863
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   -05286.782227,+00073.169250,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.634393,+00000.773010,+00000.000000
@@ -19336,7 +19336,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=0
 					Origin   -00789.391785,-04670.870117,-00112.000000
 					Normal   +00000.960388,-00000.278666,+00000.000000
 					TextureU -00000.290284,-00000.956941,+00000.000000
@@ -19346,7 +19346,7 @@ Begin Map
 					Vertex   -00106.817397,-00367.805879,+00009.999795
 					Vertex   -00106.817397,-00367.805879,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=1
 					Origin   -00882.281250,-04977.089355,-00112.000000
 					Normal   -00000.275937,-00000.961176,+00000.000000
 					TextureU -00000.956941,+00000.290284,+00000.000000
@@ -19356,7 +19356,7 @@ Begin Map
 					Vertex   -00544.448256,-00242.169404,+00009.999795
 					Vertex   -00544.448256,-00242.169404,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=2
 					Origin   -01188.502441,-04884.198242,-00112.000000
 					Normal   -00000.961933,+00000.273285,+00000.000000
 					TextureU +00000.290284,+00000.956941,+00000.000000
@@ -19366,7 +19366,7 @@ Begin Map
 					Vertex   -00429.763686,+00161.507598,+00009.999795
 					Vertex   -00429.763686,+00161.507598,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=3
 					Origin   -01095.611328,-04577.977539,-00112.000000
 					Normal   +00000.352123,+00000.935954,+00000.000000
 					TextureU +00000.956941,-00000.290284,+00000.000000
@@ -19376,7 +19376,7 @@ Begin Map
 					Vertex   -00000.131850,-00000.127900,+00009.999795
 					Vertex   -00000.131850,-00000.127900,-00000.000205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=4
 					Origin   -00882.281250,-04977.089355,+00111.999969
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00003.841552,+00001.114666,+00000.000000
@@ -19386,7 +19386,7 @@ Begin Map
 					Vertex   -00429.763686,+00161.507598,+00009.999795
 					Vertex   -00544.448256,-00242.169404,+00009.999795
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures_General_GenericConc1_Mat.LowerKashyyyk_Textures_General_GenericConc1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/General_GenericConc1_Mat.GenericConc1_Mat LightMapScale=128.0 Link=5
 					Origin   -00789.391602,-04670.870117,-00112.000031
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00003.841552,+00001.114666,+00000.000000

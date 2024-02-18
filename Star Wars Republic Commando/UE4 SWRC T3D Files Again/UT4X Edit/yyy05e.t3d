@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat.UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_YYY_skySwitch3_Mat.YYY_skySwitch3_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.747009,-00256.000000,-00256.000000
 					Normal   -00000.999999,+00000.000000,-00000.001273
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   +00000.000052,+00512.000000,-00000.000251
 					Vertex   +00000.747000,+00512.000000,-00586.693000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat.UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_YYY_skySwitch3_Mat.YYY_skySwitch3_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.747009,+00256.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00000.998541,+00000.000000,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   +00512.000036,+00512.000000,-00000.000251
 					Vertex   +00512.747000,+00512.000000,-00586.693000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat.UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_YYY_skySwitch3_Mat.YYY_skySwitch3_Mat LightMapScale=128.0 Link=2
 					Origin   +00255.252991,-00256.000000,-00256.000000
 					Normal   +00000.999999,+00000.000000,+00000.001273
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   +00512.000036,+00000.000000,-00000.000251
 					Vertex   +00512.747000,+00000.000000,-00586.693000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat.UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_YYY_skySwitch3_Mat.YYY_skySwitch3_Mat LightMapScale=128.0 Link=3
 					Origin   -00256.747009,-00256.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.998541,+00000.000000,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   +00000.000052,+00000.000000,-00000.000251
 					Vertex   +00000.747000,+00000.000000,-00586.693000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat.UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_YYY_skySwitch3_Mat.YYY_skySwitch3_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.747009,-00256.000000,+00330.692749
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   +00512.000036,+00000.000000,-00000.000251
 					Vertex   +00512.000036,+00512.000000,-00000.000251
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat.UpperKashyyyk_Textures_Shaders_YYY_skySwitch3_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_YYY_skySwitch3_Mat.YYY_skySwitch3_Mat LightMapScale=128.0 Link=5
 					Origin   -00255.999939,-00256.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -367,7 +367,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -265439.875000,-265607.812500,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -377,7 +377,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.002969,-00000.000237
 					Vertex   -03104.000000,+00000.002969,-00000.000237
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat.UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=1
 					Origin   -02840.000000,+22771.000000,-01776.000977
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -387,7 +387,7 @@ Begin Map
 					Vertex   -03104.000000,+00000.002969,-00752.000237
 					Vertex   +00000.000000,+00000.002969,-00752.000237
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +262687.906250,-01159.966309,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -397,7 +397,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.002969,-00000.000237
 					Vertex   +00000.000000,+00000.002969,-00752.000237
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -02399.992676,-265351.843750,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -407,7 +407,7 @@ Begin Map
 					Vertex   +00000.000000,-00975.997031,-00000.000237
 					Vertex   +00000.000000,-00975.997031,-00752.000237
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -261599.937500,-01672.000366,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -417,7 +417,7 @@ Begin Map
 					Vertex   -03104.000000,-00975.997031,-00000.000237
 					Vertex   -03104.000000,-00975.997031,-00752.000237
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.008911,+258935.937500,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -441,7 +441,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -265439.875000,-265607.812500,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -451,7 +451,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000023
 					Vertex   -00336.000000,+00000.000000,+00000.000023
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat.UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=1
 					Origin   -05400.000000,+22899.000000,-01776.000977
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -461,7 +461,7 @@ Begin Map
 					Vertex   -00336.000000,+00000.000000,-00431.999000
 					Vertex   +00000.000000,+00000.000000,-00431.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +262687.906250,-01159.966309,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -471,7 +471,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000023
 					Vertex   +00000.000000,+00000.000000,-00431.999000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -02399.992676,-265351.843750,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -481,7 +481,7 @@ Begin Map
 					Vertex   +00000.000000,-00224.000000,-00000.000953
 					Vertex   +00000.000000,-00224.000000,-00431.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -261599.937500,-01672.000366,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -491,7 +491,7 @@ Begin Map
 					Vertex   -00336.000000,-00224.000000,-00000.000953
 					Vertex   -00336.000000,-00224.000000,-00431.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.008911,+258935.937500,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -557,7 +557,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -265439.875000,-265607.906250,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -567,7 +567,7 @@ Begin Map
 					Vertex   +01264.000000,+00000.000000,+00672.000000
 					Vertex   +00000.000000,+00000.000000,+00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=1
 					Origin   -265579.875000,+258672.781250,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -577,7 +577,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +01264.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +262687.937500,-01159.906006,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -587,7 +587,7 @@ Begin Map
 					Vertex   +01264.000000,+00000.000000,+00672.000000
 					Vertex   +01264.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -02399.975830,-265351.875000,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -597,7 +597,7 @@ Begin Map
 					Vertex   +01263.999634,-00567.998047,+00672.000000
 					Vertex   +01263.999634,-00567.998047,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -261599.937500,-01672.024414,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -607,7 +607,7 @@ Begin Map
 					Vertex   +00000.000732,-00567.998047,+00672.000000
 					Vertex   +00000.000732,-00567.998047,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.033203,+258935.859375,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -631,7 +631,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -266079.906250,-267911.906250,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -641,7 +641,7 @@ Begin Map
 					Vertex   +00439.990000,+00199.991953,+00016.000000
 					Vertex   -00008.009268,+00199.991953,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat.UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=1
 					Origin   -266080.000000,+256375.968750,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -651,7 +651,7 @@ Begin Map
 					Vertex   -00008.009268,+00199.991953,-00432.000000
 					Vertex   +00439.990000,+00199.991953,-00432.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +262047.968750,-03463.948242,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -661,7 +661,7 @@ Begin Map
 					Vertex   +00439.990000,+00199.991953,+00016.000000
 					Vertex   +00439.990000,+00199.991953,-00432.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -03039.956055,-267655.906250,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -671,7 +671,7 @@ Begin Map
 					Vertex   +00439.990000,+00007.990000,+00016.000000
 					Vertex   +00439.990000,+00007.990000,-00432.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -262239.937500,-03976.013184,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -681,7 +681,7 @@ Begin Map
 					Vertex   -00008.010000,+00007.990000,+00016.000000
 					Vertex   -00008.010000,+00007.990000,-00432.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -01631.997314,+256631.875000,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -720,7 +720,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   +262144.000000,+262144.000000,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -730,7 +730,7 @@ Begin Map
 					Vertex   -07317.000000,-03376.000000,+02016.000000
 					Vertex   +00000.000000,-03376.000000,+02016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,-262144.000000,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -740,7 +740,7 @@ Begin Map
 					Vertex   +00000.000000,-03376.000000,+00000.000000
 					Vertex   -07317.000000,-03376.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   -265983.968750,-02304.041260,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -750,7 +750,7 @@ Begin Map
 					Vertex   -07317.000000,-03376.000000,+02016.000000
 					Vertex   -07317.000000,-03376.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeGHall1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeGHall1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeGHall1_Mat.BridgeGHall1_Mat LightMapScale=128.0 Link=3
 					Origin   -00896.011475,+261887.937500,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -760,7 +760,7 @@ Begin Map
 					Vertex   -07317.000000,+00000.000000,+02016.000000
 					Vertex   -07317.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   +258303.984375,-01791.988525,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -770,7 +770,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+02016.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -02303.994873,-262399.937500,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -851,7 +851,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   +262144.000000,+262144.000000,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -861,7 +861,7 @@ Begin Map
 					Vertex   +00000.000000,-04992.000000,+03136.000000
 					Vertex   +12032.000000,-04992.000000,+03136.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,-262144.000000,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -871,7 +871,7 @@ Begin Map
 					Vertex   +12032.000000,-04992.000000,+00000.000000
 					Vertex   +00000.000000,-04992.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   -265983.968750,-02304.041260,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -881,7 +881,7 @@ Begin Map
 					Vertex   +00000.000000,-04992.000000,+03136.000000
 					Vertex   +00000.000000,-04992.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeGHall1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeGHall1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeGHall1_Mat.BridgeGHall1_Mat LightMapScale=128.0 Link=3
 					Origin   -00896.011475,+261887.937500,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -891,7 +891,7 @@ Begin Map
 					Vertex   +00000.000000,-01008.000000,+03136.000000
 					Vertex   +00000.000000,-01008.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   +258303.984375,-01791.988525,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -901,7 +901,7 @@ Begin Map
 					Vertex   +12032.000000,-01008.000000,+03136.000000
 					Vertex   +12032.000000,-01008.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -02303.994873,-262399.937500,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -925,7 +925,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   +262144.000000,+262144.000000,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -935,7 +935,7 @@ Begin Map
 					Vertex   -01792.000000,-04992.000000,+03728.000000
 					Vertex   +00000.000000,-04992.000000,+03728.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,-262144.000000,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -945,7 +945,7 @@ Begin Map
 					Vertex   +00000.000000,-04992.000000,+00000.000000
 					Vertex   -01792.000000,-04992.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   -265983.968750,-02304.041260,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -955,7 +955,7 @@ Begin Map
 					Vertex   -01792.000000,-04992.000000,+03728.000000
 					Vertex   -01792.000000,-04992.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeGHall1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeGHall1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeGHall1_Mat.BridgeGHall1_Mat LightMapScale=128.0 Link=3
 					Origin   -00896.011475,+261887.937500,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -965,7 +965,7 @@ Begin Map
 					Vertex   -01792.000000,-01008.000000,+03728.000000
 					Vertex   -01792.000000,-01008.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   +258303.984375,-01791.988525,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -975,7 +975,7 @@ Begin Map
 					Vertex   +00000.000000,-01008.000000,+03728.000000
 					Vertex   +00000.000000,-01008.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -02303.994873,-262399.937500,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -999,7 +999,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   +262144.000000,+262144.000000,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1009,7 +1009,7 @@ Begin Map
 					Vertex   -02928.000000,-04992.000000,+00000.000000
 					Vertex   +00000.000000,-04992.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,-262144.000000,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1019,7 +1019,7 @@ Begin Map
 					Vertex   +00000.000000,-04992.000000,-03472.000000
 					Vertex   -02928.000000,-04992.000000,-03472.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   -265983.968750,-02304.041260,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1029,7 +1029,7 @@ Begin Map
 					Vertex   -02928.000000,-04992.000000,+00000.000000
 					Vertex   -02928.000000,-04992.000000,-03472.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -38261.000000,+289300.937500,+262128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1039,7 +1039,7 @@ Begin Map
 					Vertex   -02928.000000,-01008.000000,+00000.000000
 					Vertex   -02928.000000,-01008.000000,-03472.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   +258303.984375,-01791.988525,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1049,7 +1049,7 @@ Begin Map
 					Vertex   +00000.000000,-01008.000000,+00000.000000
 					Vertex   +00000.000000,-01008.000000,-03472.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -02303.994873,-262399.937500,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1340,7 +1340,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   +259199.781250,+260959.687500,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1350,7 +1350,7 @@ Begin Map
 					Vertex   -00000.003691,-00752.001563,+00727.999023
 					Vertex   +01375.996309,-00752.001563,+00727.999023
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=1
 					Origin   +259200.843750,-263222.906250,-00704.000061
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -1360,7 +1360,7 @@ Begin Map
 					Vertex   +01375.996309,-00752.001563,-00024.000977
 					Vertex   -00000.003691,-00752.001563,-00024.000977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   -268927.812500,-03488.016602,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1370,7 +1370,7 @@ Begin Map
 					Vertex   -00000.003691,-00752.001563,+00727.999023
 					Vertex   -00000.003691,-00752.001563,-00024.000977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -03839.979980,+260703.750000,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1380,7 +1380,7 @@ Begin Map
 					Vertex   -00000.003691,-00000.001807,+00727.999023
 					Vertex   -00000.003691,-00000.001563,-00024.000977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -297532.031250,+27798.621094,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1390,7 +1390,7 @@ Begin Map
 					Vertex   +01375.996309,-00000.001563,+00727.999023
 					Vertex   +01375.996309,-00000.001563,-00024.000977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -05248.006348,-263583.875000,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1487,7 +1487,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -265439.875000,-265607.812500,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1497,7 +1497,7 @@ Begin Map
 					Vertex   +00000.004961,-00000.003047,+00000.000023
 					Vertex   -00383.995039,-00000.003047,+00000.000023
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=1
 					Origin   -261244.406250,+321041.000000,-00868.864990
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1507,7 +1507,7 @@ Begin Map
 					Vertex   -00383.995039,-00000.003047,-00431.999977
 					Vertex   +00000.004961,-00000.003047,-00431.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +262687.906250,-01159.966309,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1517,7 +1517,7 @@ Begin Map
 					Vertex   +00000.004961,-00000.003047,+00000.000023
 					Vertex   +00000.004961,-00000.003047,-00431.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -02399.992676,-265351.843750,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1527,7 +1527,7 @@ Begin Map
 					Vertex   +00000.004961,-00224.003047,+00000.000023
 					Vertex   +00000.004961,-00224.003047,-00431.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -261599.937500,-01672.000366,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1537,7 +1537,7 @@ Begin Map
 					Vertex   -00383.995039,-00224.003047,+00000.000023
 					Vertex   -00383.995039,-00224.003047,-00431.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.008911,+258935.937500,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1561,7 +1561,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -265439.875000,-265607.812500,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1571,7 +1571,7 @@ Begin Map
 					Vertex   -00000.004062,-00000.003047,+00000.000023
 					Vertex   -03200.004063,-00000.003047,+00000.000023
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat.UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=1
 					Origin   -265439.906250,+258679.937500,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1581,7 +1581,7 @@ Begin Map
 					Vertex   -03200.004063,-00000.003047,-00751.999977
 					Vertex   -00000.004062,-00000.003047,-00751.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +262687.906250,-01159.966309,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1591,7 +1591,7 @@ Begin Map
 					Vertex   -00000.004062,-00000.003047,+00000.000023
 					Vertex   -00000.004062,-00000.003047,-00751.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -02399.992676,-265351.843750,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1601,7 +1601,7 @@ Begin Map
 					Vertex   -00000.004062,-01680.003047,+00000.000023
 					Vertex   -00000.004062,-01680.003047,-00751.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -261599.937500,-01672.000366,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1611,7 +1611,7 @@ Begin Map
 					Vertex   -03200.004063,-01680.003047,+00000.000023
 					Vertex   -03200.004063,-01680.003047,-00751.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.008911,+258935.937500,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1635,7 +1635,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -265439.875000,-265607.812500,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1645,7 +1645,7 @@ Begin Map
 					Vertex   +00416.000000,+00208.000000,+00000.000023
 					Vertex   +00000.000000,+00208.000000,+00000.000023
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat.UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=1
 					Origin   -265439.906250,+258679.937500,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1655,7 +1655,7 @@ Begin Map
 					Vertex   +00000.000000,+00208.000000,-00447.999977
 					Vertex   +00416.000000,+00208.000000,-00447.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +262687.906250,-01159.966309,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1665,7 +1665,7 @@ Begin Map
 					Vertex   +00416.000000,+00208.000000,+00000.000023
 					Vertex   +00416.000000,+00208.000000,-00447.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -02399.992676,-265351.843750,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1675,7 +1675,7 @@ Begin Map
 					Vertex   +00416.000000,+00000.000000,+00000.000023
 					Vertex   +00416.000000,+00000.000000,-00447.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -261599.937500,-01672.000366,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1685,7 +1685,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000023
 					Vertex   +00000.000000,+00000.000000,-00447.999977
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.008911,+258935.937500,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1782,7 +1782,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -265439.875000,-265607.906250,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1792,7 +1792,7 @@ Begin Map
 					Vertex   +00911.990000,+02343.991953,+00016.000000
 					Vertex   +00007.990000,+02343.991953,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat.UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=1
 					Origin   -265439.875000,+258679.796875,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1802,7 +1802,7 @@ Begin Map
 					Vertex   +00007.990000,+02343.990000,-00624.000000
 					Vertex   +00911.990000,+02343.991953,-00624.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +262687.937500,-01159.906006,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1812,7 +1812,7 @@ Begin Map
 					Vertex   +00911.990000,+02343.991953,+00016.000000
 					Vertex   +00911.990000,+02343.991953,-00624.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   -02399.975830,-265351.875000,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1822,7 +1822,7 @@ Begin Map
 					Vertex   +00911.989512,-00000.008047,+00016.000000
 					Vertex   +00911.989512,-00000.008047,-00624.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -261599.937500,-01672.024414,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1832,7 +1832,7 @@ Begin Map
 					Vertex   +00007.990732,-00000.008047,+00016.000000
 					Vertex   +00007.990732,-00000.008047,-00624.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.033203,+258935.859375,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1856,7 +1856,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=0
 					Origin   -01855.990967,+45209.011719,-03271.450928
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1866,7 +1866,7 @@ Begin Map
 					Vertex   +00131.990000,+00403.991953,+00016.000000
 					Vertex   +00015.990000,+00403.991953,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat.UpperKashyyyk_Textures_K5Bridge_Ka_Twigs_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=1
 					Origin   -265439.875000,+258679.796875,-00704.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1876,7 +1876,7 @@ Begin Map
 					Vertex   +00015.990000,+00403.991953,-00624.000000
 					Vertex   +00131.990000,+00403.991953,-00624.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=2
 					Origin   -13551.990234,+32456.560547,-02215.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1886,7 +1886,7 @@ Begin Map
 					Vertex   +00131.990000,+00403.991953,+00016.000000
 					Vertex   +00131.990000,+00403.991953,-00624.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=3
 					Origin   -03676.103760,+45209.562500,-02215.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1896,7 +1896,7 @@ Begin Map
 					Vertex   +00131.989512,+00007.991953,+00016.000000
 					Vertex   +00131.989512,+00007.991953,-00624.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=4
 					Origin   -13553.091797,+32465.232422,-02215.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1906,7 +1906,7 @@ Begin Map
 					Vertex   +00015.990732,+00007.991953,+00016.000000
 					Vertex   +00015.990732,+00007.991953,-00624.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00992.033203,+258935.859375,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1930,7 +1930,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_brdgnwmiddle_Mat.UpperKashyyyk_Textures_Shaders_brdgnwmiddle_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_brdgnwmiddle_Mat.brdgnwmiddle_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00074.000000,+00204.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,-00001.000000
@@ -1940,7 +1940,7 @@ Begin Map
 					Vertex   +00002.000000,+03072.000000,+00072.000000
 					Vertex   +00002.000000,+03072.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeGMidFloor_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeGMidFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeGMidFloor_Mat.BridgeGMidFloor_Mat LightMapScale=128.0 Link=1
 					Origin   +01292.000000,-10012.000000,+00567.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,-00001.000000
@@ -1950,7 +1950,7 @@ Begin Map
 					Vertex   +00490.000000,+03072.000000,+00072.000000
 					Vertex   +00490.000000,+03072.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_brdgnwmiddle_Mat.UpperKashyyyk_Textures_Shaders_brdgnwmiddle_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_brdgnwmiddle_Mat.brdgnwmiddle_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00093.000000,-00306.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,-00001.000000
@@ -1960,7 +1960,7 @@ Begin Map
 					Vertex   +00490.000000,+00000.000000,+00072.000000
 					Vertex   +00490.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeGMidFloor_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeGMidFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeGMidFloor_Mat.BridgeGMidFloor_Mat LightMapScale=128.0 Link=3
 					Origin   +00092.000000,-00128.000000,+00055.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,-00001.000000
@@ -1970,7 +1970,7 @@ Begin Map
 					Vertex   +00002.000000,+00000.000000,+00072.000000
 					Vertex   +00002.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeGMidFloor_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeGMidFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeGMidFloor_Mat.BridgeGMidFloor_Mat LightMapScale=128.0 Link=4
 					Origin   +01073.000000,-10048.000000,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1980,7 +1980,7 @@ Begin Map
 					Vertex   +00490.000000,+00000.000000,+00072.000000
 					Vertex   +00490.000000,+03072.000000,+00072.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_brdgnwmiddle_Mat.UpperKashyyyk_Textures_Shaders_brdgnwmiddle_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_brdgnwmiddle_Mat.brdgnwmiddle_Mat LightMapScale=128.0 Link=5
 					Origin   -00285.000000,+00033.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5789,7 +5789,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -5799,7 +5799,7 @@ Begin Map
 					Vertex   -05248.000000,+02784.000000,-00000.000244
 					Vertex   -05248.000000,+02784.000000,-03808.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -5809,7 +5809,7 @@ Begin Map
 					Vertex   +00000.000488,+02784.000000,-00000.000244
 					Vertex   +00000.000488,+02784.000000,-03808.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -5819,7 +5819,7 @@ Begin Map
 					Vertex   +00000.000488,+00000.000000,-00000.000244
 					Vertex   +00000.000488,+00000.000000,-03808.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5829,7 +5829,7 @@ Begin Map
 					Vertex   -05248.000000,+00000.000000,-00000.000244
 					Vertex   -05248.000000,+00000.000000,-03808.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -5839,7 +5839,7 @@ Begin Map
 					Vertex   +00000.000488,+00000.000000,-00000.000244
 					Vertex   +00000.000488,+02784.000000,-00000.000244
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=5
 					Origin   +253796.406250,-265364.000000,-01613.864014
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -5939,7 +5939,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=0
 					Origin   -07602.140137,+297428.000000,-259220.406250
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -5949,7 +5949,7 @@ Begin Map
 					Vertex   +00000.000488,+02784.000000,-00000.000244
 					Vertex   +00000.000488,+02784.000000,-01376.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -5959,7 +5959,7 @@ Begin Map
 					Vertex   +02672.000488,+02784.000000,-00000.000244
 					Vertex   +02672.000488,+02784.000000,-01376.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -5969,7 +5969,7 @@ Begin Map
 					Vertex   +02672.000488,+00000.000000,-00000.000244
 					Vertex   +02672.000488,+00000.000000,-01376.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5979,7 +5979,7 @@ Begin Map
 					Vertex   +00000.000488,+00000.000000,-00000.000244
 					Vertex   +00000.000488,+00000.000000,-01376.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -5989,7 +5989,7 @@ Begin Map
 					Vertex   +02672.000488,+00000.000000,-00000.000244
 					Vertex   +02672.000488,+02784.000000,-00000.000244
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6084,7 +6084,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -06455.991211,-200474.937500,+261399.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -6094,7 +6094,7 @@ Begin Map
 					Vertex   +00000.000000,+00576.000000,+00800.000000
 					Vertex   -00000.000977,+00576.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6104,7 +6104,7 @@ Begin Map
 					Vertex   +01312.000977,+00576.000000,+00800.000000
 					Vertex   +01312.000000,+00576.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +02359.991211,+263194.937500,+261399.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6114,7 +6114,7 @@ Begin Map
 					Vertex   +01312.000977,+00000.000000,+00800.000000
 					Vertex   +01312.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +229786.937500,+26952.007813,+261399.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -6124,7 +6124,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00800.000000
 					Vertex   -00000.000977,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   +262167.000000,+263194.937500,-07223.991211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6134,7 +6134,7 @@ Begin Map
 					Vertex   +01312.000977,+00000.000000,+00800.000000
 					Vertex   +01312.000977,+00576.000000,+00800.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=5
 					Origin   +253796.406250,-265364.000000,-01613.864014
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -6158,7 +6158,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=0
 					Origin   -07618.138672,+296084.000000,-263028.406250
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -6168,7 +6168,7 @@ Begin Map
 					Vertex   +00000.000000,+00528.000000,+00016.000000
 					Vertex   +00000.000000,+00528.000000,-00800.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=1
 					Origin   +274100.000000,+16354.135742,-263028.406250
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6178,7 +6178,7 @@ Begin Map
 					Vertex   +01312.000977,+00528.000000,+00016.000000
 					Vertex   +01312.000977,+00528.000000,-00800.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=2
 					Origin   -05629.867188,-265364.000000,-263028.406250
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6188,7 +6188,7 @@ Begin Map
 					Vertex   +01312.000977,+00000.000000,+00016.000000
 					Vertex   +01312.000977,+00000.000000,-00800.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -6198,7 +6198,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00016.000000
 					Vertex   +00000.000000,+00000.000000,-00800.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=4
 					Origin   -267044.406250,-265364.000000,-03602.135986
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6208,7 +6208,7 @@ Begin Map
 					Vertex   +01312.000977,+00000.000000,+00016.000000
 					Vertex   +01312.000977,+00528.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=5
 					Origin   -267044.406250,+296084.000000,-01613.864014
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -6307,7 +6307,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=0
 					Origin   +230474.937500,+25096.009766,+261399.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -6317,7 +6317,7 @@ Begin Map
 					Vertex   +00511.996314,-00000.001953,+00528.000000
 					Vertex   +00511.996314,-00000.001953,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   -01904.002686,+02127.997070,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6327,7 +6327,7 @@ Begin Map
 					Vertex   +00511.995704,-00704.003906,+00528.000000
 					Vertex   +00511.995704,-00704.003906,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
 					Origin   +230474.937500,+25096.009766,+261399.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -6337,7 +6337,7 @@ Begin Map
 					Vertex   -00000.003686,-00704.003906,+00528.000000
 					Vertex   -00000.003686,-00704.003906,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=3
 					Origin   -05767.990234,-202330.937500,+261399.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -6347,7 +6347,7 @@ Begin Map
 					Vertex   -00000.003808,-00000.001953,+00528.000000
 					Vertex   -00000.003808,-00000.001953,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_General_BridgeInteCeiling_Mat.UpperKashyyyk_Textures_General_BridgeInteCeiling_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_BridgeInteCeiling_Mat.BridgeInteCeiling_Mat LightMapScale=128.0 Link=4
 					Origin   +262855.000000,+261338.937500,-07223.991211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6357,7 +6357,7 @@ Begin Map
 					Vertex   -00000.003686,-00704.003906,+00528.000000
 					Vertex   +00511.995704,-00704.003906,+00528.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=5
 					Origin   -267395.968750,-251796.375000,-01613.864014
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -6698,7 +6698,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=0
 					Origin   +258742.687500,+259052.937500,-05158.665527
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -6708,7 +6708,7 @@ Begin Map
 					Vertex   +00287.999756,-00335.998047,+00000.000000
 					Vertex   +00000.002441,-00335.996094,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=1
 					Origin   +258741.000000,-204616.937500,+03555.991211
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -6718,7 +6718,7 @@ Begin Map
 					Vertex   +00288.000488,-00335.998962,+00288.000000
 					Vertex   +00288.000000,+00000.000397,+00288.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
 					Origin   -237308.937500,+31625.990234,+263363.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -6728,7 +6728,7 @@ Begin Map
 					Vertex   +00000.000000,-00335.998047,+00288.000000
 					Vertex   +00000.002441,-00335.996094,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +09405.997070,+03378.000732,+01072.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -6738,7 +6738,7 @@ Begin Map
 					Vertex   +00288.000000,+00000.000000,+00000.000000
 					Vertex   +00288.000000,+00000.000397,+00288.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
 					Origin   -01066.008789,+259052.937500,+263363.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -6748,7 +6748,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00288.000000
 					Vertex   -00000.000488,+00000.001953,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeRoom1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
 					Origin   +226360.937500,+22810.007813,+263363.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -6974,7 +6974,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=0
 					Origin   +00776.280273,+23356.656250,-01285.001709
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -6984,7 +6984,7 @@ Begin Map
 					Vertex   -03823.999971,-00000.003750,-00032.000014
 					Vertex   -03823.999727,-00000.003750,-00239.999770
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   +258073.390625,+64536.113281,+263314.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -6994,7 +6994,7 @@ Begin Map
 					Vertex   +00000.000029,-00000.003750,-00032.000014
 					Vertex   +00000.000029,-00000.003750,-00240.000014
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   -30332.720703,+293428.593750,+263314.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7004,7 +7004,7 @@ Begin Map
 					Vertex   +00000.000029,-03376.003750,-00032.000014
 					Vertex   +00000.000029,-03376.003750,-00240.000014
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -7014,7 +7014,7 @@ Begin Map
 					Vertex   -03823.999971,-03376.003750,-00032.000014
 					Vertex   -03823.999727,-03376.003750,-00239.999770
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=4
 					Origin   -259628.125000,+304752.656250,+00125.134415
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -7024,7 +7024,7 @@ Begin Map
 					Vertex   +00000.000029,-03376.003750,-00032.000014
 					Vertex   +00000.000029,-00000.003750,-00032.000014
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7048,7 +7048,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -7058,7 +7058,7 @@ Begin Map
 					Vertex   -00271.999971,-00000.003750,+00207.999986
 					Vertex   -00271.999727,-00000.003750,+00000.000230
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=1
 					Origin   +00776.280273,+23356.656250,-01295.001709
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -7068,7 +7068,7 @@ Begin Map
 					Vertex   +00766.000029,-00000.003750,+00207.999986
 					Vertex   +00003.157622,-00000.003750,-00000.698623
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=2
 					Origin   -250383.812500,+304752.656250,+67896.359375
 					Normal   +00000.263883,+00000.000000,-00000.964555
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -7078,7 +7078,7 @@ Begin Map
 					Vertex   +00766.000029,-00912.003750,+00207.999986
 					Vertex   +00003.157622,-00912.003750,-00000.698623
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=3
 					Origin   +00776.280273,+23356.656250,-01295.001709
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.055532,+00000.000000,+00003.858218
@@ -7088,7 +7088,7 @@ Begin Map
 					Vertex   -00271.999971,-00912.003750,+00207.999986
 					Vertex   -00271.999727,-00912.003750,+00000.000230
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCenter_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCenter_Mat.BridgeCenter_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7098,7 +7098,7 @@ Begin Map
 					Vertex   +00766.000029,-00912.003750,+00207.999986
 					Vertex   +00766.000029,-00000.003750,+00207.999986
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat.UpperKashyyyk_Textures_Shaders_fightfloorspec_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=5
 					Origin   +261180.687500,-258039.343750,+00115.134476
 					Normal   -00000.002540,+00000.000000,-00000.999997
 					TextureU +00003.999987,+00000.000000,-00000.010159

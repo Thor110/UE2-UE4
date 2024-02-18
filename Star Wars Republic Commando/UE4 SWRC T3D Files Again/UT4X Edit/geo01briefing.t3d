@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=0
 					Origin   -131072.000000,-131072.000000,-131072.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   -297472.000000,+392192.000000,+00000.000000
 					Vertex   -297472.000000,+392192.000000,-71168.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=1
 					Origin   -131072.000000,+131072.000000,-131072.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   +00000.000000,+392192.000000,+00000.000000
 					Vertex   +00000.000000,+392192.000000,-71168.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=2
 					Origin   +131072.000000,+131072.000000,-131072.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-71168.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=3
 					Origin   +131072.000000,-131072.000000,-131072.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   -297472.000000,+00000.000000,+00000.000000
 					Vertex   -297472.000000,+00000.000000,-71168.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=4
 					Origin   -131072.000000,+131072.000000,+131072.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+392192.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=5
 					Origin   -131072.000000,-131072.000000,-131072.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -252,7 +252,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_fog_Mat.BriefingTextures_Geo_fog_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_fog_Mat.fog_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00256.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -262,7 +262,7 @@ Begin Map
 					Vertex   -00256.000000,+00256.000000,+00256.000000
 					Vertex   -00256.000000,+00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_fog_Mat.BriefingTextures_Geo_fog_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_fog_Mat.fog_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00256.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -272,7 +272,7 @@ Begin Map
 					Vertex   +00256.000000,+00256.000000,+00256.000000
 					Vertex   +00256.000000,+00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_fog_Mat.BriefingTextures_Geo_fog_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_fog_Mat.fog_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00256.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -282,7 +282,7 @@ Begin Map
 					Vertex   +00256.000000,-00256.000000,+00256.000000
 					Vertex   +00256.000000,-00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_fog_Mat.BriefingTextures_Geo_fog_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_fog_Mat.fog_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -292,7 +292,7 @@ Begin Map
 					Vertex   -00256.000000,-00256.000000,+00256.000000
 					Vertex   -00256.000000,-00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_fog_Mat.BriefingTextures_Geo_fog_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_fog_Mat.fog_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00256.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -302,7 +302,7 @@ Begin Map
 					Vertex   +00256.000000,-00256.000000,+00256.000000
 					Vertex   +00256.000000,+00256.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_fog_Mat.BriefingTextures_Geo_fog_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_fog_Mat.fog_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -481,7 +481,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=0
 					Origin   -00512.000000,-00512.000000,-00016.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -491,7 +491,7 @@ Begin Map
 					Vertex   -00512.000000,+00512.000000,+00016.000000
 					Vertex   -00512.000000,+00512.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=1
 					Origin   -00512.000000,+00512.000000,-00016.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -501,7 +501,7 @@ Begin Map
 					Vertex   +00512.000000,+00512.000000,+00016.000000
 					Vertex   +00512.000000,+00512.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=2
 					Origin   +00512.000000,+00512.000000,-00016.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -511,7 +511,7 @@ Begin Map
 					Vertex   +00512.000000,-00512.000000,+00016.000000
 					Vertex   +00512.000000,-00512.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=3
 					Origin   +00512.000000,-00512.000000,-00016.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -521,7 +521,7 @@ Begin Map
 					Vertex   -00512.000000,-00512.000000,+00016.000000
 					Vertex   -00512.000000,-00512.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=4
 					Origin   -00512.000000,+00512.000000,+00016.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -531,7 +531,7 @@ Begin Map
 					Vertex   +00512.000000,-00512.000000,+00016.000000
 					Vertex   +00512.000000,+00512.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=5
 					Origin   -00512.000000,-00512.000000,-00016.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1482,7 +1482,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=0
 					Origin   -00512.000000,-00512.000000,-00016.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1492,7 +1492,7 @@ Begin Map
 					Vertex   -00255.999688,+00000.000250,-00000.000050
 					Vertex   -00255.999688,+00000.000250,-00032.000050
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=1
 					Origin   -00512.000000,+00512.000000,-00016.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1502,7 +1502,7 @@ Begin Map
 					Vertex   +00000.000313,+00000.000250,-00000.000050
 					Vertex   +00000.000313,+00000.000250,-00032.000050
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=2
 					Origin   +00512.000000,+00512.000000,-00016.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1512,7 +1512,7 @@ Begin Map
 					Vertex   +00000.000313,-00127.999750,-00000.000050
 					Vertex   +00000.000313,-00127.999750,-00032.000050
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=3
 					Origin   +00512.000000,-00512.000000,-00016.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1522,7 +1522,7 @@ Begin Map
 					Vertex   -00255.999688,-00127.999750,-00000.000050
 					Vertex   -00255.999688,-00127.999750,-00032.000050
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=4
 					Origin   -00512.000000,+00512.000000,+00016.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1532,7 +1532,7 @@ Begin Map
 					Vertex   +00000.000313,-00127.999750,-00000.000050
 					Vertex   +00000.000313,+00000.000250,-00000.000050
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat.UpperKashyyyk_Textures_K5Bridge_BridgeCopper_M_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeCopper_M_Mat.BridgeCopper_M_Mat LightMapScale=128.0 Link=5
 					Origin   -00512.000000,-00512.000000,-00016.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2567,7 +2567,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=0
 					Origin   -131072.000000,-131072.000000,-131072.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2577,7 +2577,7 @@ Begin Map
 					Vertex   +00000.000000,+60928.000000,+152064.000000
 					Vertex   +00000.000000,+60928.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=1
 					Origin   -131072.000000,+131072.000000,-131072.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2587,7 +2587,7 @@ Begin Map
 					Vertex   +27136.000000,+60928.000000,+152064.000000
 					Vertex   +27136.000000,+60928.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=2
 					Origin   +131072.000000,+131072.000000,-131072.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2597,7 +2597,7 @@ Begin Map
 					Vertex   +27136.000000,+00000.000000,+152064.000000
 					Vertex   +27136.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=3
 					Origin   +131072.000000,-131072.000000,-131072.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2607,7 +2607,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+152064.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=4
 					Origin   -131072.000000,+131072.000000,+131072.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2617,7 +2617,7 @@ Begin Map
 					Vertex   +27136.000000,+00000.000000,+152064.000000
 					Vertex   +27136.000000,+60928.000000,+152064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=5
 					Origin   -131072.000000,-131072.000000,-131072.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2641,7 +2641,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=0
 					Origin   -131072.000000,-131072.000000,-131072.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -2651,7 +2651,7 @@ Begin Map
 					Vertex   +00000.000000,+22528.000000,+30208.000000
 					Vertex   +00000.000000,+22528.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=1
 					Origin   -131072.000000,+131072.000000,-131072.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2661,7 +2661,7 @@ Begin Map
 					Vertex   +27648.000000,+22528.000000,+30208.000000
 					Vertex   +27648.000000,+22528.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=2
 					Origin   +131072.000000,+131072.000000,-131072.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2671,7 +2671,7 @@ Begin Map
 					Vertex   +27648.000000,+00000.000000,+30208.000000
 					Vertex   +27648.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=3
 					Origin   +131072.000000,-131072.000000,-131072.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2681,7 +2681,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+30208.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=4
 					Origin   -131072.000000,+131072.000000,+131072.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2691,7 +2691,7 @@ Begin Map
 					Vertex   +27648.000000,+00000.000000,+30208.000000
 					Vertex   +27648.000000,+22528.000000,+30208.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures_Geo_DaySky01_Back01_Mat.BriefingTextures_Geo_DaySky01_Back01_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/BriefingTextures/Geo_DaySky01_Back01_Mat.DaySky01_Back01_Mat LightMapScale=128.0 Link=5
 					Origin   -131072.000000,-131072.000000,-131072.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000

@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -02082.111328,-02048.000000,-04807.371094
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   -00048.000000,+24064.000000,+13056.000000
 					Vertex   -00048.000000,+24064.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   -02082.111328,+02048.000000,-04807.371094
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.997691,+00000.000000,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   +20736.000000,+24064.000000,+13056.000000
 					Vertex   +20736.000000,+24064.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +02023.370117,+02048.000000,-04807.371094
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   +20736.000000,+00000.000000,+13056.000000
 					Vertex   +20736.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +02023.370117,-02048.000000,-04807.371094
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.997691,+00000.000000,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   -00048.000000,+00000.000000,+13056.000000
 					Vertex   -00048.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -02082.111328,+02048.000000,-03628.764648
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.997691,+00000.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   +20736.000000,+00000.000000,+13056.000000
 					Vertex   +20736.000000,+24064.000000,+13056.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat.Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_Floor_Cracked_DesatNew_Mat.Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=5
 					Origin   -02082.111328,-02048.000000,-04807.371094
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.997691,+00000.000000,+00000.000000
@@ -7314,7 +7314,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat.Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_Floor_Cracked_DesatNew_Mat.Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -7324,7 +7324,7 @@ Begin Map
 					Vertex   +00000.000000,+01240.000000,+00024.000000
 					Vertex   +00000.000000,+01240.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat.Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_Floor_Cracked_DesatNew_Mat.Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7334,7 +7334,7 @@ Begin Map
 					Vertex   +00256.000000,+01240.000000,+00024.000000
 					Vertex   +00256.000000,+01240.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat.Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_Floor_Cracked_DesatNew_Mat.Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7344,7 +7344,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00024.000000
 					Vertex   +00256.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat.Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_Floor_Cracked_DesatNew_Mat.Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -7354,7 +7354,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00024.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat.Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_Floor_Cracked_DesatNew_Mat.Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7364,7 +7364,7 @@ Begin Map
 					Vertex   +00256.000000,+00000.000000,+00024.000000
 					Vertex   +00256.000000,+01240.000000,+00024.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat.Exteriors_Textures_General_Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/General_Floor_Cracked_DesatNew_Mat.Floor_Cracked_DesatNew_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8700,7 +8700,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=0
 					Origin   -00085.512115,-00515.344971,-00125.899994
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU -00000.001529,-00001.000002,+00000.000000
@@ -8710,7 +8710,7 @@ Begin Map
 					Vertex   +00000.000060,-00000.000375,-00000.000109
 					Vertex   +00000.000060,-00000.000375,-00256.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=1
 					Origin   -00085.119308,-00259.344696,-00125.899994
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.001528,+00000.000000
@@ -8720,7 +8720,7 @@ Begin Map
 					Vertex   +00255.999915,+00000.000052,-00000.000109
 					Vertex   +00255.999915,+00000.000052,-00256.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=2
 					Origin   +00170.487732,-00515.734497,-00125.899994
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.001534,+00001.000003,+00000.000000
@@ -8730,7 +8730,7 @@ Begin Map
 					Vertex   +00255.999961,-00256.000314,-00000.000109
 					Vertex   +00255.999961,-00256.000314,-00256.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_TerrainLayers_Dirt_MixedGravel1_TerrainLayer_Mat.Exteriors_Textures_TerrainLayers_Dirt_MixedGravel1_TerrainLayer_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/TerrainLayers_Dirt_MixedGravel1_TerrainLayer_Mat.Dirt_MixedGravel1_TerrainLayer_Mat LightMapScale=128.0 Link=3
 					Origin   -06862.213379,-07548.660156,-19513.203125
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -8740,7 +8740,7 @@ Begin Map
 					Vertex   -00000.000009,-00256.000070,-00000.000109
 					Vertex   -00000.000009,-00256.000070,-00256.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=4
 					Origin   -00085.510925,-00515.344971,+00130.100006
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.001529,-00001.000002,+00000.000000
@@ -8750,7 +8750,7 @@ Begin Map
 					Vertex   +00255.999961,-00256.000314,-00000.000109
 					Vertex   +00255.999915,+00000.000052,-00000.000109
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat.Exteriors_Textures_SkyDome_GEO_Dusk_Top_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Exteriors_Textures/SkyDome_GEO_Dusk_Top_Mat.GEO_Dusk_Top_Mat LightMapScale=128.0 Link=5
 					Origin   -00839.775269,-00404.241577,-00514.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00004.000009,-00000.006135,+00000.000000
@@ -14177,7 +14177,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -14187,7 +14187,7 @@ Begin Map
 					Vertex   +00000.000977,+24032.000000,+00256.000000
 					Vertex   +00000.000977,+24032.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -14197,7 +14197,7 @@ Begin Map
 					Vertex   +20752.000977,+24032.000000,+00256.000000
 					Vertex   +20752.000977,+24032.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -14207,7 +14207,7 @@ Begin Map
 					Vertex   +20752.000000,+00000.000000,+00256.000000
 					Vertex   +20752.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -14217,7 +14217,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00256.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   -00128.000000,+00128.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -14227,7 +14227,7 @@ Begin Map
 					Vertex   +20752.000000,+00000.000000,+00256.000000
 					Vertex   +20752.000977,+24032.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common_Labels_Label_Skybox_Mat.LD_Common_Labels_Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
