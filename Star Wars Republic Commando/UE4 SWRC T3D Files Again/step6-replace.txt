@@ -430,63 +430,565 @@ with
 
 /AssaultShip_PR/WallFixtures/
 
+replace
 
+/Briefings_Dropship_
 
+with
 
+/Briefings/Dropship/
 
+replace
 
+/Briefings_Environments_
 
+with
 
+/Briefings/Environments/
 
+replace
 
+/Briefings_Geo_
 
+with
 
+/Briefings/Geo/
 
+replace
 
+/Briefings_Holograms_
 
+with
 
+/Briefings/Holograms/
 
+replace
 
+/Briefings_Misc_
 
+with
 
+/Briefings/Misc/
 
+replace
 
+/Briefings_PrologueProps_
 
+with
 
+/Briefings/PrologueProps/
 
+replace
 
+/CoreShip_GM_DefaultGroup_
 
+with
 
+/CoreShip_GM/DefaultGroup/
 
+replace
 
+/CoreShip_GM_Doors_
 
+with
 
+/CoreShip_GM/Doors/
 
+replace
 
+/CoreShip_GM_HallSystems_
 
+with
 
+/CoreShip_GM/HallSystems/
 
+replace
 
+/CoreShip_HR_Bridge_
 
+with
 
+/CoreShip_HR/Bridge/
 
+replace
 
+/CoreShip_HR_DroidHallWay_
 
+with
 
+/CoreShip_HR/DroidHallWay/
 
+replace
 
+/CoreShip_HR_DroidHall_
 
+with
 
+/CoreShip_HR/DroidHall/
 
+replace
 
+/CoreShip_HR_DroidekaRoom_
 
+with
 
+/CoreShip_HR/DroidekaRoom/
 
+replace
 
+/CoreShip_HR_Platform_
 
+with
 
+/CoreShip_HR/Platform/
 
+replace
 
+/CoreShip_HR_VistaTop_
+
+with
+
+/CoreShip_HR/VistaTop/
+
+replace
+
+/CoreShip_PR_BridgeProps_
+
+with
+
+/CoreShip_PR/BridgeProps/
+
+replace
+
+/CoreShip_PR_Props_
+
+with
+
+/CoreShip_PR/Props/
+
+replace
+
+/Epilogue_GM_thestuff_
+
+with
+
+/Epilogue_GM/thestuff/
+
+replace
+
+/Exteriors_GM_Interiors_
+
+with
+
+/Exteriors_GM/Interiors/
+
+replace
+
+/Exteriors_GM_Walls_
+
+with
+
+/Exteriors_GM/Walls/
+
+replace
+
+/Exteriors_HR_Gate_
+
+with
+
+/Exteriors_HR/Gate/
+
+replace
+
+/Exteriors_HR_Globe_
+
+with
+
+/Exteriors_HR/Globe/
+
+replace
+
+/Exteriors_LM_SkyDome_
+
+with
+
+/Exteriors_LM/SkyDome/
+
+replace
+
+/Exteriors_PR_Boulders_
+
+with
+
+/Exteriors_PR/Boulders/
+
+replace
+
+/Exteriors_PR_GunShipCrash_
+
+with
+
+/Exteriors_PR/GunShipCrash/
+
+replace
+
+/Exteriors_PR_Props_
+
+with
+
+/Exteriors_PR/Props/
+
+replace
+
+/JW-AssaultShipStaticMeshes_Grates_
+
+with
+
+/JW-AssaultShipStaticMeshes/Grates/
+
+replace
+
+/JW-AssaultShipStaticMeshes_landingGear_
+
+with
+
+/JW-AssaultShipStaticMeshes/landingGear/
+
+replace
+
+/Kamino_GM_Prologue_
+
+with
+
+/Kamino_GM/Prologue/
+
+replace
+
+/LowerKashyyyk_GM_BigRockWalls_
+
+with
+
+/LowerKashyyyk_GM/BigRockWalls/
+
+replace
+
+/LowerKashyyyk_GM_DefaultGroup_
+
+with
+
+/LowerKashyyyk_GM/DefaultGroup/
+
+replace
+
+/LowerKashyyyk_GM_Trando_Archit_
+
+with
+
+/LowerKashyyyk_GM/Trando_Archit/
+
+replace
+
+/LowerKashyyyk_GM_Walls_
+
+with
+
+/LowerKashyyyk_GM/Walls/
+
+replace
+
+/LowerKashyyyk_PR_Ammo_
+
+with
+
+/LowerKashyyyk_PR/Ammo/
+
+replace
+
+/LowerKashyyyk_PR_Crates_
+
+with
+
+/LowerKashyyyk_PR/Crates/
+
+replace
+
+/LowerKashyyyk_PR_Equipment_
+
+with
+
+/LowerKashyyyk_PR/Equipment/
+
+replace
+
+/LowerKashyyyk_PR_Lights_
+
+with
+
+/LowerKashyyyk_PR/Lights/
+
+replace
+
+/LowerKashyyyk_PR_Plates_
+
+with
+
+/LowerKashyyyk_PR/Plates/
+
+replace
+
+/LowerKashyyyk_PR_Trees_
+
+with
+
+/LowerKashyyyk_PR/Trees/
+
+replace
+
+/MarkerIcons_ConsolHack_
+
+with
+
+/MarkerIcons/ConsolHack/
+
+replace
+
+/MarkerIcons_Demolition_
+
+with
+
+/MarkerIcons/Demolition/
+
+replace
+
+/MarkerIcons_DoorBreach_
+
+with
+
+/MarkerIcons/DoorBreach/
+
+replace
+
+/MarkerIcons_SetTrap_
+
+with
+
+/MarkerIcons/SetTrap/
+
+replace
+
+/MarkerIcons_Sniper_
+
+with
+
+/MarkerIcons/Sniper/
+
+replace
+
+/MarkerIcons_Turret_
+
+with
+
+/MarkerIcons/Turret/
+
+replace
+
+/Multiplayer_GM2_CAN_
+/Multiplayer_GM2_DET_
+/Multiplayer_GM2_LKA_
+/Multiplayer_GM2_RAS_
+
+with
+
+/Multiplayer_GM2/CAN/
+/Multiplayer_GM2/DET/
+/Multiplayer_GM2/LKA/
+/Multiplayer_GM2/RAS/
+
+replace
+
+/Multiplayer_GM_AssaultShip_
+
+with
+
+/Multiplayer_GM/AssaultShip/
+
+replace
+
+/Multiplayer_GM_Exterior_
+
+with
+
+/Multiplayer_GM/Exterior/
+
+replace
+
+/Multiplayer_GM_Flags_
+
+with
+
+/Multiplayer_GM/Flags/
+
+replace
+
+/Multiplayer_GM_Kamino_
+
+with
+
+/Multiplayer_GM/Kamino/
+
+replace
+
+/Multiplayer_GM_LowerKashyyyk_
+
+with
+
+/Multiplayer_GM/LowerKashyyyk/
+
+replace
+
+/Multiplayer_GM_Pow_
+
+with
+
+/Multiplayer_GM/Pow/
+
+replace
+
+/Multiplayer_GM_RAS_
+
+with
+
+/Multiplayer_GM/RAS/
+
+replace
+
+/Multiplayer_GM_Trando_
+
+with
+
+/Multiplayer_GM/Trando/
+
+replace
+
+/Multiplayer_GM_UpperKashyyyk_
+
+with
+
+/Multiplayer_GM/UpperKashyyyk/
+
+replace
+
+/Multiplayer_GM_Vehicles_
+
+with
+
+/Multiplayer_GM/Vehicles/
+
+replace
+
+/Multiplayer_GM_detentionArea_
+
+with
+
+/Multiplayer_GM/detentionArea/
+
+replace
+
+/PickupMeshes_ClonePickups_
+
+with
+
+/PickupMeshes/ClonePickups/
+
+replace
+
+/PickupMeshes_MPPickups_
+
+with
+
+/PickupMeshes/MPPickups/
+
+replace
+
+/UpperKashyyyk_GM_Bridge_
+/UpperKashyyyk_GM_Buildsext_
+/UpperKashyyyk_GM_Dirthalls_
+/UpperKashyyyk_GM_KashHalls_
+/UpperKashyyyk_GM_Roundrooms_
+/UpperKashyyyk_GM_Temp_
+/UpperKashyyyk_GM_YYY_ending_
+/UpperKashyyyk_GM_kashhanger_
+/UpperKashyyyk_GM_skydomer_
+/UpperKashyyyk_GM_
+
+with
+
+/UpperKashyyyk_GM/Bridge/
+/UpperKashyyyk_GM/Buildsext/
+/UpperKashyyyk_GM/Dirthalls/
+/UpperKashyyyk_GM/KashHalls/
+/UpperKashyyyk_GM/Roundrooms/
+/UpperKashyyyk_GM/Temp/
+/UpperKashyyyk_GM/YYY_ending/
+/UpperKashyyyk_GM/kashhanger/
+/UpperKashyyyk_GM/skydomer/
+/UpperKashyyyk_GM/
+
+replace
+
+/UpperKashyyyk_HR_BridgeBody_
+/UpperKashyyyk_HR_brdgstart_
+
+with
+
+/UpperKashyyyk_HR/BridgeBody/
+/UpperKashyyyk_HR/brdgstart/
+
+replace
+
+/UpperKashyyyk_PR_Barricades_
+
+with
+
+/UpperKashyyyk_PR/Barricades/
+
+replace
+
+/UpperKashyyyk_PR_Boiler_
+/UpperKashyyyk_PR_Cabinets_
+/UpperKashyyyk_PR_Cranes_
+/UpperKashyyyk_PR_Crates_
+/UpperKashyyyk_PR_Dead_Wookiees_
+/UpperKashyyyk_PR_Furniture_
+/UpperKashyyyk_PR_KashDoors_
+/UpperKashyyyk_PR_Lights_
+/UpperKashyyyk_PR_Ramps_
+/UpperKashyyyk_PR_SkyDome_
+/UpperKashyyyk_PR_Trees_
+/UpperKashyyyk_PR_
+/VehicleMeshes_Confederacy_
+/VehicleMeshes_Dispenser_
+/VehicleMeshes_Republic_
+/Weapons_Accessories_
+
+with
+
+/UpperKashyyyk_PR/Boiler/
+/UpperKashyyyk_PR/Cabinets/
+/UpperKashyyyk_PR/Cranes/
+/UpperKashyyyk_PR/Crates/
+/UpperKashyyyk_PR/Dead_Wookiees/
+/UpperKashyyyk_PR/Furniture/
+/UpperKashyyyk_PR/KashDoors/
+/UpperKashyyyk_PR/Lights/
+/UpperKashyyyk_PR/Ramps/
+/UpperKashyyyk_PR/SkyDome/
+/UpperKashyyyk_PR/Trees/
+/UpperKashyyyk_PR/
+/VehicleMeshes/Confederacy/
+/VehicleMeshes/Dispenser/
+/VehicleMeshes/Republic/
+/Weapons/Accessories/
 
 
 

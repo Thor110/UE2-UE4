@@ -236,7 +236,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSkyView.MP_RAS_HangarSkyView'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSkyView.MP_RAS_HangarSkyView'
 			RelativeLocation=(X=0.000046,Y=512.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -251,7 +251,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSkyView.MP_RAS_HangarSkyView'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSkyView.MP_RAS_HangarSkyView'
 			RelativeLocation=(X=0.000046,Y=512.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -266,7 +266,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
 			RelativeLocation=(X=2048.000000,Y=-4032.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -281,7 +281,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
 			RelativeLocation=(X=-2048.000000,Y=-2752.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -296,7 +296,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
 			RelativeLocation=(X=-2048.000000,Y=-4032.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -311,7 +311,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=-1792.000000,Y=-2112.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -326,7 +326,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=-1792.000000,Y=-832.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -341,7 +341,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=-1792.000000,Y=-3392.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -356,7 +356,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=1792.000000,Y=-832.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -371,7 +371,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=1792.000000,Y=-3392.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -460,7 +460,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarBayA.MP_RAS_HangarBayA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarBayA.MP_RAS_HangarBayA'
 			RelativeLocation=(X=-1024.000000,Y=-4560.000000,Z=112.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -475,7 +475,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarBayA.MP_RAS_HangarBayA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarBayA.MP_RAS_HangarBayA'
 			RelativeLocation=(X=1024.000000,Y=-4560.000000,Z=112.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -712,7 +712,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallDoorA.MP_RAS_HangarWallDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallDoorA.MP_RAS_HangarWallDoorA'
 			RelativeLocation=(X=-2048.000000,Y=-1472.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -727,7 +727,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallDoorB.MP_RAS_HangarWallDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallDoorB.MP_RAS_HangarWallDoorB'
 			RelativeLocation=(X=2048.000000,Y=-1984.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -742,7 +742,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallDoorB.MP_RAS_HangarWallDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallDoorB.MP_RAS_HangarWallDoorB'
 			RelativeLocation=(X=3264.000000,Y=-1984.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=-1.000000,Z=1.000000)
@@ -905,7 +905,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSkyView.MP_RAS_HangarSkyView'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSkyView.MP_RAS_HangarSkyView'
 			RelativeLocation=(X=5312.000000,Y=512.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -920,7 +920,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSkyView.MP_RAS_HangarSkyView'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSkyView.MP_RAS_HangarSkyView'
 			RelativeLocation=(X=5312.000000,Y=512.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -935,7 +935,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
 			RelativeLocation=(X=3264.000000,Y=-4032.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -950,7 +950,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=3520.000000,Y=-832.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -965,7 +965,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=3520.000000,Y=-3392.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -980,7 +980,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=7104.000000,Y=-832.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -995,7 +995,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=7104.000000,Y=-3392.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -1084,7 +1084,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarBayB.MP_RAS_HangarBayB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarBayB.MP_RAS_HangarBayB'
 			RelativeLocation=(X=7360.000000,Y=-960.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -1099,7 +1099,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
 			RelativeLocation=(X=3264.000000,Y=-5312.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1114,7 +1114,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=3520.000000,Y=-4672.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1129,7 +1129,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
 			RelativeLocation=(X=3264.000000,Y=-6592.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1144,7 +1144,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=3520.000000,Y=-5952.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1159,7 +1159,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportA.MP_RAS_HangarSupportA'
 			RelativeLocation=(X=7104.000000,Y=-5952.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -1174,7 +1174,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallAA.MP_RAS_HangarWallAA'
 			RelativeLocation=(X=7360.000000,Y=-6592.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -1189,7 +1189,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarBayB.MP_RAS_HangarBayB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarBayB.MP_RAS_HangarBayB'
 			RelativeLocation=(X=7360.000000,Y=-3520.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -1278,7 +1278,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_PanelB.MP_RAS_PanelB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_PanelB.MP_RAS_PanelB'
 			RelativeLocation=(X=-1024.000000,Y=-6136.000000,Z=584.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2641,7 +2641,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=-2048.000000,Y=-1472.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2745,7 +2745,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallDoorA.MP_RAS_HangarWallDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallDoorA.MP_RAS_HangarWallDoorA'
 			RelativeLocation=(X=3264.000000,Y=-7616.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -2760,7 +2760,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=3264.000000,Y=-7616.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -2923,7 +2923,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallDoorA.MP_RAS_HangarWallDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallDoorA.MP_RAS_HangarWallDoorA'
 			RelativeLocation=(X=7368.000000,Y=-7616.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3131,7 +3131,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=7368.000000,Y=-7616.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3532,7 +3532,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntrance.MP_RAS_HangarEntrance'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntrance.MP_RAS_HangarEntrance'
 			RelativeLocation=(X=8752.000000,Y=-7392.000000,Z=128.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3546,7 +3546,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntrance.MP_RAS_HangarEntrance'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntrance.MP_RAS_HangarEntrance'
 			RelativeLocation=(X=8760.000000,Y=-5592.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3901,7 +3901,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_ATTEHalf.MP_ATTEHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_ATTEHalf.MP_ATTEHalf'
 			RelativeLocation=(X=8400.000000,Y=-4680.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3916,7 +3916,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_ATTEHalf.MP_ATTEHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_ATTEHalf.MP_ATTEHalf'
 			RelativeLocation=(X=8400.000000,Y=-4680.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -4005,7 +4005,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=-2296.000000,Y=-5376.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4020,7 +4020,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=-2040.000000,Y=-5372.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4035,7 +4035,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=2048.000000,Y=-5376.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4050,7 +4050,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=2304.000000,Y=-5372.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4169,7 +4169,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=3264.000000,Y=-1472.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4184,7 +4184,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=2048.000000,Y=-2496.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4199,7 +4199,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallCC.MP_RAS_HangarWallCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallCC.MP_RAS_HangarWallCC'
 			RelativeLocation=(X=5312.000000,Y=-8120.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4288,7 +4288,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=-1360.000000,Y=-3800.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.270000,Z=1.000000)
@@ -4377,7 +4377,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallDD.MP_RAS_HangarWallDD'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallDD.MP_RAS_HangarWallDD'
 			RelativeLocation=(X=0.000244,Y=-5152.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.001000,Y=1.000000,Z=1.000000)
@@ -4392,7 +4392,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallDD.MP_RAS_HangarWallDD'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallDD.MP_RAS_HangarWallDD'
 			RelativeLocation=(X=0.000244,Y=-5152.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.001000,Y=1.000000,Z=1.000000)
@@ -4481,7 +4481,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallDD.MP_RAS_HangarWallDD'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallDD.MP_RAS_HangarWallDD'
 			RelativeLocation=(X=5312.000000,Y=-7680.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4496,7 +4496,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallDD.MP_RAS_HangarWallDD'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallDD.MP_RAS_HangarWallDD'
 			RelativeLocation=(X=5312.000000,Y=-7680.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -4511,7 +4511,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
 			RelativeLocation=(X=3168.000000,Y=-6424.000000,Z=-520.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.160000)
 			CustomProperties
@@ -4525,7 +4525,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
 			RelativeLocation=(X=680.003000,Y=-4896.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4540,7 +4540,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
 			RelativeLocation=(X=-679.999000,Y=-4896.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4555,7 +4555,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportC.MP_RAS_HangarSupportC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportC.MP_RAS_HangarSupportC'
 			RelativeLocation=(X=-680.001000,Y=-3872.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4570,7 +4570,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportC.MP_RAS_HangarSupportC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportC.MP_RAS_HangarSupportC'
 			RelativeLocation=(X=679.999000,Y=-3872.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4807,7 +4807,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
 			RelativeLocation=(X=5992.000000,Y=-7456.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4822,7 +4822,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
 			RelativeLocation=(X=4632.000000,Y=-7456.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4837,7 +4837,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportC.MP_RAS_HangarSupportC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportC.MP_RAS_HangarSupportC'
 			RelativeLocation=(X=4632.000000,Y=-6432.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4852,7 +4852,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportC.MP_RAS_HangarSupportC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportC.MP_RAS_HangarSupportC'
 			RelativeLocation=(X=5992.000000,Y=-6432.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5165,7 +5165,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_Hangar_ShipSide5open.MP_Hangar_ShipSide5open'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_Hangar_ShipSide5open.MP_Hangar_ShipSide5open'
 			RelativeLocation=(X=8792.000000,Y=1600.000000,Z=-1832.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.800000)
 			CustomProperties
@@ -5179,7 +5179,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_Hangar_ShipSide5open.MP_Hangar_ShipSide5open'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_Hangar_ShipSide5open.MP_Hangar_ShipSide5open'
 			RelativeLocation=(X=-3464.000000,Y=1600.000000,Z=-1832.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=0.800000)
 			CustomProperties
@@ -5418,7 +5418,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_Hangar_ShipsideHalf.MP_Hangar_ShipsideHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_Hangar_ShipsideHalf.MP_Hangar_ShipsideHalf'
 			RelativeLocation=(X=8792.000000,Y=1600.000000,Z=-40.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.800000)
 			CustomProperties
@@ -5432,7 +5432,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_Hangar_ShipsideHalf.MP_Hangar_ShipsideHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_Hangar_ShipsideHalf.MP_Hangar_ShipsideHalf'
 			RelativeLocation=(X=-3464.000000,Y=1600.000000,Z=-40.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=0.800000)
 			CustomProperties
@@ -5668,7 +5668,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=-680.000000,Y=-3800.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
@@ -5683,7 +5683,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=0.000000,Y=-3800.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
@@ -5698,7 +5698,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=680.000000,Y=-3800.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
@@ -5713,7 +5713,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=1360.000000,Y=-3800.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
@@ -5728,7 +5728,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=1360.000000,Y=-3800.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.270000,Z=1.000000)
@@ -5743,7 +5743,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=3952.000000,Y=-6360.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.270000,Z=1.000000)
@@ -5758,7 +5758,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=4632.000000,Y=-6360.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
@@ -5773,7 +5773,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=5312.000000,Y=-6360.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
@@ -5788,7 +5788,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=5992.000000,Y=-6360.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
@@ -5803,7 +5803,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=6672.000000,Y=-6360.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.250000,Z=1.000000)
@@ -5818,7 +5818,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRailing.MP_RAS_HangarRailing'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRailing.MP_RAS_HangarRailing'
 			RelativeLocation=(X=6672.000000,Y=-6360.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.270000,Z=1.000000)
@@ -7165,7 +7165,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_Hangar_ShipsideHalf.MP_Hangar_ShipsideHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_Hangar_ShipsideHalf.MP_Hangar_ShipsideHalf'
 			RelativeLocation=(X=8792.000000,Y=1600.000000,Z=-40.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=-0.800000)
 			CustomProperties
@@ -7179,7 +7179,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_Hangar_ShipsideHalf.MP_Hangar_ShipsideHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_Hangar_ShipsideHalf.MP_Hangar_ShipsideHalf'
 			RelativeLocation=(X=-3464.000000,Y=1600.000000,Z=-40.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=-0.800000)
 			CustomProperties
@@ -7193,7 +7193,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarCorner.MP_RAS_HangarCorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarCorner.MP_RAS_HangarCorner'
 			RelativeLocation=(X=3776.000000,Y=-7104.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7356,7 +7356,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarCorner.MP_RAS_HangarCorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarCorner.MP_RAS_HangarCorner'
 			RelativeLocation=(X=6848.000000,Y=-7104.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -7371,7 +7371,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
 			RelativeLocation=(X=4104.000000,Y=-7464.000000,Z=120.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -7386,7 +7386,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
 			RelativeLocation=(X=6520.000000,Y=-7464.000000,Z=120.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -7697,7 +7697,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_GunshipHalf.MP_GunshipHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_GunshipHalf.MP_GunshipHalf'
 			RelativeLocation=(X=5300.000000,Y=-1964.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7712,7 +7712,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_GunshipHalf.MP_GunshipHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_GunshipHalf.MP_GunshipHalf'
 			RelativeLocation=(X=5300.000000,Y=-1964.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -7727,7 +7727,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_ATTEHalf.MP_ATTEHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_ATTEHalf.MP_ATTEHalf'
 			RelativeLocation=(X=8400.000000,Y=-2116.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7742,7 +7742,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_ATTEHalf.MP_ATTEHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_ATTEHalf.MP_ATTEHalf'
 			RelativeLocation=(X=8400.000000,Y=-2116.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -7757,7 +7757,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarCatwalkA.MP_RAS_HangarCatwalkA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarCatwalkA.MP_RAS_HangarCatwalkA'
 			RelativeLocation=(X=3264.000000,Y=-6592.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7772,7 +7772,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarCatwalkA.MP_RAS_HangarCatwalkA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarCatwalkA.MP_RAS_HangarCatwalkA'
 			RelativeLocation=(X=-2048.000000,Y=-4032.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7787,7 +7787,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSupportB.MP_RAS_HangarSupportB'
 			RelativeLocation=(X=7448.000000,Y=-6424.000000,Z=-520.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.160000)
@@ -7802,7 +7802,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_PanelB.MP_RAS_PanelB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_PanelB.MP_RAS_PanelB'
 			RelativeLocation=(X=1024.310000,Y=-6131.330000,Z=582.900000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8056,7 +8056,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=-1304.000000,Y=-3700.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8071,7 +8071,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=-564.000000,Y=-3700.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8086,7 +8086,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=176.000000,Y=-3700.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8101,7 +8101,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=912.000000,Y=-3700.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8116,7 +8116,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=1648.000000,Y=-3700.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8131,7 +8131,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=4008.000000,Y=-6260.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8146,7 +8146,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=4748.000000,Y=-6260.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8161,7 +8161,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=5488.000000,Y=-6260.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8176,7 +8176,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=6224.000000,Y=-6260.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8191,7 +8191,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarRail_3.MP_RAS_HangarRail_3'
 			RelativeLocation=(X=6960.000000,Y=-6260.000000,Z=116.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10179,7 +10179,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntrance.MP_RAS_HangarEntrance'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntrance.MP_RAS_HangarEntrance'
 			RelativeLocation=(X=8760.000000,Y=-3201.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10194,7 +10194,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntrance.MP_RAS_HangarEntrance'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntrance.MP_RAS_HangarEntrance'
 			RelativeLocation=(X=8763.160000,Y=-3600.280000,Z=-512.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -11878,7 +11878,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSkyViewB.MP_RAS_HangarSkyViewB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSkyViewB.MP_RAS_HangarSkyViewB'
 			RelativeLocation=(X=5312.000000,Y=512.001000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11893,7 +11893,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSkyViewB.MP_RAS_HangarSkyViewB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSkyViewB.MP_RAS_HangarSkyViewB'
 			RelativeLocation=(X=5312.000000,Y=512.001000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -11908,7 +11908,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSkyViewB.MP_RAS_HangarSkyViewB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSkyViewB.MP_RAS_HangarSkyViewB'
 			RelativeLocation=(X=0.000000,Y=512.001000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11923,7 +11923,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarSkyViewB.MP_RAS_HangarSkyViewB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarSkyViewB.MP_RAS_HangarSkyViewB'
 			RelativeLocation=(X=0.000000,Y=512.001000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -12565,7 +12565,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarWallCC.MP_RAS_HangarWallCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarWallCC.MP_RAS_HangarWallCC'
 			RelativeLocation=(X=5312.000000,Y=-8120.000000,Z=128.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -12580,7 +12580,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarBayA.MP_RAS_HangarBayA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarBayA.MP_RAS_HangarBayA'
 			RelativeLocation=(X=-1024.000000,Y=-4560.000000,Z=112.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -12595,7 +12595,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarBayA.MP_RAS_HangarBayA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarBayA.MP_RAS_HangarBayA'
 			RelativeLocation=(X=1024.000000,Y=-4560.000000,Z=112.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -12610,7 +12610,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
 			RelativeLocation=(X=-0.000465,Y=-1760.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12625,7 +12625,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatform.MP_RAS_HangarPlatform'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatform.MP_RAS_HangarPlatform'
 			RelativeLocation=(X=-0.000202,Y=-1760.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12640,7 +12640,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
 			RelativeLocation=(X=5312.000000,Y=-4688.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12655,7 +12655,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
 			RelativeLocation=(X=5312.000000,Y=-2112.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12670,7 +12670,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatform.MP_RAS_HangarPlatform'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatform.MP_RAS_HangarPlatform'
 			RelativeLocation=(X=5312.000000,Y=-2112.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12730,7 +12730,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_GunshipHalf.MP_GunshipHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_GunshipHalf.MP_GunshipHalf'
 			RelativeLocation=(X=5300.000000,Y=-6636.000000,Z=704.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12745,7 +12745,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_GunshipHalf.MP_GunshipHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_GunshipHalf.MP_GunshipHalf'
 			RelativeLocation=(X=5300.000000,Y=-6636.000000,Z=704.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -12760,7 +12760,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_GunshipHalf.MP_GunshipHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_GunshipHalf.MP_GunshipHalf'
 			RelativeLocation=(X=5300.000000,Y=-4668.000000,Z=704.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12775,7 +12775,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_Vehicles_MP_GunshipHalf.MP_GunshipHalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/Vehicles/MP_GunshipHalf.MP_GunshipHalf'
 			RelativeLocation=(X=5300.000000,Y=-4668.000000,Z=704.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -12890,7 +12890,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatform.MP_RAS_HangarPlatform'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatform.MP_RAS_HangarPlatform'
 			RelativeLocation=(X=8412.000000,Y=-2116.000000,Z=-508.000000)
 			RelativeScale3D=(X=0.520000,Y=0.380000,Z=1.000000)
 			CustomProperties
@@ -17426,7 +17426,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
 			RelativeLocation=(X=4416.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17441,7 +17441,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
 			RelativeLocation=(X=4416.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -17455,7 +17455,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=4096.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17470,7 +17470,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=3504.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -17499,7 +17499,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=3504.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17514,7 +17514,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=3504.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17529,7 +17529,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=3504.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17544,7 +17544,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=3504.000000,Y=-5264.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17559,7 +17559,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=3504.000000,Y=-4080.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17574,7 +17574,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=2912.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -17588,7 +17588,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
 			RelativeLocation=(X=3504.000000,Y=-3760.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17603,7 +17603,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
 			RelativeLocation=(X=3504.000000,Y=-3760.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17618,7 +17618,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=3504.000000,Y=-3440.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17633,7 +17633,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=4416.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=1.000000,Z=0.750000)
@@ -17648,7 +17648,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=4096.000000,Y=-2208.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17663,7 +17663,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=3503.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -17692,7 +17692,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=3503.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17707,7 +17707,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=3503.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17722,7 +17722,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=3503.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17737,7 +17737,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=3504.000000,Y=-2800.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17752,7 +17752,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=3504.000000,Y=-1616.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17767,7 +17767,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=2911.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -17781,7 +17781,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=2288.000000,Y=-2208.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17796,7 +17796,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=1695.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -17825,7 +17825,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=1695.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17840,7 +17840,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=1695.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17855,7 +17855,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=1695.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17870,7 +17870,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=1696.000000,Y=-2800.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17885,7 +17885,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=1696.000000,Y=-1616.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -17900,7 +17900,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=1104.000000,Y=-2208.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -17914,7 +17914,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=1696.000000,Y=-3440.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -18373,7 +18373,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=3504.000000,Y=-3760.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=1.000000,Z=0.750000)
@@ -19208,7 +19208,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
 			RelativeLocation=(X=3504.000000,Y=-3120.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -19223,7 +19223,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
 			RelativeLocation=(X=3504.000000,Y=-3120.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -19238,7 +19238,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelB.MP_RAS_ServiceTunnelB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelB.MP_RAS_ServiceTunnelB'
 			RelativeLocation=(X=2591.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -19252,7 +19252,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelB.MP_RAS_ServiceTunnelB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelB.MP_RAS_ServiceTunnelB'
 			RelativeLocation=(X=2591.990000,Y=-2208.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -19839,7 +19839,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=4736.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -19853,7 +19853,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=2288.000000,Y=-5312.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -19868,7 +19868,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=1696.000000,Y=-5312.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -19897,7 +19897,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=1696.000000,Y=-5312.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -19912,7 +19912,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=1696.000000,Y=-5312.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -19927,7 +19927,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceCornerA.MP_RAS_ServiceCornerA'
 			RelativeLocation=(X=1696.000000,Y=-5312.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -19942,7 +19942,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=1696.000000,Y=-5904.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -19957,7 +19957,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=1696.000000,Y=-4720.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -19972,7 +19972,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=1103.990000,Y=-5312.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -20060,7 +20060,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
 			RelativeLocation=(X=1696.000000,Y=-3120.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -20075,7 +20075,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
 			RelativeLocation=(X=1696.000000,Y=-3120.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -20090,7 +20090,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=1696.000000,Y=-3760.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=1.000000,Z=0.750000)
@@ -20105,7 +20105,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=1696.000000,Y=-3120.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=1.000000,Z=0.750000)
@@ -20414,7 +20414,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceRamp.MP_RAS_ServiceRamp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceRamp.MP_RAS_ServiceRamp'
 			RelativeLocation=(X=783.997000,Y=-5312.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -20428,7 +20428,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceRamp.MP_RAS_ServiceRamp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceRamp.MP_RAS_ServiceRamp'
 			RelativeLocation=(X=783.997000,Y=-5312.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=0.750000)
 			CustomProperties
@@ -20442,7 +20442,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=175.994000,Y=-5312.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -20920,7 +20920,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=1695.990000,Y=-4080.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -20935,7 +20935,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
 			RelativeLocation=(X=1696.000000,Y=-4400.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -20950,7 +20950,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
 			RelativeLocation=(X=1696.000000,Y=-4400.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -20965,7 +20965,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=1696.000000,Y=-4400.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=1.000000,Z=0.750000)
@@ -21106,7 +21106,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=7943.990000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -21121,7 +21121,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceRamp.MP_RAS_ServiceRamp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceRamp.MP_RAS_ServiceRamp'
 			RelativeLocation=(X=8263.990000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -21136,7 +21136,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=8872.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -21540,7 +21540,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
 			RelativeLocation=(X=7624.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -21555,7 +21555,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
 			RelativeLocation=(X=7624.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -21569,7 +21569,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=7624.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=1.000000,Z=0.750000)
@@ -21584,7 +21584,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=7304.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -21599,7 +21599,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=6664.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -21614,7 +21614,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorA.MP_RAS_ServiceDoorA'
 			RelativeLocation=(X=6272.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=1.000000,Z=0.750000)
@@ -21629,7 +21629,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
 			RelativeLocation=(X=6272.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.250000,Y=1.000000,Z=0.750000)
@@ -21644,7 +21644,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelB.MP_RAS_ServiceTunnelB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelB.MP_RAS_ServiceTunnelB'
 			RelativeLocation=(X=6984.010000,Y=-4672.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -21658,7 +21658,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelB.MP_RAS_ServiceTunnelB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelB.MP_RAS_ServiceTunnelB'
 			RelativeLocation=(X=6984.010000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -21913,7 +21913,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelC.MP_RAS_ServiceTunnelC'
 			RelativeLocation=(X=6272.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeScale3D=(X=1.250000,Y=1.000000,Z=0.750000)
 			CustomProperties
@@ -22158,7 +22158,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceDoorB.MP_RAS_ServiceDoorB'
 			RelativeLocation=(X=5880.000000,Y=-4672.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -22463,7 +22463,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatform.MP_RAS_HangarPlatform'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatform.MP_RAS_HangarPlatform'
 			RelativeLocation=(X=5313.280000,Y=-4685.560000,Z=-1021.100000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -22786,7 +22786,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
 			RelativeLocation=(X=1696.000000,Y=-3760.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -22801,7 +22801,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceTunnelA.MP_RAS_ServiceTunnelA'
 			RelativeLocation=(X=1696.000000,Y=-3760.000000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.750000)
@@ -22983,7 +22983,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
 			RelativeLocation=(X=642.002000,Y=-5310.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.528000,Y=0.390000,Z=0.500000)
@@ -22998,7 +22998,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
 			RelativeLocation=(X=8416.000000,Y=-2112.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.514000,Y=0.370000,Z=0.500000)
@@ -23013,7 +23013,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_ServiceRamp.MP_RAS_ServiceRamp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_ServiceRamp.MP_RAS_ServiceRamp'
 			RelativeLocation=(X=8264.010000,Y=-4671.990000,Z=-1024.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=0.750000)
@@ -23028,7 +23028,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarPlatformFrame.MP_RAS_HangarPlatformFrame'
 			RelativeLocation=(X=8406.000000,Y=-4673.990000,Z=-512.000000)
 			RelativeScale3D=(X=0.528000,Y=0.390000,Z=0.500000)
 			CustomProperties
@@ -23506,7 +23506,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_hangarCeiling.MP_RAS_hangarCeiling'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_hangarCeiling.MP_RAS_hangarCeiling'
 			RelativeLocation=(X=0.000183,Y=-2432.000000,Z=1440.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -23521,7 +23521,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_hangarCeiling.MP_RAS_hangarCeiling'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_hangarCeiling.MP_RAS_hangarCeiling'
 			RelativeLocation=(X=-0.000006,Y=-2432.000000,Z=1440.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -23536,7 +23536,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_hangarCeiling.MP_RAS_hangarCeiling'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_hangarCeiling.MP_RAS_hangarCeiling'
 			RelativeLocation=(X=5312.000000,Y=-2432.000000,Z=1440.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -23551,7 +23551,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_hangarCeiling.MP_RAS_hangarCeiling'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_hangarCeiling.MP_RAS_hangarCeiling'
 			RelativeLocation=(X=5312.000000,Y=-2432.000000,Z=1440.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -23566,7 +23566,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_RAS_MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/RAS/MP_RAS_HangarEntranceB.MP_RAS_HangarEntranceB'
 			RelativeLocation=(X=7368.000000,Y=-7616.000000,Z=1252.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=-2.000000)

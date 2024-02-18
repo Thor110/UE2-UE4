@@ -13646,7 +13646,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.GEO_DoorBreachJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/DoorBreach/GEO_DoorBreachJam.GEO_DoorBreachJam'
 			RelativeLocation=(X=-2755.360000,Y=-1083.150000,Z=6762.090000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.175781,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13673,7 +13673,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.GEO_DoorBreachJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/DoorBreach/GEO_DoorBreachJam.GEO_DoorBreachJam'
 			RelativeLocation=(X=-2755.360000,Y=-1083.150000,Z=6762.110000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.065918,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18743,7 +18743,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_DroneText.Holo_DroneText'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_DroneText.Holo_DroneText'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2662.690000,Y=2510.470000,Z=6945.330000)
@@ -19005,7 +19005,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_Grid.Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2651.200000,Y=2498.470000,Z=6935.710000)
@@ -19022,7 +19022,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Holo_GridLong'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GridLong.Holo_GridLong'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2651.690000,Y=2502.470000,Z=6954.330000)
@@ -19039,7 +19039,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GridBox.Holo_GridBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2688.690000,Y=2502.470000,Z=6925.330000)
@@ -19055,7 +19055,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GridBox.Holo_GridBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2627.690000,Y=2502.470000,Z=6925.330000)
@@ -19071,7 +19071,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GridBox.Holo_GridBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2658.690000,Y=2502.470000,Z=6985.330000)
@@ -19087,7 +19087,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_SpireDiagram.Holo_SpireDiagram'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_SpireDiagram.Holo_SpireDiagram'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2661.850000,Y=2485.680000,Z=6936.440000)
@@ -19227,7 +19227,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GridBox.Holo_GridBox'
 			RelativeLocation=(X=-2662.290000,Y=2485.670000,Z=6932.430000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=98.876953)
 			RelativeScale3D=(X=0.850000,Y=0.850000,Z=0.850000)
@@ -19377,7 +19377,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_Demolition_DemolitionSM1DemolitionSet.DemolitionSM1DemolitionSet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/Demolition/DemolitionSM1DemolitionSet.DemolitionSM1DemolitionSet'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2677.930000,Y=2502.040000,Z=6911.230000)
@@ -19516,7 +19516,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_WarriorText.Holo_WarriorText'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_WarriorText.Holo_WarriorText'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2651.690000,Y=2502.470000,Z=6946.330000)
@@ -28116,7 +28116,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_ConsolHack_GEO_CnslHackB.GEO_CnslHackB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/ConsolHack/GEO_CnslHackB.GEO_CnslHackB'
 			RelativeLocation=(X=-1558.720000,Y=-19618.500000,Z=5294.940000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-86.522827,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -30161,7 +30161,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_Demolition_DemolitionChargeHolo.DemolitionChargeHolo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/Demolition/DemolitionChargeHolo.DemolitionChargeHolo'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2650.000000,Y=2498.000000,Z=6956.000000)
@@ -30178,7 +30178,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_Demolition_DemolitionChargeHolo.DemolitionChargeHolo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/Demolition/DemolitionChargeHolo.DemolitionChargeHolo'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2634.000000,Y=2490.000000,Z=6928.010000)

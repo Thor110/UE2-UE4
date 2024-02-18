@@ -3270,7 +3270,7 @@ Begin Map
 		Wait at top time=12.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_RAS_DoorBreachA.RAS_DoorBreachA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/DoorBreach/RAS_DoorBreachA.RAS_DoorBreachA'
 		ActorLabel="Mover14_Door2A"
 		Tags(0)="Door2A"
 	End Actor
@@ -3293,7 +3293,7 @@ Begin Map
 		Wait at top time=12.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_RAS_DoorBreachB.RAS_DoorBreachB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/DoorBreach/RAS_DoorBreachB.RAS_DoorBreachB'
 		ActorLabel="Mover9"
 	End Actor
 	Begin Actor Class=TriggerVolume Name=Trigger28
@@ -3437,7 +3437,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_RAS_DoorBreachA.RAS_DoorBreachA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/DoorBreach/RAS_DoorBreachA.RAS_DoorBreachA'
 		ActorLabel="Mover6_BridgeDoorA"
 		Tags(0)="BridgeDoorA"
 	End Actor
@@ -3460,7 +3460,7 @@ Begin Map
 		Retrigger Delay=0.2
 		NumKeys=2
 		InitialState=NewEnumerator7
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_RAS_DoorBreachB.RAS_DoorBreachB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/DoorBreach/RAS_DoorBreachB.RAS_DoorBreachB'
 		ActorLabel="Mover7"
 	End Actor
 	Begin Actor Class=StaticMeshActor Name=StaticMeshActor310_StaticMeshActor
@@ -4199,7 +4199,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_ConsolHack_RAS_CnslHackB.RAS_CnslHackB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/ConsolHack/RAS_CnslHackB.RAS_CnslHackB'
 			RelativeLocation=(X=-233.951000,Y=8455.540000,Z=-479.100000)
 			RelativeRotation=(Pitch=0.000000,Yaw=151.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15641,7 +15641,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_ConsolHack_RAS_CnslHackB.RAS_CnslHackB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/ConsolHack/RAS_CnslHackB.RAS_CnslHackB'
 			RelativeLocation=(X=-638.787000,Y=14278.400000,Z=-479.100000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15668,7 +15668,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator14
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_RAS_DoorBreachLock_Unlock.RAS_DoorBreachLock_Unlock'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/DoorBreach/RAS_DoorBreachLock_Unlock.RAS_DoorBreachLock_Unlock'
 		AttachTag="BridgeDoorA"
 		ActorLabel="Mover5"
 	End Actor
@@ -18301,7 +18301,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Dispenser_BDDispenser_Destroyed.BDDispenser_Destroyed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Dispenser/BDDispenser_Destroyed.BDDispenser_Destroyed'
 			RelativeLocation=(X=-1700.850000,Y=4596.460000,Z=-477.101000)
 			RelativeRotation=(Pitch=-0.280151,Yaw=58.222046,Roll=-0.785522)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18488,7 +18488,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_ConsolHack_RAS_CnslHackA.RAS_CnslHackA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/ConsolHack/RAS_CnslHackA.RAS_CnslHackA'
 			RelativeLocation=(X=-234.032000,Y=8455.540000,Z=-339.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=151.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18503,7 +18503,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_ConsolHack_RAS_CnslHackA.RAS_CnslHackA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/ConsolHack/RAS_CnslHackA.RAS_CnslHackA'
 			RelativeLocation=(X=-634.201000,Y=14286.500000,Z=-339.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -23986,7 +23986,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_TranShip.Holo_TranShip'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_TranShip.Holo_TranShip'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7808.920000,Y=6458.360000,Z=41.999800)
@@ -24138,7 +24138,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GridBox.Holo_GridBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7812.210000,Y=6456.080000,Z=118.001000)
@@ -24155,7 +24155,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Holo_GridLong'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GridLong.Holo_GridLong'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7808.920000,Y=6458.350000,Z=66.000800)
@@ -24332,7 +24332,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GridBox.Holo_GridBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7812.210000,Y=6456.080000,Z=77.999800)
@@ -24471,7 +24471,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText1.Holo_GenericText1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GenericText1.Holo_GenericText1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7772.740000,Y=6483.400000,Z=113.999000)
@@ -24488,7 +24488,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText3.Holo_GenericText3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GenericText3.Holo_GenericText3'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7789.190000,Y=6472.020000,Z=73.999800)
@@ -24505,7 +24505,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText4.Holo_GenericText4'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_GenericText4.Holo_GenericText4'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7762.880000,Y=6490.230000,Z=61.998900)
@@ -25010,7 +25010,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_Grid.Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7812.210000,Y=6456.080000,Z=53.999800)
@@ -25027,7 +25027,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_Grid.Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7812.210000,Y=6456.080000,Z=77.999800)
@@ -25044,7 +25044,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Holograms/Holo_Grid.Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7812.210000,Y=6456.080000,Z=110.000000)

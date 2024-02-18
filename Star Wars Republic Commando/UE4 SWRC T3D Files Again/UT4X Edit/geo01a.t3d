@@ -358,7 +358,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.GEO_DoorBreachJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/DoorBreach/GEO_DoorBreachJam.GEO_DoorBreachJam'
 			RelativeLocation=(X=3202.950000,Y=-17533.100000,Z=-2074.410000)
 			RelativeRotation=(Pitch=0.000000,Yaw=89.560547,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -586,7 +586,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_GunShipCrash.GunShipCrash'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Republic/GunShipCrash.GunShipCrash'
 			RelativeLocation=(X=-1622.070000,Y=-5297.820000,Z=-2367.250000)
 			RelativeRotation=(Pitch=2.834473,Yaw=-169.387207,Roll=-22.824097)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1435,7 +1435,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Dispenser_BDDispenser_Destroyed.BDDispenser_Destroyed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Dispenser/BDDispenser_Destroyed.BDDispenser_Destroyed'
 			RelativeLocation=(X=3550.790000,Y=-10251.300000,Z=-2086.550000)
 			RelativeRotation=(Pitch=29.201660,Yaw=-46.510620,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1474,7 +1474,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.GEO_DoorBreachJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/DoorBreach/GEO_DoorBreachJam.GEO_DoorBreachJam'
 			RelativeLocation=(X=3207.890000,Y=-15852.400000,Z=-2090.410000)
 			RelativeRotation=(Pitch=0.000000,Yaw=89.560547,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8082,7 +8082,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DropCrate.DropCrate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes/ClonePickups/DropCrate.DropCrate'
 			RelativeLocation=(X=-2926.040000,Y=-3947.750000,Z=-2163.010000)
 			RelativeRotation=(Pitch=-28.125000,Yaw=-56.629028,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)
@@ -8097,7 +8097,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DropCrate.DropCrate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes/ClonePickups/DropCrate.DropCrate'
 			RelativeLocation=(X=1150.800000,Y=-1846.830000,Z=-2384.050000)
 			RelativeRotation=(Pitch=0.000000,Yaw=132.934570,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)
@@ -8112,7 +8112,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DropCrate.DropCrate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes/ClonePickups/DropCrate.DropCrate'
 			RelativeLocation=(X=-1499.290000,Y=-1046.010000,Z=-2383.190000)
 			RelativeRotation=(Pitch=0.000000,Yaw=64.780884,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)
@@ -8126,7 +8126,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DropCrate.DropCrate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes/ClonePickups/DropCrate.DropCrate'
 			RelativeLocation=(X=2711.280000,Y=-3645.710000,Z=-2448.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-84.770508,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)
@@ -8141,7 +8141,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DropCrate.DropCrate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes/ClonePickups/DropCrate.DropCrate'
 			RelativeLocation=(X=5402.220000,Y=-4086.260000,Z=-2446.610000)
 			RelativeRotation=(Pitch=-0.433960,Yaw=-163.300781,Roll=1.230469)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)

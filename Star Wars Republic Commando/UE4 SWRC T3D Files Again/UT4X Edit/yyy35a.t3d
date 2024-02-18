@@ -484,7 +484,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CWlkMinimalA.TR_EXT_Wall_CWlkMinimalA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/TR_EXT_Wall_CWlkMinimalA.TR_EXT_Wall_CWlkMinimalA'
 			RelativeLocation=(X=524.134000,Y=7352.330000,Z=915.946000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -499,7 +499,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.CatWalk_Meow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/CatWalk_Meow.CatWalk_Meow'
 			RelativeLocation=(X=556.139000,Y=7888.330000,Z=1271.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -736,7 +736,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.CatWalk_Meow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/CatWalk_Meow.CatWalk_Meow'
 			RelativeLocation=(X=772.134000,Y=5288.320000,Z=1023.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -751,7 +751,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.CatWalk_Meow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/CatWalk_Meow.CatWalk_Meow'
 			RelativeLocation=(X=788.131000,Y=5848.320000,Z=992.947000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -766,7 +766,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Decor_WallTop_short.TR_Decor_WallTop_short'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/TR_Decor_WallTop_short.TR_Decor_WallTop_short'
 			RelativeLocation=(X=742.137000,Y=5139.320000,Z=1426.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2773,7 +2773,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Walls_GenericBoulder.GenericBoulder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Walls/GenericBoulder.GenericBoulder'
 			RelativeLocation=(X=3349.000000,Y=7092.000000,Z=687.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3234,7 +3234,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=6804.000000,Y=767.000000,Z=740.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -4330,7 +4330,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=6832.000000,Y=-178.000000,Z=884.993000)
 			RelativeRotation=(Pitch=0.000000,Yaw=39.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4367,7 +4367,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=9084.650000,Y=-149.394000,Z=734.006000)
 			RelativeRotation=(Pitch=-5.625000,Yaw=-168.788452,Roll=-0.170288)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4382,7 +4382,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8912.010000,Y=927.959000,Z=760.015000)
 			RelativeRotation=(Pitch=-0.351562,Yaw=-176.874390,Roll=-0.104370)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4397,7 +4397,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=9152.180000,Y=1112.410000,Z=1028.020000)
 			RelativeRotation=(Pitch=-0.851440,Yaw=-114.472046,Roll=-0.499878)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4412,7 +4412,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Netting.Framed_Netting'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Framed_Netting.Framed_Netting'
 			RelativeLocation=(X=8672.000000,Y=-368.000000,Z=720.002000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -4427,7 +4427,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Netting.Framed_Netting'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Framed_Netting.Framed_Netting'
 			RelativeLocation=(X=8549.990000,Y=1077.010000,Z=720.009000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -4442,7 +4442,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_SmallLight_Head.Trando_SmallLight_Head'
 			RelativeLocation=(X=9956.800000,Y=215.116000,Z=1936.300000)
 			RelativeRotation=(Pitch=26.960449,Yaw=-7.531128,Roll=171.979980)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -4478,7 +4478,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=13327.800000,Y=-1440.000000,Z=895.992000)
 			RelativeRotation=(Pitch=0.000000,Yaw=151.875000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -4493,7 +4493,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=9567.850000,Y=-2831.980000,Z=1680.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=135.000000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -4508,7 +4508,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=13119.800000,Y=-3359.960000,Z=2287.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=140.603027,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -4523,7 +4523,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=15332.300000,Y=-14.757300,Z=964.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=174.243164,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -4538,7 +4538,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Hero_rock.Hero_rock'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Hero_rock.Hero_rock'
 			RelativeLocation=(X=11214.000000,Y=-1198.970000,Z=1155.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=50.625000,Roll=0.000000)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -4553,7 +4553,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			RelativeLocation=(X=11328.000000,Y=-128.000000,Z=1664.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
 			CustomProperties
@@ -4567,7 +4567,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			RelativeLocation=(X=11568.100000,Y=240.037000,Z=2448.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -5641,7 +5641,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_Canopy_Group_UnLit.Canopy_Group_UnLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/Canopy_Group_UnLit.Canopy_Group_UnLit'
 			RelativeLocation=(X=-893.549000,Y=1312.790000,Z=1616.420000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=1.230469)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5656,7 +5656,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=2117.340000,Y=979.586000,Z=2633.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=125.881348,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5671,7 +5671,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=1582.130000,Y=982.151000,Z=2583.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-1.142578)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5696,7 +5696,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_Canopy_Group_UnLit.Canopy_Group_UnLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/Canopy_Group_UnLit.Canopy_Group_UnLit'
 			RelativeLocation=(X=1879.180000,Y=1334.350000,Z=2080.180000)
 			RelativeRotation=(Pitch=53.635254,Yaw=-1.889648,Roll=-2.329102)
 			RelativeScale3D=(X=0.600000,Y=0.600000,Z=0.600000)
@@ -5711,7 +5711,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_Canopy_Group_UnLit.Canopy_Group_UnLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/Canopy_Group_UnLit.Canopy_Group_UnLit'
 			RelativeLocation=(X=-3287.890000,Y=1625.620000,Z=-1537.140000)
 			RelativeRotation=(Pitch=22.038574,Yaw=-1.686401,Roll=-2.455444)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5726,7 +5726,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=-548.552000,Y=1427.220000,Z=1159.820000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-21.813354,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -5741,7 +5741,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=393.861000,Y=2987.520000,Z=1103.840000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-57.260742,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -5756,7 +5756,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=-246.796000,Y=-59.782000,Z=1114.870000)
 			RelativeRotation=(Pitch=-0.016479,Yaw=15.358887,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -5771,7 +5771,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_DemonRays.DemonRays'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/DemonRays.DemonRays'
 			RelativeLocation=(X=5603.400000,Y=1790.490000,Z=1339.680000)
 			RelativeRotation=(Pitch=-28.888550,Yaw=146.535645,Roll=-38.007202)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -5807,7 +5807,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=2405.350000,Y=627.588000,Z=2729.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=125.595703,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5822,7 +5822,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Hero_rock.Hero_rock'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Hero_rock.Hero_rock'
 			RelativeLocation=(X=2079.980000,Y=2880.000000,Z=2304.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-32.453613,Roll=-0.065918)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -5837,7 +5837,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_SingleUp_Plate.SingleUp_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/SingleUp_Plate.SingleUp_Plate'
 			RelativeLocation=(X=1152.000000,Y=1632.000000,Z=1920.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -5851,7 +5851,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_SingleUp_Plate.SingleUp_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/SingleUp_Plate.SingleUp_Plate'
 			RelativeLocation=(X=1280.000000,Y=1728.000000,Z=2464.000000)
 			RelativeRotation=(Pitch=-68.576660,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5866,7 +5866,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_SingleUp_Plate.SingleUp_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/SingleUp_Plate.SingleUp_Plate'
 			RelativeLocation=(X=1248.000000,Y=1600.000000,Z=2208.000000)
 			RelativeRotation=(Pitch=-24.867554,Yaw=-17.160645,Roll=40.649414)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5881,7 +5881,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=1493.600000,Y=1707.270000,Z=2343.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-1.142578)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5896,7 +5896,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_TreeRamp_TrunkBase.TreeRamp_TrunkBase'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/TreeRamp_TrunkBase.TreeRamp_TrunkBase'
 			RelativeLocation=(X=2770.960000,Y=98.751000,Z=704.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=56.206055,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=0.750000,Z=0.750000)
@@ -5911,7 +5911,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_TreeRamp_Trunk1.TreeRamp_Trunk1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/TreeRamp_Trunk1.TreeRamp_Trunk1'
 			RelativeLocation=(X=2768.000000,Y=103.999000,Z=704.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=56.206055,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=0.750000,Z=0.750000)
@@ -5926,7 +5926,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			RelativeLocation=(X=2777.000000,Y=3031.000000,Z=1632.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
 			CustomProperties
@@ -5940,7 +5940,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			RelativeLocation=(X=2048.000000,Y=2592.000000,Z=2016.000000)
 			RelativeRotation=(Pitch=56.228027,Yaw=-84.369507,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -5955,7 +5955,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=3405.600000,Y=1035.270000,Z=1847.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-1.142578)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5970,7 +5970,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=3645.600000,Y=979.270000,Z=1719.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=-1.142578)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5985,7 +5985,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=3885.600000,Y=1235.270000,Z=1647.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=-1.142578)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6000,7 +6000,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Elefant_Ear_FullRes1.Elefant_Ear_FullRes1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Elefant_Ear_FullRes1.Elefant_Ear_FullRes1'
 			RelativeLocation=(X=4583.940000,Y=1240.060000,Z=1414.990000)
 			RelativeRotation=(Pitch=18.061523,Yaw=-34.667358,Roll=-4.081421)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -6015,7 +6015,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Elefant_Ear_FullRes1.Elefant_Ear_FullRes1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Elefant_Ear_FullRes1.Elefant_Ear_FullRes1'
 			RelativeLocation=(X=3839.880000,Y=808.019000,Z=1536.000000)
 			RelativeRotation=(Pitch=37.880859,Yaw=-62.089233,Roll=-28.712769)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -6030,7 +6030,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_SingleUp_Plate.SingleUp_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/SingleUp_Plate.SingleUp_Plate'
 			RelativeLocation=(X=4296.000000,Y=1648.000000,Z=1904.010000)
 			RelativeRotation=(Pitch=46.428223,Yaw=179.868164,Roll=179.802246)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -6045,7 +6045,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_SingleUp_Plate.SingleUp_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/SingleUp_Plate.SingleUp_Plate'
 			RelativeLocation=(X=4088.030000,Y=1288.010000,Z=2727.990000)
 			RelativeRotation=(Pitch=45.000000,Yaw=180.000000,Roll=180.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -6060,7 +6060,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_SingleUp_Plate.SingleUp_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/SingleUp_Plate.SingleUp_Plate'
 			RelativeLocation=(X=4280.060000,Y=2200.040000,Z=2615.990000)
 			RelativeRotation=(Pitch=45.000000,Yaw=180.000000,Roll=180.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -6096,7 +6096,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=17263.300000,Y=13575.600000,Z=2391.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=28.125000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6111,7 +6111,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=14599.100000,Y=14311.400000,Z=1503.930000)
 			RelativeRotation=(Pitch=0.000000,Yaw=28.125000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6126,7 +6126,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=10015.200000,Y=18135.200000,Z=3151.940000)
 			RelativeRotation=(Pitch=0.000000,Yaw=73.125000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6141,7 +6141,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=6775.210000,Y=16151.200000,Z=2421.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6156,7 +6156,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=13007.200000,Y=17047.200000,Z=1888.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=101.250000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6171,7 +6171,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=3423.890000,Y=19206.800000,Z=2391.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6186,7 +6186,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=1518.810000,Y=17295.400000,Z=1503.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6201,7 +6201,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-4014.020000,Y=14964.000000,Z=3151.940000)
 			RelativeRotation=(Pitch=0.000000,Yaw=135.000000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6216,7 +6216,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-3791.560000,Y=11171.400000,Z=3152.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=151.875000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6231,7 +6231,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-1644.080000,Y=17089.700000,Z=1888.050000)
 			RelativeRotation=(Pitch=0.000000,Yaw=163.125000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6246,7 +6246,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-6717.180000,Y=12704.000000,Z=2743.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=151.875000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6261,7 +6261,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-4072.840000,Y=9279.920000,Z=1855.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=151.875000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6276,7 +6276,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-4457.550000,Y=5224.210000,Z=2271.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-168.750000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6291,7 +6291,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-1790.680000,Y=2225.140000,Z=2975.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-146.244507,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6306,7 +6306,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-7535.090000,Y=7196.390000,Z=3160.100000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -6321,7 +6321,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=4175.840000,Y=-1616.010000,Z=736.072000)
 			RelativeRotation=(Pitch=0.000000,Yaw=73.125000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -6336,7 +6336,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreeCrossPoly1.TallTreeCrossPoly1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreeCrossPoly1.TallTreeCrossPoly1'
 			RelativeLocation=(X=5984.010000,Y=-471.999000,Z=1312.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=112.500000,Roll=0.000000)
 			RelativeScale3D=(X=8.000000,Y=8.000000,Z=8.000000)
@@ -6351,7 +6351,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_Canopy_Group_UnLit.Canopy_Group_UnLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/Canopy_Group_UnLit.Canopy_Group_UnLit'
 			RelativeLocation=(X=4402.450000,Y=2864.790000,Z=1031.420000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-0.126343,Roll=1.186523)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -6366,7 +6366,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_Canopy_Group_UnLit.Canopy_Group_UnLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/Canopy_Group_UnLit.Canopy_Group_UnLit'
 			RelativeLocation=(X=9250.450000,Y=1688.810000,Z=1064.420000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-95.625000,Roll=1.230469)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6381,7 +6381,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_TreeRamp_TrunkBranch.TreeRamp_TrunkBranch'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/TreeRamp_TrunkBranch.TreeRamp_TrunkBranch'
 			RelativeLocation=(X=2656.010000,Y=-695.998000,Z=-879.995000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6408,7 +6408,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LongSkinnyLadder.LongSkinnyLadder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/LongSkinnyLadder.LongSkinnyLadder'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=9888.000000,Y=255.998000,Z=1208.000000)
@@ -6425,7 +6425,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			RelativeLocation=(X=10279.200000,Y=1168.460000,Z=1455.070000)
 			RelativeScale3D=(X=4.000000,Y=4.000000,Z=4.000000)
 			CustomProperties
@@ -6439,7 +6439,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			RelativeLocation=(X=9998.070000,Y=1460.930000,Z=1637.010000)
 			RelativeRotation=(Pitch=0.922852,Yaw=176.434937,Roll=9.882202)
 			RelativeScale3D=(X=6.000000,Y=6.000000,Z=6.000000)
@@ -6454,7 +6454,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=9611.200000,Y=2048.080000,Z=1793.480000)
 			RelativeRotation=(Pitch=-0.021973,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -6469,7 +6469,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_Tall_BG_Plate.Tall_BG_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/Tall_BG_Plate.Tall_BG_Plate'
 			RelativeLocation=(X=9474.090000,Y=2522.490000,Z=1657.040000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6483,7 +6483,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_Tall_BG_Plate.Tall_BG_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/Tall_BG_Plate.Tall_BG_Plate'
 			RelativeLocation=(X=8068.520000,Y=-1553.890000,Z=1506.040000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6497,7 +6497,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_Tall_BG_Plate.Tall_BG_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/Tall_BG_Plate.Tall_BG_Plate'
 			RelativeLocation=(X=6530.880000,Y=-1639.400000,Z=1669.040000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6511,7 +6511,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=4448.010000,Y=3232.050000,Z=896.013000)
 			RelativeRotation=(Pitch=0.038452,Yaw=97.223511,Roll=-0.922852)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -7166,7 +7166,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_SuperRoot_C.SuperRoot_C'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/SuperRoot_C.SuperRoot_C'
 			RelativeLocation=(X=13108.700000,Y=2375.470000,Z=1473.520000)
 			RelativeRotation=(Pitch=39.375000,Yaw=-16.759644,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7181,7 +7181,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=10281.500000,Y=2815.700000,Z=770.652000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-73.015137,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7196,7 +7196,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=10098.900000,Y=2725.980000,Z=840.653000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-73.015137,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7211,7 +7211,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=10644.000000,Y=3211.400000,Z=776.692000)
 			RelativeRotation=(Pitch=1.208496,Yaw=-87.165527,Roll=1.565552)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7226,7 +7226,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=9770.600000,Y=3312.180000,Z=1236.290000)
 			RelativeRotation=(Pitch=66.395874,Yaw=-176.566772,Roll=15.578613)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -7241,7 +7241,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=10145.300000,Y=4534.240000,Z=1233.290000)
 			RelativeRotation=(Pitch=57.304688,Yaw=132.934570,Roll=-25.861816)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -7256,7 +7256,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=10145.800000,Y=5335.960000,Z=1371.510000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -7271,7 +7271,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=10451.000000,Y=7413.400000,Z=812.517000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-83.798218,Roll=0.000000)
@@ -7287,7 +7287,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=11446.700000,Y=6413.310000,Z=1072.230000)
 			RelativeRotation=(Pitch=37.617188,Yaw=53.239746,Roll=16.523438)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -7302,7 +7302,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=9497.610000,Y=7501.700000,Z=737.344000)
 			RelativeRotation=(Pitch=-6.965332,Yaw=-63.830566,Roll=-82.551270)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -7317,7 +7317,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=9533.340000,Y=8746.280000,Z=737.297000)
 			RelativeRotation=(Pitch=2.241211,Yaw=-121.992188,Roll=-80.332031)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -7332,7 +7332,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=10048.900000,Y=6991.940000,Z=1283.540000)
 			RelativeRotation=(Pitch=-45.543823,Yaw=-148.178101,Roll=42.626953)
@@ -7348,7 +7348,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=10042.800000,Y=6913.780000,Z=590.524000)
 			RelativeRotation=(Pitch=60.402832,Yaw=-29.509277,Roll=79.497070)
@@ -7364,7 +7364,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=9195.730000,Y=8134.170000,Z=578.497000)
 			RelativeRotation=(Pitch=76.618652,Yaw=-56.381836,Roll=53.151855)
@@ -7380,7 +7380,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Towering_RootSegmnt1.Towering_RootSegmnt1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Towering_RootSegmnt1.Towering_RootSegmnt1'
 			RelativeLocation=(X=9515.330000,Y=3721.830000,Z=1368.620000)
 			RelativeRotation=(Pitch=-3.685913,Yaw=56.513672,Roll=-32.937012)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -7395,7 +7395,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Towering_RootSegmnt2.Towering_RootSegmnt2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Towering_RootSegmnt2.Towering_RootSegmnt2'
 			RelativeLocation=(X=9579.040000,Y=3755.300000,Z=1176.570000)
 			RelativeRotation=(Pitch=3.120117,Yaw=57.041016,Roll=-26.235352)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -7410,7 +7410,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8615.360000,Y=6255.260000,Z=46.391200)
 			RelativeRotation=(Pitch=5.668945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7425,7 +7425,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8610.760000,Y=5788.910000,Z=46.391100)
 			RelativeRotation=(Pitch=5.668945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7440,7 +7440,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8623.090000,Y=5250.550000,Z=40.391200)
 			RelativeRotation=(Pitch=5.668945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7455,7 +7455,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8307.100000,Y=4933.070000,Z=40.391000)
 			RelativeRotation=(Pitch=5.668945,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7470,7 +7470,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8976.400000,Y=5159.990000,Z=102.391000)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7485,7 +7485,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8981.980000,Y=5626.170000,Z=102.391000)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7500,7 +7500,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8969.650000,Y=6164.530000,Z=96.391300)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7515,7 +7515,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Netting.Framed_Netting'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Framed_Netting.Framed_Netting'
 			RelativeLocation=(X=8776.630000,Y=6126.690000,Z=101.980000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -7530,7 +7530,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8569.920000,Y=8483.610000,Z=100.394000)
 			RelativeRotation=(Pitch=5.668945,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7545,7 +7545,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8404.890000,Y=7969.750000,Z=53.389100)
 			RelativeRotation=(Pitch=5.668945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7560,7 +7560,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8419.250000,Y=6797.440000,Z=85.388900)
 			RelativeRotation=(Pitch=5.668945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.200000)
@@ -7575,7 +7575,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8797.170000,Y=7083.940000,Z=83.388700)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7590,7 +7590,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8793.020000,Y=8168.960000,Z=96.389100)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.200000)
@@ -7605,7 +7605,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8424.890000,Y=7204.810000,Z=87.388900)
 			RelativeRotation=(Pitch=5.668945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.200000)
@@ -7620,7 +7620,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7800.960000,Y=7878.670000,Z=90.388900)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7635,7 +7635,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8099.640000,Y=8516.600000,Z=77.394900)
 			RelativeRotation=(Pitch=5.668945,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7650,7 +7650,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7827.520000,Y=7150.800000,Z=91.389100)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7665,7 +7665,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7821.880000,Y=6743.440000,Z=93.389100)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7680,7 +7680,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7454.500000,Y=6766.300000,Z=48.389100)
 			RelativeRotation=(Pitch=5.668945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7695,7 +7695,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7460.130000,Y=7173.650000,Z=50.389100)
 			RelativeRotation=(Pitch=5.668945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7710,7 +7710,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7838.350000,Y=6281.850000,Z=91.389000)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7725,7 +7725,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8000.300000,Y=5509.760000,Z=40.390900)
 			RelativeRotation=(Pitch=5.668945,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7740,7 +7740,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8007.640000,Y=5849.670000,Z=84.399800)
 			RelativeRotation=(Pitch=5.668945,Yaw=-151.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7755,7 +7755,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8793.900000,Y=4768.140000,Z=102.394000)
 			RelativeRotation=(Pitch=5.668945,Yaw=129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7770,7 +7770,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8479.040000,Y=4744.690000,Z=93.395400)
 			RelativeRotation=(Pitch=5.668945,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7785,7 +7785,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7952.060000,Y=4732.960000,Z=93.395400)
 			RelativeRotation=(Pitch=5.668945,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7800,7 +7800,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7671.160000,Y=5084.270000,Z=89.397600)
 			RelativeRotation=(Pitch=0.043945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7815,7 +7815,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7464.960000,Y=5904.960000,Z=49.397600)
 			RelativeRotation=(Pitch=0.043945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7830,7 +7830,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/BigGirder2.BigGirder2'
 			RelativeLocation=(X=7456.000000,Y=5120.000000,Z=255.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7845,7 +7845,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Scaly_Plate.Scaly_Plate'
 			RelativeLocation=(X=7776.000000,Y=4768.000000,Z=256.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-39.375000,Roll=-5.625000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7860,7 +7860,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7472.420000,Y=7699.380000,Z=50.389100)
 			RelativeRotation=(Pitch=5.668945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7875,7 +7875,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7745.420000,Y=8386.090000,Z=109.375000)
 			RelativeRotation=(Pitch=5.668945,Yaw=-56.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7890,7 +7890,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/BigGirder2.BigGirder2'
 			RelativeLocation=(X=7319.300000,Y=7780.860000,Z=329.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-22.500000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7905,7 +7905,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Netting.Framed_Netting'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Framed_Netting.Framed_Netting'
 			RelativeLocation=(X=7615.600000,Y=7353.510000,Z=178.969000)
 			RelativeRotation=(Pitch=-0.104370,Yaw=-91.510620,Roll=-0.521851)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -7920,7 +7920,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=8875.430000,Y=10971.800000,Z=227.105000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-94.064941,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -7935,7 +7935,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Epic_JunglePlate.Epic_JunglePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Epic_JunglePlate.Epic_JunglePlate'
 			RelativeLocation=(X=5871.550000,Y=11983.300000,Z=5.109930)
 			RelativeRotation=(Pitch=0.000000,Yaw=-76.135254,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -7950,7 +7950,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=9145.200000,Y=4844.400000,Z=958.307000)
 			RelativeRotation=(Pitch=1.735840,Yaw=-136.779785,Roll=-80.919800)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -7965,7 +7965,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=9155.000000,Y=5411.630000,Z=360.441000)
 			RelativeRotation=(Pitch=-0.653687,Yaw=-88.456421,Roll=-70.026855)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -7980,7 +7980,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=9335.910000,Y=6296.010000,Z=538.581000)
 			RelativeRotation=(Pitch=0.549316,Yaw=-168.618164,Roll=-68.510742)
@@ -7996,7 +7996,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=9658.400000,Y=6034.050000,Z=864.453000)
 			RelativeRotation=(Pitch=3.735352,Yaw=-33.327026,Roll=165.146484)
@@ -8012,7 +8012,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=7425.120000,Y=5056.380000,Z=1006.350000)
 			RelativeRotation=(Pitch=-6.284180,Yaw=109.335938,Roll=-76.964722)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8027,7 +8027,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=6068.670000,Y=4599.020000,Z=1866.520000)
 			RelativeRotation=(Pitch=-0.834961,Yaw=112.346191,Roll=-1.005249)
@@ -8043,7 +8043,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=6490.860000,Y=5232.850000,Z=978.322000)
 			RelativeRotation=(Pitch=5.229492,Yaw=-123.305054,Roll=-75.338745)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8058,7 +8058,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7197.450000,Y=5896.550000,Z=314.398000)
 			RelativeRotation=(Pitch=0.000000,Yaw=62.270508,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8073,7 +8073,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=6657.240000,Y=5760.560000,Z=301.398000)
 			RelativeRotation=(Pitch=0.000000,Yaw=134.187012,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8088,7 +8088,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=7065.280000,Y=5721.820000,Z=778.487000)
 			RelativeRotation=(Pitch=-55.261230,Yaw=-8.300171,Roll=71.433105)
@@ -8104,7 +8104,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=7021.110000,Y=5703.920000,Z=1316.510000)
 			RelativeRotation=(Pitch=-81.622925,Yaw=-74.113770,Roll=-70.043335)
@@ -8120,7 +8120,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4933.290000,Y=4993.270000,Z=1796.520000)
 			RelativeRotation=(Pitch=-0.834961,Yaw=112.346191,Roll=-1.005249)
@@ -8136,7 +8136,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4313.830000,Y=5849.840000,Z=1901.510000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-132.050171,Roll=-1.137085)
@@ -8152,7 +8152,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4616.570000,Y=5544.250000,Z=2706.540000)
 			RelativeRotation=(Pitch=-0.834961,Yaw=112.346191,Roll=-1.005249)
@@ -8168,7 +8168,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7159.610000,Y=6481.530000,Z=271.403000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.258179,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8183,7 +8183,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=6617.960000,Y=6480.870000,Z=306.415000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.258179,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8198,7 +8198,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=6073.670000,Y=6485.530000,Z=378.423000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-103.947144,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8213,7 +8213,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=5817.660000,Y=6528.560000,Z=585.437000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-114.955444,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8228,7 +8228,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=5481.580000,Y=6805.340000,Z=749.439000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-136.444702,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8243,7 +8243,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=5187.170000,Y=7245.260000,Z=846.456000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-145.590820,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8258,7 +8258,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			RelativeLocation=(X=5401.160000,Y=8245.980000,Z=1334.480000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-98.893433,Roll=-1.466675)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -8273,7 +8273,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			RelativeLocation=(X=4387.640000,Y=8687.040000,Z=1216.470000)
 			RelativeRotation=(Pitch=-0.878906,Yaw=-159.537964,Roll=-1.093140)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -8288,7 +8288,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Lite_Rope_Single.Lite_Rope_Single'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Lite_Rope_Single.Lite_Rope_Single'
 			RelativeLocation=(X=6049.560000,Y=5471.310000,Z=822.724000)
 			RelativeRotation=(Pitch=-23.181152,Yaw=90.043945,Roll=-2.307129)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8312,7 +8312,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=10832.400000,Y=3439.930000,Z=1139.510000)
 			RelativeRotation=(Pitch=16.040039,Yaw=-82.419434,Roll=7.344360)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8432,7 +8432,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Towering_RootSegmnt2.Towering_RootSegmnt2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Towering_RootSegmnt2.Towering_RootSegmnt2'
 			RelativeLocation=(X=5357.750000,Y=4422.150000,Z=-226.911000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-40.957031,Roll=5.361328)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8447,7 +8447,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Towering_RootSegmnt1.Towering_RootSegmnt1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Towering_RootSegmnt1.Towering_RootSegmnt1'
 			RelativeLocation=(X=5791.300000,Y=5437.790000,Z=657.926000)
 			RelativeRotation=(Pitch=-30.761719,Yaw=-56.337891,Roll=-16.803589)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8462,7 +8462,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_SuperRoot_C.SuperRoot_C'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/SuperRoot_C.SuperRoot_C'
 			RelativeLocation=(X=5376.020000,Y=1024.000000,Z=607.999000)
 			RelativeRotation=(Pitch=-19.291992,Yaw=18.698730,Roll=9.206543)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8477,7 +8477,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Hero_rock.Hero_rock'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Hero_rock.Hero_rock'
 			RelativeLocation=(X=2975.850000,Y=8063.970000,Z=767.986000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-76.459351,Roll=-0.065918)
 			RelativeScale3D=(X=0.600000,Y=0.600000,Z=0.600000)
@@ -8492,7 +8492,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothWall.ToothWall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/ToothWall.ToothWall'
 			RelativeLocation=(X=5759.990000,Y=5503.990000,Z=288.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=89.714355,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8507,7 +8507,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothWall.ToothWall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/ToothWall.ToothWall'
 			RelativeLocation=(X=6399.990000,Y=5503.990000,Z=288.004000)
 			RelativeRotation=(Pitch=0.000000,Yaw=89.714355,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8522,7 +8522,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothWall.ToothWall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/ToothWall.ToothWall'
 			RelativeLocation=(X=896.000000,Y=7552.000000,Z=928.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8536,7 +8536,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=899.218000,Y=8397.370000,Z=911.409000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-91.356812,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8551,7 +8551,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=1293.790000,Y=8230.030000,Z=922.420000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-141.937866,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8566,7 +8566,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=1300.100000,Y=7956.590000,Z=914.428000)
 			RelativeRotation=(Pitch=0.000000,Yaw=178.483887,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8581,7 +8581,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=1472.460000,Y=7501.130000,Z=923.438000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-150.902710,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.500000)
@@ -8596,7 +8596,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.Generic_CatWalk_floor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Generic_CatWalk_floor.Generic_CatWalk_floor'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=769.703000,Y=8401.980000,Z=1436.590000)
@@ -8613,7 +8613,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.CatWalk_Meow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/CatWalk_Meow.CatWalk_Meow'
 			RelativeLocation=(X=597.701000,Y=8577.450000,Z=1271.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8628,7 +8628,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothWall.ToothWall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/ToothWall.ToothWall'
 			RelativeLocation=(X=665.780000,Y=8818.230000,Z=824.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8651,7 +8651,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=881.068000,Y=8367.410000,Z=982.184000)
 			RelativeRotation=(Pitch=-24.823608,Yaw=-90.983276,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -8675,7 +8675,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=7465.960000,Y=5905.960000,Z=273.398000)
 			RelativeRotation=(Pitch=0.043945,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8734,7 +8734,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-1127.240000,Y=556.004000,Z=368.019000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-146.244507,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -8779,7 +8779,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/OilDrum_Stack02.OilDrum_Stack02'
 			RelativeLocation=(X=895.881000,Y=7888.990000,Z=924.626000)
 			RelativeRotation=(Pitch=0.000000,Yaw=81.320801,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8794,7 +8794,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.OilDrum_Stack01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/OilDrum_Stack01.OilDrum_Stack01'
 			RelativeLocation=(X=929.032000,Y=7922.980000,Z=1018.470000)
 			RelativeRotation=(Pitch=0.000000,Yaw=8.772583,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8809,7 +8809,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/OilDrum.OilDrum'
 			RelativeLocation=(X=863.142000,Y=7992.440000,Z=923.221000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-0.087891,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8824,7 +8824,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=3119.740000,Y=6082.950000,Z=1588.320000)
 			RelativeRotation=(Pitch=3.273926,Yaw=-110.390625,Roll=-75.646362)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8839,7 +8839,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=2666.140000,Y=5112.170000,Z=1620.220000)
 			RelativeRotation=(Pitch=0.000000,Yaw=172.639160,Roll=-75.646362)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8854,7 +8854,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=1378.060000,Y=5030.900000,Z=1624.310000)
 			RelativeRotation=(Pitch=-0.593262,Yaw=-166.135254,Roll=-75.651855)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8869,7 +8869,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokDot.Lumpy_RokDot'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokDot.Lumpy_RokDot'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3862.490000,Y=6636.820000,Z=1144.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-132.050171,Roll=-1.142578)
@@ -8885,7 +8885,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=3673.790000,Y=6660.460000,Z=1934.460000)
 			RelativeRotation=(Pitch=-81.622925,Yaw=-74.113770,Roll=-70.043335)
@@ -8901,7 +8901,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=2888.470000,Y=3250.370000,Z=2424.700000)
 			RelativeRotation=(Pitch=3.427734,Yaw=1.098633,Roll=-76.135254)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8916,7 +8916,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=3982.210000,Y=3101.810000,Z=1977.710000)
 			RelativeRotation=(Pitch=-0.747070,Yaw=2.307129,Roll=-75.651855)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -8931,7 +8931,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=4862.110000,Y=3429.070000,Z=1879.030000)
 			RelativeRotation=(Pitch=-0.483398,Yaw=165.520020,Roll=-0.719604)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -9315,7 +9315,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=11448.900000,Y=2154.030000,Z=1103.990000)
 			RelativeRotation=(Pitch=13.903198,Yaw=86.704102,Roll=13.337402)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9841,7 +9841,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			RelativeLocation=(X=10359.200000,Y=1532.910000,Z=1531.090000)
 			RelativeRotation=(Pitch=-5.619507,Yaw=-61.869507,Roll=27.883301)
 			RelativeScale3D=(X=6.000000,Y=6.000000,Z=6.000000)
@@ -9856,7 +9856,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=8383.990000,Y=-96.032300,Z=712.011000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-168.788452,Roll=-0.170288)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9871,7 +9871,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=8431.990000,Y=-352.031000,Z=712.012000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-168.788452,Roll=-0.170288)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9886,7 +9886,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=8487.990000,Y=-608.030000,Z=712.012000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-168.788452,Roll=-0.170288)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.200000)
@@ -9901,7 +9901,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=8407.990000,Y=607.969000,Z=712.012000)
 			RelativeRotation=(Pitch=-16.875000,Yaw=-168.788452,Roll=-0.170288)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9916,7 +9916,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=8384.000000,Y=871.973000,Z=720.009000)
 			RelativeRotation=(Pitch=-16.803589,Yaw=179.868164,Roll=2.416992)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9931,7 +9931,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=8382.060000,Y=1181.990000,Z=741.003000)
 			RelativeRotation=(Pitch=-16.803589,Yaw=179.362793,Roll=2.416992)
 			RelativeScale3D=(X=1.000000,Y=1.400000,Z=1.250000)
@@ -9946,7 +9946,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=9872.050000,Y=287.984000,Z=1230.000000)
 			RelativeRotation=(Pitch=-9.706421,Yaw=-168.788452,Roll=-0.170288)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9961,7 +9961,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=9856.020000,Y=823.981000,Z=1248.010000)
 			RelativeRotation=(Pitch=-9.706421,Yaw=-173.578491,Roll=3.251953)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9976,7 +9976,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=9824.000000,Y=1087.990000,Z=1267.000000)
 			RelativeRotation=(Pitch=-9.706421,Yaw=-173.578491,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9991,7 +9991,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=9928.040000,Y=31.986300,Z=1230.000000)
 			RelativeRotation=(Pitch=-9.706421,Yaw=-168.788452,Roll=-0.170288)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10006,7 +10006,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4392.000000,Y=2640.000000,Z=520.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-63.803101)
@@ -10022,7 +10022,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4120.000000,Y=2664.000000,Z=575.997000)
 			RelativeRotation=(Pitch=6.833496,Yaw=-161.608887,Roll=-106.100464)
@@ -10038,7 +10038,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=4672.000000,Y=2704.010000,Z=456.011000)
 			RelativeRotation=(Pitch=4.042969,Yaw=2.065430,Roll=-77.541504)
@@ -11443,7 +11443,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=4295.070000,Y=2563.990000,Z=387.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-56.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11502,7 +11502,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=4304.000000,Y=1770.000000,Z=447.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=16.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11664,7 +11664,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Decor_WallTop_short.TR_Decor_WallTop_short'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/TR_Decor_WallTop_short.TR_Decor_WallTop_short'
 			RelativeLocation=(X=743.137000,Y=5650.320000,Z=1426.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11679,7 +11679,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Decor_WallTop_short.TR_Decor_WallTop_short'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/TR_Decor_WallTop_short.TR_Decor_WallTop_short'
 			RelativeLocation=(X=747.137000,Y=6161.320000,Z=1426.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11718,7 +11718,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/BigGirder.BigGirder'
 			RelativeLocation=(X=6058.000000,Y=5487.000000,Z=1.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -11732,7 +11732,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/BigGirder.BigGirder'
 			RelativeLocation=(X=10778.000000,Y=243.999000,Z=923.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11747,7 +11747,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_SmallLight_Head.Trando_SmallLight_Head'
 			RelativeLocation=(X=8219.690000,Y=1449.540000,Z=1375.360000)
 			RelativeRotation=(Pitch=26.960449,Yaw=48.669434,Roll=165.448608)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -11783,7 +11783,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_Truss.Trando_Truss'
 			RelativeLocation=(X=7296.000000,Y=6592.000000,Z=1200.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -11797,7 +11797,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_Truss.Trando_Truss'
 			RelativeLocation=(X=7280.000000,Y=6592.000000,Z=528.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.200000)
@@ -11812,7 +11812,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_Truss.Trando_Truss'
 			RelativeLocation=(X=7296.000000,Y=5920.000000,Z=560.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.200000)
@@ -11836,7 +11836,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_SmallLight_Head.Trando_SmallLight_Head'
 			RelativeLocation=(X=7338.000000,Y=6643.070000,Z=1229.670000)
 			RelativeRotation=(Pitch=4.460449,Yaw=-153.781128,Roll=-8.020020)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -11851,7 +11851,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_SmallLight_Head.Trando_SmallLight_Head'
 			RelativeLocation=(X=1419.100000,Y=8233.960000,Z=2158.170000)
 			RelativeRotation=(Pitch=14.370117,Yaw=98.129883,Roll=-8.563843)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -11866,7 +11866,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_SmallLight_Head.Trando_SmallLight_Head'
 			RelativeLocation=(X=761.988000,Y=5314.930000,Z=1581.660000)
 			RelativeRotation=(Pitch=15.710449,Yaw=-131.281128,Roll=-8.020020)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -12933,7 +12933,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=2158.240000,Y=285.204000,Z=2961.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=125.595703,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12948,7 +12948,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=2125.050000,Y=396.568000,Z=2901.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-147.013550,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12963,7 +12963,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=1403.910000,Y=-366.594000,Z=2585.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-147.013550,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12978,7 +12978,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=1488.400000,Y=-324.958000,Z=3265.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=148.029785,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12993,7 +12993,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=1718.310000,Y=-202.578000,Z=3097.040000)
 			RelativeRotation=(Pitch=0.000000,Yaw=148.029785,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13008,7 +13008,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=1882.230000,Y=-176.583000,Z=3097.050000)
 			RelativeRotation=(Pitch=0.000000,Yaw=87.231445,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13023,7 +13023,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=1350.510000,Y=-173.765000,Z=2801.070000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-6.591797,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13038,7 +13038,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=2018.190000,Y=-33.827500,Z=3117.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=144.865723,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13053,7 +13053,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=9749.500000,Y=1098.120000,Z=1276.000000)
 			RelativeRotation=(Pitch=-0.856934,Yaw=-114.472046,Roll=-0.505371)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13068,7 +13068,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=9565.000000,Y=1041.950000,Z=1164.000000)
 			RelativeRotation=(Pitch=-0.856934,Yaw=-114.472046,Roll=-0.505371)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13083,7 +13083,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=9244.160000,Y=-418.331000,Z=1108.970000)
 			RelativeRotation=(Pitch=0.000000,Yaw=78.442383,Roll=-0.126343)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13098,7 +13098,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8716.440000,Y=-627.281000,Z=719.008000)
 			RelativeRotation=(Pitch=0.043945,Yaw=106.040039,Roll=5.465698)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13113,7 +13113,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=9187.990000,Y=-131.017000,Z=890.002000)
 			RelativeRotation=(Pitch=-5.625000,Yaw=-168.788452,Roll=-0.170288)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13128,7 +13128,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8960.740000,Y=926.471000,Z=868.016000)
 			RelativeRotation=(Pitch=-0.351562,Yaw=-176.874390,Roll=-0.104370)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13143,7 +13143,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=9290.630000,Y=-497.838000,Z=832.967000)
 			RelativeRotation=(Pitch=0.000000,Yaw=78.442383,Roll=-0.126343)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13158,7 +13158,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=1235.470000,Y=-2978.270000,Z=2584.110000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-111.857300,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -13173,7 +13173,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=-304.044000,Y=-1861.110000,Z=1940.100000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-137.785034,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -13188,7 +13188,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Plates_TallTreePlate01.TallTreePlate01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Plates/TallTreePlate01.TallTreePlate01'
 			RelativeLocation=(X=454.522000,Y=2599.340000,Z=3280.130000)
 			RelativeRotation=(Pitch=0.000000,Yaw=156.313477,Roll=0.000000)
 			RelativeScale3D=(X=5.000000,Y=5.000000,Z=5.000000)
@@ -13203,7 +13203,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Deco_Cluster_A.Deco_Cluster_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Deco_Cluster_A.Deco_Cluster_A'
 			RelativeLocation=(X=1588.300000,Y=1876.690000,Z=1983.080000)
 			RelativeRotation=(Pitch=-0.659180,Yaw=-151.803589,Roll=-0.373535)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13218,7 +13218,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=1956.550000,Y=7493.810000,Z=953.470000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-59.430542,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13233,7 +13233,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=1954.000000,Y=7472.770000,Z=1185.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-59.430542,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13248,7 +13248,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=1692.430000,Y=7655.600000,Z=1149.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-80.969238,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13263,7 +13263,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=898.378000,Y=8464.480000,Z=1053.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-94.394531,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13278,7 +13278,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=1279.490000,Y=8291.820000,Z=1165.460000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-145.085449,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13293,7 +13293,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=930.378000,Y=8496.480000,Z=1053.450000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-94.394531,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13308,7 +13308,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_Truss.Trando_Truss'
 			RelativeLocation=(X=1390.630000,Y=8201.280000,Z=1392.500000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-39.808960,Roll=89.868164)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.200000)
@@ -13344,7 +13344,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Lite_Rope_Single.Lite_Rope_Single'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Lite_Rope_Single.Lite_Rope_Single'
 			RelativeLocation=(X=7321.360000,Y=6302.890000,Z=518.582000)
 			RelativeRotation=(Pitch=-3.493652,Yaw=-1.137085,Roll=-1.318359)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13368,7 +13368,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=11779.500000,Y=2088.770000,Z=1276.030000)
 			RelativeRotation=(Pitch=-6.080933,Yaw=-1.115112,Roll=1.933594)
 			RelativeScale3D=(X=1.400000,Y=1.400000,Z=1.400000)
@@ -13383,7 +13383,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=9098.300000,Y=6447.660000,Z=569.360000)
 			RelativeRotation=(Pitch=-3.625488,Yaw=-71.191406,Roll=-5.141602)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -13418,7 +13418,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=2577.000000,Y=7441.000000,Z=933.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.000000)
 			CustomProperties
@@ -13432,7 +13432,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=2568.000000,Y=6389.000000,Z=933.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.000000)
 			CustomProperties
@@ -13446,7 +13446,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=2572.000000,Y=6915.000000,Z=933.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.000000)
 			CustomProperties
@@ -13460,7 +13460,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=2091.000000,Y=6374.000000,Z=933.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.000000)
 			CustomProperties
@@ -13474,7 +13474,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=2092.000000,Y=5849.000000,Z=933.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.000000)
 			CustomProperties
@@ -13488,7 +13488,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=2093.000000,Y=5325.000000,Z=933.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.000000)
 			CustomProperties
@@ -13502,7 +13502,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=1675.000000,Y=6041.000000,Z=933.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.000000)
 			CustomProperties
@@ -13516,7 +13516,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=1677.000000,Y=5515.000000,Z=933.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.000000)
 			CustomProperties
@@ -13530,7 +13530,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=1633.000000,Y=7048.000000,Z=933.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.000000)
 			CustomProperties
@@ -13544,7 +13544,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=4336.010000,Y=745.994000,Z=1119.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.744507,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13749,7 +13749,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=11674.200000,Y=1167.650000,Z=1225.540000)
 			RelativeRotation=(Pitch=-3.619995,Yaw=-71.185913,Roll=-5.136108)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -13782,7 +13782,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=8409.510000,Y=495.514000,Z=1004.610000)
 			RelativeRotation=(Pitch=3.229980,Yaw=-77.579956,Roll=-3.845215)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -13806,7 +13806,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=9114.210000,Y=95.652400,Z=1321.650000)
 			RelativeRotation=(Pitch=-3.625488,Yaw=-71.185913,Roll=-5.136108)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -13830,7 +13830,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=6902.310000,Y=1921.350000,Z=1580.030000)
 			RelativeRotation=(Pitch=-0.109863,Yaw=-151.918945,Roll=-0.917358)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13845,7 +13845,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=6611.190000,Y=2900.900000,Z=1658.820000)
 			RelativeRotation=(Pitch=-1.164551,Yaw=-77.080078,Roll=-6.569824)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13860,7 +13860,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=2016.000000,Y=864.003000,Z=688.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=88.088379,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13875,7 +13875,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=2336.000000,Y=896.005000,Z=688.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=157.521973,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13890,7 +13890,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=2832.000000,Y=1040.010000,Z=688.005000)
 			RelativeRotation=(Pitch=0.000000,Yaw=157.521973,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13905,7 +13905,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=3344.000000,Y=912.010000,Z=688.008000)
 			RelativeRotation=(Pitch=0.000000,Yaw=157.521973,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13920,7 +13920,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=3680.000000,Y=1200.010000,Z=688.008000)
 			RelativeRotation=(Pitch=0.000000,Yaw=157.521973,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -13935,7 +13935,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Towering_RootSegmnt1.Towering_RootSegmnt1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Towering_RootSegmnt1.Towering_RootSegmnt1'
 			RelativeLocation=(X=5250.290000,Y=3675.860000,Z=1536.650000)
 			RelativeRotation=(Pitch=-21.555176,Yaw=-9.228516,Roll=-67.280273)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -13950,7 +13950,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=8155.560000,Y=7702.160000,Z=389.385000)
 			RelativeRotation=(Pitch=-3.625488,Yaw=-71.185913,Roll=-5.136108)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -13974,7 +13974,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=8037.080000,Y=8495.430000,Z=236.181000)
 			RelativeRotation=(Pitch=-2.351074,Yaw=-69.362183,Roll=-3.889160)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -13998,7 +13998,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=7490.730000,Y=6999.280000,Z=228.176000)
 			RelativeRotation=(Pitch=-2.351074,Yaw=-69.362183,Roll=-3.889160)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -14022,7 +14022,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=4962.410000,Y=6424.990000,Z=880.330000)
 			RelativeRotation=(Pitch=-6.410522,Yaw=-73.608398,Roll=9.294434)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -14046,7 +14046,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=4049.670000,Y=268.713000,Z=1919.040000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-21.489258,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -14061,7 +14061,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=7689.110000,Y=5169.230000,Z=247.158000)
 			RelativeRotation=(Pitch=-2.351074,Yaw=-69.362183,Roll=-1.049194)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -14641,7 +14641,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Blockade_Stacked2.Blockade_Stacked2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Blockade_Stacked2.Blockade_Stacked2'
 			RelativeLocation=(X=-420.841000,Y=8543.610000,Z=850.129000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-88.549805,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14656,7 +14656,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Blockade_Stacked2.Blockade_Stacked2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Blockade_Stacked2.Blockade_Stacked2'
 			RelativeLocation=(X=-412.568000,Y=8304.680000,Z=850.125000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-88.549805,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16016,7 +16016,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=6176.000000,Y=2240.010000,Z=848.002000)
 			RelativeRotation=(Pitch=0.000000,Yaw=157.521973,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16031,7 +16031,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=6128.020000,Y=1696.020000,Z=720.008000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-140.223999,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16046,7 +16046,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=5680.020000,Y=2560.020000,Z=480.004000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-120.097046,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16061,7 +16061,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=5184.020000,Y=2768.020000,Z=416.002000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-120.097046,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16076,7 +16076,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=8228.050000,Y=-691.966000,Z=1008.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-70.482788,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16091,7 +16091,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=12128.000000,Y=448.055000,Z=1184.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-136.049194,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16106,7 +16106,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=12224.000000,Y=896.061000,Z=1184.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-48.905640,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16121,7 +16121,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=12304.100000,Y=1328.070000,Z=1184.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-126.622925,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16136,7 +16136,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=12112.100000,Y=1824.060000,Z=1280.030000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-126.622925,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16151,7 +16151,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=11488.300000,Y=4959.990000,Z=624.036000)
 			RelativeRotation=(Pitch=0.000000,Yaw=150.732422,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16166,7 +16166,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=4656.330000,Y=6352.100000,Z=912.044000)
 			RelativeRotation=(Pitch=0.000000,Yaw=4.328613,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16181,7 +16181,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=4928.340000,Y=6080.100000,Z=880.048000)
 			RelativeRotation=(Pitch=0.000000,Yaw=69.960938,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16196,7 +16196,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Bush_B.Bush_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Bush_B.Bush_B'
 			RelativeLocation=(X=5216.360000,Y=5792.110000,Z=768.049000)
 			RelativeRotation=(Pitch=0.000000,Yaw=93.361816,Roll=0.000000)
 			RelativeScale3D=(X=3.000000,Y=3.000000,Z=3.000000)
@@ -16649,7 +16649,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8748.170000,Y=-754.348000,Z=1156.960000)
 			RelativeRotation=(Pitch=0.000000,Yaw=85.341797,Roll=-0.126343)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16664,7 +16664,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall03.Trench_Wall03'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall03.Trench_Wall03'
 			RelativeLocation=(X=8732.160000,Y=-802.348000,Z=900.963000)
 			RelativeRotation=(Pitch=0.000000,Yaw=85.341797,Roll=-0.126343)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16679,7 +16679,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Heroic_Tree.Heroic_Tree'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Heroic_Tree.Heroic_Tree'
 			RelativeLocation=(X=6130.000000,Y=1769.000000,Z=931.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
 			CustomProperties
@@ -16693,7 +16693,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Heroic_Tree.Heroic_Tree'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Heroic_Tree.Heroic_Tree'
 			RelativeLocation=(X=7588.040000,Y=-963.003000,Z=1236.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=48.142090,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -16708,7 +16708,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Trees_Heroic_Tree.Heroic_Tree'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Trees/Heroic_Tree.Heroic_Tree'
 			RelativeLocation=(X=10064.000000,Y=1312.000000,Z=1760.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.922852,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -16723,7 +16723,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=9432.030000,Y=1167.960000,Z=1432.040000)
 			RelativeRotation=(Pitch=-2.499390,Yaw=-104.013062,Roll=3.164062)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16738,7 +16738,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=9227.190000,Y=1648.120000,Z=1585.530000)
 			RelativeRotation=(Pitch=-0.016479,Yaw=-60.880737,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -16753,7 +16753,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Lumpy_RokBlend2x.Lumpy_RokBlend2x'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Lumpy_RokBlend2x.Lumpy_RokBlend2x'
 			RelativeLocation=(X=8619.180000,Y=1904.170000,Z=1729.570000)
 			RelativeRotation=(Pitch=86.857910,Yaw=28.888550,Roll=172.749023)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -16864,7 +16864,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_SmallLight_Head.Trando_SmallLight_Head'
 			RelativeLocation=(X=7329.240000,Y=5952.240000,Z=1223.460000)
 			RelativeRotation=(Pitch=1.774292,Yaw=142.948608,Roll=-8.020020)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -16879,7 +16879,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			RelativeLocation=(X=9447.120000,Y=2508.880000,Z=1627.090000)
 			RelativeRotation=(Pitch=-5.619507,Yaw=-61.869507,Roll=27.817383)
 			RelativeScale3D=(X=6.000000,Y=6.000000,Z=6.000000)
@@ -16894,7 +16894,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			RelativeLocation=(X=9335.150000,Y=3004.910000,Z=1707.070000)
 			RelativeRotation=(Pitch=7.272949,Yaw=149.348145,Roll=-17.133179)
 			RelativeScale3D=(X=6.000000,Y=6.000000,Z=6.000000)
@@ -18017,7 +18017,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Light_Stik.Light_Stik'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Light_Stik.Light_Stik'
 			RelativeLocation=(X=1449.570000,Y=5311.520000,Z=1324.630000)
 			RelativeRotation=(Pitch=3.229980,Yaw=-77.579956,Roll=-3.845215)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -18032,7 +18032,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=1461.000000,Y=5547.010000,Z=1173.000000)
 			RelativeRotation=(Pitch=11.250000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=2.000000,Z=1.800000)
@@ -18047,7 +18047,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=1258.010000,Y=5798.010000,Z=1165.010000)
 			RelativeRotation=(Pitch=11.250000,Yaw=90.000000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=1.800000)
@@ -18062,7 +18062,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=1107.000000,Y=6120.020000,Z=1172.990000)
 			RelativeRotation=(Pitch=11.250000,Yaw=0.000000,Roll=-180.000000)
 			RelativeScale3D=(X=1.000000,Y=2.300000,Z=1.800000)
@@ -18077,7 +18077,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trench_Wall02.Trench_Wall02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trench_Wall02.Trench_Wall02'
 			RelativeLocation=(X=1101.000000,Y=6771.050000,Z=1092.990000)
 			RelativeRotation=(Pitch=10.233765,Yaw=3.861694,Roll=-168.024902)
 			RelativeScale3D=(X=1.000000,Y=2.400000,Z=1.800000)
@@ -18092,7 +18092,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/OilDrum_Stack02.OilDrum_Stack02'
 			RelativeLocation=(X=831.881000,Y=7216.990000,Z=924.626000)
 			RelativeRotation=(Pitch=0.000000,Yaw=81.320801,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18107,7 +18107,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.OilDrum_Stack01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/OilDrum_Stack01.OilDrum_Stack01'
 			RelativeLocation=(X=865.030000,Y=7234.980000,Z=1018.470000)
 			RelativeRotation=(Pitch=0.000000,Yaw=125.881348,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18122,7 +18122,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Decor_WallTop_short.TR_Decor_WallTop_short'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/TR_Decor_WallTop_short.TR_Decor_WallTop_short'
 			RelativeLocation=(X=747.137000,Y=6673.320000,Z=1402.950000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18137,7 +18137,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_WallPlate.Scaly_WallPlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Scaly_WallPlate.Scaly_WallPlate'
 			RelativeLocation=(X=440.455000,Y=8277.870000,Z=949.002000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=-89.994507)
 			RelativeScale3D=(X=0.800000,Y=1.000000,Z=0.800000)
@@ -18152,7 +18152,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Blockade_Stacked2.Blockade_Stacked2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Blockade_Stacked2.Blockade_Stacked2'
 			RelativeLocation=(X=122.439000,Y=8637.890000,Z=850.133000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-178.549805,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18167,7 +18167,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Blockade_Stacked2.Blockade_Stacked2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Blockade_Stacked2.Blockade_Stacked2'
 			RelativeLocation=(X=-120.827000,Y=8627.730000,Z=850.129000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-178.549805,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18182,7 +18182,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Blockade_Stacked2.Blockade_Stacked2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Blockade_Stacked2.Blockade_Stacked2'
 			RelativeLocation=(X=-356.924000,Y=8626.450000,Z=850.124000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-178.549805,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18197,7 +18197,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_Truss.Trando_Truss'
 			RelativeLocation=(X=-396.755000,Y=7886.730000,Z=1093.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=1.000000)
@@ -18212,7 +18212,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/Trando_Archit/Trando_Truss.Trando_Truss'
 			RelativeLocation=(X=-463.870000,Y=8582.390000,Z=1093.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.005493,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=1.000000)
@@ -18972,7 +18972,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.Trn_AmmoPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Ammo/Trn_AmmoPlt.Trn_AmmoPlt'
 			RelativeLocation=(X=6403.000000,Y=5676.000000,Z=323.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=123.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18987,7 +18987,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.Trn_AmmoPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR/Ammo/Trn_AmmoPlt.Trn_AmmoPlt'
 			RelativeLocation=(X=10641.000000,Y=-3.992200,Z=1205.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -19062,7 +19062,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_River_Stone01.River_Stone01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/River_Stone01.River_Stone01'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=5776.070000,Y=5684.880000,Z=488.405000)
 			RelativeRotation=(Pitch=71.235352,Yaw=-112.077026,Roll=69.521484)
@@ -19090,7 +19090,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_BigRockWalls_Geniric_Rock_Surface.Geniric_Rock_Surface'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM/BigRockWalls/Geniric_Rock_Surface.Geniric_Rock_Surface'
 			RelativeLocation=(X=8558.270000,Y=1205.940000,Z=884.284000)
 			RelativeRotation=(Pitch=66.395874,Yaw=59.683228,Roll=-18.171387)
 			RelativeScale3D=(X=0.400000,Y=0.400000,Z=0.400000)

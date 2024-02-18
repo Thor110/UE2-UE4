@@ -5614,7 +5614,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_ConsolHack_RAS_CnslHackB.RAS_CnslHackB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/ConsolHack/RAS_CnslHackB.RAS_CnslHackB'
 			RelativeLocation=(X=-3803.450000,Y=5073.350000,Z=-1275.070000)
 			RelativeRotation=(Pitch=0.000000,Yaw=129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -25757,7 +25757,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneTrooperHelmet.CloneTrooperHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons/Accessories/CloneTrooperHelmet.CloneTrooperHelmet'
 			RelativeLocation=(X=-4783.990000,Y=6972.010000,Z=-890.001000)
 			RelativeRotation=(Pitch=5.625000,Yaw=45.000000,Roll=84.375000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)

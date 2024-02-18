@@ -236,7 +236,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/CoreShip_GM_DefaultGroup_Default_Mesh.Default_Mesh'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/CoreShip_GM/DefaultGroup/Default_Mesh.Default_Mesh'
 			RelativeLocation=(X=-34392.000000,Y=-28903.900000,Z=540.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -250,7 +250,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1dSirk.rockWall1dSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1dSirk.rockWall1dSirk'
 			RelativeLocation=(X=-3939.320000,Y=8665.030000,Z=192.005000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -264,7 +264,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1bSirk.rockWall1bSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1bSirk.rockWall1bSirk'
 			RelativeLocation=(X=-5517.290000,Y=3948.860000,Z=1088.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-5.619507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -279,7 +279,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=3542.540000,Y=3184.080000,Z=540.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -294,7 +294,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-3940.590000,Y=6339.180000,Z=112.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=44.928589,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -309,7 +309,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1cSirk.rockWall1cSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1cSirk.rockWall1cSirk'
 			RelativeLocation=(X=-5972.080000,Y=1562.510000,Z=1084.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.406616,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -324,7 +324,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_HR_Gate_MT_RockSet.MT_RockSet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_HR/Gate/MT_RockSet.MT_RockSet'
 			RelativeLocation=(X=-3050.090000,Y=1285.050000,Z=-67.999700)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -338,7 +338,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_HR_Gate_MainTurretWall.MainTurretWall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_HR/Gate/MainTurretWall.MainTurretWall'
 			RelativeLocation=(X=-3032.000000,Y=1336.000000,Z=100.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -352,7 +352,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_HR_Gate_MT_Base.MT_Base'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_HR/Gate/MT_Base.MT_Base'
 			RelativeLocation=(X=-3048.000000,Y=1320.000000,Z=80.000300)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -366,7 +366,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_HR_Gate_MT_Opening.MT_Opening'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_HR/Gate/MT_Opening.MT_Opening'
 			RelativeLocation=(X=-3032.000000,Y=1336.000000,Z=72.000300)
 			RelativeScale3D=(X=1.300000,Y=1.100000,Z=1.100000)
 			CustomProperties
@@ -380,7 +380,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1dSirk.rockWall1dSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1dSirk.rockWall1dSirk'
 			RelativeLocation=(X=2804.710000,Y=5145.010000,Z=540.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -745,7 +745,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=2027.430000,Y=2267.170000,Z=508.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-8.151855,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -760,7 +760,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=2173.630000,Y=-3277.420000,Z=192.002000)
 			RelativeRotation=(Pitch=5.625000,Yaw=146.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -775,7 +775,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=3515.410000,Y=1035.170000,Z=32.004300)
 			RelativeRotation=(Pitch=0.000000,Yaw=135.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -790,7 +790,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=1835.410000,Y=-596.833000,Z=80.002200)
 			RelativeRotation=(Pitch=0.000000,Yaw=-50.619507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -805,7 +805,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=363.408000,Y=-2052.820000,Z=-15.999900)
 			RelativeRotation=(Pitch=0.000000,Yaw=-61.869507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -820,7 +820,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=939.410000,Y=-4756.840000,Z=192.001000)
 			RelativeRotation=(Pitch=5.625000,Yaw=140.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -835,7 +835,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=2075.420000,Y=-2780.830000,Z=-2255.990000)
 			RelativeRotation=(Pitch=4.125366,Yaw=152.731934,Roll=0.021973)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -850,7 +850,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=155.418000,Y=-3796.850000,Z=-2399.990000)
 			RelativeRotation=(Pitch=16.809082,Yaw=135.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -865,7 +865,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=1979.410000,Y=1219.170000,Z=-2304.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -879,7 +879,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=2235.420000,Y=-1044.840000,Z=-2367.990000)
 			RelativeRotation=(Pitch=5.625000,Yaw=-50.619507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -894,7 +894,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=923.407000,Y=-2740.830000,Z=-2623.990000)
 			RelativeRotation=(Pitch=11.184082,Yaw=-56.244507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -909,7 +909,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-436.593000,Y=-3108.830000,Z=-2624.000000)
 			RelativeRotation=(Pitch=11.184082,Yaw=-44.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -924,7 +924,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-1476.620000,Y=-4244.830000,Z=-2719.960000)
 			RelativeRotation=(Pitch=11.250000,Yaw=101.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -939,7 +939,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=5083.130000,Y=5093.650000,Z=-60.394800)
 			RelativeRotation=(Pitch=0.000000,Yaw=-33.744507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -954,7 +954,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=5194.610000,Y=2893.930000,Z=191.997000)
 			RelativeRotation=(Pitch=5.625000,Yaw=112.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -969,7 +969,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=3171.410000,Y=1339.170000,Z=-2591.970000)
 			RelativeRotation=(Pitch=5.625000,Yaw=135.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -984,7 +984,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=5526.530000,Y=4440.020000,Z=-3007.960000)
 			RelativeRotation=(Pitch=10.964355,Yaw=-33.744507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -999,7 +999,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=7236.630000,Y=4748.480000,Z=-2335.940000)
 			RelativeRotation=(Pitch=16.875000,Yaw=-67.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1014,7 +1014,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=9363.670000,Y=5552.350000,Z=-63.997700)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1029,7 +1029,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=9364.630000,Y=4652.450000,Z=-2335.970000)
 			RelativeRotation=(Pitch=11.250000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1044,7 +1044,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1cSirk.rockWall1cSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1cSirk.rockWall1cSirk'
 			RelativeLocation=(X=4703.990000,Y=3104.060000,Z=-2480.010000)
 			RelativeRotation=(Pitch=5.625000,Yaw=112.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1059,7 +1059,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1dSirk.rockWall1dSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1dSirk.rockWall1dSirk'
 			RelativeLocation=(X=6932.710000,Y=5625.030000,Z=16.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1074,7 +1074,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-1028.600000,Y=-5140.790000,Z=-31.980400)
 			RelativeRotation=(Pitch=11.250000,Yaw=101.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1089,7 +1089,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-109.271000,Y=5146.560000,Z=192.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-128.408203,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1104,7 +1104,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-1940.600000,Y=6475.170000,Z=192.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-168.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1119,7 +1119,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-452.587000,Y=4555.190000,Z=-2591.990000)
 			RelativeRotation=(Pitch=11.178589,Yaw=-118.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1134,7 +1134,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-2420.600000,Y=6171.180000,Z=-2479.990000)
 			RelativeRotation=(Pitch=5.625000,Yaw=-168.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1149,7 +1149,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-3156.700000,Y=6651.320000,Z=-2544.050000)
 			RelativeRotation=(Pitch=11.184082,Yaw=44.928589,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1164,7 +1164,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-2996.690000,Y=8267.370000,Z=-2544.030000)
 			RelativeRotation=(Pitch=11.178589,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1179,7 +1179,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-3044.520000,Y=9771.070000,Z=-2175.960000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-61.869507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2886,7 +2886,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=10085.600000,Y=3347.020000,Z=-63.997700)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2901,7 +2901,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=9224.770000,Y=3084.870000,Z=-2335.970000)
 			RelativeRotation=(Pitch=11.250000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3023,7 +3023,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1bSirk.rockWall1bSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1bSirk.rockWall1bSirk'
 			RelativeLocation=(X=-269.304000,Y=3436.860000,Z=500.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=62.907715,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3038,7 +3038,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockEndCapSirk.rockEndCapSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockEndCapSirk.rockEndCapSirk'
 			RelativeLocation=(X=1975.140000,Y=2.487380,Z=196.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3052,7 +3052,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockEndCapSirk.rockEndCapSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockEndCapSirk.rockEndCapSirk'
 			RelativeLocation=(X=3864.010000,Y=2799.980000,Z=144.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-109.028320,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3067,7 +3067,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockEndCapSirk.rockEndCapSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockEndCapSirk.rockEndCapSirk'
 			RelativeLocation=(X=431.999000,Y=4983.970000,Z=328.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-84.331055,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3082,7 +3082,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockEndCapSirk.rockEndCapSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockEndCapSirk.rockEndCapSirk'
 			RelativeLocation=(X=-1816.000000,Y=4648.000000,Z=-71.998900)
 			RelativeRotation=(Pitch=0.000000,Yaw=-36.974487,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3097,7 +3097,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-2380.630000,Y=-1628.800000,Z=324.001000)
 			RelativeRotation=(Pitch=6.855469,Yaw=77.294312,Roll=-4.636230)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3112,7 +3112,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1cSirk.rockWall1cSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1cSirk.rockWall1cSirk'
 			RelativeLocation=(X=-308.084000,Y=-2165.530000,Z=252.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=142.141113,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3127,7 +3127,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=1043.380000,Y=-180.811000,Z=400.000000)
 			RelativeRotation=(Pitch=1.406250,Yaw=174.616699,Roll=6.921387)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3142,7 +3142,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockEndCapSirk.rockEndCapSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockEndCapSirk.rockEndCapSirk'
 			RelativeLocation=(X=-640.015000,Y=2920.020000,Z=-263.996000)
 			RelativeRotation=(Pitch=0.000000,Yaw=177.209473,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3157,7 +3157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockCaveSirk.rockCaveSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockCaveSirk.rockCaveSirk'
 			RelativeLocation=(X=3581.220000,Y=-1352.960000,Z=175.056000)
 			RelativeRotation=(Pitch=0.000000,Yaw=175.605469,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3172,7 +3172,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_BridgeSirk.BridgeSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/BridgeSirk.BridgeSirk'
 			RelativeLocation=(X=2928.050000,Y=1680.040000,Z=1184.080000)
 			RelativeRotation=(Pitch=1.268921,Yaw=-105.902710,Roll=5.185547)
 			RelativeScale3D=(X=1.000000,Y=1.075000,Z=1.000000)
@@ -3187,7 +3187,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_BridgeArch.BridgeArch'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/BridgeArch.BridgeArch'
 			RelativeLocation=(X=2144.070000,Y=3824.210000,Z=2280.040000)
 			RelativeRotation=(Pitch=0.000000,Yaw=147.150879,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)
@@ -3202,7 +3202,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockFloorA.rockFloorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockFloorA.rockFloorA'
 			RelativeLocation=(X=3304.000000,Y=-879.997000,Z=240.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-119.882812,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.600000,Z=1.500000)
@@ -3217,7 +3217,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockFloorA.rockFloorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockFloorA.rockFloorA'
 			RelativeLocation=(X=3000.010000,Y=2376.010000,Z=248.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.681274,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.500000,Z=1.000000)
@@ -3232,7 +3232,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_BridgeSirk.BridgeSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/BridgeSirk.BridgeSirk'
 			RelativeLocation=(X=855.964000,Y=4168.040000,Z=1264.130000)
 			RelativeRotation=(Pitch=-5.251465,Yaw=-13.051758,Roll=-0.087891)
 			RelativeScale3D=(X=1.000000,Y=1.200000,Z=1.000000)
@@ -3247,7 +3247,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1bSirk.rockWall1bSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1bSirk.rockWall1bSirk'
 			RelativeLocation=(X=1770.700000,Y=1884.810000,Z=411.987000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-115.664062,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3262,7 +3262,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockFloorA.rockFloorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockFloorA.rockFloorA'
 			RelativeLocation=(X=-1471.990000,Y=4311.990000,Z=136.005000)
 			RelativeRotation=(Pitch=0.000000,Yaw=114.653320,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3277,7 +3277,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-5508.580000,Y=-4676.790000,Z=-31.982000)
 			RelativeRotation=(Pitch=11.250000,Yaw=78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3292,7 +3292,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-3332.620000,Y=-4460.830000,Z=-2719.950000)
 			RelativeRotation=(Pitch=11.250000,Yaw=95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3307,7 +3307,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-5468.610000,Y=-4036.830000,Z=-2719.940000)
 			RelativeRotation=(Pitch=11.250000,Yaw=78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3322,7 +3322,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-3556.590000,Y=-6004.800000,Z=808.018000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3337,7 +3337,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1cSirk.rockWall1cSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1cSirk.rockWall1cSirk'
 			RelativeLocation=(X=-1396.120000,Y=-6005.600000,Z=756.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=97.141113,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3352,7 +3352,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-4932.590000,Y=-5764.800000,Z=808.021000)
 			RelativeRotation=(Pitch=0.000000,Yaw=73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3367,7 +3367,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1cSirk.rockWall1cSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1cSirk.rockWall1cSirk'
 			RelativeLocation=(X=-3196.120000,Y=-5613.590000,Z=-52.001700)
 			RelativeRotation=(Pitch=0.000000,Yaw=97.141113,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3418,7 +3418,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockEndCapSirk.rockEndCapSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockEndCapSirk.rockEndCapSirk'
 			RelativeLocation=(X=-680.000000,Y=1120.000000,Z=48.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3432,7 +3432,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_BridgeSirk.BridgeSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/BridgeSirk.BridgeSirk'
 			RelativeLocation=(X=-96.046200,Y=1560.060000,Z=1616.150000)
 			RelativeRotation=(Pitch=3.010254,Yaw=135.681152,Roll=-0.900879)
 			RelativeScale3D=(X=0.900000,Y=1.200000,Z=1.000000)
@@ -3447,7 +3447,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall_LowASirk.rockWall_LowASirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall_LowASirk.rockWall_LowASirk'
 			RelativeLocation=(X=-2688.010000,Y=3384.010000,Z=64.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=39.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3462,7 +3462,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockFloorA.rockFloorA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockFloorA.rockFloorA'
 			RelativeLocation=(X=-970.993000,Y=4538.000000,Z=136.005000)
 			RelativeRotation=(Pitch=0.000000,Yaw=125.903320,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3623,7 +3623,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Confederacy_GeoFighter_Low.GeoFighter_Low'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Confederacy/GeoFighter_Low.GeoFighter_Low'
 		ActorLabel="Mover2_flyby00"
 		Tags(0)="flyby00"
 	End Actor
@@ -3654,7 +3654,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Confederacy_GeoFighter_Low.GeoFighter_Low'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Confederacy/GeoFighter_Low.GeoFighter_Low'
 		ActorLabel="Mover1_flyby00"
 		Tags(0)="flyby00"
 	End Actor
@@ -3710,7 +3710,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1aSirk.rockWall1aSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1aSirk.rockWall1aSirk'
 			RelativeLocation=(X=-3100.440000,Y=10107.200000,Z=656.048000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-61.869507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4180,7 +4180,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1cSirk.rockWall1cSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1cSirk.rockWall1cSirk'
 			RelativeLocation=(X=-4660.130000,Y=6218.560000,Z=1148.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-20.983887,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4195,7 +4195,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1bSirk.rockWall1bSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1bSirk.rockWall1bSirk'
 			RelativeLocation=(X=-5021.270000,Y=-691.148000,Z=839.995000)
 			RelativeRotation=(Pitch=0.000000,Yaw=39.380493,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4210,7 +4210,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1bSirk.rockWall1bSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1bSirk.rockWall1bSirk'
 			RelativeLocation=(X=-3845.270000,Y=-2419.150000,Z=839.995000)
 			RelativeRotation=(Pitch=0.000000,Yaw=78.755493,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5017,7 +5017,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Confederacy_GeoFighter_Low.GeoFighter_Low'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Confederacy/GeoFighter_Low.GeoFighter_Low'
 		ActorLabel="Mover9_flyby01"
 		Tags(0)="flyby01"
 	End Actor
@@ -6584,7 +6584,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_DoorFrame.DoorFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/DoorFrame.DoorFrame'
 			RelativeLocation=(X=-6452.000000,Y=1616.000000,Z=72.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6739,7 +6739,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-7852.000000,Y=1808.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6754,7 +6754,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-7852.000000,Y=2144.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6861,7 +6861,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-6156.000000,Y=736.001000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -6876,7 +6876,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-5820.000000,Y=736.001000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -6891,7 +6891,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-5484.000000,Y=736.001000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -6906,7 +6906,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-6156.000000,Y=1920.000000,Z=72.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6920,7 +6920,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-5820.000000,Y=1920.000000,Z=72.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6934,7 +6934,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-5484.000000,Y=1920.000000,Z=72.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6994,7 +6994,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_supportColumn_A.supportColumn_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/supportColumn_A.supportColumn_A'
 			RelativeLocation=(X=-5404.000000,Y=1920.000000,Z=72.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7008,7 +7008,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_supportColumn_A.supportColumn_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/supportColumn_A.supportColumn_A'
 			RelativeLocation=(X=-5480.000000,Y=740.001000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7023,7 +7023,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-7852.000000,Y=1136.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7038,7 +7038,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-7828.000000,Y=1136.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7053,7 +7053,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-7828.000000,Y=1472.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7068,7 +7068,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-7828.000000,Y=1808.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7118,7 +7118,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-7828.000000,Y=2144.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7133,7 +7133,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-7828.000000,Y=800.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7148,7 +7148,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-5740.000000,Y=760.000000,Z=71.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7163,7 +7163,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-6076.000000,Y=760.000000,Z=71.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7178,7 +7178,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-6412.000000,Y=760.000000,Z=71.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7193,7 +7193,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-5820.000000,Y=1896.000000,Z=71.999000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7207,7 +7207,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-5484.000000,Y=1896.000000,Z=71.999000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7221,7 +7221,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallPanel_A.wallPanel_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallPanel_A.wallPanel_A'
 			RelativeLocation=(X=-6156.000000,Y=1896.000000,Z=71.999000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8216,7 +8216,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-7844.000000,Y=1471.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8231,7 +8231,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_wallSet_A.wallSet_A'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/wallSet_A.wallSet_A'
 			RelativeLocation=(X=-7852.000000,Y=800.000000,Z=72.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8246,7 +8246,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=3149.000000,Y=910.000000,Z=250.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.000000)
 			CustomProperties
@@ -8260,7 +8260,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=2747.000000,Y=3251.000000,Z=251.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-140.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8275,7 +8275,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=2503.000000,Y=1563.000000,Z=250.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.000000)
@@ -8290,7 +8290,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=1777.000000,Y=3435.000000,Z=150.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=50.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.800000)
@@ -8305,7 +8305,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=1782.000000,Y=3266.000000,Z=178.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.000000)
@@ -8320,7 +8320,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=1607.000000,Y=3380.000000,Z=178.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-33.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.000000)
@@ -8335,7 +8335,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=1986.000000,Y=4283.000000,Z=134.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-33.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.000000)
@@ -8350,7 +8350,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DropCrate.DropCrate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes/ClonePickups/DropCrate.DropCrate'
 			RelativeLocation=(X=2353.000000,Y=3904.010000,Z=131.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)
@@ -8389,7 +8389,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=343.999000,Y=3914.000000,Z=134.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8404,7 +8404,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=-1270.000000,Y=1319.000000,Z=74.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.900000,Y=1.900000,Z=1.500000)
@@ -8419,7 +8419,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=-2509.000000,Y=59.002800,Z=58.995700)
 			RelativeRotation=(Pitch=0.000000,Yaw=11.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.000000)
@@ -8434,7 +8434,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=-2249.000000,Y=225.000000,Z=58.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.000000)
@@ -8449,7 +8449,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=-1927.000000,Y=1134.000000,Z=66.995700)
 			RelativeRotation=(Pitch=0.000000,Yaw=-146.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.000000)
@@ -8488,7 +8488,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=-3257.000000,Y=307.014000,Z=58.996500)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.000000)
@@ -8503,7 +8503,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=-3284.000000,Y=663.999000,Z=70.003100)
 			RelativeRotation=(Pitch=0.000000,Yaw=73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.700000,Y=1.700000,Z=1.700000)
@@ -8518,7 +8518,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DropCrate.DropCrate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes/ClonePickups/DropCrate.DropCrate'
 			RelativeLocation=(X=-966.001000,Y=2330.060000,Z=71.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-174.375000,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)
@@ -8533,7 +8533,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=-507.000000,Y=2086.000000,Z=78.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=39.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.400000,Y=1.400000,Z=1.400000)
@@ -8548,7 +8548,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=-102.000000,Y=56.000900,Z=66.003200)
 			RelativeRotation=(Pitch=0.000000,Yaw=56.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=0.900000)
@@ -8563,7 +8563,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=-3445.000000,Y=471.015000,Z=58.996400)
 			RelativeRotation=(Pitch=0.000000,Yaw=67.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -8578,7 +8578,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=-1600.000000,Y=-1126.000000,Z=70.003600)
 			RelativeRotation=(Pitch=0.000000,Yaw=101.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.700000,Y=1.700000,Z=1.700000)
@@ -8605,7 +8605,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DropCrate.DropCrate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes/ClonePickups/DropCrate.DropCrate'
 			RelativeLocation=(X=-3315.000000,Y=2110.060000,Z=74.999600)
 			RelativeRotation=(Pitch=0.000000,Yaw=-33.750000,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=0.800000,Z=0.800000)
@@ -8680,7 +8680,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=-2147.000000,Y=2080.000000,Z=86.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=16.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.700000,Y=1.700000,Z=1.000000)
@@ -8695,7 +8695,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=-1939.000000,Y=1982.000000,Z=58.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.200000)
@@ -8710,7 +8710,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=-70.000000,Y=1018.000000,Z=73.999400)
 			RelativeRotation=(Pitch=0.000000,Yaw=-84.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.000000)
@@ -8725,7 +8725,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=373.000000,Y=469.000000,Z=69.999300)
 			RelativeRotation=(Pitch=0.000000,Yaw=84.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.200000)
@@ -8740,7 +8740,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=-1841.000000,Y=-245.001000,Z=69.999300)
 			RelativeScale3D=(X=1.700000,Y=1.700000,Z=1.000000)
 			CustomProperties
@@ -8754,7 +8754,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=-1768.000000,Y=-90.001500,Z=69.999400)
 			RelativeRotation=(Pitch=0.000000,Yaw=101.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.000000)
@@ -8769,7 +8769,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=-2158.000000,Y=830.996000,Z=69.999400)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.000000)
@@ -8784,7 +8784,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=-2093.000000,Y=921.998000,Z=69.999700)
 			RelativeRotation=(Pitch=0.000000,Yaw=-45.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.000000)
@@ -8799,7 +8799,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=-1555.000000,Y=1489.000000,Z=66.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.000000)
@@ -8814,7 +8814,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_CO_BoulderOne.CO_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/CO_BoulderOne.CO_BoulderOne'
 			RelativeLocation=(X=-1535.000000,Y=1637.000000,Z=86.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.000000)
@@ -8848,7 +8848,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_GunshipLowRes.GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover3_Gunship00"
 		Tags(0)="Gunship00"
 	End Actor
@@ -9539,7 +9539,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_LM_SkyDome_SkyDome01.Exteriors_LM_SkyDome_SkyDome01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_LM/SkyDome/SkyDome01.SkyDome01'
 			RelativeLocation=(X=-11319.300000,Y=15945.000000,Z=17664.100000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-94.108887,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -9692,7 +9692,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_Geo4c_MainDoor.Geo4c_MainDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/Geo4c_MainDoor.Geo4c_MainDoor'
 		ActorLabel="Mover11_Door00"
 		Tags(0)="Door00"
 	End Actor
@@ -9700,7 +9700,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_Geo4c_MainDoorFrame.Geo4c_MainDoorFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/Geo4c_MainDoorFrame.Geo4c_MainDoorFrame'
 			RelativeLocation=(X=-5367.550000,Y=1322.770000,Z=81.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9730,7 +9730,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4c_Door_GM.geo4c_Door_GM'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4c_Door_GM.geo4c_Door_GM'
 		ActorLabel="Mover0_Door01"
 		Tags(0)="Door01"
 	End Actor
@@ -9738,7 +9738,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallRockWall.geo4d_hallRockWall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallRockWall.geo4d_hallRockWall'
 			RelativeLocation=(X=-5300.430000,Y=1925.610000,Z=87.377000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9753,7 +9753,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallRockWall.geo4d_hallRockWall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallRockWall.geo4d_hallRockWall'
 			RelativeLocation=(X=-4039.480000,Y=739.522000,Z=71.779000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.995000,Z=0.995000)
@@ -9768,7 +9768,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallColumn.geo4d_hallColumn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallColumn.geo4d_hallColumn'
 			RelativeLocation=(X=-5284.440000,Y=1925.610000,Z=79.377000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9783,7 +9783,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallColumn.geo4d_hallColumn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallColumn.geo4d_hallColumn'
 			RelativeLocation=(X=-4744.850000,Y=1924.270000,Z=78.554000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9798,7 +9798,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallSupport.geo4d_hallSupport'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallSupport.geo4d_hallSupport'
 			RelativeLocation=(X=-4746.710000,Y=1892.300000,Z=-69.771000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=1.000000,Z=1.000000)
@@ -9813,7 +9813,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallColumn.geo4d_hallColumn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallColumn.geo4d_hallColumn'
 			RelativeLocation=(X=-5162.760000,Y=737.922000,Z=79.660000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9828,7 +9828,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallSupport.geo4d_hallSupport'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallSupport.geo4d_hallSupport'
 			RelativeLocation=(X=-5160.870000,Y=793.893000,Z=-48.015000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=1.000000,Z=1.000000)
@@ -9843,7 +9843,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallColumn.geo4d_hallColumn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallColumn.geo4d_hallColumn'
 			RelativeLocation=(X=-4611.160000,Y=736.593000,Z=70.837000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9858,7 +9858,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_Geo4c_MainDoorFrame.Geo4c_MainDoorFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/Geo4c_MainDoorFrame.Geo4c_MainDoorFrame'
 			RelativeLocation=(X=-4071.550000,Y=1334.770000,Z=73.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9872,7 +9872,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallColumn.geo4d_hallColumn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallColumn.geo4d_hallColumn'
 			RelativeLocation=(X=-4232.850000,Y=1928.270000,Z=78.554000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9887,7 +9887,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallColumn.geo4d_hallColumn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallColumn.geo4d_hallColumn'
 			RelativeLocation=(X=-4095.160000,Y=728.593000,Z=70.837000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9902,7 +9902,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallColumn.geo4d_hallColumn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallColumn.geo4d_hallColumn'
 			RelativeLocation=(X=-4019.160000,Y=816.594000,Z=70.837000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.700000)
@@ -9917,7 +9917,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_geo4d_hallColumn.geo4d_hallColumn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Interiors/geo4d_hallColumn.geo4d_hallColumn'
 			RelativeLocation=(X=-4023.160000,Y=1764.590000,Z=70.837000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.700000)
@@ -10283,7 +10283,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_geo_caveTubeSirk.geo_caveTubeSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/geo_caveTubeSirk.geo_caveTubeSirk'
 			RelativeLocation=(X=5212.670000,Y=1270.720000,Z=2206.990000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10540,7 +10540,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1cSirk.rockWall1cSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1cSirk.rockWall1cSirk'
 			RelativeLocation=(X=7773.100000,Y=822.037000,Z=2479.670000)
 			RelativeRotation=(Pitch=0.000000,Yaw=157.500000,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.000000,Z=1.000000)
@@ -10555,7 +10555,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockWall1dSirk.rockWall1dSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockWall1dSirk.rockWall1dSirk'
 			RelativeLocation=(X=5949.080000,Y=-675.298000,Z=2275.940000)
 			RelativeRotation=(Pitch=0.000000,Yaw=129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10570,7 +10570,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockEndCapSirk.rockEndCapSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockEndCapSirk.rockEndCapSirk'
 			RelativeLocation=(X=5620.490000,Y=-578.572000,Z=1508.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=39.353027,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14234,7 +14234,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_AssaultShipProp.AssaultShipProp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings/Dropship/AssaultShipProp.AssaultShipProp'
 			RelativeLocation=(X=6330.040000,Y=-1421.580000,Z=8590.310000)
 			RelativeRotation=(Pitch=-5.625000,Yaw=106.875000,Roll=-5.625000)
 			RelativeScale3D=(X=10.000000,Y=10.000000,Z=10.000000)
@@ -14670,7 +14670,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_GunshipLowRes.GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover5_GunshipFlyby00"
 		Tags(0)="GunshipFlyby00"
 	End Actor
@@ -14695,7 +14695,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_GunshipLowRes.GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover10_GunshipFlyby03"
 		Tags(0)="GunshipFlyby03"
 	End Actor
@@ -14720,7 +14720,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_GunshipLowRes.GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover8_GunshipFlyby01"
 		Tags(0)="GunshipFlyby01"
 	End Actor
@@ -14745,7 +14745,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_GunshipLowRes.GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover7_GunshipFlyby02"
 		Tags(0)="GunshipFlyby02"
 	End Actor
@@ -14897,7 +14897,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=-1848.000000,Y=1852.020000,Z=74.996400)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -14911,7 +14911,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=-1661.000000,Y=1718.000000,Z=58.002600)
 			RelativeRotation=(Pitch=0.000000,Yaw=73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.000000)
@@ -18033,7 +18033,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=3305.930000,Y=-660.232000,Z=210.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.400000,Y=1.400000,Z=1.400000)
@@ -18048,7 +18048,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=3100.460000,Y=-519.728000,Z=-43.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=50.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.400000,Y=1.400000,Z=1.400000)
@@ -18063,7 +18063,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderOne.PropOb_BoulderOne'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderOne.PropOb_BoulderOne'
 			RelativeLocation=(X=3768.920000,Y=-518.773000,Z=250.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
 			CustomProperties
@@ -18089,7 +18089,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_rockEndCapSirk.rockEndCapSirk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/rockEndCapSirk.rockEndCapSirk'
 			RelativeLocation=(X=5134.590000,Y=-575.221000,Z=1508.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=52.778320,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18163,7 +18163,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=1208.000000,Y=4415.000000,Z=74.996400)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -18251,7 +18251,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Walls_FloorMat.FloorMat'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM/Walls/FloorMat.FloorMat'
 			RelativeLocation=(X=3688.750000,Y=142.390000,Z=281.436000)
 			RelativeRotation=(Pitch=1.230469,Yaw=-1.642456,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18266,7 +18266,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR_Boulders_PropOb_BoulderTwo.PropOb_BoulderTwo'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_PR/Boulders/PropOb_BoulderTwo.PropOb_BoulderTwo'
 			RelativeLocation=(X=1610.000000,Y=4395.000000,Z=74.996400)
 			RelativeRotation=(Pitch=0.000000,Yaw=-129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)

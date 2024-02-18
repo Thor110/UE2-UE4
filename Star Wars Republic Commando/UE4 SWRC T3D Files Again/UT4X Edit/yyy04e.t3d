@@ -1955,7 +1955,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallCorner.Brdg_HallCorner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallCorner.Brdg_HallCorner'
 			RelativeLocation=(X=-4555.090000,Y=-7148.480000,Z=1129.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1970,7 +1970,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallStrght.Brdg_HallStrght'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallStrght.Brdg_HallStrght'
 			RelativeLocation=(X=-3439.050000,Y=-7158.990000,Z=1129.500000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -1985,7 +1985,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallSlop.Brdg_HallSlop'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallSlop.Brdg_HallSlop'
 			RelativeLocation=(X=-1960.920000,Y=-7163.020000,Z=997.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2000,7 +2000,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallDoorRim.Brdg_HallDoorRim'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallDoorRim.Brdg_HallDoorRim'
 			RelativeLocation=(X=-1192.120000,Y=-7163.440000,Z=735.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2015,7 +2015,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallDoorRim.Brdg_HallDoorRim'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallDoorRim.Brdg_HallDoorRim'
 			RelativeLocation=(X=-4566.310000,Y=-6726.250000,Z=1134.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2029,7 +2029,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallSlopFlr.Brdg_HallSlopFlr'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallSlopFlr.Brdg_HallSlopFlr'
 			RelativeLocation=(X=-1965.220000,Y=-7146.380000,Z=926.504000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2073,7 +2073,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_doorreg.Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover3_SBDDoor"
 		Tags(0)="SBDDoor"
 	End Actor
@@ -2167,7 +2167,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR_BridgeBody_BridgeRoofA.BridgeRoofA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR/BridgeBody/BridgeRoofA.BridgeRoofA'
 			RelativeLocation=(X=-4672.980000,Y=-9215.820000,Z=1664.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2181,7 +2181,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR_BridgeBody_BridgeRoofA.BridgeRoofA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR/BridgeBody/BridgeRoofA.BridgeRoofA'
 			RelativeLocation=(X=-4672.000000,Y=-11264.000000,Z=1664.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2195,7 +2195,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR_BridgeBody_BridgeRoofA.BridgeRoofA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR/BridgeBody/BridgeRoofA.BridgeRoofA'
 			RelativeLocation=(X=-4672.000000,Y=-13312.000000,Z=1664.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2209,7 +2209,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR_BridgeBody_BridgeRoofC.BridgeRoofC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR/BridgeBody/BridgeRoofC.BridgeRoofC'
 			RelativeLocation=(X=-960.000000,Y=-9216.000000,Z=1792.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2223,7 +2223,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR_BridgeBody_BridgeRoofC.BridgeRoofC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR/BridgeBody/BridgeRoofC.BridgeRoofC'
 			RelativeLocation=(X=-960.000000,Y=-11280.000000,Z=1792.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2237,7 +2237,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR_BridgeBody_BridgeRoofC.BridgeRoofC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR/BridgeBody/BridgeRoofC.BridgeRoofC'
 			RelativeLocation=(X=-960.000000,Y=-13312.000000,Z=1792.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2251,7 +2251,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_wallDoor.Brdg_wallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_wallDoor.Brdg_wallDoor'
 			RelativeLocation=(X=-2560.980000,Y=-8127.820000,Z=448.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -2266,7 +2266,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_bannersA.Brdg_bannersA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_bannersA.Brdg_bannersA'
 			RelativeLocation=(X=-2564.000000,Y=-11006.000000,Z=1876.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=2.000000)
 			CustomProperties
@@ -2292,7 +2292,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_SpHallSeg.Brdg_SpHallSeg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_SpHallSeg.Brdg_SpHallSeg'
 			RelativeLocation=(X=-602.880000,Y=-7806.780000,Z=640.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2306,7 +2306,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4a.Brdg_area4a'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4a.Brdg_area4a'
 			RelativeLocation=(X=-633.524000,Y=-8766.300000,Z=576.001000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2320,7 +2320,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4b.Brdg_area4b'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4b.Brdg_area4b'
 			RelativeLocation=(X=-1530.600000,Y=-9728.460000,Z=512.004000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2334,7 +2334,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4e.Brdg_area4e'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4e.Brdg_area4e'
 			RelativeLocation=(X=-636.000000,Y=-13376.000000,Z=640.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2348,7 +2348,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_wallDoor.Brdg_wallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_wallDoor.Brdg_wallDoor'
 			RelativeLocation=(X=-2560.000000,Y=-14336.000000,Z=448.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2362,7 +2362,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4g.Brdg_area4g'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4g.Brdg_area4g'
 			RelativeLocation=(X=-1405.020000,Y=-11773.300000,Z=636.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2376,7 +2376,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4g.Brdg_area4g'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4g.Brdg_area4g'
 			RelativeLocation=(X=-3670.720000,Y=-11776.000000,Z=636.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2390,7 +2390,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4c.Brdg_area4c'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4c.Brdg_area4c'
 			RelativeLocation=(X=-4639.270000,Y=-11133.700000,Z=1083.050000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2404,7 +2404,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4b.Brdg_area4b'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4b.Brdg_area4b'
 			RelativeLocation=(X=-3547.920000,Y=-9725.290000,Z=515.004000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2418,7 +2418,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4e.Brdg_area4e'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4e.Brdg_area4e'
 			RelativeLocation=(X=-4444.000000,Y=-13376.000000,Z=624.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2432,7 +2432,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4f.Brdg_area4f'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4f.Brdg_area4f'
 			RelativeLocation=(X=-4507.270000,Y=-13179.200000,Z=575.057000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2446,7 +2446,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4d.Brdg_area4d'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4d.Brdg_area4d'
 			RelativeLocation=(X=-4644.370000,Y=-11008.200000,Z=560.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2460,7 +2460,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_GDoor.Brdg_GDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_GDoor.Brdg_GDoor'
 			RelativeLocation=(X=-1477.060000,Y=-12281.000000,Z=512.865000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2475,7 +2475,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_GDoor.Brdg_GDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_GDoor.Brdg_GDoor'
 			RelativeLocation=(X=-3623.060000,Y=-12245.000000,Z=508.865000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2490,7 +2490,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_GDoor.Brdg_GDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_GDoor.Brdg_GDoor'
 			RelativeLocation=(X=-3623.060000,Y=-12287.000000,Z=508.865000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2505,7 +2505,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4Ramp.Brdg_area4Ramp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4Ramp.Brdg_area4Ramp'
 			RelativeLocation=(X=-2560.000000,Y=-12836.000000,Z=320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2519,7 +2519,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4Ramp.Brdg_area4Ramp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4Ramp.Brdg_area4Ramp'
 			RelativeLocation=(X=-2560.000000,Y=-10096.000000,Z=320.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2534,7 +2534,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4ceil.Brdg_area4ceil'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4ceil.Brdg_area4ceil'
 			RelativeLocation=(X=-631.016000,Y=-10888.300000,Z=1476.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2548,7 +2548,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4ceil.Brdg_area4ceil'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4ceil.Brdg_area4ceil'
 			RelativeLocation=(X=-4440.330000,Y=-10873.000000,Z=1464.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2562,7 +2562,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4fakedoor.Brdg_area4fakedoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4fakedoor.Brdg_area4fakedoor'
 			RelativeLocation=(X=-3761.320000,Y=-9008.830000,Z=1020.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2576,7 +2576,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4endpc.Brdg_area4endpc'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4endpc.Brdg_area4endpc'
 			RelativeLocation=(X=-2560.980000,Y=-8191.820000,Z=1040.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2590,7 +2590,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4wllend2.Brdg_area4wllend2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4wllend2.Brdg_area4wllend2'
 			RelativeLocation=(X=-3916.000000,Y=-14256.000000,Z=1156.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -2616,7 +2616,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4MdWn.Brdg_area4MdWn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4MdWn.Brdg_area4MdWn'
 			RelativeLocation=(X=-3481.040000,Y=-9791.990000,Z=1075.520000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2643,7 +2643,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4MdWn.Brdg_area4MdWn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4MdWn.Brdg_area4MdWn'
 			RelativeLocation=(X=-4006.060000,Y=-10917.000000,Z=1090.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2670,7 +2670,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4MdWn.Brdg_area4MdWn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4MdWn.Brdg_area4MdWn'
 			RelativeLocation=(X=-4239.970000,Y=-12270.300000,Z=1092.180000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2709,7 +2709,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4MdWn.Brdg_area4MdWn'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4MdWn.Brdg_area4MdWn'
 			RelativeLocation=(X=-839.968000,Y=-12275.000000,Z=1091.530000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2724,7 +2724,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_GDoor.Brdg_GDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_GDoor.Brdg_GDoor'
 			RelativeLocation=(X=-4183.060000,Y=-12241.000000,Z=504.865000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -2739,7 +2739,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_GDoor.Brdg_GDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_GDoor.Brdg_GDoor'
 			RelativeLocation=(X=-4183.060000,Y=-12283.000000,Z=500.865000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3578,7 +3578,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4c.Brdg_area4c'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4c.Brdg_area4c'
 			RelativeLocation=(X=-442.937000,Y=-11134.600000,Z=1083.050000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3604,7 +3604,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_SpHallDoor.Brdg_SpHallDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_SpHallDoor.Brdg_SpHallDoor'
 			RelativeLocation=(X=-592.016000,Y=-7140.500000,Z=640.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3848,7 +3848,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_xdoorblck.Brdg_xdoorblck'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_xdoorblck.Brdg_xdoorblck'
 			RelativeLocation=(X=-5208.030000,Y=-10335.400000,Z=512.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3892,7 +3892,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_LightHang.Brdg_LightHang'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_LightHang.Brdg_LightHang'
 			RelativeLocation=(X=-1312.000000,Y=-14096.000000,Z=1216.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3907,7 +3907,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_LightHang.Brdg_LightHang'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_LightHang.Brdg_LightHang'
 			RelativeLocation=(X=-1664.000000,Y=-14096.000000,Z=1216.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3922,7 +3922,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_xdoorblck.Brdg_xdoorblck'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_xdoorblck.Brdg_xdoorblck'
 			RelativeLocation=(X=-5200.980000,Y=-11549.200000,Z=508.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4423,7 +4423,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_doorreg.Brdg_doorreg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_doorreg.Brdg_doorreg'
 			RelativeLocation=(X=-4560.010000,Y=-6656.020000,Z=1088.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.200000)
@@ -4438,7 +4438,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_doorreg.Brdg_doorreg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_doorreg.Brdg_doorreg'
 			RelativeLocation=(X=-3632.000000,Y=-12264.000000,Z=520.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
@@ -4453,7 +4453,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_doorreg.Brdg_doorreg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_doorreg.Brdg_doorreg'
 			RelativeLocation=(X=-1480.000000,Y=-12272.000000,Z=520.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
@@ -4468,7 +4468,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_DoorBFrame.Brdg_DoorBFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_DoorBFrame.Brdg_DoorBFrame'
 			RelativeLocation=(X=-3986.140000,Y=-10926.200000,Z=505.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -4482,7 +4482,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_DoorBFrame.Brdg_DoorBFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_DoorBFrame.Brdg_DoorBFrame'
 			RelativeLocation=(X=-4084.360000,Y=-10939.900000,Z=505.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4497,7 +4497,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_DoorBFrame.Brdg_DoorBFrame'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_DoorBFrame.Brdg_DoorBFrame'
 			RelativeLocation=(X=-1094.120000,Y=-10931.500000,Z=545.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4512,7 +4512,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4ecover.Brdg_area4ecover'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4ecover.Brdg_area4ecover'
 			RelativeLocation=(X=-1032.000000,Y=-13732.000000,Z=700.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -4526,7 +4526,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_rampplug.Brdg_rampplug'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_rampplug.Brdg_rampplug'
 			RelativeLocation=(X=-378.510000,Y=-12281.100000,Z=1053.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -4843,7 +4843,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_area4ecover.Brdg_area4ecover'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_area4ecover.Brdg_area4ecover'
 			RelativeLocation=(X=-4048.000000,Y=-13668.000000,Z=684.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4873,14 +4873,14 @@ Begin Map
 		Wait at top time=10.0
 		NumKeys=2
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_doorreg.Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover0"
 	End Actor
 	Begin Actor Class=StaticMeshActor Name=StaticMeshActor9_StaticMeshActor
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_doorreg.Brdg_doorreg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_doorreg.Brdg_doorreg'
 			RelativeLocation=(X=-1088.000000,Y=-10936.000000,Z=552.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.500000,Z=1.000000)
@@ -4912,7 +4912,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_doorreg.Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover5_LastFightDoor"
 		Tags(0)="LastFightDoor"
 	End Actor
@@ -6300,7 +6300,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-4529.020000,Y=-7143.500000,Z=1661.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6335,7 +6335,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-3396.020000,Y=-7162.500000,Z=1661.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6370,7 +6370,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-1927.020000,Y=-7155.500000,Z=1471.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6599,7 +6599,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-4916.000000,Y=-10826.000000,Z=1009.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6613,7 +6613,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-4092.000000,Y=-9976.000000,Z=1009.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6648,7 +6648,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-4529.310000,Y=-13568.000000,Z=1082.030000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6683,7 +6683,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_LightFF.Brdg_LightFF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_LightFF.Brdg_LightFF'
 			RelativeLocation=(X=-4913.520000,Y=-12261.500000,Z=947.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6698,7 +6698,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_LightFF.Brdg_LightFF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_LightFF.Brdg_LightFF'
 			RelativeLocation=(X=-4472.730000,Y=-12261.200000,Z=947.664000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6712,7 +6712,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-4953.310000,Y=-11372.000000,Z=1578.030000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6747,7 +6747,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-4241.310000,Y=-10336.000000,Z=1578.030000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6782,7 +6782,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-3745.310000,Y=-9600.000000,Z=1578.030000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6796,7 +6796,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_LightDD.Brdg_LightDD'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_LightDD.Brdg_LightDD'
 			RelativeLocation=(X=-4088.000000,Y=-11760.000000,Z=1526.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6810,7 +6810,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_LightDD.Brdg_LightDD'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_LightDD.Brdg_LightDD'
 			RelativeLocation=(X=-3671.790000,Y=-11759.500000,Z=1534.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6848,7 +6848,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_LightDD.Brdg_LightDD'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_LightDD.Brdg_LightDD'
 			RelativeLocation=(X=-1357.790000,Y=-11731.500000,Z=1534.020000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6883,7 +6883,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-339.311000,Y=-11724.300000,Z=1568.030000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6897,7 +6897,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-707.477000,Y=-10396.200000,Z=1567.950000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6932,7 +6932,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-1235.480000,Y=-9580.200000,Z=1567.950000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7136,7 +7136,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Barricades_WkiBarricadeA.WkiBarricadeA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Barricades/WkiBarricadeA.WkiBarricadeA'
 			RelativeLocation=(X=-2509.910000,Y=-9354.230000,Z=445.836000)
 			RelativeRotation=(Pitch=0.000000,Yaw=16.853027,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7151,7 +7151,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Barricades_WkiBarricadeA.WkiBarricadeA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Barricades/WkiBarricadeA.WkiBarricadeA'
 			RelativeLocation=(X=-3387.840000,Y=-9221.450000,Z=503.959000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-11.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7202,7 +7202,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Barricades_WkiBarricadeA.WkiBarricadeA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Barricades/WkiBarricadeA.WkiBarricadeA'
 			RelativeLocation=(X=-1625.920000,Y=-9316.870000,Z=503.960000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-146.244507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7692,7 +7692,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_SkyDome_Skyagain.Skyagain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/SkyDome/Skyagain.Skyagain'
 			RelativeLocation=(X=1717.540000,Y=-10260.400000,Z=186.965000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-24.757690,Roll=-1.708374)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7895,7 +7895,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-1468.830000,Y=-12409.700000,Z=532.100000)
 			RelativeRotation=(Pitch=1.450195,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8052,7 +8052,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_KashDoors_DoorWhl.DoorWhl'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/KashDoors/DoorWhl.DoorWhl'
 			RelativeLocation=(X=-3770.000000,Y=-12072.000000,Z=1150.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8589,7 +8589,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_KashHalls_WkiCmptrDLow.WkiCmptrDLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/KashHalls/WkiCmptrDLow.WkiCmptrDLow'
 			RelativeLocation=(X=-1343.600000,Y=-10335.000000,Z=1010.800000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-116.471558,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8625,7 +8625,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_KashHalls_WkiCmptrDLow.WkiCmptrDLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/KashHalls/WkiCmptrDLow.WkiCmptrDLow'
 			RelativeLocation=(X=-1186.200000,Y=-10395.800000,Z=1010.790000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-106.869507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8661,7 +8661,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=8.000000,Y=-12160.000000,Z=1016.000000)
 			RelativeScale3D=(X=0.800000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8717,7 +8717,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-544.011000,Y=-10112.000000,Z=1008.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=112.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8732,7 +8732,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-794.328000,Y=-9843.790000,Z=1008.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8747,7 +8747,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-1444.000000,Y=-10104.000000,Z=1008.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-73.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8762,7 +8762,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-1508.000000,Y=-9344.000000,Z=1008.010000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8777,7 +8777,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=143.995000,Y=-11612.000000,Z=1016.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8792,7 +8792,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=158.406000,Y=-10430.800000,Z=1007.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.800000,Y=1.000000,Z=1.000000)
@@ -8807,7 +8807,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_Chairsimple.Brdg_Chairsimple'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_Chairsimple.Brdg_Chairsimple'
 			RelativeLocation=(X=-420.001000,Y=-11188.000000,Z=1008.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8821,7 +8821,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_Chairsimple.Brdg_Chairsimple'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_Chairsimple.Brdg_Chairsimple'
 			RelativeLocation=(X=-357.890000,Y=-10377.400000,Z=1008.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=163.059082,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8836,7 +8836,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Furniture_Hooka.Hooka'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Furniture/Hooka.Hooka'
 			RelativeLocation=(X=-404.000000,Y=-10864.000000,Z=1032.000000)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
 			CustomProperties
@@ -8850,7 +8850,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-976.014000,Y=-11324.000000,Z=1004.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8886,7 +8886,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_KashHalls_MonitorBLow.MonitorBLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/KashHalls/MonitorBLow.MonitorBLow'
 			RelativeLocation=(X=-4411.970000,Y=-10145.000000,Z=1236.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=61.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8901,7 +8901,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_Chairsimple.Brdg_Chairsimple'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_Chairsimple.Brdg_Chairsimple'
 			RelativeLocation=(X=-4900.000000,Y=-10812.000000,Z=1008.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-146.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8916,7 +8916,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_Chairsimple.Brdg_Chairsimple'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_Chairsimple.Brdg_Chairsimple'
 			RelativeLocation=(X=-5056.010000,Y=-12088.000000,Z=1007.990000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8930,7 +8930,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-5180.000000,Y=-12024.000000,Z=1012.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8987,7 +8987,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-4128.000000,Y=-11304.000000,Z=1012.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9002,7 +9002,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-3860.010000,Y=-10312.000000,Z=1012.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9017,7 +9017,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-4912.010000,Y=-10400.000000,Z=1012.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9032,7 +9032,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Furniture_Hooka.Hooka'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Furniture/Hooka.Hooka'
 			RelativeLocation=(X=-4948.000000,Y=-11016.000000,Z=1020.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
 			CustomProperties
@@ -9046,7 +9046,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_tostand.Brdg_tostand'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_tostand.Brdg_tostand'
 			RelativeLocation=(X=-404.016000,Y=-10863.900000,Z=1031.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=179.736328,Roll=0.000000)
 			RelativeScale3D=(X=0.210000,Y=0.210000,Z=0.210000)
@@ -9061,7 +9061,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_tostand.Brdg_tostand'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_tostand.Brdg_tostand'
 			RelativeLocation=(X=-404.013000,Y=-10863.900000,Z=1031.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-0.263672,Roll=0.000000)
 			RelativeScale3D=(X=0.210000,Y=0.210000,Z=0.210000)
@@ -9076,7 +9076,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_tostand.Brdg_tostand'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_tostand.Brdg_tostand'
 			RelativeLocation=(X=-4948.020000,Y=-11015.900000,Z=1031.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=179.736328,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.200000,Z=0.200000)
@@ -9091,7 +9091,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_tostand.Brdg_tostand'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_tostand.Brdg_tostand'
 			RelativeLocation=(X=-4948.010000,Y=-11015.900000,Z=1031.990000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-0.263672,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.200000,Z=0.200000)
@@ -9106,7 +9106,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-3771.980000,Y=-9195.980000,Z=1012.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9142,7 +9142,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=131.982000,Y=-12048.000000,Z=1016.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9157,7 +9157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-5228.000000,Y=-11628.000000,Z=1012.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-84.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9214,7 +9214,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_CratePileA.YYY05_CratePileA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_CratePileA.YYY05_CratePileA'
 			RelativeLocation=(X=-4384.000000,Y=-14036.000000,Z=528.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9249,7 +9249,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_CratePileB.YYY05_CratePileB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_CratePileB.YYY05_CratePileB'
 			RelativeLocation=(X=-4748.000000,Y=-13900.000000,Z=512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9264,7 +9264,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-5204.000000,Y=-11416.000000,Z=503.998000)
 			RelativeScale3D=(X=1.200000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9278,7 +9278,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-5208.000000,Y=-10468.000000,Z=503.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.000000,Z=1.000000)
@@ -9293,7 +9293,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-4756.000000,Y=-11432.000000,Z=503.998000)
 			RelativeScale3D=(X=1.200000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9307,7 +9307,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_KashHalls_WkiCmptrDLow.WkiCmptrDLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/KashHalls/WkiCmptrDLow.WkiCmptrDLow'
 			RelativeLocation=(X=-5624.000000,Y=-11168.000000,Z=512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-146.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9322,7 +9322,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_KashHalls_WkiCmptrDLow.WkiCmptrDLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/KashHalls/WkiCmptrDLow.WkiCmptrDLow'
 			RelativeLocation=(X=-5608.000000,Y=-10476.000000,Z=512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=129.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9400,7 +9400,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_CratePileA.YYY05_CratePileA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_CratePileA.YYY05_CratePileA'
 			RelativeLocation=(X=-4860.010000,Y=-10528.000000,Z=512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9415,7 +9415,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-4888.180000,Y=-11317.400000,Z=512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-1.290894,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9430,7 +9430,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_walldecoA.Brdg_walldecoA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_walldecoA.Brdg_walldecoA'
 			RelativeLocation=(X=-3492.000000,Y=-11832.000000,Z=503.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.000000,Z=1.000000)
@@ -9487,7 +9487,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_KashDoors_GenDoor_Sealed.GenDoor_Sealed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/KashDoors/GenDoor_Sealed.GenDoor_Sealed'
 			RelativeLocation=(X=-3668.000000,Y=-12308.000000,Z=653.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.100000)
@@ -9762,7 +9762,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_KashDoors_BlkDoor_Sealed.BlkDoor_Sealed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/KashDoors/BlkDoor_Sealed.BlkDoor_Sealed'
 			RelativeLocation=(X=-2530.130000,Y=-8221.910000,Z=456.615000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9777,7 +9777,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_KashDoors_BlkDoor_Sealed.BlkDoor_Sealed'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/KashDoors/BlkDoor_Sealed.BlkDoor_Sealed'
 			RelativeLocation=(X=-2593.680000,Y=-14242.800000,Z=457.615000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9828,7 +9828,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Ramps_WkiRamp.WkiRamp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Ramps/WkiRamp.WkiRamp'
 			RelativeLocation=(X=-2797.630000,Y=-10918.200000,Z=369.969000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=61.875000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.800000)
@@ -9843,7 +9843,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_B_TreepartB.B_TreepartB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/B_TreepartB.B_TreepartB'
 			RelativeLocation=(X=-665.910000,Y=-8926.150000,Z=596.254000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.750000,Roll=-5.625000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -9858,7 +9858,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_SpHallSeg.Brdg_SpHallSeg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_SpHallSeg.Brdg_SpHallSeg'
 			RelativeLocation=(X=-596.018000,Y=-6503.320000,Z=640.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9884,7 +9884,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallStrght.Brdg_HallStrght'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallStrght.Brdg_HallStrght'
 			RelativeLocation=(X=-1461.590000,Y=-15111.600000,Z=557.416000)
 			RelativeScale3D=(X=1.000000,Y=0.930000,Z=1.000000)
 			CustomProperties
@@ -9898,7 +9898,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallDoorRim.Brdg_HallDoorRim'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallDoorRim.Brdg_HallDoorRim'
 			RelativeLocation=(X=-1460.450000,Y=-15828.000000,Z=559.023000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9913,7 +9913,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallDoorhld.Brdg_HallDoorhld'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallDoorhld.Brdg_HallDoorhld'
 			RelativeLocation=(X=-1474.040000,Y=-15874.200000,Z=572.572000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9927,7 +9927,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HallDoorRim.Brdg_HallDoorRim'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HallDoorRim.Brdg_HallDoorRim'
 			RelativeLocation=(X=-1460.860000,Y=-14384.000000,Z=558.165000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9957,7 +9957,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_doorreg.Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover1_EndDoor01"
 		Tags(0)="EndDoor01"
 	End Actor
@@ -9965,7 +9965,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_Brdg_HngHallLit.Brdg_HngHallLit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/Brdg_HngHallLit.Brdg_HngHallLit'
 			RelativeLocation=(X=-1463.310000,Y=-15433.800000,Z=1083.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10599,7 +10599,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR_BridgeBody_Bridge_04_Roof.Bridge_04_Roof'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR/BridgeBody/Bridge_04_Roof.Bridge_04_Roof'
 			RelativeLocation=(X=-3094.480000,Y=-11264.100000,Z=1627.800000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10613,7 +10613,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR_BridgeBody_BridgePillarLight.BridgePillarLight'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_HR/BridgeBody/BridgePillarLight.BridgePillarLight'
 			RelativeLocation=(X=-2562.360000,Y=-11452.100000,Z=567.628000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -12699,7 +12699,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_plugger.YYY05_plugger'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_plugger.YYY05_plugger'
 			RelativeLocation=(X=-592.016000,Y=-6212.500000,Z=944.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=-1.000000,Y=1.000000,Z=1.000000)
@@ -15149,7 +15149,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Dead_Wookiees_Wookiee_Dead_Floor_1.Wookiee_Dead_Floor_1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Dead_Wookiees/Wookiee_Dead_Floor_1.Wookiee_Dead_Floor_1'
 			RelativeLocation=(X=-2752.670000,Y=-11952.000000,Z=996.359000)
 			RelativeRotation=(Pitch=-84.375000,Yaw=78.750000,Roll=-157.500000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.200000)
@@ -15164,7 +15164,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Dead_Wookiees_Wookiee_Dead_Box_4.Wookiee_Dead_Box_4'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Dead_Wookiees/Wookiee_Dead_Box_4.Wookiee_Dead_Box_4'
 			RelativeLocation=(X=-2050.080000,Y=-12116.100000,Z=241.100000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.320000)
@@ -15179,7 +15179,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Dead_Wookiees_Wookiee_Dead_Box_3.Wookiee_Dead_Box_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Dead_Wookiees/Wookiee_Dead_Box_3.Wookiee_Dead_Box_3'
 			RelativeLocation=(X=-4613.110000,Y=-10298.300000,Z=513.089000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-50.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15239,7 +15239,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Cabinets_YYY_PickupCabinetB.YYY_PickupCabinetB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Cabinets/YYY_PickupCabinetB.YYY_PickupCabinetB'
 			RelativeLocation=(X=11.793900,Y=-12079.700000,Z=1013.390000)
 			RelativeRotation=(Pitch=0.433960,Yaw=89.379272,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15254,7 +15254,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Cabinets_YYY_PickupCabinetB.YYY_PickupCabinetB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Cabinets/YYY_PickupCabinetB.YYY_PickupCabinetB'
 			RelativeLocation=(X=-4699.310000,Y=-13933.700000,Z=527.544000)
 			RelativeRotation=(Pitch=0.433960,Yaw=21.879272,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16057,7 +16057,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_potone.YYY05_potone'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_potone.YYY05_potone'
 			RelativeLocation=(X=-995.566000,Y=-6893.600000,Z=384.002000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -16071,7 +16071,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Trees_Brdg_BranchB.Brdg_BranchB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Trees/Brdg_BranchB.Brdg_BranchB'
 			RelativeLocation=(X=-753.143000,Y=-7036.350000,Z=894.084000)
 			RelativeRotation=(Pitch=22.500000,Yaw=-39.375000,Roll=-16.875000)
 			RelativeScale3D=(X=0.150000,Y=0.150000,Z=0.150000)
@@ -16086,7 +16086,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_potone.YYY05_potone'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_potone.YYY05_potone'
 			RelativeLocation=(X=-993.984000,Y=-7438.850000,Z=400.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -16100,7 +16100,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Trees_Brdg_BranchB.Brdg_BranchB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Trees/Brdg_BranchB.Brdg_BranchB'
 			RelativeLocation=(X=-703.559000,Y=-7341.600000,Z=910.081000)
 			RelativeRotation=(Pitch=22.478027,Yaw=22.500000,Roll=-16.869507)
 			RelativeScale3D=(X=0.150000,Y=0.150000,Z=0.150000)
@@ -16115,7 +16115,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Trees_Brdg_BranchB.Brdg_BranchB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Trees/Brdg_BranchB.Brdg_BranchB'
 			RelativeLocation=(X=-719.559000,Y=-7517.620000,Z=910.083000)
 			RelativeRotation=(Pitch=22.478027,Yaw=-22.494507,Roll=-16.869507)
 			RelativeScale3D=(X=0.150000,Y=0.150000,Z=0.150000)
@@ -16266,7 +16266,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Trees_Brdg_BranchB.Brdg_BranchB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Trees/Brdg_BranchB.Brdg_BranchB'
 			RelativeLocation=(X=-721.106000,Y=-8711.940000,Z=1006.110000)
 			RelativeRotation=(Pitch=33.750000,Yaw=56.250000,Roll=11.250000)
 			RelativeScale3D=(X=0.150000,Y=0.150000,Z=0.150000)
@@ -16508,7 +16508,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_potone.YYY05_potone'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_potone.YYY05_potone'
 			RelativeLocation=(X=-179.573000,Y=-7437.630000,Z=432.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -16522,7 +16522,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Trees_Brdg_BranchB.Brdg_BranchB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Trees/Brdg_BranchB.Brdg_BranchB'
 			RelativeLocation=(X=-481.149000,Y=-7500.400000,Z=942.085000)
 			RelativeRotation=(Pitch=22.500000,Yaw=-163.125000,Roll=-16.875000)
 			RelativeScale3D=(X=0.150000,Y=0.150000,Z=0.150000)
@@ -17406,7 +17406,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-1606.290000,Y=-13470.600000,Z=532.098000)
 			RelativeRotation=(Pitch=1.450195,Yaw=39.375000,Roll=0.000000)
 			RelativeScale3D=(X=0.700000,Y=1.000000,Z=1.000000)
@@ -17421,7 +17421,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-1586.010000,Y=-13480.200000,Z=649.098000)
 			RelativeRotation=(Pitch=1.450195,Yaw=11.250000,Roll=0.000000)
 			RelativeScale3D=(X=0.700000,Y=1.000000,Z=1.000000)
@@ -17436,7 +17436,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_potone.YYY05_potone'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_potone.YYY05_potone'
 			RelativeLocation=(X=-2001.060000,Y=-14181.100000,Z=402.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.000000,Z=1.000000)
@@ -17451,7 +17451,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Trees_Brdg_BranchB.Brdg_BranchB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Trees/Brdg_BranchB.Brdg_BranchB'
 			RelativeLocation=(X=-2079.390000,Y=-13916.800000,Z=1120.030000)
 			RelativeRotation=(Pitch=39.375000,Yaw=101.250000,Roll=-22.500000)
 			RelativeScale3D=(X=0.300000,Y=0.300000,Z=0.300000)
@@ -17466,7 +17466,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Trees_Brdg_BranchB.Brdg_BranchB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Trees/Brdg_BranchB.Brdg_BranchB'
 			RelativeLocation=(X=-2038.770000,Y=-13584.400000,Z=963.054000)
 			RelativeRotation=(Pitch=-5.625000,Yaw=84.375000,Roll=0.000000)
 			RelativeScale3D=(X=0.200000,Y=0.200000,Z=0.200000)
@@ -17481,7 +17481,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-3213.750000,Y=-13622.700000,Z=521.098000)
 			RelativeRotation=(Pitch=-4.174805,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.700000,Y=1.000000,Z=1.000000)
@@ -17496,7 +17496,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-3116.330000,Y=-13675.700000,Z=642.098000)
 			RelativeRotation=(Pitch=-4.174805,Yaw=-28.125000,Roll=0.000000)
 			RelativeScale3D=(X=0.700000,Y=1.000000,Z=1.000000)
@@ -17511,7 +17511,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-3002.500000,Y=-13612.500000,Z=486.088000)
 			RelativeRotation=(Pitch=-21.049805,Yaw=5.625000,Roll=0.000000)
 			RelativeScale3D=(X=0.700000,Y=1.000000,Z=1.000000)
@@ -17538,7 +17538,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-1772.690000,Y=-13538.400000,Z=519.099000)
 			RelativeRotation=(Pitch=1.450195,Yaw=28.125000,Roll=0.000000)
 			RelativeScale3D=(X=0.350000,Y=0.500000,Z=0.500000)
@@ -17601,7 +17601,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Dead_Wookiees_Wookiee_Dead_Box_3.Wookiee_Dead_Box_3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Dead_Wookiees/Wookiee_Dead_Box_3.Wookiee_Dead_Box_3'
 			RelativeLocation=(X=-2387.690000,Y=-9355.150000,Z=449.987000)
 			RelativeRotation=(Pitch=0.000000,Yaw=84.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17640,7 +17640,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Cabinets_YYY_PickupCabinetB.YYY_PickupCabinetB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Cabinets/YYY_PickupCabinetB.YYY_PickupCabinetB'
 			RelativeLocation=(X=-2648.790000,Y=-9263.960000,Z=445.091000)
 			RelativeRotation=(Pitch=6.058960,Yaw=89.379272,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17961,7 +17961,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_doorconnect.YYY05_doorconnect'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_doorconnect.YYY05_doorconnect'
 			RelativeLocation=(X=-1460.460000,Y=-14308.800000,Z=527.854000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -18223,7 +18223,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-4370.410000,Y=-12144.600000,Z=1127.220000)
 			RelativeRotation=(Pitch=-17.880249,Yaw=-28.119507,Roll=-0.192261)
 			RelativeScale3D=(X=0.420000,Y=0.600000,Z=0.600000)
@@ -18286,7 +18286,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_KashHalls_MonitorBLow.MonitorBLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/KashHalls/MonitorBLow.MonitorBLow'
 			RelativeLocation=(X=-3571.970000,Y=-11524.000000,Z=756.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=5.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18301,7 +18301,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_KashHalls_MonitorBLow.MonitorBLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/KashHalls/MonitorBLow.MonitorBLow'
 			RelativeLocation=(X=-4024.970000,Y=-9986.000000,Z=755.993000)
 			RelativeRotation=(Pitch=0.000000,Yaw=5.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -19927,7 +19927,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-2061.730000,Y=-11729.700000,Z=2426.970000)
 			RelativeRotation=(Pitch=-0.082397,Yaw=-0.170288,Roll=-0.016479)
 			RelativeScale3D=(X=0.900000,Y=1.200000,Z=0.400000)
@@ -19942,7 +19942,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_Bridge_YYY05_Crate_B.YYY05_Crate_B'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM/Bridge/YYY05_Crate_B.YYY05_Crate_B'
 			RelativeLocation=(X=-3000.460000,Y=-11660.700000,Z=2426.980000)
 			RelativeRotation=(Pitch=-0.082397,Yaw=-0.170288,Roll=-0.016479)
 			RelativeScale3D=(X=0.900000,Y=1.200000,Z=0.400000)
@@ -21228,7 +21228,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Dead_Wookiees_Wookie_Dead_Box_1.Wookie_Dead_Box_1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Dead_Wookiees/Wookie_Dead_Box_1.Wookie_Dead_Box_1'
 			RelativeLocation=(X=-3082.560000,Y=-11633.200000,Z=394.068000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -21242,7 +21242,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Dead_Wookiees_Wookie_Dead_Box_1.Wookie_Dead_Box_1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR/Dead_Wookiees/Wookie_Dead_Box_1.Wookie_Dead_Box_1'
 			RelativeLocation=(X=-2588.410000,Y=-11693.000000,Z=1452.070000)
 			RelativeRotation=(Pitch=-23.659058,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.200000,Y=1.200000,Z=1.200000)

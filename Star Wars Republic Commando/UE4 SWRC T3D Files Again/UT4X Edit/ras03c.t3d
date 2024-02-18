@@ -6732,7 +6732,7 @@ Begin Map
 		Wait at top time=10000.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Confederacy_TranDropshipLanded_DoorTop.TranDropshipLanded_DoorTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Confederacy/TranDropshipLanded_DoorTop.TranDropshipLanded_DoorTop'
 		ActorLabel="Mover12_ClammingUp"
 		Tags(0)="ClammingUp"
 	End Actor
@@ -6757,7 +6757,7 @@ Begin Map
 		Wait at top time=10000.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Confederacy_TranDropshipLanded_DoorBottom.TranDropshipLanded_DoorBottom'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes/Confederacy/TranDropshipLanded_DoorBottom.TranDropshipLanded_DoorBottom'
 		ActorLabel="Mover13_ClammingUp"
 		Tags(0)="ClammingUp"
 	End Actor
@@ -16055,7 +16055,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_ConsolHack_RAS_CnslHackB.RAS_CnslHackB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/ConsolHack/RAS_CnslHackB.RAS_CnslHackB'
 			RelativeLocation=(X=-6585.640000,Y=7555.370000,Z=1409.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -20615,7 +20615,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_ConsolHack_RAS_CnslHackB.RAS_CnslHackB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons/ConsolHack/RAS_CnslHackB.RAS_CnslHackB'
 			RelativeLocation=(X=-12825.900000,Y=10152.100000,Z=1406.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -20734,7 +20734,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-5868.400000,Y=8244.530000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.100000,Z=-1.000000)
@@ -20749,7 +20749,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-5855.510000,Y=7432.820000,Z=1437.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-89.994507)
 			RelativeScale3D=(X=1.000000,Y=1.100000,Z=-1.000000)
@@ -21254,7 +21254,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-3103.210000,Y=8244.870000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=0.850000,Z=-1.000000)
@@ -21284,7 +21284,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-3104.000000,Y=7432.000000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-89.994507)
 			RelativeScale3D=(X=1.000000,Y=0.850000,Z=-1.000000)
@@ -21314,7 +21314,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-7901.560000,Y=10546.500000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.100000,Z=-1.000000)
@@ -21344,7 +21344,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-7898.290000,Y=9733.290000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-89.994507)
 			RelativeScale3D=(X=1.000000,Y=1.100000,Z=-1.000000)
@@ -21374,7 +21374,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-10639.700000,Y=9736.610000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-89.994507)
 			RelativeScale3D=(X=1.000000,Y=0.800000,Z=-1.000000)
@@ -21404,7 +21404,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-10636.500000,Y=10554.500000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=0.800000,Z=-1.000000)
@@ -21419,7 +21419,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-11232.300000,Y=10556.800000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=0.900000,Z=-1.000000)
@@ -21464,7 +21464,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-6485.310000,Y=8980.790000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=0.800000,Z=-1.000000)
@@ -21479,7 +21479,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-7301.300000,Y=8980.800000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-179.994507)
 			RelativeScale3D=(X=1.000000,Y=0.800000,Z=-1.000000)
@@ -21539,7 +21539,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-7278.460000,Y=10554.800000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=0.700000,Z=-1.000000)
@@ -21554,7 +21554,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-6882.560000,Y=10298.700000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=27.399902)
 			RelativeScale3D=(X=1.000000,Y=0.700000,Z=-1.000000)
@@ -21884,7 +21884,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-12366.100000,Y=9197.960000,Z=1279.020000)
 			RelativeRotation=(Pitch=-63.451538,Yaw=90.000000,Roll=89.978027)
 			RelativeScale3D=(X=1.000000,Y=0.750000,Z=-1.000000)
@@ -21914,7 +21914,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-11574.600000,Y=9210.850000,Z=1285.720000)
 			RelativeRotation=(Pitch=-63.451538,Yaw=90.000000,Roll=89.978027)
 			RelativeScale3D=(X=1.000000,Y=0.750000,Z=1.000000)
@@ -22034,7 +22034,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-11582.000000,Y=11085.500000,Z=1282.020000)
 			RelativeRotation=(Pitch=-63.451538,Yaw=-90.000000,Roll=89.978027)
 			RelativeScale3D=(X=1.000000,Y=0.750000,Z=-1.000000)
@@ -22064,7 +22064,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-12363.700000,Y=11074.200000,Z=1288.710000)
 			RelativeRotation=(Pitch=-63.451538,Yaw=-90.000000,Roll=89.978027)
 			RelativeScale3D=(X=1.000000,Y=0.750000,Z=1.000000)
@@ -22154,7 +22154,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-12607.200000,Y=9741.180000,Z=1431.990000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-89.994507)
 			RelativeScale3D=(X=1.000000,Y=0.650000,Z=-1.000000)
@@ -22169,7 +22169,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-12614.800000,Y=10553.400000,Z=1431.990000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=90.005493)
 			RelativeScale3D=(X=1.000000,Y=0.650000,Z=-1.000000)
@@ -22439,7 +22439,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-7094.500000,Y=8055.990000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-151.869507)
 			RelativeScale3D=(X=1.000000,Y=0.600000,Z=-1.000000)
@@ -28134,7 +28134,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-2085.790000,Y=7434.850000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-89.994507)
 			RelativeScale3D=(X=1.000000,Y=1.100000,Z=-1.000000)
@@ -29329,7 +29329,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-11232.300000,Y=9740.790000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-90.000000)
 			RelativeScale3D=(X=1.000000,Y=0.900000,Z=-1.000000)
@@ -29344,7 +29344,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM_AssaultShip_MP_SmallPipesB.MP_SmallPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Multiplayer_GM/AssaultShip/MP_SmallPipesB.MP_SmallPipesB'
 			RelativeLocation=(X=-6363.640000,Y=8444.900000,Z=1432.000000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=28.130493)
 			RelativeScale3D=(X=1.000000,Y=0.600000,Z=-1.000000)
