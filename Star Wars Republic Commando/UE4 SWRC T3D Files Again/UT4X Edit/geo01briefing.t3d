@@ -4650,7 +4650,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdataplatform.AssaultShip_Carl_Dirtdatacore_ras_dirtdataplatform'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdataplatform.ras_dirtdataplatform'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-45378.400000,Y=247142.000000,Z=210286.000000)
@@ -4667,7 +4667,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdatacoreAA.AssaultShip_Carl_Dirtdatacore_ras_dirtdatacoreAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdatacoreAA.ras_dirtdatacoreAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-45405.400000,Y=247453.000000,Z=210624.000000)
@@ -5908,7 +5908,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_RezSpires.Arena_HR_ArenaWalls_RezSpires'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_RezSpires.RezSpires'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116121.000000,Y=-68706.100000,Z=-10118.300000)
@@ -5925,7 +5925,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_upperStair.Arena_HR_ArenaWalls_upperStair'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_upperStair.upperStair'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116121.000000,Y=-68706.100000,Z=-10118.300000)
@@ -5942,7 +5942,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_LowerTier.Arena_HR_ArenaWalls_LowerTier'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_LowerTier.LowerTier'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116121.000000,Y=-68706.100000,Z=-10118.300000)
@@ -5959,7 +5959,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Columns.Arena_HR_ArenaWalls_Columns'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Columns.Columns'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116121.000000,Y=-68706.100000,Z=-10118.300000)
@@ -5976,7 +5976,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_RearWall.Arena_HR_ArenaWalls_RearWall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_RearWall.RearWall'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116121.000000,Y=-68706.100000,Z=-10118.300000)
@@ -5993,7 +5993,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_UpperRock.Arena_HR_ArenaWalls_UpperRock'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_UpperRock.UpperRock'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116117.000000,Y=-68704.900000,Z=-10118.300000)
@@ -6010,7 +6010,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_LowerStair.Arena_HR_ArenaWalls_LowerStair'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_LowerStair.LowerStair'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116121.000000,Y=-68706.100000,Z=-10118.300000)
@@ -6027,7 +6027,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Spikes.Arena_HR_ArenaWalls_Spikes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Spikes.Spikes'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116121.000000,Y=-68706.100000,Z=-10118.300000)
@@ -6044,7 +6044,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Balconies.Arena_HR_ArenaWalls_Balconies'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Balconies.Balconies'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116121.000000,Y=-68706.100000,Z=-10118.300000)
@@ -6061,7 +6061,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_ArchedDoor.Arena_HR_ArenaWalls_ArchedDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_ArchedDoor.ArchedDoor'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=127983.000000,Y=-62815.900000,Z=3274.770000)
@@ -6078,7 +6078,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_RezSpires.Arena_HR_ArenaWalls_RezSpires'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_RezSpires.RezSpires'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=118323.000000,Y=-53425.000000,Z=-10122.300000)
@@ -6095,7 +6095,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_upperStair.Arena_HR_ArenaWalls_upperStair'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_upperStair.upperStair'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=118323.000000,Y=-53425.000000,Z=-10122.300000)
@@ -6112,7 +6112,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_LowerTier.Arena_HR_ArenaWalls_LowerTier'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_LowerTier.LowerTier'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=118323.000000,Y=-53425.000000,Z=-10122.300000)
@@ -6129,7 +6129,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Columns.Arena_HR_ArenaWalls_Columns'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Columns.Columns'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=118323.000000,Y=-53425.000000,Z=-10122.300000)
@@ -6146,7 +6146,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_RearWall2.Arena_HR_ArenaWalls_RearWall2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_RearWall2.RearWall2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116118.000000,Y=-68708.700000,Z=-10117.000000)
@@ -6163,7 +6163,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_UpperRock.Arena_HR_ArenaWalls_UpperRock'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_UpperRock.UpperRock'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=118325.000000,Y=-53471.500000,Z=-10090.300000)
@@ -6180,7 +6180,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_LowerStair.Arena_HR_ArenaWalls_LowerStair'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_LowerStair.LowerStair'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=118323.000000,Y=-53425.000000,Z=-10122.300000)
@@ -6197,7 +6197,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Spikes.Arena_HR_ArenaWalls_Spikes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Spikes.Spikes'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=118323.000000,Y=-53425.000000,Z=-10122.300000)
@@ -6214,7 +6214,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_HighPolyArchDoor.Arena_HR_ArenaWalls_HighPolyArchDoor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_HighPolyArchDoor.HighPolyArchDoor'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=116222.000000,Y=-68763.100000,Z=-10064.700000)
@@ -6231,7 +6231,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_BoulderLow.Arena_HR_ArenaWalls_BoulderLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_BoulderLow.BoulderLow'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=127353.000000,Y=-58478.400000,Z=12924.900000)
@@ -6248,7 +6248,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_BoulderLow.Arena_HR_ArenaWalls_BoulderLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_BoulderLow.BoulderLow'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=126049.000000,Y=-67617.600000,Z=12924.900000)
@@ -6265,7 +6265,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_BoulderLow.Arena_HR_ArenaWalls_BoulderLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_BoulderLow.BoulderLow'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=107528.000000,Y=-81791.900000,Z=17718.400000)
@@ -6282,7 +6282,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_BoulderLow.Arena_HR_ArenaWalls_BoulderLow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_BoulderLow.BoulderLow'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=128311.000000,Y=-55796.200000,Z=15493.000000)
@@ -6299,7 +6299,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Sassy_Spire.Arena_HR_ArenaWalls_Sassy_Spire'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Sassy_Spire.Sassy_Spire'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=121793.000000,Y=-71651.800000,Z=3143.970000)
@@ -6316,7 +6316,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Sassy_Spire.Arena_HR_ArenaWalls_Sassy_Spire'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Sassy_Spire.Sassy_Spire'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=124657.000000,Y=-53188.300000,Z=3143.970000)
@@ -7321,7 +7321,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.AssaultShip_Carl_hall_system_ras_safetylightca'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.ras_safetylightca'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-48477.000000,Y=245178.000000,Z=210397.000000)
@@ -7358,7 +7358,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.AssaultShip_Carl_hall_system_ras_safetylightca'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.ras_safetylightca'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-48873.800000,Y=244106.000000,Z=211084.000000)
@@ -7396,7 +7396,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.AssaultShip_Carl_hall_system_ras_safetylightca'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.ras_safetylightca'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-49090.200000,Y=247836.000000,Z=211084.000000)
@@ -7434,7 +7434,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.AssaultShip_Carl_hall_system_ras_safetylightca'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.ras_safetylightca'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-47527.100000,Y=248230.000000,Z=211084.000000)
@@ -7472,7 +7472,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.AssaultShip_Carl_hall_system_ras_safetylightca'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.ras_safetylightca'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-48764.200000,Y=245178.000000,Z=211081.000000)
@@ -7510,7 +7510,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.AssaultShip_Carl_hall_system_ras_safetylightca'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.ras_safetylightca'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-47593.500000,Y=248668.000000,Z=210386.000000)
@@ -7548,7 +7548,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.AssaultShip_Carl_hall_system_ras_safetylightca'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.ras_safetylightca'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-48607.400000,Y=248737.000000,Z=210387.000000)
@@ -7586,7 +7586,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.AssaultShip_Carl_hall_system_ras_safetylightca'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_hall_system_ras_safetylightca.ras_safetylightca'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-49327.400000,Y=247251.000000,Z=210387.000000)
@@ -7746,7 +7746,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdatacoreceiling.AssaultShip_Carl_Dirtdatacore_ras_dirtdatacoreceiling'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_dirtdatacoreceiling.ras_dirtdatacoreceiling'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-45403.700000,Y=247556.000000,Z=211311.000000)
@@ -7856,7 +7856,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_cables.AssaultShip_Carl_Dirtdatacore_ras_cables'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_cables.ras_cables'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-45600.200000,Y=247432.000000,Z=211393.000000)
@@ -7873,7 +7873,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_cables.AssaultShip_Carl_Dirtdatacore_ras_cables'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_Carl_Dirtdatacore_ras_cables.ras_cables'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-45207.800000,Y=247416.000000,Z=211579.000000)
@@ -8209,7 +8209,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_HugeRubble.Arena_HR_ArenaWalls_HugeRubble'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_HugeRubble.HugeRubble'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=106648.000000,Y=-56774.400000,Z=-9682.150000)
@@ -8557,7 +8557,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_HugeRubble.Arena_HR_ArenaWalls_HugeRubble'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_HugeRubble.HugeRubble'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=99309.000000,Y=-51810.600000,Z=-9410.160000)
@@ -8591,7 +8591,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Boulder.Arena_HR_ArenaWalls_Boulder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Boulder.Boulder'
 			RelativeLocation=(X=96523.100000,Y=-75902.700000,Z=-6192.720000)
 			RelativeScale3D=(X=10.000000,Y=10.000000,Z=10.000000)
 			CustomProperties
@@ -8605,7 +8605,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Boulder.Arena_HR_ArenaWalls_Boulder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Boulder.Boulder'
 			RelativeLocation=(X=95359.600000,Y=-76837.100000,Z=-1100.720000)
 			RelativeRotation=(Pitch=0.000000,Yaw=130.012207,Roll=0.000000)
 			RelativeScale3D=(X=10.000000,Y=10.000000,Z=10.000000)
@@ -8620,7 +8620,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Boulder.Arena_HR_ArenaWalls_Boulder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Boulder.Boulder'
 			RelativeLocation=(X=90792.600000,Y=-77995.000000,Z=4107.380000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-34.777222,Roll=0.000000)
 			RelativeScale3D=(X=10.000000,Y=10.000000,Z=10.000000)
@@ -8635,7 +8635,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Boulder.Arena_HR_ArenaWalls_Boulder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Arena_HR_ArenaWalls_Boulder.Boulder'
 			RelativeLocation=(X=65082.300000,Y=-63131.200000,Z=-7224.780000)
 			RelativeRotation=(Pitch=0.000000,Yaw=23.730469,Roll=0.000000)
 			RelativeScale3D=(X=10.000000,Y=10.000000,Z=10.000000)
