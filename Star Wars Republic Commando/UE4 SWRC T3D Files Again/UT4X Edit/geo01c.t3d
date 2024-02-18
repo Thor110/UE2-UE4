@@ -3105,7 +3105,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.MarkerIcons_DoorBreach_GEO_DoorBreachJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.GEO_DoorBreachJam'
 			RelativeLocation=(X=-17609.800000,Y=7798.640000,Z=-703.094000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3484,7 +3484,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.MarkerIcons_DoorBreach_GEO_DoorBreachJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.GEO_DoorBreachJam'
 			RelativeLocation=(X=-19155.300000,Y=5200.660000,Z=-673.965000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3499,7 +3499,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.MarkerIcons_DoorBreach_GEO_DoorBreachJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_GEO_DoorBreachJam.GEO_DoorBreachJam'
 			RelativeLocation=(X=-19155.300000,Y=5200.660000,Z=-673.965000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -5365,7 +5365,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_AssaultShipProp.AssaultShipProp'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-4612.380000,Y=13562.400000,Z=-2374.100000)
@@ -5499,7 +5499,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Holo_GridLong'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-19886.700000,Y=10213.400000,Z=-454.000000)
@@ -5516,7 +5516,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText1.Briefings_Holograms_Holo_GenericText1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText1.Holo_GenericText1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-19802.200000,Y=10210.900000,Z=-502.000000)
@@ -5533,7 +5533,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText4.Briefings_Holograms_Holo_GenericText4'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText4.Holo_GenericText4'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-19942.600000,Y=10214.100000,Z=-474.000000)
@@ -6040,7 +6040,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_FloorSeam.Exteriors_GM_Interiors_FloorSeam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_FloorSeam.FloorSeam'
 			RelativeLocation=(X=-20340.600000,Y=11512.300000,Z=-672.000000)
 			RelativeScale3D=(X=2.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6537,7 +6537,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_FloorSeam.Exteriors_GM_Interiors_FloorSeam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_FloorSeam.FloorSeam'
 			RelativeLocation=(X=-17652.300000,Y=7283.110000,Z=-672.002000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=1.000000,Z=1.000000)
@@ -6552,7 +6552,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_FloorSeam.Exteriors_GM_Interiors_FloorSeam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Exteriors_GM_Interiors_FloorSeam.FloorSeam'
 			RelativeLocation=(X=-18549.200000,Y=4935.720000,Z=-669.002000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=1.000000,Z=1.000000)
@@ -11581,7 +11581,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_AssaultShipProp.AssaultShipProp'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-30465.800000,Y=19547.200000,Z=-2366.140000)
@@ -11634,7 +11634,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_AssaultShipProp.AssaultShipProp'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-27515.800000,Y=25280.600000,Z=1521.860000)

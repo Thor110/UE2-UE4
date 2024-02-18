@@ -521,7 +521,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_DropshipInside.Briefings_Dropship_DropshipInside'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_DropshipInside.DropshipInside'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
@@ -537,7 +537,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_DropshipInside.Briefings_Dropship_DropshipInside'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_DropshipInside.DropshipInside'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
@@ -1649,7 +1649,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=1
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_Dropship_LowerDoor.Briefings_Dropship_Dropship_LowerDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_Dropship_LowerDoor.Dropship_LowerDoor'
 		ActorLabel="Mover2_DoorMover"
 		Tags(0)="DoorMover"
 	End Actor
@@ -3663,7 +3663,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingA.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingA.Lgear_ceilingA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6352.300000,Y=2748.580000,Z=-2037.870000)
@@ -3680,7 +3680,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8267.660000,Y=-56.982700,Z=-2021.900000)
@@ -3697,7 +3697,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7254.810000,Y=1101.810000,Z=-1455.870000)
@@ -3714,7 +3714,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6114.370000,Y=1756.070000,Z=-2085.880000)
@@ -3731,7 +3731,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=9523.830000,Y=-2399.000000,Z=-2085.900000)
@@ -3748,7 +3748,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7088.240000,Y=569.014000,Z=-2085.890000)
@@ -3765,7 +3765,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8062.100000,Y=-618.037000,Z=-2085.890000)
@@ -3782,7 +3782,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5538.970000,Y=1608.940000,Z=-2553.830000)
@@ -3799,7 +3799,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7488.360000,Y=-765.852000,Z=-2553.830000)
@@ -3816,7 +3816,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=9430.810000,Y=-3131.290000,Z=-2553.830000)
@@ -3833,7 +3833,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8271.670000,Y=-39.202900,Z=-487.886000)
@@ -3850,7 +3850,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6962.080000,Y=1523.970000,Z=-2019.900000)
@@ -3867,7 +3867,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6963.660000,Y=1523.040000,Z=-485.872000)
@@ -3884,7 +3884,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7285.040000,Y=1127.200000,Z=-2019.890000)
@@ -3901,7 +3901,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7286.560000,Y=1130.870000,Z=-485.867000)
@@ -3918,7 +3918,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7938.240000,Y=342.467000,Z=-2021.870000)
@@ -3935,7 +3935,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7940.850000,Y=343.522000,Z=-487.850000)
@@ -3952,7 +3952,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7612.500000,Y=737.174000,Z=-2021.860000)
@@ -3969,7 +3969,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7616.140000,Y=736.873000,Z=-487.835000)
@@ -3986,7 +3986,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8917.150000,Y=-827.189000,Z=-2021.910000)
@@ -4003,7 +4003,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8919.750000,Y=-826.134000,Z=-487.883000)
@@ -4020,7 +4020,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=9242.260000,Y=-1213.000000,Z=-487.853000)
@@ -4037,7 +4037,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7244.370000,Y=945.953000,Z=-507.787000)
@@ -4054,7 +4054,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7894.340000,Y=152.844000,Z=-507.781000)
@@ -4071,7 +4071,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5946.280000,Y=2531.410000,Z=-505.768000)
@@ -4088,7 +4088,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6596.250000,Y=1738.300000,Z=-505.762000)
@@ -4105,7 +4105,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5299.250000,Y=3321.140000,Z=-505.762000)
@@ -4122,7 +4122,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8543.220000,Y=-637.653000,Z=-507.776000)
@@ -4139,7 +4139,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=9193.190000,Y=-1430.760000,Z=-507.770000)
@@ -4156,7 +4156,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8224.030000,Y=-70.322500,Z=-1455.870000)
@@ -4173,7 +4173,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6315.040000,Y=2313.710000,Z=-2017.890000)
@@ -4190,7 +4190,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6317.650000,Y=2314.760000,Z=-483.863000)
@@ -4207,7 +4207,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6638.180000,Y=1917.920000,Z=-2017.880000)
@@ -4224,7 +4224,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6640.290000,Y=1920.780000,Z=-483.858000)
@@ -4241,7 +4241,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.Lgear_ceilingSpacer'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=7735.190000,Y=259.897000,Z=-1997.880000)
@@ -4258,7 +4258,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.Lgear_ceilingSpacer'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=9683.690000,Y=-2112.360000,Z=-1997.890000)
@@ -4317,7 +4317,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.AssaultShip_HR_TorpedoBay_torpedoExit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.torpedoExit'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8489.250000,Y=-1582.970000,Z=-1269.920000)
@@ -4377,7 +4377,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.AssaultShip_HR_TorpedoBay_torpedoExit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.torpedoExit'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4062.560000,Y=3575.780000,Z=-1269.860000)
@@ -6245,7 +6245,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingA.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingA.Lgear_ceilingA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=311.898000,Y=11286.600000,Z=-2037.870000)
@@ -6262,7 +6262,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2227.260000,Y=8481.010000,Z=-2021.900000)
@@ -6279,7 +6279,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1214.410000,Y=9639.800000,Z=-1455.870000)
@@ -6296,7 +6296,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=73.968100,Y=10294.100000,Z=-2085.890000)
@@ -6313,7 +6313,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=3483.430000,Y=6138.990000,Z=-2085.900000)
@@ -6330,7 +6330,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1047.840000,Y=9107.000000,Z=-2085.890000)
@@ -6347,7 +6347,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2021.700000,Y=7919.960000,Z=-2085.890000)
@@ -6364,7 +6364,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-501.432000,Y=10146.900000,Z=-2553.830000)
@@ -6381,7 +6381,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1447.960000,Y=7772.140000,Z=-2553.830000)
@@ -6398,7 +6398,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=3390.410000,Y=5406.700000,Z=-2553.830000)
@@ -6415,7 +6415,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2231.270000,Y=8498.790000,Z=-487.888000)
@@ -6432,7 +6432,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=921.678000,Y=10062.000000,Z=-2019.900000)
@@ -6449,7 +6449,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=924.278000,Y=10063.000000,Z=-485.874000)
@@ -6466,7 +6466,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1244.820000,Y=9666.180000,Z=-2019.890000)
@@ -6483,7 +6483,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1246.340000,Y=9669.840000,Z=-485.869000)
@@ -6500,7 +6500,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1897.840000,Y=8880.460000,Z=-2021.880000)
@@ -6517,7 +6517,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1900.450000,Y=8881.510000,Z=-487.852000)
@@ -6534,7 +6534,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1572.100000,Y=9275.170000,Z=-2021.860000)
@@ -6551,7 +6551,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1576.550000,Y=9275.460000,Z=-487.837000)
@@ -6568,7 +6568,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2876.750000,Y=7710.800000,Z=-2021.910000)
@@ -6585,7 +6585,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2879.350000,Y=7711.860000,Z=-487.885000)
@@ -6602,7 +6602,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=3201.860000,Y=7324.990000,Z=-487.855000)
@@ -6619,7 +6619,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1203.970000,Y=9483.950000,Z=-507.789000)
@@ -6636,7 +6636,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1853.940000,Y=8690.840000,Z=-507.783000)
@@ -6653,7 +6653,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-94.122200,Y=11069.400000,Z=-505.770000)
@@ -6670,7 +6670,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=555.848000,Y=10276.300000,Z=-505.764000)
@@ -6687,7 +6687,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-741.152000,Y=11859.100000,Z=-505.764000)
@@ -6704,7 +6704,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2502.820000,Y=7900.340000,Z=-507.778000)
@@ -6721,7 +6721,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=3152.790000,Y=7107.230000,Z=-507.772000)
@@ -6738,7 +6738,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2183.630000,Y=8467.670000,Z=-1455.870000)
@@ -6755,7 +6755,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=274.638000,Y=10851.700000,Z=-2017.890000)
@@ -6772,7 +6772,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=277.248000,Y=10852.800000,Z=-483.865000)
@@ -6789,7 +6789,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=597.778000,Y=10455.900000,Z=-2017.890000)
@@ -6806,7 +6806,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=599.298000,Y=10459.600000,Z=-483.860000)
@@ -6823,7 +6823,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.Lgear_ceilingSpacer'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=1694.790000,Y=8797.890000,Z=-1997.880000)
@@ -6840,7 +6840,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.Lgear_ceilingSpacer'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=3643.290000,Y=6425.630000,Z=-1997.890000)
@@ -6899,7 +6899,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.AssaultShip_HR_TorpedoBay_torpedoExit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.torpedoExit'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2448.850000,Y=6955.020000,Z=-1269.920000)
@@ -6981,7 +6981,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.AssaultShip_HR_TorpedoBay_torpedoExit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.torpedoExit'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-1977.840000,Y=12113.800000,Z=-1269.860000)
@@ -8373,7 +8373,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingA.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingA.Lgear_ceilingA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13922.000000,Y=-7477.350000,Z=-2037.870000)
@@ -8390,7 +8390,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15837.400000,Y=-10282.900000,Z=-2021.900000)
@@ -8407,7 +8407,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=14824.500000,Y=-9124.150000,Z=-1455.870000)
@@ -8424,7 +8424,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13684.100000,Y=-8469.850000,Z=-2085.890000)
@@ -8441,7 +8441,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=17093.500000,Y=-12625.000000,Z=-2085.900000)
@@ -8458,7 +8458,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=14658.000000,Y=-9656.950000,Z=-2085.890000)
@@ -8475,7 +8475,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15631.800000,Y=-10844.000000,Z=-2085.890000)
@@ -8492,7 +8492,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13108.700000,Y=-8617.020000,Z=-2512.830000)
@@ -8509,7 +8509,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15058.100000,Y=-10991.800000,Z=-2553.830000)
@@ -8526,7 +8526,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=17000.500000,Y=-13357.300000,Z=-2553.830000)
@@ -8543,7 +8543,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15841.400000,Y=-10265.200000,Z=-487.888000)
@@ -8560,7 +8560,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=14854.900000,Y=-9097.770000,Z=-2019.890000)
@@ -8577,7 +8577,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=14856.500000,Y=-9094.110000,Z=-485.869000)
@@ -8594,7 +8594,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15508.000000,Y=-9883.490000,Z=-2021.880000)
@@ -8611,7 +8611,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15510.600000,Y=-9882.440000,Z=-487.852000)
@@ -8628,7 +8628,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15182.200000,Y=-9488.780000,Z=-2021.860000)
@@ -8645,7 +8645,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15186.700000,Y=-9488.490000,Z=-487.837000)
@@ -8662,7 +8662,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=16486.900000,Y=-11053.200000,Z=-2021.910000)
@@ -8679,7 +8679,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=16489.500000,Y=-11052.100000,Z=-487.885000)
@@ -8696,7 +8696,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=16812.000000,Y=-11439.000000,Z=-487.855000)
@@ -8713,7 +8713,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=14814.100000,Y=-9280.000000,Z=-507.789000)
@@ -8730,7 +8730,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15464.100000,Y=-10073.100000,Z=-507.783000)
@@ -8747,7 +8747,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13516.000000,Y=-7694.550000,Z=-505.770000)
@@ -8764,7 +8764,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=14166.000000,Y=-8487.650000,Z=-505.764000)
@@ -8781,7 +8781,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12869.000000,Y=-6904.850000,Z=-505.764000)
@@ -8798,7 +8798,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=16112.900000,Y=-10863.600000,Z=-507.778000)
@@ -8815,7 +8815,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingB.Lgear_ceilingB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=16762.900000,Y=-11656.700000,Z=-507.772000)
@@ -8832,7 +8832,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15793.700000,Y=-10296.300000,Z=-1455.870000)
@@ -8849,7 +8849,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.Lgear_ceilingSpacer'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=15304.900000,Y=-9966.060000,Z=-1997.880000)
@@ -8866,7 +8866,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_ceilingSpacer.Lgear_ceilingSpacer'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=17253.400000,Y=-12338.300000,Z=-1997.890000)
@@ -8925,7 +8925,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.AssaultShip_HR_TorpedoBay_torpedoExit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.torpedoExit'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=16059.000000,Y=-11808.900000,Z=-1269.920000)
@@ -9561,7 +9561,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_republicship.Kamino_GM_Prologue_republicship'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_republicship.republicship'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			OverrideMaterials(0)=None
@@ -9579,7 +9579,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_republicship.Kamino_GM_Prologue_republicship'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_republicship.republicship'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			OverrideMaterials(0)=None
@@ -9597,7 +9597,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Holo_GridLong'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=153.763000,Y=-11.148400,Z=117.648000)
@@ -9614,7 +9614,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_republicship.Kamino_GM_Prologue_republicship'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_republicship.republicship'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			OverrideMaterials(0)=None
@@ -9754,7 +9754,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText4.Briefings_Holograms_Holo_GenericText4'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText4.Holo_GenericText4'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=148.000000,Y=-60.000000,Z=100.000000)
@@ -9771,7 +9771,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Holo_GridBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=148.000000,Y=-60.000000,Z=96.000000)
@@ -9788,7 +9788,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText10.Briefings_Holograms_Holo_GenericText10'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText10.Holo_GenericText10'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=148.000000,Y=-68.000000,Z=148.000000)
@@ -9843,7 +9843,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=1
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_Dropship_UpperDoor.Briefings_Dropship_Dropship_UpperDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_Dropship_UpperDoor.Dropship_UpperDoor'
 		ActorLabel="Mover3_DoorMover"
 		Tags(0)="DoorMover"
 	End Actor
@@ -10027,7 +10027,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_RAS_BactaDspnr.PickupMeshes_ClonePickups_RAS_BactaDspnr'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_RAS_BactaDspnr.RAS_BactaDspnr'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=537.932000,Y=377.120000,Z=5.596640)
@@ -10044,7 +10044,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_RAS_BactaDspnr.PickupMeshes_ClonePickups_RAS_BactaDspnr'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_RAS_BactaDspnr.RAS_BactaDspnr'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=541.836000,Y=-372.038000,Z=5.596640)
@@ -10061,7 +10061,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysPipesA.AssaultShip_HR_Hangar_hangSysPipesA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysPipesA.hangSysPipesA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=495.896000,Y=174.182000,Z=333.967000)
@@ -10077,7 +10077,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysPipesB.AssaultShip_HR_Hangar_hangSysPipesB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_Hangar_hangSysPipesB.hangSysPipesB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=513.545000,Y=-229.711000,Z=373.572000)
@@ -10275,7 +10275,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_vacuum_tube.AssaultShip_PR_PipesConduits_vacuum_tube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_vacuum_tube.vacuum_tube'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=619.947000,Y=261.557000,Z=474.552000)
@@ -10291,7 +10291,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_vacuum_tube.AssaultShip_PR_PipesConduits_vacuum_tube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_PipesConduits_vacuum_tube.vacuum_tube'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=664.840000,Y=-297.562000,Z=474.552000)
@@ -10308,7 +10308,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.AssaultShip_PR_Signs_Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=756.311000,Y=167.065000,Z=274.882000)
@@ -10325,7 +10325,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.AssaultShip_PR_Signs_Sign07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Signs_Sign07.Sign07'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=757.833000,Y=-169.158000,Z=274.882000)
@@ -10342,7 +10342,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8707.020000,Y=-485.453000,Z=-2021.900000)
@@ -10359,7 +10359,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=8711.030000,Y=-467.673000,Z=-487.886000)
@@ -10376,7 +10376,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11787.100000,Y=-4805.790000,Z=-2113.910000)
@@ -10393,7 +10393,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10893.600000,Y=-3550.270000,Z=-1547.880000)
@@ -10410,7 +10410,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11791.800000,Y=-4788.530000,Z=-579.893000)
@@ -10427,7 +10427,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10637.200000,Y=-3113.130000,Z=-2111.910000)
@@ -10444,7 +10444,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10639.900000,Y=-3112.330000,Z=-577.882000)
@@ -10461,7 +10461,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10926.100000,Y=-3527.970000,Z=-2111.900000)
@@ -10478,7 +10478,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10928.000000,Y=-3524.470000,Z=-577.874000)
@@ -10495,7 +10495,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11499.300000,Y=-4372.930000,Z=-2113.880000)
@@ -10512,7 +10512,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11501.000000,Y=-4373.180000,Z=-579.857000)
@@ -10529,7 +10529,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11213.800000,Y=-3948.210000,Z=-2113.870000)
@@ -10546,7 +10546,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11218.200000,Y=-3948.360000,Z=-579.842000)
@@ -10563,7 +10563,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11743.200000,Y=-4811.740000,Z=-1547.880000)
@@ -10580,7 +10580,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12066.800000,Y=-5226.960000,Z=-2122.910000)
@@ -10597,7 +10597,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12071.500000,Y=-5209.710000,Z=-588.893000)
@@ -10614,7 +10614,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11042.300000,Y=-4133.760000,Z=-2085.920000)
@@ -10631,7 +10631,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11406.100000,Y=-5542.350000,Z=-2553.860000)
@@ -10648,7 +10648,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12030.900000,Y=-5311.110000,Z=-2085.920000)
@@ -10665,7 +10665,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13008.700000,Y=-6488.460000,Z=-2085.920000)
@@ -10682,7 +10682,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13347.700000,Y=-6419.150000,Z=-2535.830000)
@@ -11135,7 +11135,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.AssaultShip_HR_TorpedoBay_torpedoExit'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_HR_TorpedoBay_torpedoExit.torpedoExit'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=11939.300000,Y=-7255.760000,Z=-1269.920000)
@@ -11262,7 +11262,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12661.700000,Y=-6071.230000,Z=-2113.910000)
@@ -11279,7 +11279,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12666.400000,Y=-6053.970000,Z=-579.893000)
@@ -11296,7 +11296,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12373.900000,Y=-5638.370000,Z=-2113.880000)
@@ -11313,7 +11313,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12375.600000,Y=-5638.620000,Z=-579.857000)
@@ -11330,7 +11330,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12617.800000,Y=-6077.180000,Z=-1547.880000)
@@ -11347,7 +11347,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12941.400000,Y=-6492.400000,Z=-2122.910000)
@@ -11364,7 +11364,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=12946.100000,Y=-6475.150000,Z=-588.893000)
@@ -11381,7 +11381,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10174.800000,Y=-2669.270000,Z=-2111.930000)
@@ -11398,7 +11398,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10177.500000,Y=-2668.470000,Z=-577.900000)
@@ -11415,7 +11415,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10068.900000,Y=-2437.400000,Z=-2111.940000)
@@ -11432,7 +11432,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=10071.600000,Y=-2436.600000,Z=-577.914000)
@@ -11449,7 +11449,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13108.200000,Y=-6892.030000,Z=-2138.910000)
@@ -11466,7 +11466,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13112.900000,Y=-6874.780000,Z=-604.893000)
@@ -11483,7 +11483,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13859.300000,Y=-7593.540000,Z=-2138.910000)
@@ -11500,7 +11500,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=13864.000000,Y=-7576.290000,Z=-604.893000)
@@ -11620,7 +11620,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.PickupMeshes_ClonePickups_AntiArmorBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.AntiArmorBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=568.486000,Y=214.034000,Z=26.619300)
@@ -11636,7 +11636,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.PickupMeshes_ClonePickups_AntiArmorBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.AntiArmorBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=569.074000,Y=191.293000,Z=26.619300)
@@ -11652,7 +11652,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.PickupMeshes_ClonePickups_AntiArmorBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.AntiArmorBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=568.701000,Y=169.619000,Z=26.619300)
@@ -11668,7 +11668,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.PickupMeshes_ClonePickups_DC17mBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.DC17mBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=641.742000,Y=-227.867000,Z=12.523900)
@@ -11684,7 +11684,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.PickupMeshes_ClonePickups_DC17mBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.DC17mBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=636.018000,Y=-223.947000,Z=38.523900)
@@ -11701,7 +11701,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.PickupMeshes_ClonePickups_DC17mBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.DC17mBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=630.761000,Y=-226.009000,Z=62.523900)
@@ -11718,7 +11718,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.PickupMeshes_ClonePickups_DC17mBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.DC17mBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=639.953000,Y=-232.649000,Z=84.524000)
@@ -11735,7 +11735,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.PickupMeshes_ClonePickups_SniperBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.SniperBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=620.004000,Y=-333.386000,Z=33.070200)
@@ -11752,7 +11752,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.PickupMeshes_ClonePickups_SniperBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.SniperBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=549.509000,Y=-290.515000,Z=30.069500)
@@ -11769,7 +11769,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.PickupMeshes_ClonePickups_SniperBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.SniperBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=565.237000,Y=291.390000,Z=33.070400)
@@ -11786,7 +11786,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.PickupMeshes_ClonePickups_SniperBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.SniperBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=236.381000,Y=232.991000,Z=30.070400)
@@ -11803,7 +11803,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.PickupMeshes_ClonePickups_SniperBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.SniperBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=173.516000,Y=339.445000,Z=30.070400)
@@ -11820,7 +11820,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.PickupMeshes_ClonePickups_AntiArmorBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.AntiArmorBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=231.362000,Y=-250.456000,Z=25.619300)
@@ -11837,7 +11837,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.PickupMeshes_ClonePickups_AntiArmorBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.AntiArmorBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=215.697000,Y=-266.952000,Z=25.619300)
@@ -11854,7 +11854,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.PickupMeshes_ClonePickups_AntiArmorBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_AntiArmorBox.AntiArmorBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=200.108000,Y=-282.014000,Z=25.619300)
@@ -11871,7 +11871,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.PickupMeshes_ClonePickups_DC17mBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.DC17mBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=303.263000,Y=177.791000,Z=12.524400)
@@ -11888,7 +11888,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.PickupMeshes_ClonePickups_DC17mBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.DC17mBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=296.823000,Y=175.210000,Z=38.524300)
@@ -11905,7 +11905,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.PickupMeshes_ClonePickups_DC17mBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.DC17mBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=295.616000,Y=169.694000,Z=62.524300)
@@ -11922,7 +11922,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.PickupMeshes_ClonePickups_DC17mBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_DC17mBox.DC17mBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=306.244000,Y=173.648000,Z=84.524500)
@@ -11979,7 +11979,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5660.600000,Y=3159.160000,Z=-1455.870000)
@@ -11996,7 +11996,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5367.870000,Y=3581.340000,Z=-2019.900000)
@@ -12013,7 +12013,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5369.450000,Y=3580.410000,Z=-485.871000)
@@ -12030,7 +12030,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5690.830000,Y=3184.560000,Z=-2019.890000)
@@ -12047,7 +12047,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5692.350000,Y=3188.230000,Z=-485.866000)
@@ -12064,7 +12064,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6018.290000,Y=2794.520000,Z=-2021.860000)
@@ -12081,7 +12081,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6021.930000,Y=2794.220000,Z=-487.834000)
@@ -12098,7 +12098,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4931.150000,Y=4600.210000,Z=-1486.870000)
@@ -12115,7 +12115,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4638.420000,Y=5022.390000,Z=-2050.900000)
@@ -12132,7 +12132,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4640.000000,Y=5021.460000,Z=-516.869000)
@@ -12149,7 +12149,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4961.380000,Y=4625.610000,Z=-2050.890000)
@@ -12166,7 +12166,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4962.900000,Y=4629.280000,Z=-516.864000)
@@ -12183,7 +12183,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5288.840000,Y=4235.570000,Z=-2052.860000)
@@ -12200,7 +12200,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5292.480000,Y=4235.270000,Z=-518.832000)
@@ -12217,7 +12217,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallB.Lgear_wallB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=3969.080000,Y=5786.830000,Z=-1486.870000)
@@ -12234,7 +12234,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=3676.350000,Y=6209.010000,Z=-2050.900000)
@@ -12251,7 +12251,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=3677.930000,Y=6208.080000,Z=-516.862000)
@@ -12268,7 +12268,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=3999.310000,Y=5812.230000,Z=-2050.890000)
@@ -12285,7 +12285,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4000.830000,Y=5815.900000,Z=-516.857000)
@@ -12302,7 +12302,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4327.560000,Y=5422.780000,Z=-2052.860000)
@@ -12319,7 +12319,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_wallC.Lgear_wallC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=4331.200000,Y=5422.480000,Z=-518.825000)
@@ -12336,7 +12336,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=5313.580000,Y=3007.030000,Z=-2553.870000)
@@ -12353,7 +12353,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/JW-AssaultShipStaticMeshes_landingGear_Lgear_floorB.Lgear_floorB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=6111.200000,Y=2090.170000,Z=-2131.900000)
@@ -12370,7 +12370,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Dropship_AssaultShipProp.AssaultShipProp'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=39540.800000,Y=4287.910000,Z=-1471.610000)
@@ -12467,7 +12467,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.PickupMeshes_ClonePickups_SniperBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_SniperBox.SniperBox'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=191.246000,Y=-353.377000,Z=30.070600)
@@ -12660,7 +12660,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_Gunship.VehicleMeshes_Republic_Gunship'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_Gunship.Gunship'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-54.092300,Y=1070.380000,Z=-297.516000)
@@ -12677,7 +12677,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_Gunship.VehicleMeshes_Republic_Gunship'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/VehicleMeshes_Republic_Gunship.Gunship'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-22.964500,Y=-1083.810000,Z=-297.516000)
