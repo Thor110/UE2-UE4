@@ -3362,7 +3362,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_doorrim.Kamino_GM_Prologue_Kam_doorrim'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_doorrim.Kamino_GM_Prologue_Kam_doorrim'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-96250.200000,Y=11143.000000,Z=-10471.700000)
@@ -3379,7 +3379,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_doorrim.Kamino_GM_Prologue_Kam_doorrim'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_doorrim.Kamino_GM_Prologue_Kam_doorrim'
 			RelativeLocation=(X=-96250.200000,Y=-17529.000000,Z=-10471.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-45.000000,Roll=0.000000)
 			RelativeScale3D=(X=20.000000,Y=20.000000,Z=20.000000)
@@ -3394,7 +3394,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_doorrim.Kamino_GM_Prologue_Kam_doorrim'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_doorrim.Kamino_GM_Prologue_Kam_doorrim'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-67578.200000,Y=-17529.000000,Z=-10471.700000)
@@ -3411,7 +3411,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_doorrim.Kamino_GM_Prologue_Kam_doorrim'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_doorrim.Kamino_GM_Prologue_Kam_doorrim'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-67578.200000,Y=11143.000000,Z=-10471.700000)
@@ -3491,7 +3491,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_QuarterShell.Kamino_GM_Prologue_Kam_QuarterShell'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_QuarterShell.Kamino_GM_Prologue_Kam_QuarterShell'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
@@ -3507,7 +3507,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_QuarterShell.Kamino_GM_Prologue_Kam_QuarterShell'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_QuarterShell.Kamino_GM_Prologue_Kam_QuarterShell'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.000000,Z=-10471.700000)
@@ -3524,7 +3524,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_QuarterShell.Kamino_GM_Prologue_Kam_QuarterShell'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_QuarterShell.Kamino_GM_Prologue_Kam_QuarterShell'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.000000,Z=-10471.700000)
@@ -3541,7 +3541,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_QuarterShell.Kamino_GM_Prologue_Kam_QuarterShell'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_QuarterShell.Kamino_GM_Prologue_Kam_QuarterShell'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.000000,Z=-10471.700000)
@@ -3642,7 +3642,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_shellarms.Kamino_GM_Prologue_Kam_shellarms'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_shellarms.Kamino_GM_Prologue_Kam_shellarms'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
@@ -3658,7 +3658,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_shellarms.Kamino_GM_Prologue_Kam_shellarms'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_shellarms.Kamino_GM_Prologue_Kam_shellarms'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
@@ -3675,7 +3675,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_railwindows.Kamino_GM_Prologue_Kam_railwindows'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_railwindows.Kamino_GM_Prologue_Kam_railwindows'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
@@ -3691,7 +3691,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_railtower.Kamino_GM_Prologue_Kam_railtower'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_railtower.Kamino_GM_Prologue_Kam_railtower'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
@@ -3707,7 +3707,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_railwindows.Kamino_GM_Prologue_Kam_railwindows'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_railwindows.Kamino_GM_Prologue_Kam_railwindows'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
@@ -3724,7 +3724,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_railtower.Kamino_GM_Prologue_Kam_railtower'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_railtower.Kamino_GM_Prologue_Kam_railtower'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
@@ -3741,7 +3741,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_bigtower.Kamino_GM_Prologue_Kam_bigtower'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_bigtower.Kamino_GM_Prologue_Kam_bigtower'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
@@ -3988,7 +3988,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_babyholder.Kamino_GM_Prologue_Kam_babyholder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_babyholder.Kamino_GM_Prologue_Kam_babyholder'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-101010.000000,Y=-17385.100000,Z=-10935.600000)
@@ -4037,7 +4037,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_babysaucer.Kamino_GM_Prologue_Kam_babysaucer'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_babysaucer.Kamino_GM_Prologue_Kam_babysaucer'
 		ActorLabel="Mover19_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -4045,7 +4045,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_babyholder.Kamino_GM_Prologue_Kam_babyholder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_babyholder.Kamino_GM_Prologue_Kam_babyholder'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-103468.000000,Y=-9603.880000,Z=-11164.800000)
@@ -4115,7 +4115,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_babysaucer.Kamino_GM_Prologue_Kam_babysaucer'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_babysaucer.Kamino_GM_Prologue_Kam_babysaucer'
 		ActorLabel="Mover3_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -4135,7 +4135,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_babysaucer.Kamino_GM_Prologue_Kam_babysaucer'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_babysaucer.Kamino_GM_Prologue_Kam_babysaucer'
 		ActorLabel="Mover2_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -4143,7 +4143,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_walllightssmall.Kamino_GM_Prologue_Kam_walllightssmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_walllightssmall.Kamino_GM_Prologue_Kam_walllightssmall'
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
 			RelativeScale3D=(X=20.000000,Y=20.000000,Z=20.000000)
 			CustomProperties
@@ -4157,7 +4157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_walllightssmall.Kamino_GM_Prologue_Kam_walllightssmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_walllightssmall.Kamino_GM_Prologue_Kam_walllightssmall'
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=20.000000,Y=20.000000,Z=20.000000)
@@ -4172,7 +4172,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_walllightssmall.Kamino_GM_Prologue_Kam_walllightssmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_walllightssmall.Kamino_GM_Prologue_Kam_walllightssmall'
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=20.000000,Y=20.000000,Z=20.000000)
@@ -4187,7 +4187,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_walllightssmall.Kamino_GM_Prologue_Kam_walllightssmall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_walllightssmall.Kamino_GM_Prologue_Kam_walllightssmall'
 			RelativeLocation=(X=-81914.200000,Y=-3193.010000,Z=-10471.700000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=20.000000,Y=20.000000,Z=20.000000)
@@ -4286,7 +4286,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86347.900000,Y=11941.300000,Z=-10535.700000)
@@ -4376,7 +4376,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86410.600000,Y=12103.700000,Z=-10585.800000)
@@ -4392,7 +4392,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86347.900000,Y=12261.300000,Z=-10639.700000)
@@ -4408,7 +4408,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86411.900000,Y=12409.300000,Z=-10687.700000)
@@ -5182,7 +5182,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_railin.Kamino_GM_Prologue_Kam_railin'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_railin.Kamino_GM_Prologue_Kam_railin'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86392.000000,Y=12243.600000,Z=-10695.700000)
@@ -5833,7 +5833,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_rotatshipAA.Kamino_GM_Prologue_Kam_rotatshipAA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_rotatshipAA.Kamino_GM_Prologue_Kam_rotatshipAA'
 		ActorLabel="Mover5_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -5853,7 +5853,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_rotatshipBB.Kamino_GM_Prologue_Kam_rotatshipBB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_rotatshipBB.Kamino_GM_Prologue_Kam_rotatshipBB'
 		ActorLabel="Mover20_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -5873,7 +5873,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_rotatshipAA.Kamino_GM_Prologue_Kam_rotatshipAA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_rotatshipAA.Kamino_GM_Prologue_Kam_rotatshipAA'
 		ActorLabel="Mover21_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -5893,7 +5893,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_rotatshipBB.Kamino_GM_Prologue_Kam_rotatshipBB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_rotatshipBB.Kamino_GM_Prologue_Kam_rotatshipBB'
 		ActorLabel="Mover1_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -6061,7 +6061,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86475.100000,Y=12430.400000,Z=-10603.400000)
@@ -6078,7 +6078,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86731.100000,Y=12431.400000,Z=-10603.400000)
@@ -6095,7 +6095,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86665.100000,Y=12292.400000,Z=-10543.400000)
@@ -6112,7 +6112,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86539.100000,Y=12288.400000,Z=-10543.400000)
@@ -6129,7 +6129,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86795.100000,Y=12289.400000,Z=-10543.400000)
@@ -6146,7 +6146,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86411.100000,Y=12283.400000,Z=-10543.400000)
@@ -6163,7 +6163,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86604.100000,Y=12140.400000,Z=-10505.400000)
@@ -6180,7 +6180,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86478.100000,Y=12148.400000,Z=-10505.400000)
@@ -6197,7 +6197,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86734.100000,Y=12137.400000,Z=-10505.400000)
@@ -6214,7 +6214,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid.Briefings_Holograms_Holo_Grid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86358.100000,Y=12159.400000,Z=-10505.400000)
@@ -6726,7 +6726,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=49345.300000,Y=-8875.410000,Z=-12232.100000)
@@ -6765,7 +6765,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=74165.700000,Y=-23897.000000,Z=-11584.100000)
@@ -6873,7 +6873,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_skydome.Kamino_GM_Prologue_Kam_skydome'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_skydome.Kamino_GM_Prologue_Kam_skydome'
 		ActorLabel="Mover4_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -6901,7 +6901,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_republicship.Kamino_GM_Prologue_republicship'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_republicship.Kamino_GM_Prologue_republicship'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=81507.300000,Y=14660.500000,Z=-12680.100000)
@@ -6962,7 +6962,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_republicship.Kamino_GM_Prologue_republicship'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_republicship.Kamino_GM_Prologue_republicship'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=77287.300000,Y=3476.510000,Z=-12632.100000)
@@ -7001,7 +7001,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_ClonecardsBB.Kamino_GM_Prologue_ClonecardsBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_ClonecardsBB.Kamino_GM_Prologue_ClonecardsBB'
 			RelativeLocation=(X=73606.500000,Y=21684.800000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=2.350000,Y=2.350000,Z=2.350000)
@@ -7016,7 +7016,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_ClonecardsBB.Kamino_GM_Prologue_ClonecardsBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_ClonecardsBB.Kamino_GM_Prologue_ClonecardsBB'
 			RelativeLocation=(X=71366.500000,Y=21628.800000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=2.350000,Y=2.350000,Z=2.350000)
@@ -7031,7 +7031,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_ClonecardsBB.Kamino_GM_Prologue_ClonecardsBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_ClonecardsBB.Kamino_GM_Prologue_ClonecardsBB'
 			RelativeLocation=(X=68174.200000,Y=20737.300000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=2.350000,Y=2.350000,Z=2.350000)
@@ -7046,7 +7046,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_ClonecardsAA.Kamino_GM_Prologue_ClonecardsAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_ClonecardsAA.Kamino_GM_Prologue_ClonecardsAA'
 			RelativeLocation=(X=69406.200000,Y=22773.300000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=106.875000,Roll=0.000000)
 			RelativeScale3D=(X=2.350000,Y=2.350000,Z=2.350000)
@@ -7171,7 +7171,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=58295.300000,Y=11674.600000,Z=-12856.000000)
@@ -7210,7 +7210,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_ClonecardsAA.Kamino_GM_Prologue_ClonecardsAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_ClonecardsAA.Kamino_GM_Prologue_ClonecardsAA'
 			RelativeLocation=(X=67266.200000,Y=22925.300000,Z=-12664.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=101.250000,Roll=0.000000)
 			RelativeScale3D=(X=2.350000,Y=2.585000,Z=2.350000)
@@ -7247,7 +7247,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=56290.000000,Y=11289.700000,Z=-12856.000000)
@@ -7286,7 +7286,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_exPropBBB.Kamino_GM_Prologue_Kam_exPropBBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_exPropBBB.Kamino_GM_Prologue_Kam_exPropBBB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=62474.500000,Y=11012.800000,Z=-12668.000000)
@@ -7335,7 +7335,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=49690.900000,Y=13220.500000,Z=-12856.000000)
@@ -7352,7 +7352,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_exPropBBB.Kamino_GM_Prologue_Kam_exPropBBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_exPropBBB.Kamino_GM_Prologue_Kam_exPropBBB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=61302.500000,Y=20868.800000,Z=-12668.000000)
@@ -7379,7 +7379,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpropCCC.Kamino_GM_Prologue_Kam_extpropCCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpropCCC.Kamino_GM_Prologue_Kam_extpropCCC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=65582.500000,Y=21697.100000,Z=-12668.000000)
@@ -7396,7 +7396,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpropCCC.Kamino_GM_Prologue_Kam_extpropCCC'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpropCCC.Kamino_GM_Prologue_Kam_extpropCCC'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=60794.500000,Y=21568.800000,Z=-12668.000000)
@@ -7451,7 +7451,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
 			RelativeLocation=(X=65306.500000,Y=27792.800000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7466,7 +7466,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
 			RelativeLocation=(X=65242.500000,Y=28048.800000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7481,7 +7481,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
 			RelativeLocation=(X=66714.500000,Y=27792.800000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -7496,7 +7496,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
 			RelativeLocation=(X=66778.500000,Y=28048.800000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=-1.000000,Z=1.000000)
@@ -7925,7 +7925,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=109475.000000,Y=26644.700000,Z=-12232.100000)
@@ -7942,7 +7942,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extthinger.Kamino_GM_Prologue_Kam_extthinger'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extthinger.Kamino_GM_Prologue_Kam_extthinger'
 			RelativeLocation=(X=65146.500000,Y=25072.800000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=33.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -7967,7 +7967,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extthinger.Kamino_GM_Prologue_Kam_extthinger'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extthinger.Kamino_GM_Prologue_Kam_extthinger'
 			RelativeLocation=(X=70234.400000,Y=26256.500000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=11.250000,Roll=0.000000)
 			RelativeScale3D=(X=-1.500000,Y=1.500000,Z=1.500000)
@@ -8004,7 +8004,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_exhangentr.Kamino_GM_Prologue_Kam_exhangentr'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_exhangentr.Kamino_GM_Prologue_Kam_exhangentr'
 			RelativeLocation=(X=66010.500000,Y=27088.800000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8063,7 +8063,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpillerAA.Kamino_GM_Prologue_Kam_extpillerAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpillerAA.Kamino_GM_Prologue_Kam_extpillerAA'
 			RelativeLocation=(X=65498.500000,Y=25040.800000,Z=-12540.000000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
 			CustomProperties
@@ -8077,7 +8077,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpillerAA.Kamino_GM_Prologue_Kam_extpillerAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpillerAA.Kamino_GM_Prologue_Kam_extpillerAA'
 			RelativeLocation=(X=69750.200000,Y=25776.000000,Z=-12678.100000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
 			CustomProperties
@@ -8101,7 +8101,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpillerAA.Kamino_GM_Prologue_Kam_extpillerAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpillerAA.Kamino_GM_Prologue_Kam_extpillerAA'
 			RelativeLocation=(X=67962.500000,Y=21872.800000,Z=-12668.000000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
 			CustomProperties
@@ -8273,7 +8273,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_extrimhanger.Kamino_GM_Prologue_kam_extrimhanger'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_extrimhanger.Kamino_GM_Prologue_kam_extrimhanger'
 			RelativeLocation=(X=65998.500000,Y=27128.800000,Z=-12668.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8310,7 +8310,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=86119.000000,Y=22652.700000,Z=-12928.000000)
@@ -8346,7 +8346,7 @@ Begin Map
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_republicship.Kamino_GM_Prologue_republicship'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_republicship.Kamino_GM_Prologue_republicship'
 		bTriggerOnceOnly=true
 		ActorLabel="Mover18_RAS1"
 		Tags(0)="RAS1"
@@ -8927,7 +8927,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Glass_distortion.Kamino_GM_Prologue_Glass_distortion'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Glass_distortion.Kamino_GM_Prologue_Glass_distortion'
 			RelativeLocation=(X=-65720.100000,Y=-12330.600000,Z=-11403.400000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-157.500000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=1.000000,Z=0.800000)
@@ -8963,7 +8963,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_gearroom.Kamino_GM_Prologue_Kam_gearroom'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_gearroom.Kamino_GM_Prologue_Kam_gearroom'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-67356.500000,Y=-12999.800000,Z=-11511.400000)
@@ -8980,7 +8980,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_gearroom.Kamino_GM_Prologue_Kam_gearroom'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_gearroom.Kamino_GM_Prologue_Kam_gearroom'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-67356.500000,Y=-12999.800000,Z=-11511.400000)
@@ -8997,7 +8997,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_gearroom.Kamino_GM_Prologue_Kam_gearroom'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_gearroom.Kamino_GM_Prologue_Kam_gearroom'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-67356.500000,Y=-12999.800000,Z=-11511.400000)
@@ -9403,7 +9403,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Glass_distortion.Kamino_GM_Prologue_Glass_distortion'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Glass_distortion.Kamino_GM_Prologue_Glass_distortion'
 			RelativeLocation=(X=-66253.800000,Y=-11564.600000,Z=-11403.400000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-127.902832,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=1.000000,Z=0.800000)
@@ -9418,7 +9418,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_gearcenter.Kamino_GM_Prologue_Kam_gearcenter'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_gearcenter.Kamino_GM_Prologue_Kam_gearcenter'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-67356.500000,Y=-12999.800000,Z=-11527.400000)
@@ -9435,7 +9435,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Glass_distortion.Kamino_GM_Prologue_Glass_distortion'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Glass_distortion.Kamino_GM_Prologue_Glass_distortion'
 			RelativeLocation=(X=-65567.200000,Y=-13232.800000,Z=-11403.400000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-8.481445,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=1.000000,Z=0.800000)
@@ -9450,7 +9450,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_gearfloor.Kamino_GM_Prologue_Kam_gearfloor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_gearfloor.Kamino_GM_Prologue_Kam_gearfloor'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-67337.800000,Y=-12995.300000,Z=-11507.400000)
@@ -9467,7 +9467,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
 			RelativeLocation=(X=-66849.200000,Y=-12635.900000,Z=-11386.400000)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9482,7 +9482,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
 			RelativeLocation=(X=-66805.300000,Y=-12592.900000,Z=-11386.400000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9496,7 +9496,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
 			RelativeLocation=(X=-66952.400000,Y=-12454.600000,Z=-11386.400000)
 			RelativeRotation=(Pitch=0.000000,Yaw=67.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9511,7 +9511,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
 			RelativeLocation=(X=-66780.000000,Y=-13226.400000,Z=-11386.400000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9525,7 +9525,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
 			RelativeLocation=(X=-66760.600000,Y=-13325.500000,Z=-11386.400000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9539,7 +9539,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
 			RelativeLocation=(X=-66873.900000,Y=-13462.200000,Z=-11386.400000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9553,7 +9553,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneTrooperHelmet.Weapons_Accessories_CloneTrooperHelmet'
 			RelativeLocation=(X=-66684.600000,Y=-13151.100000,Z=-11386.400000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9567,7 +9567,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
 			RelativeLocation=(X=-66813.200000,Y=-12931.700000,Z=-11390.400000)
 			RelativeRotation=(Pitch=22.500000,Yaw=-22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9582,7 +9582,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
 			RelativeLocation=(X=-66718.900000,Y=-12916.400000,Z=-11390.400000)
 			RelativeRotation=(Pitch=22.500000,Yaw=-22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9597,7 +9597,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
 			RelativeLocation=(X=-66678.400000,Y=-12875.800000,Z=-11390.400000)
 			RelativeRotation=(Pitch=22.500000,Yaw=-22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9696,7 +9696,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_gearcenterlid.Kamino_GM_Prologue_kam_gearcenterlid'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_gearcenterlid.Kamino_GM_Prologue_kam_gearcenterlid'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-67357.300000,Y=-12999.300000,Z=-11071.400000)
@@ -9713,7 +9713,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/UpperKashyyyk_GM_KashHalls_YYY_halllconelightXXX.UpperKashyyyk_GM_KashHalls_YYY_halllconelightXXX'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_GM_KashHalls_YYY_halllconelightXXX.UpperKashyyyk_GM_KashHalls_YYY_halllconelightXXX'
 			RelativeLocation=(X=-67353.300000,Y=-12997.300000,Z=-11197.400000)
 			RelativeScale3D=(X=2.500000,Y=2.500000,Z=1.000000)
 			CustomProperties
@@ -10031,7 +10031,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105500.000000,Y=-17677.500000,Z=263.502000)
@@ -10047,7 +10047,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105341.000000,Y=-17767.800000,Z=267.563000)
@@ -10063,7 +10063,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_CloneBaby.Briefings_PrologueProps_CloneBaby'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_CloneBaby.Briefings_PrologueProps_CloneBaby'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105341.000000,Y=-17772.100000,Z=335.587000)
@@ -10080,7 +10080,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_CloneBaby.Briefings_PrologueProps_CloneBaby'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_CloneBaby.Briefings_PrologueProps_CloneBaby'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105501.000000,Y=-17669.800000,Z=343.183000)
@@ -10538,7 +10538,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-14063.000000,Y=-17988.200000,Z=-1840.130000)
@@ -10567,7 +10567,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_skydome.Kamino_GM_Prologue_Kam_skydome'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_skydome.Kamino_GM_Prologue_Kam_skydome'
 		ActorLabel="Mover0_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -10575,7 +10575,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-2799.070000,Y=-13606.300000,Z=-2108.010000)
@@ -10614,7 +10614,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_extpropAAA.Kamino_GM_Prologue_Kam_extpropAAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-213.566000,Y=-17239.300000,Z=-3692.010000)
@@ -10666,7 +10666,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fighthalf.Kamino_GM_Prologue_kam_fighthalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fighthalf.Kamino_GM_Prologue_kam_fighthalf'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7038.670000,Y=-11018.600000,Z=-1060.060000)
@@ -10683,7 +10683,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fighthalf.Kamino_GM_Prologue_kam_fighthalf'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fighthalf.Kamino_GM_Prologue_kam_fighthalf'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-6217.870000,Y=-9483.150000,Z=-1060.060000)
@@ -10823,7 +10823,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_exPropBBB.Kamino_GM_Prologue_Kam_exPropBBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_exPropBBB.Kamino_GM_Prologue_Kam_exPropBBB'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-9914.970000,Y=-13935.900000,Z=-1784.040000)
@@ -10840,7 +10840,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_fightrug.Kamino_GM_Prologue_Kam_fightrug'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_fightrug.Kamino_GM_Prologue_Kam_fightrug'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-6640.470000,Y=-10266.900000,Z=-1058.990000)
@@ -10857,7 +10857,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_fightringholder.Kamino_GM_Prologue_Kam_fightringholder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_fightringholder.Kamino_GM_Prologue_Kam_fightringholder'
 			RelativeLocation=(X=-8072.070000,Y=-10898.400000,Z=-1066.960000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -10884,7 +10884,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover6_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -10904,7 +10904,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover7_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -10924,7 +10924,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover8_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -10932,7 +10932,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_fightringholder.Kamino_GM_Prologue_Kam_fightringholder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_fightringholder.Kamino_GM_Prologue_Kam_fightringholder'
 			RelativeLocation=(X=-7994.170000,Y=-10260.900000,Z=-1066.940000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-106.171875,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -10959,7 +10959,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover9_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -10979,7 +10979,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover10_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -10999,7 +10999,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover11_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -11007,7 +11007,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_fightringholder.Kamino_GM_Prologue_Kam_fightringholder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_fightringholder.Kamino_GM_Prologue_Kam_fightringholder'
 			RelativeLocation=(X=-7721.870000,Y=-9672.150000,Z=-1068.060000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-117.504272,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -11034,7 +11034,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover12_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -11054,7 +11054,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover13_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -11074,7 +11074,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover14_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -11082,7 +11082,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_fightringholder.Kamino_GM_Prologue_Kam_fightringholder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_fightringholder.Kamino_GM_Prologue_Kam_fightringholder'
 			RelativeLocation=(X=-7364.670000,Y=-9139.150000,Z=-1066.960000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-129.858398,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -11109,7 +11109,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover15_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -11129,7 +11129,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover16_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -11149,7 +11149,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightring.Kamino_GM_Prologue_kam_fightring'
 		ActorLabel="Mover17_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -11340,7 +11340,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=760.733000,Y=-20791.000000,Z=-1036.150000)
@@ -11445,7 +11445,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightsteps.Kamino_GM_Prologue_kam_fightsteps'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightsteps.Kamino_GM_Prologue_kam_fightsteps'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-6647.870000,Y=-10264.100000,Z=-1092.060000)
@@ -11521,7 +11521,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightrail.Kamino_GM_Prologue_kam_fightrail'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightrail.Kamino_GM_Prologue_kam_fightrail'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-6215.970000,Y=-9464.150000,Z=-1060.060000)
@@ -11538,7 +11538,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_fightrail.Kamino_GM_Prologue_kam_fightrail'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_fightrail.Kamino_GM_Prologue_kam_fightrail'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7080.070000,Y=-11080.200000,Z=-1060.060000)
@@ -11856,7 +11856,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_floorart.Kamino_GM_Prologue_kam_floorart'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_floorart.Kamino_GM_Prologue_kam_floorart'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7467.070000,Y=-10106.200000,Z=-1064.060000)
@@ -11873,7 +11873,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_floorart.Kamino_GM_Prologue_kam_floorart'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_floorart.Kamino_GM_Prologue_kam_floorart'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7625.470000,Y=-10591.900000,Z=-1064.060000)
@@ -11890,7 +11890,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_floorart.Kamino_GM_Prologue_kam_floorart'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_floorart.Kamino_GM_Prologue_kam_floorart'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7265.070000,Y=-9643.250000,Z=-1064.060000)
@@ -11907,7 +11907,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_floorart2.Kamino_GM_Prologue_Kam_floorart2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_floorart2.Kamino_GM_Prologue_Kam_floorart2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-6501.970000,Y=-11386.200000,Z=-1090.950000)
@@ -11924,7 +11924,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_floorart2.Kamino_GM_Prologue_Kam_floorart2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_floorart2.Kamino_GM_Prologue_Kam_floorart2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7030.870000,Y=-11356.800000,Z=-1090.950000)
@@ -11941,7 +11941,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_floorart2.Kamino_GM_Prologue_Kam_floorart2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_floorart2.Kamino_GM_Prologue_Kam_floorart2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-6105.870000,Y=-11210.300000,Z=-1090.950000)
@@ -11958,7 +11958,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_floorart2.Kamino_GM_Prologue_Kam_floorart2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_floorart2.Kamino_GM_Prologue_Kam_floorart2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7415.170000,Y=-11505.100000,Z=-1062.950000)
@@ -11975,7 +11975,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_kam_floorart.Kamino_GM_Prologue_kam_floorart'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_kam_floorart.Kamino_GM_Prologue_kam_floorart'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7790.070000,Y=-11215.000000,Z=-1064.060000)
@@ -12585,7 +12585,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			OverrideMaterials(0)=None
@@ -12603,7 +12603,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-66846.000000,Y=-12935.300000,Z=-11161.400000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-32.958984,Roll=0.000000)
@@ -12619,7 +12619,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_HelmetText1.Briefings_Holograms_Holo_HelmetText1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_HelmetText1.Briefings_Holograms_Holo_HelmetText1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-66763.100000,Y=-12849.200000,Z=-11121.400000)
@@ -12636,7 +12636,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_HelmetText2.Briefings_Holograms_Holo_HelmetText2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_HelmetText2.Briefings_Holograms_Holo_HelmetText2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-66754.300000,Y=-13019.900000,Z=-11141.200000)
@@ -12653,7 +12653,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_HelmetText3.Briefings_Holograms_Holo_HelmetText3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_HelmetText3.Briefings_Holograms_Holo_HelmetText3'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-66738.600000,Y=-12846.000000,Z=-11141.600000)
@@ -12670,7 +12670,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_HelmetText4.Briefings_Holograms_Holo_HelmetText4'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_HelmetText4.Briefings_Holograms_Holo_HelmetText4'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-67074.900000,Y=-12503.800000,Z=-11059.200000)
@@ -12687,7 +12687,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_HelmetText4.Briefings_Holograms_Holo_HelmetText4'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_HelmetText4.Briefings_Holograms_Holo_HelmetText4'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-66974.600000,Y=-13231.900000,Z=-11055.900000)
@@ -13940,7 +13940,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			OverrideMaterials(0)=None
@@ -13958,7 +13958,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneCommandoHelmet.Weapons_Accessories_CloneCommandoHelmet'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			OverrideMaterials(0)=None
@@ -15265,7 +15265,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105766.000000,Y=-17735.000000,Z=258.452000)
@@ -15281,7 +15281,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105636.000000,Y=-17668.000000,Z=264.006000)
@@ -15297,7 +15297,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105281.000000,Y=-17881.800000,Z=271.233000)
@@ -15313,7 +15313,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_Testtube.Briefings_PrologueProps_Testtube'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105292.000000,Y=-18010.300000,Z=270.630000)
@@ -15401,7 +15401,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-67177.800000,Y=-12567.400000,Z=-11113.400000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-32.958984,Roll=0.000000)
@@ -15417,7 +15417,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
 			OverrideMaterials(0)=None
 			RelativeLocation=(X=-67057.700000,Y=-13379.400000,Z=-11113.400000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-32.958984,Roll=0.000000)
@@ -15433,7 +15433,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_babyplatform.Kamino_GM_Prologue_Kam_babyplatform'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_babyplatform.Kamino_GM_Prologue_Kam_babyplatform'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105905.000000,Y=-18500.600000,Z=302.612000)
@@ -16102,7 +16102,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-5586.820000,Y=-9737.600000,Z=-1096.020000)
@@ -16119,7 +16119,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-5861.670000,Y=-9374.280000,Z=-1096.030000)
@@ -16146,7 +16146,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/PickupMeshes_MPPickups_DC17mAntiArmor_MP.PickupMeshes_MPPickups_DC17mAntiArmor_MP'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_MPPickups_DC17mAntiArmor_MP.PickupMeshes_MPPickups_DC17mAntiArmor_MP'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-5708.520000,Y=-9833.640000,Z=-1082.020000)
@@ -16163,7 +16163,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/PickupMeshes_MPPickups_DC17mBlaster_MP.PickupMeshes_MPPickups_DC17mBlaster_MP'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_MPPickups_DC17mBlaster_MP.PickupMeshes_MPPickups_DC17mBlaster_MP'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-5632.910000,Y=-9785.570000,Z=-1026.020000)
@@ -16180,7 +16180,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/PickupMeshes_ClonePickups_BactaCanister.PickupMeshes_ClonePickups_BactaCanister'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_BactaCanister.PickupMeshes_ClonePickups_BactaCanister'
 			RelativeLocation=(X=-5701.660000,Y=-9391.810000,Z=-1086.460000)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16195,7 +16195,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/PickupMeshes_ClonePickups_BactaCanister.PickupMeshes_ClonePickups_BactaCanister'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/PickupMeshes_ClonePickups_BactaCanister.PickupMeshes_ClonePickups_BactaCanister'
 			RelativeLocation=(X=-5755.520000,Y=-9424.040000,Z=-1086.460000)
 			RelativeRotation=(Pitch=0.000000,Yaw=33.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16478,7 +16478,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GenericText1.Briefings_Holograms_Holo_GenericText1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText1.Briefings_Holograms_Holo_GenericText1'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86624.100000,Y=12424.100000,Z=-10584.100000)
@@ -16495,7 +16495,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GenericText4.Briefings_Holograms_Holo_GenericText4'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GenericText4.Briefings_Holograms_Holo_GenericText4'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86576.100000,Y=12424.100000,Z=-10592.100000)
@@ -17142,7 +17142,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=2416.730000,Y=-2815.000000,Z=-1338.150000)
@@ -17328,7 +17328,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_chairs.Kamino_GM_Prologue_Kam_chairs'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-86413.900000,Y=12571.300000,Z=-10737.700000)
@@ -17364,7 +17364,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-5298.820000,Y=-9987.600000,Z=-1096.030000)
@@ -17380,7 +17380,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kan_extBuildingAA.Kamino_GM_Prologue_Kan_extBuildingAA'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-6181.270000,Y=-5333.000000,Z=-1708.130000)
@@ -17397,7 +17397,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
 			RelativeLocation=(X=-11828.800000,Y=-1171.600000,Z=-758.026000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-67.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17412,7 +17412,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
 			RelativeLocation=(X=-11094.800000,Y=-1129.600000,Z=-758.023000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17453,7 +17453,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
 			RelativeLocation=(X=-11948.900000,Y=-2404.520000,Z=-299.553000)
 			RelativeScale3D=(X=15.000000,Y=15.000000,Z=15.000000)
 			CustomProperties
@@ -17467,7 +17467,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridBox.Briefings_Holograms_Holo_GridBox'
 			RelativeLocation=(X=-11053.000000,Y=-2400.740000,Z=-292.476000)
 			RelativeScale3D=(X=15.000000,Y=15.000000,Z=15.000000)
 			CustomProperties
@@ -17501,7 +17501,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
 			RelativeLocation=(X=-11876.000000,Y=-1075.990000,Z=-531.996000)
 			RelativeRotation=(Pitch=90.000000,Yaw=-67.500000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -17516,7 +17516,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
 			RelativeLocation=(X=-11876.000000,Y=-1075.990000,Z=-675.996000)
 			RelativeRotation=(Pitch=90.000000,Yaw=112.500000,Roll=180.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -17531,7 +17531,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
 			RelativeLocation=(X=-11050.300000,Y=-1031.970000,Z=-531.996000)
 			RelativeRotation=(Pitch=90.000000,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -17546,7 +17546,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_GridLong.Briefings_Holograms_Holo_GridLong'
 			RelativeLocation=(X=-11050.300000,Y=-1031.970000,Z=-675.996000)
 			RelativeRotation=(Pitch=90.000000,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -17938,7 +17938,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
 			RelativeLocation=(X=-12704.000000,Y=-1472.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -17953,7 +17953,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
 			RelativeLocation=(X=-10400.000000,Y=-1472.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=-1.500000,Z=1.500000)
@@ -17968,7 +17968,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
 			RelativeLocation=(X=-12600.000000,Y=-4144.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -17983,7 +17983,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
 			RelativeLocation=(X=-12704.000000,Y=-3776.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -17998,7 +17998,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
 			RelativeLocation=(X=-10400.000000,Y=-3776.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=-1.500000,Z=1.500000)
@@ -18013,7 +18013,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
 			RelativeLocation=(X=-12600.000000,Y=-1840.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -18028,7 +18028,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
 			RelativeLocation=(X=-10504.000000,Y=-1856.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=-1.500000,Z=1.500000)
@@ -18043,7 +18043,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
 			RelativeLocation=(X=-10504.000000,Y=-4160.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=-1.500000,Z=1.500000)
@@ -18538,7 +18538,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
 			RelativeLocation=(X=-10504.000000,Y=1200.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -18553,7 +18553,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
 			RelativeLocation=(X=-10400.000000,Y=832.001000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -18568,7 +18568,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallAA.Kamino_GM_Prologue_Kam_hangerwallAA'
 			RelativeLocation=(X=-12704.000000,Y=832.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=-1.500000,Z=1.500000)
@@ -18583,7 +18583,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Kamino_GM_Prologue_Kam_hangerwallBB.Kamino_GM_Prologue_Kam_hangerwallBB'
 			RelativeLocation=(X=-12600.000000,Y=1216.000000,Z=-756.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=-1.500000,Z=1.500000)
@@ -18944,7 +18944,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid2048.Briefings_Holograms_Holo_Grid2048'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid2048.Briefings_Holograms_Holo_Grid2048'
 			RelativeLocation=(X=-11536.000000,Y=-2616.000000,Z=-104.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18959,7 +18959,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_Holograms_Holo_Grid2048.Briefings_Holograms_Holo_Grid2048'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_Holograms_Holo_Grid2048.Briefings_Holograms_Holo_Grid2048'
 			RelativeLocation=(X=-11544.000000,Y=640.000000,Z=-104.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18974,7 +18974,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
 			RelativeLocation=(X=-12244.800000,Y=-3403.600000,Z=-758.026000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-106.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18989,7 +18989,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
 			RelativeLocation=(X=-12108.800000,Y=-3675.600000,Z=-758.026000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -19004,7 +19004,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/AssaultShip_PR_Crates_CrateA.AssaultShip_PR_Crates_CrateA'
 			RelativeLocation=(X=-12212.800000,Y=-3475.610000,Z=-630.027000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -19215,7 +19215,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_CloneBaby.Briefings_PrologueProps_CloneBaby'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_CloneBaby.Briefings_PrologueProps_CloneBaby'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105645.000000,Y=-17670.800000,Z=335.106000)
@@ -19232,7 +19232,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Briefings_PrologueProps_CloneBaby.Briefings_PrologueProps_CloneBaby'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Briefings_PrologueProps_CloneBaby.Briefings_PrologueProps_CloneBaby'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-105282.000000,Y=-17874.000000,Z=327.007000)

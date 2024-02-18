@@ -359,7 +359,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneArmBacta_L.Weapons_Accessories_CloneArmBacta_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneArmBacta_L.Weapons_Accessories_CloneArmBacta_L'
 			RelativeLocation=(X=-160.000000,Y=160.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -373,7 +373,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneArmHologram_L.Weapons_Accessories_CloneArmHologram_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneArmHologram_L.Weapons_Accessories_CloneArmHologram_L'
 			RelativeLocation=(X=-304.000000,Y=192.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -387,7 +387,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneBackComm.Weapons_Accessories_CloneBackComm'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneBackComm.Weapons_Accessories_CloneBackComm'
 			RelativeLocation=(X=-128.000000,Y=320.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -401,7 +401,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneHeadBreather.Weapons_Accessories_CloneHeadBreather'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneHeadBreather.Weapons_Accessories_CloneHeadBreather'
 			RelativeLocation=(X=-224.000000,Y=64.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -415,7 +415,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneHeadGunner.Weapons_Accessories_CloneHeadGunner'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneHeadGunner.Weapons_Accessories_CloneHeadGunner'
 			RelativeLocation=(X=-256.000000,Y=368.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -429,7 +429,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneHeadPad.Weapons_Accessories_CloneHeadPad'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneHeadPad.Weapons_Accessories_CloneHeadPad'
 			RelativeLocation=(X=-304.000000,Y=-16.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -443,7 +443,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneHeadSamurai.Weapons_Accessories_CloneHeadSamurai'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneHeadSamurai.Weapons_Accessories_CloneHeadSamurai'
 			RelativeLocation=(X=-160.000000,Y=-32.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -457,7 +457,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneHeadVisor.Weapons_Accessories_CloneHeadVisor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneHeadVisor.Weapons_Accessories_CloneHeadVisor'
 			RelativeLocation=(X=-336.000000,Y=112.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -471,7 +471,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneLegAntiA_L.Weapons_Accessories_CloneLegAntiA_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneLegAntiA_L.Weapons_Accessories_CloneLegAntiA_L'
 			RelativeLocation=(X=-336.000000,Y=-128.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -485,7 +485,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneLegBlaster_R.Weapons_Accessories_CloneLegBlaster_R'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneLegBlaster_R.Weapons_Accessories_CloneLegBlaster_R'
 			RelativeLocation=(X=-288.000000,Y=16.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -499,7 +499,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneShoulderClip_R.Weapons_Accessories_CloneShoulderClip_R'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneShoulderClip_R.Weapons_Accessories_CloneShoulderClip_R'
 			RelativeLocation=(X=-208.000000,Y=80.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -513,7 +513,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneShoulderLight_L.Weapons_Accessories_CloneShoulderLight_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneShoulderLight_L.Weapons_Accessories_CloneShoulderLight_L'
 			RelativeLocation=(X=-400.000000,Y=176.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -527,7 +527,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneShoulderPad_L.Weapons_Accessories_CloneShoulderPad_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneShoulderPad_L.Weapons_Accessories_CloneShoulderPad_L'
 			RelativeLocation=(X=-320.000000,Y=-48.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -541,7 +541,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneShoulderShield_L.Weapons_Accessories_CloneShoulderShield_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneShoulderShield_L.Weapons_Accessories_CloneShoulderShield_L'
 			RelativeLocation=(X=-352.000000,Y=112.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -555,7 +555,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_CloneShoulderSniper_R.Weapons_Accessories_CloneShoulderSniper_R'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_CloneShoulderSniper_R.Weapons_Accessories_CloneShoulderSniper_R'
 			RelativeLocation=(X=-208.000000,Y=160.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -569,7 +569,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercArmBatman_R.Weapons_Accessories_MercArmBatman_R'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercArmBatman_R.Weapons_Accessories_MercArmBatman_R'
 			RelativeLocation=(X=336.000000,Y=48.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -583,7 +583,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercArmHose_L.Weapons_Accessories_MercArmHose_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercArmHose_L.Weapons_Accessories_MercArmHose_L'
 			RelativeLocation=(X=272.000000,Y=256.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -597,7 +597,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercBackTubes.Weapons_Accessories_MercBackTubes'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercBackTubes.Weapons_Accessories_MercBackTubes'
 			RelativeLocation=(X=336.000000,Y=-160.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -611,7 +611,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercHeadBreather.Weapons_Accessories_MercHeadBreather'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercHeadBreather.Weapons_Accessories_MercHeadBreather'
 			RelativeLocation=(X=256.000000,Y=64.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -625,7 +625,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercHeadFacePlate.Weapons_Accessories_MercHeadFacePlate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercHeadFacePlate.Weapons_Accessories_MercHeadFacePlate'
 			RelativeLocation=(X=240.000000,Y=256.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -639,7 +639,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercHeadGasMask.Weapons_Accessories_MercHeadGasMask'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercHeadGasMask.Weapons_Accessories_MercHeadGasMask'
 			RelativeLocation=(X=304.000000,Y=96.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -653,7 +653,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercHeadMask.Weapons_Accessories_MercHeadMask'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercHeadMask.Weapons_Accessories_MercHeadMask'
 			RelativeLocation=(X=336.000000,Y=304.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -667,7 +667,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercHeadVisor.Weapons_Accessories_MercHeadVisor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercHeadVisor.Weapons_Accessories_MercHeadVisor'
 			RelativeLocation=(X=368.000000,Y=96.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -681,7 +681,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercLegConcClip_R.Weapons_Accessories_MercLegConcClip_R'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercLegConcClip_R.Weapons_Accessories_MercLegConcClip_R'
 			RelativeLocation=(X=272.000000,Y=-32.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -695,7 +695,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercLegPouch_L.Weapons_Accessories_MercLegPouch_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercLegPouch_L.Weapons_Accessories_MercLegPouch_L'
 			RelativeLocation=(X=272.000000,Y=160.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -709,7 +709,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercShoulderBlade_R.Weapons_Accessories_MercShoulderBlade_R'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercShoulderBlade_R.Weapons_Accessories_MercShoulderBlade_R'
 			RelativeLocation=(X=256.000000,Y=304.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -723,7 +723,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercShoulderClip_R.Weapons_Accessories_MercShoulderClip_R'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercShoulderClip_R.Weapons_Accessories_MercShoulderClip_R'
 			RelativeLocation=(X=240.000000,Y=176.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -737,7 +737,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercShoulderKnife_L.Weapons_Accessories_MercShoulderKnife_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercShoulderKnife_L.Weapons_Accessories_MercShoulderKnife_L'
 			RelativeLocation=(X=384.000000,Y=-144.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -751,7 +751,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercShoulderLight_R.Weapons_Accessories_MercShoulderLight_R'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercShoulderLight_R.Weapons_Accessories_MercShoulderLight_R'
 			RelativeLocation=(X=240.000000,Y=192.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -765,7 +765,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/Weapons_Accessories_MercShoulderSpike_L.Weapons_Accessories_MercShoulderSpike_L'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/Weapons_Accessories_MercShoulderSpike_L.Weapons_Accessories_MercShoulderSpike_L'
 			RelativeLocation=(X=240.000000,Y=336.000000,Z=-256.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties

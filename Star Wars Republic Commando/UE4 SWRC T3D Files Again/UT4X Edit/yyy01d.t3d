@@ -2353,7 +2353,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Faux_Building.LowerKashyyyk_GM_Trando_Archit_Faux_Building'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Faux_Building.LowerKashyyyk_GM_Trando_Archit_Faux_Building'
 			RelativeLocation=(X=-9448.000000,Y=-824.001000,Z=381.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3148,7 +3148,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
 		ActorLabel="Mover9_Detention_Door1"
 		Tags(0)="Detention_Door1"
 	End Actor
@@ -3304,7 +3304,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk'
 			RelativeLocation=(X=-8196.000000,Y=-4352.000000,Z=-524.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3318,7 +3318,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk'
 			RelativeLocation=(X=-8784.000000,Y=-4320.000000,Z=-524.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -3406,7 +3406,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
 			RelativeLocation=(X=-10359.500000,Y=-4288.190000,Z=55.804100)
 			RelativeRotation=(Pitch=22.500000,Yaw=135.000000,Roll=11.250000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -3421,7 +3421,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			RelativeLocation=(X=-9064.000000,Y=-4800.000000,Z=12.001200)
 			RelativeRotation=(Pitch=0.000000,Yaw=-16.875000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3485,7 +3485,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_PR_Lights_Trn_Light_Dest.LowerKashyyyk_PR_Lights_Trn_Light_Dest'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Lights_Trn_Light_Dest.LowerKashyyyk_PR_Lights_Trn_Light_Dest'
 			RelativeLocation=(X=-7088.040000,Y=-4671.990000,Z=543.974000)
 			RelativeRotation=(Pitch=-5.625000,Yaw=84.375000,Roll=-180.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -3880,7 +3880,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
 		ActorLabel="Mover5_Detention_Door2"
 		Tags(0)="Detention_Door2"
 	End Actor
@@ -3903,7 +3903,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
 		ActorLabel="Mover6_Detention_Door3"
 		Tags(0)="Detention_Door3"
 	End Actor
@@ -3927,7 +3927,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
 		ActorLabel="Mover7_Detention_Door4"
 		Tags(0)="Detention_Door4"
 	End Actor
@@ -3951,7 +3951,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
 		ActorLabel="Mover50_AutoDoor_Detention_D5"
 		Tags(0)="AutoDoor_Detention_D5"
 	End Actor
@@ -3959,7 +3959,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			RelativeLocation=(X=-10509.000000,Y=-3782.000000,Z=-512.004000)
 			RelativeRotation=(Pitch=-61.869507,Yaw=-179.994507,Roll=-89.994507)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3974,7 +3974,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			RelativeLocation=(X=-10483.700000,Y=-4092.240000,Z=-508.003000)
 			RelativeRotation=(Pitch=-67.494507,Yaw=-168.744507,Roll=-93.905640)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -3989,7 +3989,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			RelativeLocation=(X=-10464.000000,Y=-3843.930000,Z=-366.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=28.103027)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4004,7 +4004,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			RelativeLocation=(X=-10516.000000,Y=-4112.020000,Z=-500.007000)
 			RelativeRotation=(Pitch=11.250000,Yaw=168.750000,Roll=39.375000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4142,7 +4142,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			RelativeLocation=(X=-10749.800000,Y=-4348.180000,Z=-470.091000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=-16.875000)
 			RelativeScale3D=(X=2.000000,Y=2.000000,Z=2.000000)
@@ -4157,7 +4157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			RelativeLocation=(X=-10360.000000,Y=-4512.000000,Z=12.001200)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4172,7 +4172,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			RelativeLocation=(X=-10520.000000,Y=-4496.000000,Z=12.001200)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4187,7 +4187,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			RelativeLocation=(X=-10448.000000,Y=-4288.000000,Z=64.000400)
 			RelativeRotation=(Pitch=11.250000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4202,7 +4202,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			RelativeLocation=(X=-9104.010000,Y=-4288.000000,Z=63.999900)
 			RelativeRotation=(Pitch=11.250000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -4603,7 +4603,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
 		ActorLabel="Mover20_Detention_Door_Exit"
 		Tags(0)="Detention_Door_Exit"
 	End Actor
@@ -4748,7 +4748,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
 		ActorLabel="Mover8_Door_Rescue_Wookie_1"
 		Tags(0)="Door_Rescue_Wookie_1"
 	End Actor
@@ -4870,7 +4870,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12324.000000,Y=-3216.000000,Z=-512.000000)
@@ -4887,7 +4887,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10832.000000,Y=-3396.030000,Z=-512.000000)
@@ -4904,7 +4904,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-11380.000000,Y=-3424.020000,Z=-512.000000)
@@ -4921,7 +4921,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10684.000000,Y=-2808.020000,Z=-512.000000)
@@ -4951,7 +4951,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
 		ActorLabel="Mover4_Door_Rescue_Wookie_2"
 		Tags(0)="Door_Rescue_Wookie_2"
 	End Actor
@@ -6222,7 +6222,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_HalfTall.LowerKashyyyk_GM_Trando_Archit_TR_EXT_HalfTall'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_HalfTall.LowerKashyyyk_GM_Trando_Archit_TR_EXT_HalfTall'
 			RelativeLocation=(X=-6960.000000,Y=-4192.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6237,7 +6237,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-9200.000000,Y=-3840.000000,Z=-512.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
 			CustomProperties
@@ -6251,7 +6251,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-7424.000000,Y=-3008.000000,Z=-584.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.500000,Y=1.500000,Z=1.500000)
@@ -6266,7 +6266,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-7712.000000,Y=-2272.000000,Z=-496.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6280,7 +6280,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-7200.000000,Y=-2480.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6295,7 +6295,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-7728.000000,Y=-2496.000000,Z=-528.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6310,7 +6310,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-8256.000000,Y=-2464.000000,Z=-528.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6325,7 +6325,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-8784.000000,Y=-2496.000000,Z=-496.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6340,7 +6340,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-9312.000000,Y=-2480.000000,Z=-480.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6355,7 +6355,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
 			RelativeLocation=(X=-7104.000000,Y=-1856.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6370,7 +6370,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
 			RelativeLocation=(X=-8176.000000,Y=-1856.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6385,7 +6385,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
 			RelativeLocation=(X=-9186.970000,Y=-1848.010000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6421,7 +6421,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-7120.000000,Y=-2480.000000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6457,7 +6457,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
 			RelativeLocation=(X=-9312.000000,Y=-2464.000000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6472,7 +6472,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
 			RelativeLocation=(X=-8784.000000,Y=-2448.000000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6487,7 +6487,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
 			RelativeLocation=(X=-8256.000000,Y=-2448.000000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6502,7 +6502,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
 			RelativeLocation=(X=-7728.000000,Y=-2464.000000,Z=-528.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6517,7 +6517,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
 			RelativeLocation=(X=-7887.350000,Y=-2364.400000,Z=-505.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6532,7 +6532,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
 			RelativeLocation=(X=-9364.440000,Y=-2268.840000,Z=-505.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6557,7 +6557,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7495.680000,Y=-1952.200000,Z=-506.000000)
@@ -6613,7 +6613,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
 			RelativeLocation=(X=-9409.420000,Y=-1915.500000,Z=-138.218000)
 			RelativeRotation=(Pitch=11.250000,Yaw=118.125000,Roll=5.625000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -6628,7 +6628,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			RelativeLocation=(X=-9040.000000,Y=-2960.000000,Z=-240.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6643,7 +6643,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			RelativeLocation=(X=-8816.000000,Y=-2960.000000,Z=-240.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6658,7 +6658,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			RelativeLocation=(X=-9088.000000,Y=-2528.000000,Z=-240.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6673,7 +6673,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			RelativeLocation=(X=-8928.000000,Y=-2528.000000,Z=-240.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6688,7 +6688,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-9676.000000,Y=-2012.000000,Z=-512.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -6702,7 +6702,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			RelativeLocation=(X=-9808.000000,Y=-1936.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=33.750000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6717,7 +6717,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
 			RelativeLocation=(X=-8756.440000,Y=-2476.830000,Z=-505.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -6732,7 +6732,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-9266.250000,Y=-2491.540000,Z=-185.000000)
@@ -6749,7 +6749,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-8928.000000,Y=-2480.000000,Z=-156.000000)
@@ -7092,7 +7092,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-8192.010000,Y=-2707.980000,Z=-508.641000)
@@ -7109,7 +7109,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-8985.340000,Y=-2507.610000,Z=-508.640000)
@@ -7126,7 +7126,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			RelativeLocation=(X=-8728.460000,Y=-2528.200000,Z=-239.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7141,7 +7141,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-8741.670000,Y=-3645.330000,Z=-508.000000)
@@ -7158,7 +7158,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
 			RelativeLocation=(X=-9320.000000,Y=-4932.000000,Z=-512.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7172,7 +7172,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
 			RelativeLocation=(X=-9068.000000,Y=-4416.010000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7218,7 +7218,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-7055.250000,Y=-5041.560000,Z=-128.579000)
@@ -7245,7 +7245,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
 			RelativeLocation=(X=-7628.000000,Y=-4252.000000,Z=-472.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7259,7 +7259,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
 			RelativeLocation=(X=-8057.550000,Y=-5015.380000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7274,7 +7274,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
 			RelativeLocation=(X=-7060.960000,Y=-5037.800000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7289,7 +7289,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Faux_Building.LowerKashyyyk_GM_Trando_Archit_Faux_Building'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Faux_Building.LowerKashyyyk_GM_Trando_Archit_Faux_Building'
 			RelativeLocation=(X=-12970.400000,Y=-4662.710000,Z=680.100000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7304,7 +7304,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
 			RelativeLocation=(X=-10652.000000,Y=-4931.990000,Z=-512.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7318,7 +7318,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
 			RelativeLocation=(X=-10400.000000,Y=-4416.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7333,7 +7333,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-7912.120000,Y=-4915.930000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=50.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7348,7 +7348,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			RelativeLocation=(X=-8928.000000,Y=-4304.000000,Z=-352.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=5.625000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7363,7 +7363,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
 			RelativeLocation=(X=-10592.000000,Y=-4591.990000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7378,7 +7378,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
 			RelativeLocation=(X=-10608.000000,Y=-4799.990000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7393,7 +7393,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-9952.050000,Y=-4608.020000,Z=96.000900)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.500000,Roll=-90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7408,7 +7408,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow'
 			RelativeLocation=(X=-9880.000000,Y=-4256.000000,Z=-48.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.500000)
 			CustomProperties
@@ -7422,7 +7422,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-9408.000000,Y=-3632.000000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7437,7 +7437,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-10304.000000,Y=-3600.010000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=12.041016)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7452,7 +7452,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-9794.050000,Y=-3647.230000,Z=-514.000000)
@@ -7468,7 +7468,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-10286.900000,Y=-3003.940000,Z=-259.936000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-56.244507)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7632,7 +7632,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-9460.190000,Y=-3067.230000,Z=-508.000000)
@@ -7679,7 +7679,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-7648.000000,Y=-4176.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7694,7 +7694,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
 			RelativeLocation=(X=-8288.000000,Y=-4144.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7709,7 +7709,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-8160.000000,Y=-4128.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7724,7 +7724,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-7632.000000,Y=-4128.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7739,7 +7739,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-7120.000000,Y=-4144.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7861,7 +7861,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-8324.190000,Y=-3099.230000,Z=-508.000000)
@@ -7887,7 +7887,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-8288.000000,Y=-3552.000000,Z=-90.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-78.750000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7902,7 +7902,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-8567.090000,Y=-4055.010000,Z=-140.992000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.994507,Roll=-89.049683)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.500000)
@@ -7917,7 +7917,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
 			RelativeLocation=(X=-7103.910000,Y=-3552.140000,Z=-510.926000)
 			RelativeRotation=(Pitch=0.000000,Yaw=89.978027,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -7953,7 +7953,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-7653.240000,Y=-2923.580000,Z=-512.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -7976,7 +7976,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
 			RelativeLocation=(X=-7102.870000,Y=-4032.420000,Z=-111.215000)
 			RelativeRotation=(Pitch=11.250000,Yaw=-16.875000,Roll=5.625000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -7991,7 +7991,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-7138.670000,Y=-4134.550000,Z=-522.982000)
 			RelativeRotation=(Pitch=45.000000,Yaw=0.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -8006,7 +8006,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			RelativeLocation=(X=-8656.000000,Y=-3496.000000,Z=-240.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8021,7 +8021,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			RelativeLocation=(X=-9088.000000,Y=-3496.000000,Z=-240.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8036,7 +8036,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-8048.000000,Y=-3200.000000,Z=-144.000000)
@@ -8053,7 +8053,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-8096.000000,Y=-3744.000000,Z=-512.000000)
@@ -8070,7 +8070,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-9072.000000,Y=-3392.000000,Z=-512.000000)
@@ -8087,7 +8087,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-8272.000000,Y=-2368.000000,Z=-511.000000)
@@ -8103,7 +8103,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			RelativeLocation=(X=-11322.100000,Y=-1975.840000,Z=-507.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-151.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8118,7 +8118,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-10447.600000,Y=-1220.080000,Z=-560.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=11.250000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -8133,7 +8133,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-10453.500000,Y=-2449.330000,Z=-555.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=-11.250000)
 			RelativeScale3D=(X=1.100000,Y=-1.100000,Z=1.100000)
@@ -8148,7 +8148,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-10941.200000,Y=-1707.910000,Z=-544.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -8163,7 +8163,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-10998.400000,Y=-1830.890000,Z=-544.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=-1.100000,Z=1.100000)
@@ -8178,7 +8178,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-12008.000000,Y=-1706.110000,Z=-544.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -8193,7 +8193,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-11712.300000,Y=-1488.860000,Z=-81.901100)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.800000,Y=1.800000,Z=1.800000)
@@ -8208,7 +8208,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-10672.300000,Y=-1488.860000,Z=-81.901000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.800000,Y=1.800000,Z=1.800000)
@@ -8223,7 +8223,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			RelativeLocation=(X=-12530.900000,Y=-2029.380000,Z=-496.901000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=16.875000)
 			RelativeScale3D=(X=1.600000,Y=1.600000,Z=1.600000)
@@ -8290,7 +8290,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-11722.600000,Y=-2237.700000,Z=-85.000000)
@@ -8393,7 +8393,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10855.900000,Y=-2254.440000,Z=-112.921000)
@@ -8410,7 +8410,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10844.000000,Y=-1941.240000,Z=-113.928000)
@@ -8427,7 +8427,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10852.600000,Y=-1597.530000,Z=-122.930000)
@@ -8444,7 +8444,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10864.400000,Y=-1910.730000,Z=-123.937000)
@@ -8461,7 +8461,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-11592.500000,Y=-1838.520000,Z=-408.897000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.300000,Y=1.300000,Z=1.300000)
@@ -8573,7 +8573,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
 			RelativeLocation=(X=-11344.000000,Y=-3040.000000,Z=-512.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8587,7 +8587,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
 			RelativeLocation=(X=-11472.000000,Y=-3040.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8602,7 +8602,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-12064.000000,Y=-3392.000000,Z=-191.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8617,7 +8617,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			RelativeLocation=(X=-10672.000000,Y=-2624.000000,Z=-240.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8632,7 +8632,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-12672.000000,Y=-3072.000000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8647,7 +8647,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-11376.000000,Y=-2560.000000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8662,7 +8662,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-12672.000000,Y=-4080.000000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8677,7 +8677,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-11376.000000,Y=-3568.000000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8692,7 +8692,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-10816.000000,Y=-3664.000000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8707,7 +8707,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
 			RelativeLocation=(X=-10432.000000,Y=-4096.000000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8722,7 +8722,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
 			RelativeLocation=(X=-10944.000000,Y=-4096.000000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8737,7 +8737,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-12608.000000,Y=-3072.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8752,7 +8752,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1.LowerKashyyyk_GM_Trando_Archit_TR_Wall_LowerSide1'
 			RelativeLocation=(X=-12004.000000,Y=-4200.000000,Z=-496.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8797,7 +8797,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12424.700000,Y=-4804.370000,Z=-515.000000)
@@ -8813,7 +8813,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-11880.700000,Y=-4564.370000,Z=-515.000000)
@@ -8829,7 +8829,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
 			RelativeLocation=(X=-10704.000000,Y=-4992.010000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8844,7 +8844,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
 			RelativeLocation=(X=-11568.000000,Y=-4992.010000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -8859,7 +8859,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10835.000000,Y=-4618.740000,Z=-515.000000)
@@ -8875,7 +8875,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-11880.700000,Y=-5076.380000,Z=-515.000000)
@@ -8892,7 +8892,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-11352.700000,Y=-4804.380000,Z=-515.000000)
@@ -8909,7 +8909,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-11352.700000,Y=-4292.380000,Z=-515.000000)
@@ -8926,7 +8926,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
 			RelativeLocation=(X=-12112.000000,Y=-4424.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=0.650000,Y=1.000000,Z=1.000000)
@@ -8941,7 +8941,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10835.000000,Y=-5146.740000,Z=-515.000000)
@@ -8957,7 +8957,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
 			RelativeLocation=(X=-12284.000000,Y=-4984.000000,Z=-512.000000)
 			RelativeScale3D=(X=0.650000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -8971,7 +8971,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12354.700000,Y=-3902.370000,Z=-515.000000)
@@ -8987,7 +8987,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Window.LowerKashyyyk_GM_Trando_Archit_Window'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Window.LowerKashyyyk_GM_Trando_Archit_Window'
 			RelativeLocation=(X=-12688.000000,Y=-4664.000000,Z=158.000000)
 			RelativeScale3D=(X=0.500000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -9001,7 +9001,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13218.200000,Y=-4650.450000,Z=-344.000000)
@@ -9018,7 +9018,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13199.200000,Y=-4750.400000,Z=-508.001000)
@@ -9035,7 +9035,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			RelativeLocation=(X=-13118.900000,Y=-4418.070000,Z=-433.996000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=-32.074585)
 			RelativeScale3D=(X=0.550000,Y=0.550000,Z=0.550000)
@@ -9050,7 +9050,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-12863.200000,Y=-4439.400000,Z=-32.000100)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9065,7 +9065,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
 			RelativeLocation=(X=-12783.200000,Y=-4679.400000,Z=-48.000100)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9080,7 +9080,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof3.LowerKashyyyk_GM_Trando_Archit_ToothRoof3'
 			RelativeLocation=(X=-12783.200000,Y=-4151.400000,Z=-64.000100)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9095,7 +9095,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13501.900000,Y=-5046.020000,Z=-180.001000)
@@ -9112,7 +9112,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-12703.200000,Y=-4807.400000,Z=368.001000)
 			RelativeRotation=(Pitch=90.000000,Yaw=90.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9127,7 +9127,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-12719.200000,Y=-5351.400000,Z=352.001000)
 			RelativeRotation=(Pitch=90.000000,Yaw=90.000000,Roll=180.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9142,7 +9142,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-12751.200000,Y=-5031.390000,Z=479.999000)
 			RelativeRotation=(Pitch=-5.625000,Yaw=90.000000,Roll=168.750000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9157,7 +9157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13231.200000,Y=-5057.780000,Z=143.993000)
@@ -9174,7 +9174,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13243.700000,Y=-5044.090000,Z=-195.998000)
@@ -9222,7 +9222,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13468.000000,Y=-4999.320000,Z=-512.579000)
@@ -9249,7 +9249,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
 			RelativeLocation=(X=-12776.000000,Y=-4245.630000,Z=-192.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=50.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -9714,7 +9714,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/MarkerIcons_DoorBreach_Trn_DoorBreachJam.MarkerIcons_DoorBreach_Trn_DoorBreachJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_Trn_DoorBreachJam.MarkerIcons_DoorBreach_Trn_DoorBreachJam'
 			RelativeLocation=(X=-9852.000000,Y=-4224.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.170000,Z=1.250000)
@@ -9851,7 +9851,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/MarkerIcons_DoorBreach_Trn_DoorBreachJam.MarkerIcons_DoorBreach_Trn_DoorBreachJam'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/MarkerIcons_DoorBreach_Trn_DoorBreachJam.MarkerIcons_DoorBreach_Trn_DoorBreachJam'
 			RelativeLocation=(X=-9856.000000,Y=-4224.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=0.900000,Y=1.170000,Z=1.150000)
@@ -10008,7 +10008,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_WindowBars_Damg.LowerKashyyyk_GM_Trando_Archit_WindowBars_Damg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_WindowBars_Damg.LowerKashyyyk_GM_Trando_Archit_WindowBars_Damg'
 			RelativeLocation=(X=-6971.980000,Y=-4711.050000,Z=418.162000)
 			RelativeRotation=(Pitch=0.000000,Yaw=174.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10097,7 +10097,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_WindowBars_Damg.LowerKashyyyk_GM_Trando_Archit_WindowBars_Damg'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_WindowBars_Damg.LowerKashyyyk_GM_Trando_Archit_WindowBars_Damg'
 			RelativeLocation=(X=-7019.980000,Y=-4511.050000,Z=386.162000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-11.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -10839,7 +10839,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
 			RelativeLocation=(X=-7932.000000,Y=-4588.000000,Z=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10853,7 +10853,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
 			RelativeLocation=(X=-8508.000000,Y=-4536.000000,Z=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10867,7 +10867,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
 			RelativeLocation=(X=-9568.010000,Y=-4468.000000,Z=20.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -10986,7 +10986,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12025.200000,Y=-3565.680000,Z=-155.163000)
@@ -11013,7 +11013,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-12672.000000,Y=-3584.000000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11028,7 +11028,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-11376.000000,Y=-3072.000000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11074,7 +11074,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10403.700000,Y=-3605.790000,Z=-506.000000)
@@ -11480,7 +11480,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-11750.300000,Y=-1624.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=168.502808,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11641,7 +11641,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			RelativeLocation=(X=-11499.500000,Y=-2001.260000,Z=-359.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-129.375000,Roll=-28.125000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -11656,7 +11656,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			RelativeLocation=(X=-11695.500000,Y=-1605.250000,Z=-358.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-61.875000,Roll=-33.750000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12032,7 +12032,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-11809.700000,Y=-2663.990000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=168.486328,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12093,7 +12093,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-8551.960000,Y=-2651.990000,Z=-506.997000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-151.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12806,7 +12806,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
 			RelativeLocation=(X=-12735.100000,Y=-1728.810000,Z=52.252500)
 			RelativeRotation=(Pitch=33.750000,Yaw=-56.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -12831,7 +12831,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow'
 			RelativeLocation=(X=-12720.000000,Y=-3039.960000,Z=-120.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12846,7 +12846,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow'
 			RelativeLocation=(X=-12720.000000,Y=-2431.960000,Z=-120.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12861,7 +12861,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow.LowerKashyyyk_GM_Trando_Archit_CatWalk_Meow'
 			RelativeLocation=(X=-12704.000000,Y=-1823.960000,Z=-120.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12876,7 +12876,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12800.000000,Y=-2527.960000,Z=15.998500)
@@ -12893,7 +12893,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall07.LowerKashyyyk_GM_Trando_Archit_TR_Wall07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall07.LowerKashyyyk_GM_Trando_Archit_TR_Wall07'
 			RelativeLocation=(X=-13452.000000,Y=-2699.960000,Z=-496.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=95.625000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12908,7 +12908,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall07.LowerKashyyyk_GM_Trando_Archit_TR_Wall07'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall07.LowerKashyyyk_GM_Trando_Archit_TR_Wall07'
 			RelativeLocation=(X=-13488.000000,Y=-2171.960000,Z=-496.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=84.375000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12923,7 +12923,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
 			RelativeLocation=(X=-12736.000000,Y=-1871.950000,Z=-512.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12938,7 +12938,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT.LowerKashyyyk_GM_Trando_Archit_TR_ButtressEXT'
 			RelativeLocation=(X=-12752.000000,Y=-1727.940000,Z=-512.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -12953,7 +12953,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ConcretePatchX.LowerKashyyyk_GM_Trando_Archit_ConcretePatchX'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13055.900000,Y=-1432.430000,Z=-510.001000)
@@ -12969,7 +12969,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2.LowerKashyyyk_GM_Trando_Archit_TR_BigScalyFloor2'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13066.100000,Y=-1419.990000,Z=-516.001000)
@@ -12998,7 +12998,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_CatWlk'
 			RelativeLocation=(X=-13497.900000,Y=-3608.250000,Z=-495.606000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13022,7 +13022,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
 			RelativeLocation=(X=-12936.000000,Y=-3311.960000,Z=39.998500)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13037,7 +13037,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
 			RelativeLocation=(X=-12944.000000,Y=-2231.960000,Z=39.998500)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13052,7 +13052,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shiny_Plate.LowerKashyyyk_GM_Trando_Archit_Shiny_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13442.000000,Y=-2246.460000,Z=-406.902000)
@@ -13069,7 +13069,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor.LowerKashyyyk_GM_Trando_Archit_Generic_CatWalk_floor'
 			RelativeLocation=(X=-13272.000000,Y=-3327.960000,Z=23.998500)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.065918,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13084,7 +13084,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13192.200000,Y=-1063.990000,Z=584.017000)
@@ -13101,7 +13101,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12920.200000,Y=-1055.980000,Z=584.016000)
@@ -13118,7 +13118,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12816.000000,Y=-2999.970000,Z=-152.001000)
@@ -13217,7 +13217,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head.LowerKashyyyk_GM_Trando_Archit_Trando_SmallLight_Head'
 			RelativeLocation=(X=-13241.800000,Y=-4979.370000,Z=397.788000)
 			RelativeRotation=(Pitch=45.000000,Yaw=-95.625000,Roll=-28.125000)
 			RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
@@ -13414,7 +13414,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
 			RelativeLocation=(X=-13488.000000,Y=-2760.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13429,7 +13429,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Arch_Buttress.LowerKashyyyk_GM_Trando_Archit_Arch_Buttress'
 			RelativeLocation=(X=-12760.000000,Y=-3016.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13444,7 +13444,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			RelativeLocation=(X=-10160.000000,Y=-4152.010000,Z=56.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=22.500000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13459,7 +13459,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-9871.980000,Y=-4704.020000,Z=100.014000)
@@ -13476,7 +13476,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-10056.000000,Y=-4240.040000,Z=124.019000)
@@ -13493,7 +13493,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-10486.300000,Y=-1658.220000,Z=-512.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=158.312988,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13508,7 +13508,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10419.000000,Y=-1588.790000,Z=-383.999000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=-99.926147)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13523,7 +13523,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10462.400000,Y=-1743.630000,Z=-511.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-99.926147,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13538,7 +13538,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10510.200000,Y=-1645.910000,Z=-383.999000)
 			RelativeRotation=(Pitch=-89.994507,Yaw=0.000000,Roll=80.068359)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13553,7 +13553,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
 			RelativeLocation=(X=-8568.000000,Y=-5016.010000,Z=-481.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13568,7 +13568,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-7680.790000,Y=-2972.450000,Z=-414.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.555054,Roll=90.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -13583,7 +13583,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10489.100000,Y=-1512.800000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=160.905762,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13598,7 +13598,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10489.100000,Y=-1512.790000,Z=-416.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=160.905762,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13613,7 +13613,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-11616.000000,Y=-1888.000000,Z=-511.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -13628,7 +13628,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-11672.000000,Y=-1800.000000,Z=-511.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -13643,7 +13643,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-11496.000000,Y=-2000.000000,Z=-511.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -13658,7 +13658,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-11784.000000,Y=-1592.000000,Z=-415.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.100000,Y=1.100000,Z=1.100000)
@@ -13673,7 +13673,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-9896.000000,Y=-1896.000000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13688,7 +13688,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-9888.000000,Y=-1392.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13703,7 +13703,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_Truss.LowerKashyyyk_GM_Trando_Archit_Trando_Truss'
 			RelativeLocation=(X=-11314.100000,Y=-1967.840000,Z=-443.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-151.875000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13718,7 +13718,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-9936.000000,Y=-3640.000000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13764,7 +13764,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_LiteRope.LowerKashyyyk_GM_Trando_Archit_LiteRope'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-9028.140000,Y=-4915.680000,Z=-512.583000)
@@ -13791,7 +13791,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-8137.980000,Y=-1877.560000,Z=-504.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.747070,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -13806,7 +13806,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-9196.900000,Y=-1868.460000,Z=-499.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.747070,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14598,7 +14598,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10428.800000,Y=-1464.460000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=104.963379,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14613,7 +14613,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10428.800000,Y=-1464.460000,Z=-416.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=104.963379,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14628,7 +14628,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10404.400000,Y=-1527.830000,Z=-511.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-30.009155,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14643,7 +14643,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10404.400000,Y=-1527.830000,Z=-415.999000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-30.009155,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14670,7 +14670,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Trando_WookieCart.LowerKashyyyk_GM_Trando_Archit_Trando_WookieCart'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Trando_WookieCart.LowerKashyyyk_GM_Trando_Archit_Trando_WookieCart'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-8863.990000,Y=-3492.000000,Z=-512.000000)
@@ -14699,7 +14699,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-7223.910000,Y=-3571.960000,Z=-514.994000)
 			RelativeRotation=(Pitch=0.000000,Yaw=123.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14714,7 +14714,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
 			RelativeLocation=(X=-7411.020000,Y=-3585.020000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=0.750000,Z=0.750000)
@@ -14729,7 +14729,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-7373.910000,Y=-3496.960000,Z=-514.992000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-146.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14744,7 +14744,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-7535.900000,Y=-3451.950000,Z=-514.996000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-163.125000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14759,7 +14759,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-7621.910000,Y=-3299.960000,Z=-498.996000)
 			RelativeRotation=(Pitch=0.000000,Yaw=147.238770,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14774,7 +14774,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-7231.900000,Y=-3707.970000,Z=-514.995000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-45.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -14801,7 +14801,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-7226.920000,Y=-3554.970000,Z=-420.997000)
 			RelativeRotation=(Pitch=0.000000,Yaw=101.250000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15157,7 +15157,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-9168.000000,Y=-3840.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=179.714355,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
@@ -15172,7 +15172,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-9872.000000,Y=-2688.000000,Z=-512.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
 			CustomProperties
@@ -15186,7 +15186,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-9840.000000,Y=-2688.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=179.714355,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
@@ -15201,7 +15201,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-12287.900000,Y=-2511.930000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.862671,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
@@ -15216,7 +15216,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-12287.900000,Y=-2543.930000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=89.692383,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
@@ -15231,7 +15231,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-11263.900000,Y=-4207.930000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.862671,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
@@ -15246,7 +15246,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-11263.900000,Y=-4239.930000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=89.692383,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
@@ -15261,7 +15261,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-7423.900000,Y=-2991.930000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-89.862671,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
@@ -15276,7 +15276,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-7423.900000,Y=-3023.930000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=89.692383,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
@@ -15291,7 +15291,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-9784.340000,Y=-2428.680000,Z=-506.839000)
@@ -15308,7 +15308,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			RelativeLocation=(X=-11939.500000,Y=-2469.260000,Z=-342.996000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-13.529663,Roll=0.373535)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15502,7 +15502,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Ramp.LowerKashyyyk_GM_Trando_Archit_TR_Ramp'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Ramp.LowerKashyyyk_GM_Trando_Archit_TR_Ramp'
 			RelativeLocation=(X=-7104.010000,Y=-2976.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=9.909668,Yaw=-89.511108,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15517,7 +15517,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-7428.790000,Y=-2968.450000,Z=-414.003000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-90.697632,Roll=90.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -15760,7 +15760,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			RelativeLocation=(X=-12124.000000,Y=-4556.000000,Z=12.001200)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15797,7 +15797,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Framed_Grating.LowerKashyyyk_GM_Trando_Archit_Framed_Grating'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13239.900000,Y=-4260.100000,Z=318.021000)
@@ -15814,7 +15814,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-12759.300000,Y=-4199.440000,Z=88.035200)
 			RelativeRotation=(Pitch=-89.445190,Yaw=1.164551,Roll=89.582520)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -15903,7 +15903,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_WindowBars.LowerKashyyyk_GM_Trando_Archit_WindowBars'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_WindowBars.LowerKashyyyk_GM_Trando_Archit_WindowBars'
 			RelativeLocation=(X=-12688.000000,Y=-4664.000000,Z=168.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=135.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16190,7 +16190,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
 			RelativeLocation=(X=-13090.600000,Y=-2151.720000,Z=-507.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=78.837891,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16205,7 +16205,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_01.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_01.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_01'
 			RelativeLocation=(X=-13290.100000,Y=-1089.030000,Z=-515.302000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -16219,7 +16219,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
 			RelativeLocation=(X=-12930.100000,Y=-1201.030000,Z=-510.303000)
 			RelativeRotation=(Pitch=0.000000,Yaw=168.750000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16234,7 +16234,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-8906.730000,Y=-3665.300000,Z=-480.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16249,7 +16249,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-8672.000000,Y=-4128.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16264,7 +16264,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_ToothRoof2.LowerKashyyyk_GM_Trando_Archit_ToothRoof2'
 			RelativeLocation=(X=-9760.000000,Y=-3600.020000,Z=-512.002000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.000000,Roll=12.041016)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16279,7 +16279,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-9880.840000,Y=-3556.480000,Z=-414.009000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.750000)
@@ -16294,7 +16294,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-10352.000000,Y=-3840.000000,Z=-512.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
 			CustomProperties
@@ -16308,7 +16308,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF.LowerKashyyyk_GM_Trando_Archit_TR_AtoDorFrameHALF'
 			RelativeLocation=(X=-10320.000000,Y=-3840.000000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=179.714355,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=1.500000,Z=1.500000)
@@ -16323,7 +16323,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-9880.840000,Y=-3460.480000,Z=-414.009000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.750000)
@@ -16338,7 +16338,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-9880.840000,Y=-3532.510000,Z=-410.014000)
 			RelativeRotation=(Pitch=87.868652,Yaw=89.912109,Roll=89.912109)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.750000)
@@ -16353,7 +16353,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-9208.800000,Y=-3564.480000,Z=-414.009000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.750000)
@@ -16368,7 +16368,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-9208.800000,Y=-3468.480000,Z=-414.009000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=90.000000)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.750000)
@@ -16383,7 +16383,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-9208.800000,Y=-3540.510000,Z=-414.014000)
 			RelativeRotation=(Pitch=87.868652,Yaw=89.912109,Roll=89.912109)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.750000)
@@ -16398,7 +16398,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack02'
 			RelativeLocation=(X=-10250.000000,Y=-4658.010000,Z=-507.004000)
 			RelativeRotation=(Pitch=0.000000,Yaw=161.850586,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16583,7 +16583,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/UpperKashyyyk_PR_Dead_Wookiees_Wookie_Dead_Box_1.UpperKashyyyk_PR_Dead_Wookiees_Wookie_Dead_Box_1'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/UpperKashyyyk_PR_Dead_Wookiees_Wookie_Dead_Box_1.UpperKashyyyk_PR_Dead_Wookiees_Wookie_Dead_Box_1'
 			RelativeLocation=(X=-9548.610000,Y=-3515.850000,Z=-518.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-96.278687,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16598,7 +16598,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
 			RelativeLocation=(X=-7443.040000,Y=-3297.010000,Z=-507.017000)
 			RelativeRotation=(Pitch=0.000000,Yaw=86.308594,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=0.750000,Z=0.750000)
@@ -16613,7 +16613,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-7492.810000,Y=-3064.450000,Z=-510.004000)
 			RelativeRotation=(Pitch=88.000488,Yaw=-128.204956,Roll=50.559082)
 			RelativeScale3D=(X=0.500000,Y=0.500000,Z=0.500000)
@@ -16673,7 +16673,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-8531.840000,Y=-4024.520000,Z=-509.011000)
 			RelativeRotation=(Pitch=0.000000,Yaw=179.011230,Roll=-0.631714)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -16688,7 +16688,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder2.LowerKashyyyk_GM_Trando_Archit_BigGirder2'
 			RelativeLocation=(X=-8828.890000,Y=-4023.520000,Z=-509.012000)
 			RelativeRotation=(Pitch=0.000000,Yaw=179.011230,Roll=-0.631714)
 			RelativeScale3D=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -16748,7 +16748,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_BigGirder.LowerKashyyyk_GM_Trando_Archit_BigGirder'
 			RelativeLocation=(X=-10380.100000,Y=-4072.020000,Z=-128.006000)
 			RelativeRotation=(Pitch=-2.872925,Yaw=-1.906128,Roll=122.277832)
 			RelativeScale3D=(X=0.350000,Y=1.000000,Z=1.000000)
@@ -16763,7 +16763,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
 			RelativeLocation=(X=-11204.000000,Y=-3023.000000,Z=-320.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -16875,7 +16875,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
 			RelativeLocation=(X=-11932.600000,Y=-3389.720000,Z=-506.996000)
 			RelativeRotation=(Pitch=0.000000,Yaw=78.837891,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -16890,7 +16890,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
 			RelativeLocation=(X=-12112.600000,Y=-3429.740000,Z=-506.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-93.971558,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17558,7 +17558,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum.LowerKashyyyk_GM_Trando_Archit_OilDrum'
 			RelativeLocation=(X=-10530.400000,Y=-1787.630000,Z=-511.998000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-178.412476,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17769,7 +17769,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Stuck_Swine.LowerKashyyyk_GM_Trando_Archit_Stuck_Swine'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Stuck_Swine.LowerKashyyyk_GM_Trando_Archit_Stuck_Swine'
 			RelativeLocation=(X=-8643.720000,Y=-4081.360000,Z=-373.739000)
 			RelativeRotation=(Pitch=0.417480,Yaw=-89.884644,Roll=87.385254)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17784,7 +17784,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Stuck_Swine.LowerKashyyyk_GM_Trando_Archit_Stuck_Swine'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Stuck_Swine.LowerKashyyyk_GM_Trando_Archit_Stuck_Swine'
 			RelativeLocation=(X=-8737.990000,Y=-4075.990000,Z=-345.989000)
 			RelativeRotation=(Pitch=-2.960815,Yaw=-10.387573,Roll=90.725098)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -17799,7 +17799,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Shackles.LowerKashyyyk_GM_Trando_Archit_Shackles'
 			RelativeLocation=(X=-8698.000000,Y=-4076.000000,Z=-240.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-92.059937,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18186,7 +18186,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
 			RelativeLocation=(X=-10523.000000,Y=-4516.950000,Z=-507.020000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-88.066406,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=-0.750000,Z=0.750000)
@@ -18201,7 +18201,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
 			RelativeLocation=(X=-9295.000000,Y=-3356.960000,Z=-507.021000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-178.066406,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=-0.750000,Z=0.750000)
@@ -18216,7 +18216,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
 			RelativeLocation=(X=-8863.000000,Y=-3248.960000,Z=-507.022000)
 			RelativeRotation=(Pitch=0.000000,Yaw=97.558594,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=-0.750000,Z=0.750000)
@@ -18254,7 +18254,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_PR_Ammo_Trn_AmmoPlt.LowerKashyyyk_PR_Ammo_Trn_AmmoPlt'
 			RelativeLocation=(X=-10846.000000,Y=-4361.960000,Z=-507.021000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-93.691406,Roll=0.000000)
 			RelativeScale3D=(X=0.750000,Y=-0.750000,Z=0.750000)
@@ -18542,7 +18542,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
 			RelativeLocation=(X=-7532.950000,Y=-5037.630000,Z=-476.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18557,7 +18557,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
 			RelativeLocation=(X=-9333.180000,Y=-5080.940000,Z=-488.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18572,7 +18572,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain.LowerKashyyyk_GM_Trando_Archit_TR_EXT_Wall_Plain'
 			RelativeLocation=(X=-9859.630000,Y=-5065.570000,Z=-489.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18587,7 +18587,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-10376.000000,Y=-2502.580000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.900000)
@@ -18602,7 +18602,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-10808.900000,Y=-2487.120000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.900000)
@@ -18617,7 +18617,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-11312.200000,Y=-2489.140000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-179.994507,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.900000)
@@ -18632,7 +18632,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-11365.500000,Y=-1010.680000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.005493,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.900000)
@@ -18647,7 +18647,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-10932.600000,Y=-1026.140000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.005493,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.900000)
@@ -18662,7 +18662,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-10429.300000,Y=-1024.120000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.005493,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.900000)
@@ -18677,7 +18677,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-11850.700000,Y=-1027.770000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.005493,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.900000)
@@ -18692,7 +18692,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-12355.900000,Y=-1022.570000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=0.005493,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=0.900000)
@@ -18707,7 +18707,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-10326.300000,Y=-2951.990000,Z=-504.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=95.630493,Roll=0.000000)
 			RelativeScale3D=(X=0.900000,Y=1.000000,Z=1.000000)
@@ -18722,7 +18722,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			RelativeLocation=(X=-10329.200000,Y=-2484.810000,Z=-358.993000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-45.000000,Roll=-11.250000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18737,7 +18737,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			RelativeLocation=(X=-10320.900000,Y=-2468.470000,Z=-176.972000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-45.000000,Roll=5.625000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18752,7 +18752,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			RelativeLocation=(X=-12558.600000,Y=-2357.900000,Z=-345.995000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-92.279663,Roll=-5.251465)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18767,7 +18767,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			RelativeLocation=(X=-12561.000000,Y=-2191.930000,Z=-345.994000)
 			RelativeRotation=(Pitch=-11.250000,Yaw=-92.279663,Roll=-5.251465)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18782,7 +18782,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-12610.100000,Y=-3569.350000,Z=-512.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=90.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18797,7 +18797,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-11981.900000,Y=-4168.450000,Z=-496.000000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-180.000000,Roll=0.000000)
 			RelativeScale3D=(X=1.300000,Y=1.000000,Z=1.000000)
@@ -18812,7 +18812,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_TR_Wall04.LowerKashyyyk_GM_Trando_Archit_TR_Wall04'
 			RelativeLocation=(X=-12020.300000,Y=-2556.320000,Z=-512.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
 			CustomProperties
@@ -18826,7 +18826,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01.LowerKashyyyk_GM_Trando_Archit_OilDrum_Stack01'
 			RelativeLocation=(X=-10865.200000,Y=-4851.210000,Z=-507.001000)
 			RelativeRotation=(Pitch=0.000000,Yaw=-78.662109,Roll=0.000000)
 			RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
@@ -18841,7 +18841,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-12848.400000,Y=-5057.650000,Z=-338.001000)
@@ -18858,7 +18858,7 @@ Begin Map
 		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
 		End Object
 		Begin Object Name="StaticMeshComponent0"
-			StaticMesh=StaticMesh'/Game/Materials/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+			StaticMesh=StaticMesh'/Game/StaticMeshes/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
 			bUseDefaultCollision=False
 			BodyInstance=(CollisionProfileName="NoCollision",CollisionEnabled=NoCollision)
 			RelativeLocation=(X=-13501.100000,Y=-4595.060000,Z=-202.993000)
