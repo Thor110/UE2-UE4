@@ -1,9 +1,11 @@
 # Current Issues
 **Both UE2 Scripts** Both UE2 scripts need the relevant UCC parameters and lines setup in order to import everything en-masse into UT2004 and into the correct categories.
 
-**Both UE4 Scripts** Both UE4 scripts still need some work to properly sort through the associated .mat and .props.txt files.
+**SGA & SWRC UE4 Scripts** Both UE4 scripts still need some work to properly sort through the associated .mat and .props.txt files.
 
-**RC UE4 Script** Leon's Republic Commando specific version of UCC cannot accept directories with spaces in them, so the GameData folder must be copied to C:/SWRC for now.
+**SWRC UE4 Script** Leon's Republic Commando specific version of UCC cannot accept directories with spaces in them, so the GameData folder must be copied to C:/SWRC for now.
+
+**Red Orchestra & Postal 2 UE4 Scripts** largely untested and don't produce a full output yet.
 
 # UE2-UE4
 A batch script or set of batch scripts I am working on that prepares all of the files for a few ports I am working on.
