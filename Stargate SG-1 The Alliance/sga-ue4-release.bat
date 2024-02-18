@@ -196,10 +196,6 @@ blender -b -P "%first%\batch-convert-fbx.py"
 REM delete the following filetypes from the StaticMeshes, Animations & Maps folders in the UE4 directory ( .pskx, .psk, .psa, .config )
 del /S "%start%\StaticMeshes\*.pskx" "%start%\StaticMeshes\*.psk" "%start%\StaticMeshes\*.psa" "%start%\StaticMeshes\*.config" "%start%\Animations\*.psk" "%start%\Animations\*.psa" "%start%\Animations\*.config" "%start%\Maps\*.pskx"
 
-pause
-
-pause
-
 for /D %%D in ("%start%\Maps\*") do (
 	for %%T in ("%%~D\*.tga*") do (
 		mkdir "%start%\Materials\%%~nD"
@@ -210,10 +206,6 @@ for /D %%D in ("%start%\Maps\*") do (
 		move /Y "%%~F" "%start%\StaticMeshes\%%~nD\%%~nF%%~xF"
 	)
 )
-
-pause
-
-pause
 
 cd /d "%start%\Animations\"
 
