@@ -103,6 +103,8 @@ for /D %%D in ("%model%\UmodelExport\*") do (
 
 REM for all files in the games StaticMeshes folder move folders of the same name from umodelexport folder to UE4 StaticMeshes folder
 for /f "delims=|" %%f in ('dir /b "%level%\StaticMeshes"') do move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
+REM NOTE : 10 of the packages in the StaticMeshes folder are empty, so when moving the files using this logic there are some failures.
+REM Consider moving them to temporary folders just like the sounds packages, to reduce errors in the command window.
 
 REM change directory to the SWRC System folder
 cd /d "%level%\System"
