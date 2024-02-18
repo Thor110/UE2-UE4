@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/CloneTextures_CloneCommando07_Shader_Mat.CloneCommando07_Shader_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/CloneTextures/CloneCommando07_Shader_Mat.CloneCommando07_Shader_Mat LightMapScale=128.0 Link=0
 					Origin   -00512.000000,-00512.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   -00512.000000,+00512.000000,+00256.000000
 					Vertex   -00512.000000,+00512.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/CloneTextures_MP_CloneCommandoA_Shader_Mat.MP_CloneCommandoA_Shader_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/CloneTextures/MP_CloneCommandoA_Shader_Mat.MP_CloneCommandoA_Shader_Mat LightMapScale=128.0 Link=1
 					Origin   -00512.000000,+00512.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   +00512.000000,+00512.000000,+00256.000000
 					Vertex   +00512.000000,+00512.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/CloneTextures_MP_CloneCommandoC_Shader_Mat.MP_CloneCommandoC_Shader_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/CloneTextures/MP_CloneCommandoC_Shader_Mat.MP_CloneCommandoC_Shader_Mat LightMapScale=128.0 Link=2
 					Origin   +00512.000000,+00512.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   +00512.000000,-00512.000000,+00256.000000
 					Vertex   +00512.000000,-00512.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/TrandoshanMercTextures_MP_TrandoshanMercA_Shader_Mat.MP_TrandoshanMercA_Shader_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/TrandoshanMercTextures/MP_TrandoshanMercA_Shader_Mat.MP_TrandoshanMercA_Shader_Mat LightMapScale=128.0 Link=3
 					Origin   +00512.000000,-00512.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   -00512.000000,-00512.000000,+00256.000000
 					Vertex   -00512.000000,-00512.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/TrandoshanMercTextures_MP_TrandoshanMercC_Shader_Mat.MP_TrandoshanMercC_Shader_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/TrandoshanMercTextures/MP_TrandoshanMercC_Shader_Mat.MP_TrandoshanMercC_Shader_Mat LightMapScale=128.0 Link=4
 					Origin   -00512.000000,+00512.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   +00512.000000,-00512.000000,+00256.000000
 					Vertex   +00512.000000,+00512.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/CloneTextures_CloneCommando62_Shader_Mat.CloneCommando62_Shader_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/CloneTextures/CloneTextures/CloneCommando62_Shader_Mat.CloneCommando62_Shader_Mat LightMapScale=128.0 Link=5
 					Origin   -00512.000000,-00512.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000

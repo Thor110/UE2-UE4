@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Shaders_test_water_Mat.test_water_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Shaders/test_water_Mat.test_water_Mat LightMapScale=128.0 Link=0
 					Origin   -01024.000000,-00680.000000,-01888.000000
 					Normal   -00000.999997,+00000.002469,+00000.000000
 					TextureU +00000.000000,+00000.100000,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   -05700.000000,-00014.000000,+00000.000000
 					Vertex   -05700.000000,-00014.000000,-01856.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Shaders_test_water_Mat.test_water_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Shaders/test_water_Mat.test_water_Mat LightMapScale=128.0 Link=1
 					Origin   -00640.000000,+01024.000000,-04392.000000
 					Normal   -00000.001731,+00000.999999,+00000.000000
 					TextureU +00000.100000,+00000.000000,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   +00076.000000,-00004.000000,+00000.000000
 					Vertex   +00076.000000,-00004.000000,-01856.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Shaders_test_water_Mat.test_water_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Shaders/test_water_Mat.test_water_Mat LightMapScale=128.0 Link=2
 					Origin   +01024.000000,-00128.000000,-01896.000000
 					Normal   +00000.999997,-00000.002469,+00000.000000
 					TextureU +00000.000000,-00000.100000,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   +00064.000000,-04864.000000,+00000.000000
 					Vertex   +00064.000000,-04864.000000,-01856.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Shaders_test_water_Mat.test_water_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Shaders/test_water_Mat.test_water_Mat LightMapScale=128.0 Link=3
 					Origin   +00640.000000,-01024.000000,-01896.000000
 					Normal   +00000.001731,-00000.999999,+00000.000000
 					TextureU -00000.100000,+00000.000000,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   -05712.000000,-04874.000000,+00000.000000
 					Vertex   -05712.000000,-04874.000000,-01856.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Unique_RAS_Bulkhead_Door_WH_A_Mat.RAS_Bulkhead_Door_WH_A_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/Unique/RAS_Bulkhead_Door_WH_A_Mat.RAS_Bulkhead_Door_WH_A_Mat LightMapScale=128.0 Link=4
 					Origin   -04159.999512,-01280.000000,-01024.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.050000,+00000.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   +00064.000000,-04864.000000,+00000.000000
 					Vertex   +00076.000000,-00004.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General_BridgeFloor1_Mat.BridgeFloor1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/CoreShip_Textures/General/BridgeFloor1_Mat.BridgeFloor1_Mat LightMapScale=128.0 Link=5
 					Origin   -01024.000000,-01024.000000,-01024.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -3936,7 +3936,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome_gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome/gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=0
 					Origin   +11136.000000,-08960.000000,-20208.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.250000,+00000.000000
@@ -3946,7 +3946,7 @@ Begin Map
 					Vertex   -00256.000000,+00256.000000,+00256.000000
 					Vertex   -00256.000000,+00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome_gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome/gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=1
 					Origin   +06912.000000,-04480.005859,-20208.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.250000,+00000.000000,+00000.000000
@@ -3956,7 +3956,7 @@ Begin Map
 					Vertex   +00256.000000,+00256.000000,+00256.000000
 					Vertex   +00256.000000,+00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome_gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome/gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=2
 					Origin   +11136.000000,-00256.000000,-20208.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.250000,+00000.000000
@@ -3966,7 +3966,7 @@ Begin Map
 					Vertex   +00256.000000,-00256.000000,+00256.000000
 					Vertex   +00256.000000,-00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome_gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome/gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=3
 					Origin   +15616.000000,-04480.001465,-20208.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.250000,+00000.000000,+00000.000000
@@ -3976,7 +3976,7 @@ Begin Map
 					Vertex   -00256.000000,-00256.000000,+00256.000000
 					Vertex   -00256.000000,-00256.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome_gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome/gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=4
 					Origin   -05376.000000,-09936.000000,-01408.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.250000,+00000.000000,+00000.000000
@@ -3986,7 +3986,7 @@ Begin Map
 					Vertex   +00256.000000,-00256.000000,+00256.000000
 					Vertex   +00256.000000,+00256.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome_gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/SkyDome/gloomSky01_Right01_Mat.gloomSky01_Right01_Mat LightMapScale=128.0 Link=5
 					Origin   -05440.000000,+00768.000000,-01408.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.250000,+00000.000000,+00000.000000
@@ -4010,7 +4010,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4020,7 +4020,7 @@ Begin Map
 					Vertex   -00256.000000,+00002.000000,+00256.000000
 					Vertex   -00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4030,7 +4030,7 @@ Begin Map
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -4040,7 +4040,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4050,7 +4050,7 @@ Begin Map
 					Vertex   -00256.000000,-00002.000000,+00256.000000
 					Vertex   -00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4060,7 +4060,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4084,7 +4084,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4094,7 +4094,7 @@ Begin Map
 					Vertex   -00256.000000,+00002.000000,+00256.000000
 					Vertex   -00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4104,7 +4104,7 @@ Begin Map
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -4114,7 +4114,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4124,7 +4124,7 @@ Begin Map
 					Vertex   -00256.000000,-00002.000000,+00256.000000
 					Vertex   -00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4134,7 +4134,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4158,7 +4158,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -4168,7 +4168,7 @@ Begin Map
 					Vertex   -00256.000000,+00002.000000,+00256.000000
 					Vertex   -00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4178,7 +4178,7 @@ Begin Map
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -4188,7 +4188,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4198,7 +4198,7 @@ Begin Map
 					Vertex   -00256.000000,-00002.000000,+00256.000000
 					Vertex   -00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4208,7 +4208,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4232,7 +4232,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -4242,7 +4242,7 @@ Begin Map
 					Vertex   -00256.000000,+00002.000000,+00256.000000
 					Vertex   -00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4252,7 +4252,7 @@ Begin Map
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -4262,7 +4262,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4272,7 +4272,7 @@ Begin Map
 					Vertex   -00256.000000,-00002.000000,+00256.000000
 					Vertex   -00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4282,7 +4282,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_03_Startup2_Mat.GEO_03_Startup2_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4306,7 +4306,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4316,7 +4316,7 @@ Begin Map
 					Vertex   -00256.000000,+00002.000000,+00256.000000
 					Vertex   -00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4326,7 +4326,7 @@ Begin Map
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -4336,7 +4336,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4346,7 +4346,7 @@ Begin Map
 					Vertex   -00256.000000,-00002.000000,+00256.000000
 					Vertex   -00256.000000,-00002.000000,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4356,7 +4356,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00256.000000
 					Vertex   +00256.000000,+00002.000000,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_05_Start_Mat.GEO_05_Start_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4380,7 +4380,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=0
 					Origin   +00001.999986,-00255.999969,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4390,7 +4390,7 @@ Begin Map
 					Vertex   -00001.999978,-00255.999969,+00256.000000
 					Vertex   -00001.999978,-00255.999969,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=1
 					Origin   -00001.999978,-00255.999969,-00255.999985
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4400,7 +4400,7 @@ Begin Map
 					Vertex   -00001.999986,+00255.999969,+00256.000000
 					Vertex   -00001.999986,+00255.999969,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=2
 					Origin   -00001.999986,+00255.999969,-00255.999985
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4410,7 +4410,7 @@ Begin Map
 					Vertex   +00001.999978,+00255.999969,+00255.999985
 					Vertex   +00001.999978,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=3
 					Origin   +00001.999978,+00255.999969,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -4420,7 +4420,7 @@ Begin Map
 					Vertex   +00001.999986,-00255.999969,+00255.999985
 					Vertex   +00001.999986,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=4
 					Origin   -00001.999978,-00255.999969,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4430,7 +4430,7 @@ Begin Map
 					Vertex   +00001.999978,+00255.999969,+00255.999985
 					Vertex   -00001.999986,+00255.999969,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_01_Startup2_Mat.RAS_01_Startup2_Mat LightMapScale=128.0 Link=5
 					Origin   +00001.999986,-00255.999969,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4454,7 +4454,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=0
 					Origin   +00002.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4464,7 +4464,7 @@ Begin Map
 					Vertex   -00001.999978,-00255.999969,+00256.000000
 					Vertex   -00001.999978,-00255.999969,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=1
 					Origin   -00002.000000,-00256.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -4474,7 +4474,7 @@ Begin Map
 					Vertex   -00001.999986,+00255.999969,+00256.000000
 					Vertex   -00001.999986,+00255.999969,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=2
 					Origin   -00002.000000,+00256.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4484,7 +4484,7 @@ Begin Map
 					Vertex   +00001.999978,+00255.999969,+00255.999985
 					Vertex   +00001.999978,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=3
 					Origin   +00002.000000,+00256.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -4494,7 +4494,7 @@ Begin Map
 					Vertex   +00001.999986,-00255.999969,+00255.999985
 					Vertex   +00001.999986,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=4
 					Origin   -00002.000000,-00256.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -4504,7 +4504,7 @@ Begin Map
 					Vertex   +00001.999978,+00255.999969,+00255.999985
 					Vertex   -00001.999986,+00255.999969,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_02_export_Mat.RAS_02_export_Mat LightMapScale=128.0 Link=5
 					Origin   +00002.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -4528,7 +4528,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=0
 					Origin   +00002.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4538,7 +4538,7 @@ Begin Map
 					Vertex   -00001.999978,-00255.999969,+00256.000000
 					Vertex   -00001.999978,-00255.999969,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=1
 					Origin   -00002.000000,-00256.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -4548,7 +4548,7 @@ Begin Map
 					Vertex   -00001.999986,+00255.999969,+00256.000000
 					Vertex   -00001.999986,+00255.999969,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=2
 					Origin   -00002.000000,+00256.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4558,7 +4558,7 @@ Begin Map
 					Vertex   +00001.999978,+00255.999969,+00255.999985
 					Vertex   +00001.999978,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=3
 					Origin   +00002.000000,+00256.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -4568,7 +4568,7 @@ Begin Map
 					Vertex   +00001.999986,-00255.999969,+00255.999985
 					Vertex   +00001.999986,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=4
 					Origin   -00002.000000,-00256.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -4578,7 +4578,7 @@ Begin Map
 					Vertex   +00001.999978,+00255.999969,+00255.999985
 					Vertex   -00001.999986,+00255.999969,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_03_Export_Mat.RAS_03_Export_Mat LightMapScale=128.0 Link=5
 					Origin   +00002.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -4602,7 +4602,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
 					Origin   +00002.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4612,7 +4612,7 @@ Begin Map
 					Vertex   -00001.999978,-00255.999969,+00256.000000
 					Vertex   -00001.999978,-00255.999969,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
 					Origin   -00002.000000,-00256.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4622,7 +4622,7 @@ Begin Map
 					Vertex   -00001.999986,+00255.999969,+00256.000000
 					Vertex   -00001.999986,+00255.999969,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
 					Origin   -00002.000000,+00256.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4632,7 +4632,7 @@ Begin Map
 					Vertex   +00001.999978,+00255.999969,+00255.999985
 					Vertex   +00001.999978,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
 					Origin   +00002.000000,+00256.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -4642,7 +4642,7 @@ Begin Map
 					Vertex   +00001.999986,-00255.999969,+00255.999985
 					Vertex   +00001.999986,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
 					Origin   -00002.000000,-00256.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4652,7 +4652,7 @@ Begin Map
 					Vertex   +00001.999978,+00255.999969,+00255.999985
 					Vertex   -00001.999986,+00255.999969,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
 					Origin   +00002.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4676,7 +4676,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
 					Origin   +00255.999878,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -4686,7 +4686,7 @@ Begin Map
 					Vertex   +00255.999939,-00001.999981,+00256.000000
 					Vertex   +00255.999939,-00001.999981,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
 					Origin   +00256.000000,-00001.999985,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4696,7 +4696,7 @@ Begin Map
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 					Vertex   -00255.999924,-00001.999992,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
 					Origin   -00256.000000,-00001.999985,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4706,7 +4706,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999939,+00001.999981,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_POW_01_Startup_Mat.POW_01_Startup_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/POW_01_Startup_Mat.POW_01_Startup_Mat LightMapScale=128.0 Link=3
 					Origin   -00256.000000,+00001.999969,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4716,7 +4716,7 @@ Begin Map
 					Vertex   +00255.999924,+00001.999992,+00255.999985
 					Vertex   +00255.999924,+00001.999992,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
 					Origin   +00256.000000,-00001.999985,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4726,7 +4726,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
 					Origin   +00255.999878,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4750,7 +4750,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
 					Origin   +00255.999878,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -4760,7 +4760,7 @@ Begin Map
 					Vertex   +00255.999939,-00001.999981,+00256.000000
 					Vertex   +00255.999939,-00001.999981,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
 					Origin   +00256.000000,-00001.999985,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4770,7 +4770,7 @@ Begin Map
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 					Vertex   -00255.999924,-00001.999992,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
 					Origin   -00255.999878,-00001.999985,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4780,7 +4780,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999939,+00001.999981,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
 					Origin   -00256.000000,+00001.999969,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4790,7 +4790,7 @@ Begin Map
 					Vertex   +00255.999924,+00001.999992,+00255.999985
 					Vertex   +00255.999924,+00001.999992,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
 					Origin   +00256.000000,-00001.999985,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4800,7 +4800,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
 					Origin   +00255.999878,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4824,7 +4824,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
 					Origin   +00255.999939,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -4834,7 +4834,7 @@ Begin Map
 					Vertex   +00255.999939,-00001.999981,+00256.000000
 					Vertex   +00255.999939,-00001.999981,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
 					Origin   +00255.999939,-00001.999985,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4844,7 +4844,7 @@ Begin Map
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 					Vertex   -00255.999924,-00001.999992,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
 					Origin   -00255.999939,-00001.999985,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -4854,7 +4854,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999939,+00001.999981,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
 					Origin   -00255.999939,+00001.999969,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -4864,7 +4864,7 @@ Begin Map
 					Vertex   +00255.999924,+00001.999992,+00255.999985
 					Vertex   +00255.999924,+00001.999992,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
 					Origin   +00255.999939,-00001.999985,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4874,7 +4874,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
 					Origin   +00255.999939,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -4898,7 +4898,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   +00255.999924,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -4908,7 +4908,7 @@ Begin Map
 					Vertex   +00255.999939,-00001.999981,+00256.000000
 					Vertex   +00255.999939,-00001.999981,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=1
 					Origin   +00255.999939,-00001.999985,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4918,7 +4918,7 @@ Begin Map
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 					Vertex   -00255.999924,-00001.999992,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=2
 					Origin   -00255.999939,-00001.999985,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -4928,7 +4928,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999939,+00001.999981,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=3
 					Origin   -00255.999939,+00001.999969,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -4938,7 +4938,7 @@ Begin Map
 					Vertex   +00255.999924,+00001.999992,+00255.999985
 					Vertex   +00255.999924,+00001.999992,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=4
 					Origin   +00255.999939,-00001.999985,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4948,7 +4948,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_04_Startup_Mat.YYY_04_Startup_Mat LightMapScale=128.0 Link=5
 					Origin   +00255.999924,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4972,7 +4972,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=0
 					Origin   +00255.999939,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -4982,7 +4982,7 @@ Begin Map
 					Vertex   +00255.999939,-00001.999981,+00256.000000
 					Vertex   +00255.999939,-00001.999981,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=1
 					Origin   +00255.999939,-00001.999985,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -4992,7 +4992,7 @@ Begin Map
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 					Vertex   -00255.999924,-00001.999992,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=2
 					Origin   -00255.999939,-00001.999985,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -5002,7 +5002,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999939,+00001.999981,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=3
 					Origin   -00255.999939,+00001.999969,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -5012,7 +5012,7 @@ Begin Map
 					Vertex   +00255.999924,+00001.999992,+00255.999985
 					Vertex   +00255.999924,+00001.999992,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=4
 					Origin   +00255.999939,-00001.999985,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5022,7 +5022,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/YYY_05_export_Mat.YYY_05_export_Mat LightMapScale=128.0 Link=5
 					Origin   +00255.999939,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5046,7 +5046,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
 					Origin   +00255.999878,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -5056,7 +5056,7 @@ Begin Map
 					Vertex   +00255.999939,-00001.999981,+00256.000000
 					Vertex   +00255.999939,-00001.999981,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=1
 					Origin   +00256.000000,-00001.999985,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5066,7 +5066,7 @@ Begin Map
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 					Vertex   -00255.999924,-00001.999992,-00255.999985
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
 					Origin   -00255.999939,-00001.999985,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -5076,7 +5076,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999939,+00001.999981,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
 					Origin   -00255.999939,+00001.999969,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -5086,7 +5086,7 @@ Begin Map
 					Vertex   +00255.999924,+00001.999992,+00255.999985
 					Vertex   +00255.999924,+00001.999992,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
 					Origin   +00256.000000,-00001.999985,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5096,7 +5096,7 @@ Begin Map
 					Vertex   -00255.999939,+00001.999981,+00255.999985
 					Vertex   -00255.999924,-00001.999992,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
 					Origin   +00255.999878,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -5120,7 +5120,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00408.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -5130,7 +5130,7 @@ Begin Map
 					Vertex   -00256.000000,+00002.000000,+00064.000000
 					Vertex   -00256.000000,+00002.000000,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00408.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -5140,7 +5140,7 @@ Begin Map
 					Vertex   +00256.000000,+00002.000000,+00064.000000
 					Vertex   +00256.000000,+00002.000000,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00408.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5150,7 +5150,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00064.000000
 					Vertex   +00256.000000,-00002.000000,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00408.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5160,7 +5160,7 @@ Begin Map
 					Vertex   -00256.000000,-00002.000000,+00064.000000
 					Vertex   -00256.000000,-00002.000000,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00346.000000,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -5170,7 +5170,7 @@ Begin Map
 					Vertex   +00256.000000,-00002.000000,+00064.000000
 					Vertex   +00256.000000,+00002.000000,+00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00346.000000,-00064.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -5194,7 +5194,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=0
 					Origin   +00002.000000,-00511.999878,-00416.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5204,7 +5204,7 @@ Begin Map
 					Vertex   -00002.000008,-00511.999847,+00064.000000
 					Vertex   -00002.000008,-00511.999847,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=1
 					Origin   -00002.000000,-00511.999878,-00416.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -5214,7 +5214,7 @@ Begin Map
 					Vertex   -00002.000063,+00511.999908,+00064.000000
 					Vertex   -00002.000063,+00511.999908,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=2
 					Origin   -00002.000000,+00512.000000,-00416.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -5224,7 +5224,7 @@ Begin Map
 					Vertex   +00002.000008,+00511.999847,+00064.000000
 					Vertex   +00002.000008,+00511.999847,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=3
 					Origin   +00002.000000,+00511.999756,-00416.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5234,7 +5234,7 @@ Begin Map
 					Vertex   +00002.000063,-00511.999908,+00064.000000
 					Vertex   +00002.000063,-00511.999908,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=4
 					Origin   -00354.000000,-00511.999878,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -5244,7 +5244,7 @@ Begin Map
 					Vertex   +00002.000008,+00511.999847,+00064.000000
 					Vertex   -00002.000063,+00511.999908,+00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/RAS_Campaign_Mat.RAS_Campaign_Mat LightMapScale=128.0 Link=5
 					Origin   +00354.000000,-00511.999878,-00064.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -5268,7 +5268,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=0
 					Origin   +00255.999863,+00002.000000,-00640.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -5278,7 +5278,7 @@ Begin Map
 					Vertex   +00255.999908,-00001.999982,+00064.000000
 					Vertex   +00255.999908,-00001.999982,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=1
 					Origin   +00255.999908,-00001.999985,-00640.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5288,7 +5288,7 @@ Begin Map
 					Vertex   -00255.999863,-00001.999997,+00064.000000
 					Vertex   -00255.999863,-00001.999997,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=2
 					Origin   -00255.999878,-00002.000000,-00640.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -5298,7 +5298,7 @@ Begin Map
 					Vertex   -00255.999908,+00001.999982,+00064.000000
 					Vertex   -00255.999908,+00001.999982,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=3
 					Origin   -00255.999939,+00001.999969,-00640.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -5308,7 +5308,7 @@ Begin Map
 					Vertex   +00255.999863,+00001.999997,+00064.000000
 					Vertex   +00255.999863,+00001.999997,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=4
 					Origin   +00255.999924,-00577.999756,+00064.000061
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -5318,7 +5318,7 @@ Begin Map
 					Vertex   -00255.999908,+00001.999982,+00064.000000
 					Vertex   -00255.999863,-00001.999997,+00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_YYY_Campaign_Mat.GEO_YYY_Campaign_Mat LightMapScale=128.0 Link=5
 					Origin   +00255.999832,+00577.999756,-00064.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -7433,7 +7433,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00001.999982,+00255.999985,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -7443,7 +7443,7 @@ Begin Map
 					Vertex   +00001.999997,+00255.999954,+00256.000000
 					Vertex   +00001.999997,+00255.999954,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
 					Origin   +00001.999997,+00255.999954,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7453,7 +7453,7 @@ Begin Map
 					Vertex   +00001.999982,-00255.999985,+00256.000000
 					Vertex   +00001.999982,-00255.999985,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
 					Origin   +00001.999982,-00255.999985,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -7463,7 +7463,7 @@ Begin Map
 					Vertex   -00001.999997,-00255.999954,+00256.000000
 					Vertex   -00001.999997,-00255.999954,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_CharacterDemo_Startup_Mat.CharacterDemo_Startup_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/CharacterDemo_Startup_Mat.CharacterDemo_Startup_Mat LightMapScale=128.0 Link=3
 					Origin   -00002.000000,-00256.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -7473,7 +7473,7 @@ Begin Map
 					Vertex   -00001.999982,+00255.999985,+00256.000000
 					Vertex   -00001.999982,+00255.999985,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
 					Origin   +00001.999997,+00255.999954,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7483,7 +7483,7 @@ Begin Map
 					Vertex   -00001.999997,-00255.999954,+00256.000000
 					Vertex   +00001.999982,-00255.999985,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
 					Origin   -00001.999982,+00255.999985,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -7630,7 +7630,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=0
 					Origin   +00255.999863,+00002.000000,-00896.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -7640,7 +7640,7 @@ Begin Map
 					Vertex   +00255.999908,-00001.999982,+00064.000000
 					Vertex   +00255.999908,-00001.999982,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=1
 					Origin   +00255.999908,-00002.000000,-00896.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -7650,7 +7650,7 @@ Begin Map
 					Vertex   -00255.999863,-00001.999997,+00064.000000
 					Vertex   -00255.999863,-00001.999997,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=2
 					Origin   -00255.999878,-00002.000000,-00896.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -7660,7 +7660,7 @@ Begin Map
 					Vertex   -00255.999908,+00001.999982,+00064.000000
 					Vertex   -00255.999908,+00001.999982,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=3
 					Origin   -00255.999939,+00001.999969,-00896.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -7670,7 +7670,7 @@ Begin Map
 					Vertex   +00255.999863,+00001.999997,+00064.000000
 					Vertex   +00255.999863,+00001.999997,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=4
 					Origin   +00255.999924,-00833.999756,+00064.000061
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -7680,7 +7680,7 @@ Begin Map
 					Vertex   -00255.999908,+00001.999982,+00064.000000
 					Vertex   -00255.999863,-00001.999997,+00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=5
 					Origin   +00255.999832,+00833.999756,-00064.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -7704,7 +7704,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=0
 					Origin   -00002.000019,+00255.999832,-00640.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -7714,7 +7714,7 @@ Begin Map
 					Vertex   +00001.999978,+00255.999893,+00064.000000
 					Vertex   +00001.999978,+00255.999893,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=1
 					Origin   +00001.999978,+00255.999893,-00640.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -7724,7 +7724,7 @@ Begin Map
 					Vertex   +00002.000004,-00255.999832,+00064.000000
 					Vertex   +00002.000004,-00255.999832,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=2
 					Origin   +00002.000007,-00255.999847,-00640.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -7734,7 +7734,7 @@ Begin Map
 					Vertex   -00001.999978,-00255.999893,+00064.000000
 					Vertex   -00001.999978,-00255.999893,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=3
 					Origin   -00001.999967,-00255.999924,-00640.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -7744,7 +7744,7 @@ Begin Map
 					Vertex   -00002.000004,+00255.999832,+00064.000000
 					Vertex   -00002.000004,+00255.999832,-00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=4
 					Origin   +00577.999695,+00255.999878,+00064.000061
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -7754,7 +7754,7 @@ Begin Map
 					Vertex   -00001.999978,-00255.999893,+00064.000000
 					Vertex   +00002.000004,-00255.999832,+00064.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/M3M4_Bar_Mat.M3M4_Bar_Mat LightMapScale=128.0 Link=5
 					Origin   -00577.999695,+00255.999725,-00064.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -8523,7 +8523,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00000.784046,+00000.000000,-00000.620703
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -8533,7 +8533,7 @@ Begin Map
 					Vertex   -00016.000000,+00004.000000,+00016.000000
 					Vertex   +00022.000000,+00004.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8543,7 +8543,7 @@ Begin Map
 					Vertex   +00064.000000,+00004.000000,+00016.000000
 					Vertex   +00026.000000,+00004.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.784046,+00000.000000,-00000.620703
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8553,7 +8553,7 @@ Begin Map
 					Vertex   +00064.000000,+00000.000000,+00016.000000
 					Vertex   +00026.000000,+00000.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -8563,7 +8563,7 @@ Begin Map
 					Vertex   -00016.000000,+00000.000000,+00016.000000
 					Vertex   +00022.000000,+00000.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8573,7 +8573,7 @@ Begin Map
 					Vertex   +00064.000000,+00000.000000,+00016.000000
 					Vertex   +00064.000000,+00004.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8597,7 +8597,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -8607,7 +8607,7 @@ Begin Map
 					Vertex   -00024.000000,+00000.000000,+00048.000000
 					Vertex   -00024.000000,+00000.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8617,7 +8617,7 @@ Begin Map
 					Vertex   +00008.000000,+00000.000000,+00048.000000
 					Vertex   +00008.000000,+00000.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8627,7 +8627,7 @@ Begin Map
 					Vertex   +00008.000000,-00004.000000,+00048.000000
 					Vertex   +00008.000000,-00004.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -8637,7 +8637,7 @@ Begin Map
 					Vertex   -00024.000000,-00004.000000,+00048.000000
 					Vertex   -00024.000000,-00004.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8647,7 +8647,7 @@ Begin Map
 					Vertex   +00008.000000,-00004.000000,+00048.000000
 					Vertex   +00008.000000,+00000.000000,+00048.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8711,7 +8711,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00077.999977,+00251.999939,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8721,7 +8721,7 @@ Begin Map
 					Vertex   +00000.000004,+00024.000004,+00048.000000
 					Vertex   +00000.000004,+00024.000004,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00074.000000,+00251.999969,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8731,7 +8731,7 @@ Begin Map
 					Vertex   +00000.000000,-00008.000000,+00048.000000
 					Vertex   +00000.000000,-00008.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   -00074.000000,-00259.999969,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -8741,7 +8741,7 @@ Begin Map
 					Vertex   -00004.000000,-00008.000000,+00048.000000
 					Vertex   -00004.000000,-00008.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   -00078.000008,-00259.999969,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -8751,7 +8751,7 @@ Begin Map
 					Vertex   -00003.999996,+00024.000015,+00048.000000
 					Vertex   -00003.999996,+00024.000015,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00074.000000,+00251.999969,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8761,7 +8761,7 @@ Begin Map
 					Vertex   -00004.000000,-00008.000000,+00048.000000
 					Vertex   +00000.000000,-00008.000000,+00048.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00077.999977,+00251.999939,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8785,7 +8785,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00105.999962,+00215.999939,-00256.000000
 					Normal   +00000.000000,+00000.784046,-00000.620703
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8795,7 +8795,7 @@ Begin Map
 					Vertex   +00004.000008,+00015.999996,+00016.000000
 					Vertex   +00004.000000,-00021.999990,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00101.999992,+00215.999954,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8805,7 +8805,7 @@ Begin Map
 					Vertex   +00004.000000,-00063.999992,+00016.000000
 					Vertex   +00004.000000,-00025.999998,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   -00102.000031,-00295.999969,-00256.000000
 					Normal   +00000.000000,-00000.784046,-00000.620703
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -8815,7 +8815,7 @@ Begin Map
 					Vertex   +00000.000000,-00063.999996,+00016.000000
 					Vertex   +00000.000000,-00025.999996,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   -00106.000046,-00296.000031,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -8825,7 +8825,7 @@ Begin Map
 					Vertex   +00000.000000,+00016.000000,+00016.000000
 					Vertex   -00000.000015,-00021.999992,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00101.999992,+00215.999954,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8835,7 +8835,7 @@ Begin Map
 					Vertex   +00000.000000,-00063.999996,+00016.000000
 					Vertex   +00004.000000,-00063.999992,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00105.999962,+00215.999939,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8899,7 +8899,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00001.999978,+00255.999969,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8909,7 +8909,7 @@ Begin Map
 					Vertex   +00001.999985,+00255.999969,+00256.000000
 					Vertex   +00001.999985,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
 					Origin   +00001.999985,+00255.999969,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8919,7 +8919,7 @@ Begin Map
 					Vertex   +00001.999978,-00255.999969,+00256.000000
 					Vertex   +00001.999978,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
 					Origin   +00001.999978,-00255.999969,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -8929,7 +8929,7 @@ Begin Map
 					Vertex   -00001.999985,-00255.999969,+00256.000000
 					Vertex   -00001.999985,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_mpserver1_Mat.mpserver1_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/mpserver1_Mat.mpserver1_Mat LightMapScale=128.0 Link=3
 					Origin   -00001.999985,-00255.999969,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -8939,7 +8939,7 @@ Begin Map
 					Vertex   -00001.999978,+00255.999969,+00256.000000
 					Vertex   -00001.999978,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
 					Origin   +00001.999985,+00255.999969,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8949,7 +8949,7 @@ Begin Map
 					Vertex   -00001.999985,-00255.999969,+00256.000000
 					Vertex   +00001.999978,-00255.999969,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
 					Origin   -00001.999978,+00255.999969,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8973,7 +8973,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00001.999978,+00255.999969,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -8983,7 +8983,7 @@ Begin Map
 					Vertex   +00001.999985,+00255.999969,+00256.000000
 					Vertex   +00001.999985,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
 					Origin   +00001.999985,+00255.999969,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -8993,7 +8993,7 @@ Begin Map
 					Vertex   +00001.999978,-00255.999969,+00256.000000
 					Vertex   +00001.999978,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
 					Origin   +00001.999978,-00255.999969,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -9003,7 +9003,7 @@ Begin Map
 					Vertex   -00001.999985,-00255.999969,+00256.000000
 					Vertex   -00001.999985,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_mpserver2_Mat.mpserver2_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/mpserver2_Mat.mpserver2_Mat LightMapScale=128.0 Link=3
 					Origin   -00001.999985,-00255.999969,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -9013,7 +9013,7 @@ Begin Map
 					Vertex   -00001.999978,+00255.999969,+00256.000000
 					Vertex   -00001.999978,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
 					Origin   +00001.999985,+00255.999969,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -9023,7 +9023,7 @@ Begin Map
 					Vertex   -00001.999985,-00255.999969,+00256.000000
 					Vertex   +00001.999978,-00255.999969,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
 					Origin   -00001.999978,+00255.999969,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -9825,7 +9825,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00077.999977,+00251.999939,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -9835,7 +9835,7 @@ Begin Map
 					Vertex   +00000.000004,+00024.000004,+00048.000000
 					Vertex   +00000.000004,+00024.000004,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00074.000000,+00251.999969,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -9845,7 +9845,7 @@ Begin Map
 					Vertex   +00000.000000,-00008.000000,+00048.000000
 					Vertex   +00000.000000,-00008.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   -00074.000000,-00259.999969,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -9855,7 +9855,7 @@ Begin Map
 					Vertex   -00004.000000,-00008.000000,+00048.000000
 					Vertex   -00004.000000,-00008.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   -00078.000008,-00259.999969,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -9865,7 +9865,7 @@ Begin Map
 					Vertex   -00003.999996,+00024.000015,+00048.000000
 					Vertex   -00003.999996,+00024.000015,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00074.000000,+00251.999969,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -9875,7 +9875,7 @@ Begin Map
 					Vertex   -00004.000000,-00008.000000,+00048.000000
 					Vertex   +00000.000000,-00008.000000,+00048.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00077.999977,+00251.999939,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -9899,7 +9899,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00105.999962,+00215.999939,-00256.000000
 					Normal   +00000.000000,+00000.784046,-00000.620703
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -9909,7 +9909,7 @@ Begin Map
 					Vertex   +00004.000008,+00015.999996,+00016.000000
 					Vertex   +00004.000000,-00021.999990,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00101.999992,+00215.999954,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -9919,7 +9919,7 @@ Begin Map
 					Vertex   +00004.000000,-00063.999992,+00016.000000
 					Vertex   +00004.000000,-00025.999998,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   -00102.000031,-00295.999969,-00256.000000
 					Normal   +00000.000000,-00000.784046,-00000.620703
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -9929,7 +9929,7 @@ Begin Map
 					Vertex   +00000.000000,-00063.999996,+00016.000000
 					Vertex   +00000.000000,-00025.999996,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   -00106.000046,-00296.000031,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -9939,7 +9939,7 @@ Begin Map
 					Vertex   +00000.000000,+00016.000000,+00016.000000
 					Vertex   -00000.000015,-00021.999992,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00101.999992,+00215.999954,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -9949,7 +9949,7 @@ Begin Map
 					Vertex   +00000.000000,-00063.999996,+00016.000000
 					Vertex   +00004.000000,-00063.999992,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00105.999962,+00215.999939,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -9973,7 +9973,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00000.784046,+00000.000000,-00000.620703
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -9983,7 +9983,7 @@ Begin Map
 					Vertex   -00016.000000,+00004.000000,+00016.000000
 					Vertex   +00022.000000,+00004.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -9993,7 +9993,7 @@ Begin Map
 					Vertex   +00064.000000,+00004.000000,+00016.000000
 					Vertex   +00026.000000,+00004.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.784046,+00000.000000,-00000.620703
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -10003,7 +10003,7 @@ Begin Map
 					Vertex   +00064.000000,+00000.000000,+00016.000000
 					Vertex   +00026.000000,+00000.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -10013,7 +10013,7 @@ Begin Map
 					Vertex   -00016.000000,+00000.000000,+00016.000000
 					Vertex   +00022.000000,+00000.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10023,7 +10023,7 @@ Begin Map
 					Vertex   +00064.000000,+00000.000000,+00016.000000
 					Vertex   +00064.000000,+00004.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10047,7 +10047,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -10057,7 +10057,7 @@ Begin Map
 					Vertex   -00024.000000,+00000.000000,+00048.000000
 					Vertex   -00024.000000,+00000.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10067,7 +10067,7 @@ Begin Map
 					Vertex   +00008.000000,+00000.000000,+00048.000000
 					Vertex   +00008.000000,+00000.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -10077,7 +10077,7 @@ Begin Map
 					Vertex   +00008.000000,-00004.000000,+00048.000000
 					Vertex   +00008.000000,-00004.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -10087,7 +10087,7 @@ Begin Map
 					Vertex   -00024.000000,-00004.000000,+00048.000000
 					Vertex   -00024.000000,-00004.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10097,7 +10097,7 @@ Begin Map
 					Vertex   +00008.000000,-00004.000000,+00048.000000
 					Vertex   +00008.000000,+00000.000000,+00048.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10121,7 +10121,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00000.784046,+00000.000000,-00000.620703
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -10131,7 +10131,7 @@ Begin Map
 					Vertex   -00016.000000,+00004.000000,+00016.000000
 					Vertex   +00022.000000,+00004.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10141,7 +10141,7 @@ Begin Map
 					Vertex   +00064.000000,+00004.000000,+00016.000000
 					Vertex   +00026.000000,+00004.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.784046,+00000.000000,-00000.620703
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -10151,7 +10151,7 @@ Begin Map
 					Vertex   +00064.000000,+00000.000000,+00016.000000
 					Vertex   +00026.000000,+00000.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -10161,7 +10161,7 @@ Begin Map
 					Vertex   -00016.000000,+00000.000000,+00016.000000
 					Vertex   +00022.000000,+00000.000000,-00032.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10171,7 +10171,7 @@ Begin Map
 					Vertex   +00064.000000,+00000.000000,+00016.000000
 					Vertex   +00064.000000,+00004.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10195,7 +10195,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -10205,7 +10205,7 @@ Begin Map
 					Vertex   -00024.000000,+00000.000000,+00048.000000
 					Vertex   -00024.000000,+00000.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10215,7 +10215,7 @@ Begin Map
 					Vertex   +00008.000000,+00000.000000,+00048.000000
 					Vertex   +00008.000000,+00000.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -10225,7 +10225,7 @@ Begin Map
 					Vertex   +00008.000000,-00004.000000,+00048.000000
 					Vertex   +00008.000000,-00004.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -10235,7 +10235,7 @@ Begin Map
 					Vertex   -00024.000000,-00004.000000,+00048.000000
 					Vertex   -00024.000000,-00004.000000,-00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00002.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10245,7 +10245,7 @@ Begin Map
 					Vertex   +00008.000000,-00004.000000,+00048.000000
 					Vertex   +00008.000000,+00000.000000,+00048.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00002.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10269,7 +10269,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,+00270.000000,-00888.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -10279,7 +10279,7 @@ Begin Map
 					Vertex   +00090.106230,+00006.008804,+00065.000000
 					Vertex   +00090.106230,+00006.008804,+00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10289,7 +10289,7 @@ Begin Map
 					Vertex   +00570.220000,+00005.779800,+00065.000000
 					Vertex   +00570.220000,+00005.779800,+00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,-00270.000000,-00888.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.500000,+00000.000000
@@ -10299,7 +10299,7 @@ Begin Map
 					Vertex   +00570.220000,+00001.779800,+00065.000000
 					Vertex   +00570.220000,+00001.779800,+00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=3
 					Origin   -00016.000000,-00002.000000,-00888.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.500000,+00000.000000,+00000.000000
@@ -10309,7 +10309,7 @@ Begin Map
 					Vertex   +00090.106230,+00002.008804,+00065.000000
 					Vertex   +00090.106230,+00002.008804,+00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=4
 					Origin   +00016.000000,+00634.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -10319,7 +10319,7 @@ Begin Map
 					Vertex   +00570.220000,+00001.779800,+00065.000000
 					Vertex   +00570.220000,+00005.779800,+00065.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_02_Startup_Mat.GEO_02_Startup_Mat LightMapScale=128.0 Link=5
 					Origin   +00016.000000,-00634.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.500000,+00000.000000,+00000.000000
@@ -10343,7 +10343,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00002.000000,-00272.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00008.000000,+00000.000000
@@ -10353,7 +10353,7 @@ Begin Map
 					Vertex   +00090.106230,+00006.008804,+00065.000000
 					Vertex   +00090.106230,+00006.008804,+00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/green_border_Mat.green_border_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00002.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10363,7 +10363,7 @@ Begin Map
 					Vertex   +00570.220000,+00005.779800,+00065.000000
 					Vertex   +00570.220000,+00005.779800,+00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00002.000000,-00272.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00008.000000,+00000.000000
@@ -10373,7 +10373,7 @@ Begin Map
 					Vertex   +00570.220000,+00001.779800,+00065.000000
 					Vertex   +00570.220000,+00001.779800,+00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00002.000000,-00272.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00008.000000,+00000.000000,+00000.000000
@@ -10383,7 +10383,7 @@ Begin Map
 					Vertex   +00090.106230,+00002.008804,+00065.000000
 					Vertex   +00090.106230,+00002.008804,+00001.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00018.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00008.000000,+00000.000000,+00000.000000
@@ -10393,7 +10393,7 @@ Begin Map
 					Vertex   +00570.220000,+00001.779800,+00065.000000
 					Vertex   +00570.220000,+00005.779800,+00065.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Door3_Mat.As_Door3_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00018.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00008.000000,+00000.000000,+00000.000000
@@ -10417,7 +10417,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=0
 					Origin   -00001.999978,+00255.999969,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10427,7 +10427,7 @@ Begin Map
 					Vertex   +00001.999985,+00255.999969,+00256.000000
 					Vertex   +00001.999985,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=1
 					Origin   +00001.999985,+00255.999969,-00256.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -10437,7 +10437,7 @@ Begin Map
 					Vertex   +00001.999978,-00255.999969,+00256.000000
 					Vertex   +00001.999978,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=2
 					Origin   +00001.999978,-00255.999969,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -10447,7 +10447,7 @@ Begin Map
 					Vertex   -00001.999985,-00255.999969,+00256.000000
 					Vertex   -00001.999985,-00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_geosplitscreen_Mat.geosplitscreen_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/geosplitscreen_Mat.geosplitscreen_Mat LightMapScale=128.0 Link=3
 					Origin   -00001.999985,-00255.999969,-00256.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.500000,+00000.000000
@@ -10457,7 +10457,7 @@ Begin Map
 					Vertex   -00001.999978,+00255.999969,+00256.000000
 					Vertex   -00001.999978,+00255.999969,-00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=4
 					Origin   +00001.999985,+00255.999969,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -10467,7 +10467,7 @@ Begin Map
 					Vertex   -00001.999985,-00255.999969,+00256.000000
 					Vertex   +00001.999978,-00255.999969,+00256.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens_GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/GUIContent/LoadingScreens/GEO_01_Startup_Mat.GEO_01_Startup_Mat LightMapScale=128.0 Link=5
 					Origin   -00001.999978,+00255.999969,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000

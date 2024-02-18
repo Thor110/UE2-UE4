@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome_KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome/KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=0
 					Origin   -00256.000000,-00256.000000,-00256.000000
 					Normal   -00000.999999,+00000.000000,-00000.001273
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   +00000.000052,+00512.000000,-00000.000251
 					Vertex   +00000.747000,+00512.000000,-00586.693000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome_KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome/KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=1
 					Origin   -00256.000000,+00256.000000,-00256.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   +00512.000036,+00512.000000,-00000.000251
 					Vertex   +00512.747000,+00512.000000,-00586.693000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome_KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome/KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=2
 					Origin   +00256.000000,+00256.000000,-00256.000000
 					Normal   +00000.999999,+00000.000000,+00000.001273
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   +00512.000036,+00000.000000,-00000.000251
 					Vertex   +00512.747000,+00000.000000,-00586.693000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome_KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome/KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=3
 					Origin   +00256.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   +00000.000052,+00000.000000,-00000.000251
 					Vertex   +00000.747000,+00000.000000,-00586.693000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome_KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome/KA_skydome3_Mat.KA_skydome3_Mat LightMapScale=128.0 Link=4
 					Origin   -00256.000000,+00256.000000,+00256.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   +00512.000036,+00000.000000,-00000.000251
 					Vertex   +00512.000036,+00512.000000,-00000.000251
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome_rain2_Mat.rain2_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/SkyDome/rain2_Mat.rain2_Mat LightMapScale=128.0 Link=5
 					Origin   -00256.000000,-00256.000000,-00256.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -305,7 +305,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -315,7 +315,7 @@ Begin Map
 					Vertex   -01280.000000,+00000.000000,+00672.000000
 					Vertex   -01279.999023,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -325,7 +325,7 @@ Begin Map
 					Vertex   -01280.000244,+00864.000977,+00672.000000
 					Vertex   -01280.000244,+00864.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999268,-03680.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -335,7 +335,7 @@ Begin Map
 					Vertex   -00000.000244,+00864.000000,+00672.000000
 					Vertex   -00000.000244,+00864.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,+00004.000000
@@ -345,7 +345,7 @@ Begin Map
 					Vertex   -00000.000244,+00864.000000,+00672.000000
 					Vertex   -00000.000244,+00000.000000,+00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -355,7 +355,7 @@ Begin Map
 					Vertex   -00000.000244,+00864.000000,+00672.000000
 					Vertex   -01280.000244,+00864.000977,+00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -03039.999512,-03759.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -450,7 +450,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -460,7 +460,7 @@ Begin Map
 					Vertex   -00447.999601,-00000.002344,+00512.000000
 					Vertex   -00447.998624,-00000.002344,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -470,7 +470,7 @@ Begin Map
 					Vertex   -00447.999845,+00207.998633,+00512.000000
 					Vertex   -00447.999845,+00207.998633,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999268,-03680.000000,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -480,7 +480,7 @@ Begin Map
 					Vertex   +00000.000155,+00207.997656,+00512.000000
 					Vertex   +00000.000155,+00207.997656,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999268,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,+00004.000000
@@ -490,7 +490,7 @@ Begin Map
 					Vertex   +00000.000155,+00207.997656,+00512.000000
 					Vertex   +00000.000155,-00000.002344,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -500,7 +500,7 @@ Begin Map
 					Vertex   +00000.000155,+00207.997656,+00512.000000
 					Vertex   -00447.999845,+00207.998633,+00512.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   -02995.999268,-03608.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -524,7 +524,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -534,7 +534,7 @@ Begin Map
 					Vertex   -00002.989868,-01856.653320,+00000.000000
 					Vertex   -00002.988892,-01856.653320,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -544,7 +544,7 @@ Begin Map
 					Vertex   -00002.989868,+00463.346680,+00000.000000
 					Vertex   -00002.989868,+00463.346680,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -554,7 +554,7 @@ Begin Map
 					Vertex   +00765.009888,+00463.346680,+00000.000000
 					Vertex   +00765.009888,+00463.346680,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -564,7 +564,7 @@ Begin Map
 					Vertex   +00765.009888,+00463.346680,+00000.000000
 					Vertex   +00765.010132,-01856.653320,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -574,7 +574,7 @@ Begin Map
 					Vertex   +00765.009888,+00463.346680,+00000.000000
 					Vertex   -00002.989868,+00463.346680,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   +00607.999756,-14992.000000,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -598,7 +598,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   +262144.000000,+01792.000000,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -608,7 +608,7 @@ Begin Map
 					Vertex   +06640.000000,+00000.000000,+02112.000000
 					Vertex   +06640.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Floor2_spec_Mat.As_Floor2_spec_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Floor2_spec_Mat.As_Floor2_spec_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,+262144.000000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -618,7 +618,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+02112.000000
 					Vertex   +00000.000000,-06384.000000,+02112.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03072.000000,-02304.000000,-01024.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -628,7 +628,7 @@ Begin Map
 					Vertex   +00000.000000,-06384.000000,+02112.000000
 					Vertex   +00000.000000,+00000.000000,+02112.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   +03072.000000,+02304.000000,-01024.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -638,7 +638,7 @@ Begin Map
 					Vertex   +06640.000000,-06384.000000,+02112.000000
 					Vertex   +06640.000000,-06384.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   +03072.000000,-02304.000000,-01024.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -648,7 +648,7 @@ Begin Map
 					Vertex   +00000.000000,-06384.000000,+02112.000000
 					Vertex   +00000.000000,-06384.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -03072.000000,-02304.000000,-01024.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -775,7 +775,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   +262144.000000,+01792.000000,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -785,7 +785,7 @@ Begin Map
 					Vertex   +00000.000000,+06384.000000,+00000.000000
 					Vertex   +00000.000000,+06384.000000,-03552.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Floor2_spec_Mat.As_Floor2_spec_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Floor2_spec_Mat.As_Floor2_spec_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,+262144.000000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -795,7 +795,7 @@ Begin Map
 					Vertex   -03136.000000,+06384.000000,+00000.000000
 					Vertex   -03136.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   -03072.000000,-02304.000000,-01024.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -805,7 +805,7 @@ Begin Map
 					Vertex   -03136.000000,+00000.000000,+00000.000000
 					Vertex   -03136.000000,+06384.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +03072.000000,+02304.000000,-01024.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -815,7 +815,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-03552.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   +03072.000000,-02304.000000,-01024.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -825,7 +825,7 @@ Begin Map
 					Vertex   -03136.000000,+00000.000000,+00000.000000
 					Vertex   -03136.000000,+00000.000000,-03552.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -03072.000000,-02304.000000,-01024.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1514,7 +1514,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1524,7 +1524,7 @@ Begin Map
 					Vertex   -00718.001000,-00016.000000,+00640.000000
 					Vertex   -00718.000023,-00016.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1534,7 +1534,7 @@ Begin Map
 					Vertex   -00718.001244,+00864.000977,+00640.000000
 					Vertex   -00718.001244,+00864.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1544,7 +1544,7 @@ Begin Map
 					Vertex   +00063.998756,+00864.000000,+00640.000000
 					Vertex   +00063.998756,+00864.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1554,7 +1554,7 @@ Begin Map
 					Vertex   +00063.998756,+00864.000000,+00640.000000
 					Vertex   +00063.998756,-00016.000000,+00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1564,7 +1564,7 @@ Begin Map
 					Vertex   +00063.998756,+00864.000000,+00640.000000
 					Vertex   -00718.001244,+00864.000977,+00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   +00606.000977,-12640.000000,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1588,7 +1588,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   +262144.000000,+01792.000000,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1598,7 +1598,7 @@ Begin Map
 					Vertex   +00000.000000,+06384.000000,+00000.000000
 					Vertex   +00000.000000,+06384.000000,-03552.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General_As_Floor2_spec_Mat.As_Floor2_spec_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/AssaultShip_Textures/General/As_Floor2_spec_Mat.As_Floor2_spec_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,+262144.000000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1608,7 +1608,7 @@ Begin Map
 					Vertex   -03168.000000,+06384.000000,+00000.000000
 					Vertex   -03168.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   -03072.000000,-02304.000000,-01024.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1618,7 +1618,7 @@ Begin Map
 					Vertex   -03168.000000,+00000.000000,+00000.000000
 					Vertex   -03168.000000,+06384.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +03072.000000,+02304.000000,-01024.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1628,7 +1628,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-03552.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   +03072.000000,-02304.000000,-01024.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1638,7 +1638,7 @@ Begin Map
 					Vertex   -03168.000000,+00000.000000,+00000.000000
 					Vertex   -03168.000000,+00000.000000,-03552.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -03072.000000,-02304.000000,-01024.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1662,7 +1662,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=0
 					Origin   +262144.000000,+01792.000000,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1672,7 +1672,7 @@ Begin Map
 					Vertex   +12944.000000,+00000.000000,+00000.000000
 					Vertex   +12944.000000,+00000.000000,-02752.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,+262144.000000,+00512.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1682,7 +1682,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,-06384.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=2
 					Origin   -03072.000000,-02304.000000,-01024.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1692,7 +1692,7 @@ Begin Map
 					Vertex   +00000.000000,-06384.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=3
 					Origin   +03072.000000,+02304.000000,-01024.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1702,7 +1702,7 @@ Begin Map
 					Vertex   +12944.000000,-06384.000000,+00000.000000
 					Vertex   +12944.000000,-06384.000000,-02752.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=4
 					Origin   +03072.000000,-02304.000000,-01024.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -1712,7 +1712,7 @@ Begin Map
 					Vertex   +00000.000000,-06384.000000,+00000.000000
 					Vertex   +00000.000000,-06384.000000,-02752.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels_Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/LD_Common/Labels/Label_Skybox_Mat.Label_Skybox_Mat LightMapScale=128.0 Link=5
 					Origin   -03072.000000,-02304.000000,-01024.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1793,7 +1793,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1803,7 +1803,7 @@ Begin Map
 					Vertex   +00000.000007,+00000.000000,+00000.000000
 					Vertex   +00000.000984,+00000.000000,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1813,7 +1813,7 @@ Begin Map
 					Vertex   -00000.000268,+00080.000977,+00000.000000
 					Vertex   -00000.000268,+00080.000977,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1823,7 +1823,7 @@ Begin Map
 					Vertex   +00367.998756,+00080.000000,+00000.000000
 					Vertex   +00367.998756,+00080.000000,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,+00004.000000
@@ -1833,7 +1833,7 @@ Begin Map
 					Vertex   +00367.998756,+00080.000000,+00000.000000
 					Vertex   +00367.998756,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1843,7 +1843,7 @@ Begin Map
 					Vertex   +00367.998756,+00080.000000,+00000.000000
 					Vertex   -00000.000268,+00080.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeDoor_Mat.BridgeDoor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeDoor_Mat.BridgeDoor_Mat LightMapScale=128.0 Link=5
 					Origin   -03183.999512,-03600.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -1895,7 +1895,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1905,7 +1905,7 @@ Begin Map
 					Vertex   -01632.000000,+00000.000000,+00640.000000
 					Vertex   -01631.999023,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1915,7 +1915,7 @@ Begin Map
 					Vertex   -01632.000244,+03280.000977,+00640.000000
 					Vertex   -01632.000244,+03280.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -1925,7 +1925,7 @@ Begin Map
 					Vertex   +00000.000977,+03280.000000,+00640.000000
 					Vertex   +00000.000977,+03280.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -1935,7 +1935,7 @@ Begin Map
 					Vertex   +00000.000977,+03280.000000,+00640.000000
 					Vertex   +00000.000977,+00000.000000,+00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -1945,7 +1945,7 @@ Begin Map
 					Vertex   +00000.000977,+03280.000000,+00640.000000
 					Vertex   -01632.000244,+03280.000977,+00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   -00189.009399,-12543.346680,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2045,7 +2045,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-00992.001953,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2055,7 +2055,7 @@ Begin Map
 					Vertex   -00223.999023,+00000.000047,-00176.000671
 					Vertex   +00000.000977,+00000.000047,-00176.000793
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,+00031.997986,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2065,7 +2065,7 @@ Begin Map
 					Vertex   +00000.000000,+06528.002000,-00176.000122
 					Vertex   -00223.999023,+06528.000047,-00176.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders/fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=2
 					Origin   +257652.203125,-262079.000000,+48645.781250
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.982872,+00000.000000,+00000.184289
@@ -2075,7 +2075,7 @@ Begin Map
 					Vertex   -00223.999023,+00000.000047,-00176.000366
 					Vertex   -00223.999023,+06528.000047,-00176.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -01279.998535,+262144.000000,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2085,7 +2085,7 @@ Begin Map
 					Vertex   -00223.999023,+00000.000047,+00000.000000
 					Vertex   -00223.999023,+06528.000047,+00000.000366
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   +260607.937500,-264191.968750,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -2095,7 +2095,7 @@ Begin Map
 					Vertex   -00223.999023,+06528.000047,+00000.000366
 					Vertex   -00223.999023,+00000.000047,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=5
 					Origin   -01280.000977,-01023.999023,-00512.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,-00004.000000
@@ -2119,7 +2119,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-00992.001953,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2129,7 +2129,7 @@ Begin Map
 					Vertex   +00262.000977,-04836.001953,-00640.000671
 					Vertex   +00454.000977,-04836.001953,-00640.000793
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   +262144.000000,+00031.997986,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2139,7 +2139,7 @@ Begin Map
 					Vertex   +00454.000000,+01692.000000,-00640.000122
 					Vertex   +00262.000977,+01691.998047,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders_fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Shaders/fightfloorspec_Mat.fightfloorspec_Mat LightMapScale=128.0 Link=2
 					Origin   +257652.203125,-262079.000000,+48645.781250
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.982872,+00000.000000,+00000.184289
@@ -2149,7 +2149,7 @@ Begin Map
 					Vertex   +00262.000977,-04836.001953,-00640.000366
 					Vertex   +00262.000977,+01691.998047,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -01279.998535,+262144.000000,+262144.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,+00004.000000
@@ -2159,7 +2159,7 @@ Begin Map
 					Vertex   +00262.000977,-04836.001953,-00464.000000
 					Vertex   +00262.000977,+01691.998047,-00463.999634
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   +260607.937500,-264191.968750,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -2169,7 +2169,7 @@ Begin Map
 					Vertex   +00262.000977,+01691.998047,-00463.999634
 					Vertex   +00262.000977,-04836.001953,-00464.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=5
 					Origin   -01280.000977,-01023.999023,-00512.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.666667,+00000.000000
@@ -2217,7 +2217,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
 					Origin   +261631.937500,-03971.984863,+262144.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -2227,7 +2227,7 @@ Begin Map
 					Vertex   -00000.000192,+00831.998047,+00000.000000
 					Vertex   -00000.000894,+00831.997803,-00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
 					Origin   +02655.998535,-03524.000244,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -2237,7 +2237,7 @@ Begin Map
 					Vertex   -00000.000192,-00000.001953,+00000.000000
 					Vertex   -00000.000192,-00000.001953,-00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=2
 					Origin   +02655.999023,-03780.000244,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -2247,7 +2247,7 @@ Begin Map
 					Vertex   -01280.000559,-00000.001953,+00000.000000
 					Vertex   -01280.000559,-00000.001953,-00672.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=3
 					Origin   +02399.998535,-03780.000488,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,+00004.000000
@@ -2257,7 +2257,7 @@ Begin Map
 					Vertex   -01280.000559,-00000.001953,+00000.000000
 					Vertex   -01280.000192,+00831.998047,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=4
 					Origin   +02655.998535,-03524.000244,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -2267,7 +2267,7 @@ Begin Map
 					Vertex   -01280.000559,-00000.001953,+00000.000000
 					Vertex   -00000.000192,-00000.001953,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=5
 					Origin   +02527.999512,-03700.999756,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -2319,7 +2319,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -00512.000000,-00512.000000,-00064.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2329,7 +2329,7 @@ Begin Map
 					Vertex   -03152.000000,+03424.000000,+00016.000000
 					Vertex   -03152.000000,+03424.000000,-00112.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Bridgehatbuilding_Mat.Bridgehatbuilding_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Bridgehatbuilding_Mat.Bridgehatbuilding_Mat LightMapScale=128.0 Link=1
 					Origin   -00512.000000,+00512.000000,+00064.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -2339,7 +2339,7 @@ Begin Map
 					Vertex   -02128.000000,+03424.000000,+00016.000000
 					Vertex   -02128.000000,+03424.000000,-00112.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Bridgehatbuilding_Mat.Bridgehatbuilding_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Bridgehatbuilding_Mat.Bridgehatbuilding_Mat LightMapScale=128.0 Link=2
 					Origin   +00512.000000,+00512.000000,+00064.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -2349,7 +2349,7 @@ Begin Map
 					Vertex   -02128.000000,+02400.000000,+00016.000000
 					Vertex   -02128.000000,+02400.000000,-00112.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Bridgehatbuilding_Mat.Bridgehatbuilding_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Bridgehatbuilding_Mat.Bridgehatbuilding_Mat LightMapScale=128.0 Link=3
 					Origin   +00512.000000,-00512.000000,+00064.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -2359,7 +2359,7 @@ Begin Map
 					Vertex   -03152.000000,+02400.000000,+00016.000000
 					Vertex   -03152.000000,+02400.000000,-00112.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=4
 					Origin   -00512.000000,+00512.000000,+00064.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -2369,7 +2369,7 @@ Begin Map
 					Vertex   -02128.000000,+02400.000000,+00016.000000
 					Vertex   -02128.000000,+03424.000000,+00016.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/FightFloor_Mat.FightFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -00512.000000,-00512.000000,-00064.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2774,7 +2774,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2784,7 +2784,7 @@ Begin Map
 					Vertex   -00384.000000,+00000.000000,+00000.000000
 					Vertex   -00383.999023,+00000.000000,-00432.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2794,7 +2794,7 @@ Begin Map
 					Vertex   -00384.000000,+00256.000000,+00000.000000
 					Vertex   -00384.000000,+00256.000000,-00432.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -2804,7 +2804,7 @@ Begin Map
 					Vertex   +00000.000061,+00255.999023,+00000.000000
 					Vertex   +00000.000061,+00255.999023,-00432.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,+00004.000000
@@ -2814,7 +2814,7 @@ Begin Map
 					Vertex   +00000.000061,+00255.999023,+00000.000000
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2824,7 +2824,7 @@ Begin Map
 					Vertex   +00000.000061,+00255.999023,+00000.000000
 					Vertex   -00384.000000,+00256.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   +00618.000977,-15212.000000,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2848,7 +2848,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -2858,7 +2858,7 @@ Begin Map
 					Vertex   -00768.000000,-00800.000000,+00000.000000
 					Vertex   -00767.999023,-00800.000000,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2868,7 +2868,7 @@ Begin Map
 					Vertex   -00768.000061,+00000.000977,+00000.000000
 					Vertex   -00768.000061,+00000.000977,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -2878,7 +2878,7 @@ Begin Map
 					Vertex   +00000.000000,-00000.000977,+00000.000000
 					Vertex   +00000.000000,-00000.000977,-00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2888,7 +2888,7 @@ Begin Map
 					Vertex   +00000.000000,-00000.000977,+00000.000000
 					Vertex   +00000.000000,-00800.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2898,7 +2898,7 @@ Begin Map
 					Vertex   +00000.000000,-00000.000977,+00000.000000
 					Vertex   -00768.000061,+00000.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   +00602.000977,-15084.000000,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2936,7 +2936,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -2946,7 +2946,7 @@ Begin Map
 					Vertex   -00784.000023,+00000.000000,+00640.000000
 					Vertex   -00783.999047,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2956,7 +2956,7 @@ Begin Map
 					Vertex   -00784.000268,+00880.000977,+00640.000000
 					Vertex   -00784.000268,+00880.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -2966,7 +2966,7 @@ Begin Map
 					Vertex   -00000.000023,+00880.000000,+00640.000000
 					Vertex   -00000.000023,+00880.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -2976,7 +2976,7 @@ Begin Map
 					Vertex   -00000.000023,+00880.000000,+00640.000000
 					Vertex   -00000.001000,+00000.000000,+00639.995605
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -2986,7 +2986,7 @@ Begin Map
 					Vertex   -00000.000023,+00880.000000,+00640.000000
 					Vertex   -00784.000268,+00880.000977,+00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   +00600.001709,-12635.999023,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -3039,7 +3039,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Bridgetop_Mat.Bridgetop_Mat LightMapScale=128.0 Link=0
 					Origin   -262138.281250,-03488.056396,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000022,+00000.000000,+00000.000000
@@ -3049,7 +3049,7 @@ Begin Map
 					Vertex   +00000.000050,-00111.999150,+00000.000000
 					Vertex   +00000.001026,-00111.999150,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.940186,-03936.549561,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -3059,7 +3059,7 @@ Begin Map
 					Vertex   -00000.000225,+00000.001826,+00000.000000
 					Vertex   -00000.000256,+00000.001826,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/Ka_Twigs_Mat.Ka_Twigs_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.939941,-03680.267822,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000022,+00000.000000,+00000.000000
@@ -3069,7 +3069,7 @@ Begin Map
 					Vertex   +00352.000050,+00000.000850,+00000.000000
 					Vertex   +00352.000050,+00000.000850,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.945557,-03680.267578,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.000000,+00004.000000
@@ -3079,7 +3079,7 @@ Begin Map
 					Vertex   +00352.000050,+00000.000850,+00000.000000
 					Vertex   +00352.000050,-00111.999150,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.940186,-03936.549561,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -3089,7 +3089,7 @@ Begin Map
 					Vertex   +00352.000050,+00000.000850,+00000.000000
 					Vertex   -00000.000225,+00000.001826,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeDoor_Mat.BridgeDoor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeDoor_Mat.BridgeDoor_Mat LightMapScale=128.0 Link=5
 					Origin   -03183.939697,-03600.179688,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -5852,7 +5852,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -5862,7 +5862,7 @@ Begin Map
 					Vertex   -01554.990234,-00000.653320,+00640.000000
 					Vertex   -01554.989258,-00000.653320,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -5872,7 +5872,7 @@ Begin Map
 					Vertex   -01554.990234,+00767.346680,+00640.000000
 					Vertex   -01554.990234,+00767.346680,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -5882,7 +5882,7 @@ Begin Map
 					Vertex   -00002.989990,+00767.344727,+00640.000000
 					Vertex   -00002.989990,+00767.344727,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -5892,7 +5892,7 @@ Begin Map
 					Vertex   -00002.989990,+00767.344727,+00640.000000
 					Vertex   -00002.990234,-00000.653320,+00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -5902,7 +5902,7 @@ Begin Map
 					Vertex   -00002.989990,+00767.344727,+00640.000000
 					Vertex   -01554.990234,+00767.346680,+00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   +01391.999390,-15760.000000,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -8779,7 +8779,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -01140.000000,-00716.000000,-00380.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -8789,7 +8789,7 @@ Begin Map
 					Vertex   +00004.000000,+00800.000000,+00760.000000
 					Vertex   +00004.000000,+00800.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -01140.000000,+00716.000000,-00380.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -8799,7 +8799,7 @@ Begin Map
 					Vertex   +02284.000000,+00800.000000,+00760.000000
 					Vertex   +02284.000000,+00800.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   +01140.000000,+00716.000000,-00380.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -8809,7 +8809,7 @@ Begin Map
 					Vertex   +02284.000000,-00004.000000,+00760.000000
 					Vertex   +02284.000000,-00004.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   +01140.000000,-00716.000000,-00380.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00004.000000,+00000.000000,+00000.000000
@@ -8819,7 +8819,7 @@ Begin Map
 					Vertex   +00004.000000,-00004.000000,+00760.000000
 					Vertex   +00004.000000,-00004.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -01140.000000,+00716.000000,+00380.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -8829,7 +8829,7 @@ Begin Map
 					Vertex   +02284.000000,-00004.000000,+00760.000000
 					Vertex   +02284.000000,+00800.000000,+00760.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   -00085.010620,+04188.654297,-00892.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00004.000000,+00000.000000,+00000.000000
@@ -11964,7 +11964,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
 					Origin   -06293.523926,-09513.756836,-00497.779083
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -11974,7 +11974,7 @@ Begin Map
 					Vertex   +00103.128262,-00435.127944,-00465.688635
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
 					Origin   +258892.593750,+265157.875000,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -11984,7 +11984,7 @@ Begin Map
 					Vertex   +00103.136074,-00435.116897,-00001.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
 					Origin   -265393.218750,+03014.014160,+262655.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -11994,7 +11994,7 @@ Begin Map
 					Vertex   +00007.136074,-00435.116836,-00001.679083
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -04243.291504,-62521.949219,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -12004,7 +12004,7 @@ Begin Map
 					Vertex   +00103.136074,-00003.116805,-00465.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
 					Origin   -04275.302734,+02756.020508,-00001.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12014,7 +12014,7 @@ Begin Map
 					Vertex   +00007.135098,-00003.118789,-00001.679083
 					Vertex   +00007.135098,-00003.118789,-00465.679083
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
 					Origin   -04277.300293,+03270.019531,-00001.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12038,7 +12038,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
 					Origin   -06293.521973,-10329.755859,-00497.779083
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -12048,7 +12048,7 @@ Begin Map
 					Vertex   +00103.128262,-00435.127944,-00465.688635
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
 					Origin   +258892.593750,+265157.875000,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -12058,7 +12058,7 @@ Begin Map
 					Vertex   +00103.136074,-00435.116897,-00001.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
 					Origin   -265393.218750,+03014.014160,+262655.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12068,7 +12068,7 @@ Begin Map
 					Vertex   +00007.136074,-00435.116836,-00001.679083
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -04243.291504,-62521.949219,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -12078,7 +12078,7 @@ Begin Map
 					Vertex   +00103.136074,-00003.116805,-00465.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
 					Origin   -04275.302734,+02756.020508,-00001.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12088,7 +12088,7 @@ Begin Map
 					Vertex   +00007.135098,-00003.117813,-00001.679083
 					Vertex   +00007.135098,-00003.117813,-00465.679083
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
 					Origin   -04277.300293,+03270.019531,-00001.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12112,7 +12112,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
 					Origin   -06293.525879,-11113.756836,-00497.779083
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,-00004.000000,+00000.000000
@@ -12122,7 +12122,7 @@ Begin Map
 					Vertex   +00103.128262,-00435.127944,-00465.688635
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
 					Origin   +258892.593750,+265157.875000,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -12132,7 +12132,7 @@ Begin Map
 					Vertex   +00103.136074,-00435.116897,-00001.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
 					Origin   -265393.218750,+03014.014160,+262655.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12142,7 +12142,7 @@ Begin Map
 					Vertex   +00007.136074,-00435.116836,-00001.679083
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -04243.291504,-62521.949219,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -12152,7 +12152,7 @@ Begin Map
 					Vertex   +00103.136074,-00003.116805,-00465.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
 					Origin   -04275.302734,+02756.020508,-00001.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12162,7 +12162,7 @@ Begin Map
 					Vertex   +00007.135098,-00003.118789,-00001.679083
 					Vertex   +00007.135098,-00003.118789,-00465.679083
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
 					Origin   -04277.300293,+03270.019531,-00001.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12299,7 +12299,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -12309,7 +12309,7 @@ Begin Map
 					Vertex   -01632.001445,-00000.003281,+00000.000000
 					Vertex   -01632.000469,-00000.003281,-01904.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12319,7 +12319,7 @@ Begin Map
 					Vertex   -01632.001689,+03279.997695,+00000.000000
 					Vertex   -01632.001689,+03279.997695,-01904.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -12329,7 +12329,7 @@ Begin Map
 					Vertex   -00000.000469,+03279.996719,+00000.000000
 					Vertex   -00000.000469,+03279.996719,-01904.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -12339,7 +12339,7 @@ Begin Map
 					Vertex   -00000.000469,+03279.996719,+00000.000000
 					Vertex   -00000.000469,-00000.003281,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12349,7 +12349,7 @@ Begin Map
 					Vertex   -00000.000469,+03279.996719,+00000.000000
 					Vertex   -01632.001689,+03279.997695,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   -00191.999023,-12640.000000,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12512,7 +12512,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -12522,7 +12522,7 @@ Begin Map
 					Vertex   -01632.000000,+00000.000000,+00640.000000
 					Vertex   -01631.999023,+00000.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12532,7 +12532,7 @@ Begin Map
 					Vertex   -01632.000244,+03280.000977,+00640.000000
 					Vertex   -01632.000244,+03280.000977,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -12542,7 +12542,7 @@ Begin Map
 					Vertex   +00000.000977,+03280.000000,+00640.000000
 					Vertex   +00000.000977,+03280.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -12552,7 +12552,7 @@ Begin Map
 					Vertex   +00000.000977,+03280.000000,+00640.000000
 					Vertex   +00000.000977,+00000.000000,+00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12562,7 +12562,7 @@ Begin Map
 					Vertex   +00000.000977,+03280.000000,+00640.000000
 					Vertex   -01632.000244,+03280.000977,+00640.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   -00191.999023,-12640.000000,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -12706,7 +12706,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
 					Origin   -06293.523926,-09513.756836,-00497.779083
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.809107,-00000.587661,+00000.000000
@@ -12716,7 +12716,7 @@ Begin Map
 					Vertex   +00103.128262,-00435.127944,-00465.688635
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
 					Origin   +258892.593750,+265157.875000,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -12726,7 +12726,7 @@ Begin Map
 					Vertex   +00103.136074,-00435.116897,-00001.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
 					Origin   -265393.218750,+03014.014160,+262655.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12736,7 +12736,7 @@ Begin Map
 					Vertex   +00007.136074,-00435.116836,-00001.679083
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -04243.291504,-62521.949219,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -12746,7 +12746,7 @@ Begin Map
 					Vertex   +00103.136074,-00003.116805,-00465.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
 					Origin   -04275.302734,+02756.020508,-00001.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12756,7 +12756,7 @@ Begin Map
 					Vertex   +00007.135098,-00003.118789,-00001.679083
 					Vertex   +00007.135098,-00003.118789,-00465.679083
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
 					Origin   -04277.300293,+03270.019531,-00001.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12780,7 +12780,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
 					Origin   -06293.521973,-10329.755859,-00497.779083
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.809107,-00000.587661,+00000.000000
@@ -12790,7 +12790,7 @@ Begin Map
 					Vertex   +00103.128262,-00435.127944,-00465.688635
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
 					Origin   +258892.593750,+265157.875000,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -12800,7 +12800,7 @@ Begin Map
 					Vertex   +00103.136074,-00435.116897,-00001.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
 					Origin   -265393.218750,+03014.014160,+262655.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12810,7 +12810,7 @@ Begin Map
 					Vertex   +00007.136074,-00435.116836,-00001.679083
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -04243.291504,-62521.949219,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -12820,7 +12820,7 @@ Begin Map
 					Vertex   +00103.136074,-00003.116805,-00465.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
 					Origin   -04275.302734,+02756.020508,-00001.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12830,7 +12830,7 @@ Begin Map
 					Vertex   +00007.135098,-00003.117813,-00001.679083
 					Vertex   +00007.135098,-00003.117813,-00465.679083
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
 					Origin   -04277.300293,+03270.019531,-00001.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12854,7 +12854,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
 					Origin   -06293.525879,-11113.756836,-00497.779083
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.809107,-00000.587661,+00000.000000
@@ -12864,7 +12864,7 @@ Begin Map
 					Vertex   +00103.128262,-00435.127944,-00465.688635
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
 					Origin   +258892.593750,+265157.875000,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -12874,7 +12874,7 @@ Begin Map
 					Vertex   +00103.136074,-00435.116897,-00001.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
 					Origin   -265393.218750,+03014.014160,+262655.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -12884,7 +12884,7 @@ Begin Map
 					Vertex   +00007.136074,-00435.116836,-00001.679083
 					Vertex   +00007.130703,-00435.140273,-00465.697028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -04243.291504,-62521.949219,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -12894,7 +12894,7 @@ Begin Map
 					Vertex   +00103.136074,-00003.116805,-00465.679053
 					Vertex   +00103.136074,-00003.116805,-00001.679053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
 					Origin   -04275.302734,+02756.020508,-00001.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -12904,7 +12904,7 @@ Begin Map
 					Vertex   +00007.135098,-00003.118789,-00001.679083
 					Vertex   +00007.135098,-00003.118789,-00465.679083
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
 					Origin   -04277.300293,+03270.019531,-00001.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -13002,7 +13002,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=0
 					Origin   -262144.000000,-03488.000000,+262144.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -13012,7 +13012,7 @@ Begin Map
 					Vertex   -01632.001445,-00000.003281,+00000.000000
 					Vertex   -01632.000469,-00000.003281,-01904.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=1
 					Origin   -03167.999756,-03936.000000,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -13022,7 +13022,7 @@ Begin Map
 					Vertex   -01632.001689,+03279.997695,+00000.000000
 					Vertex   -01632.001689,+03279.997695,-01904.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=2
 					Origin   -03167.999512,-03680.000244,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -13032,7 +13032,7 @@ Begin Map
 					Vertex   -00000.000469,+03279.996719,+00000.000000
 					Vertex   -00000.000469,+03279.996719,-01904.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -02911.999512,-03680.000000,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -13042,7 +13042,7 @@ Begin Map
 					Vertex   -00000.000469,+03279.996719,+00000.000000
 					Vertex   -00000.000469,-00000.003281,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=4
 					Origin   -03167.999756,-03936.000000,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -13052,7 +13052,7 @@ Begin Map
 					Vertex   -00000.000469,+03279.996719,+00000.000000
 					Vertex   -01632.001689,+03279.997695,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=5
 					Origin   -00191.999023,-12640.000000,-00640.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -13246,7 +13246,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M4Alpha_Mat.Ka_Wood_Ceil_M4Alpha_Mat LightMapScale=128.0 Link=0
 					Origin   -06293.525879,-11113.756836,-00497.779083
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.809107,-00000.587661,+00000.000000
@@ -13256,7 +13256,7 @@ Begin Map
 					Vertex   +00095.988262,-00000.010944,-00464.009635
 					Vertex   -00000.009297,-00000.023273,-00464.018028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General_Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/General/Ka_Wood_Ceil_M2_Mat.Ka_Wood_Ceil_M2_Mat LightMapScale=128.0 Link=1
 					Origin   +258892.593750,+265157.875000,+00384.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -13266,7 +13266,7 @@ Begin Map
 					Vertex   +00095.996074,+00000.000103,-00000.000053
 					Vertex   +00095.996074,+00432.000195,-00000.000053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=2
 					Origin   -265393.218750,+03014.014160,+262655.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -13276,7 +13276,7 @@ Begin Map
 					Vertex   -00000.003926,+00000.000164,-00000.000083
 					Vertex   -00000.009297,-00000.023273,-00464.018028
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp_Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/Temp/Ka_woodpanel_Mat.Ka_woodpanel_Mat LightMapScale=128.0 Link=3
 					Origin   -04243.291504,-62521.949219,+262144.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00004.000000,+00000.000000
@@ -13286,7 +13286,7 @@ Begin Map
 					Vertex   +00095.996074,+00432.000195,-00464.000053
 					Vertex   +00095.996074,+00432.000195,-00000.000053
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=4
 					Origin   -04275.302734,+02756.020508,-00001.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -13296,7 +13296,7 @@ Begin Map
 					Vertex   -00000.004902,+00431.998211,-00000.000083
 					Vertex   -00000.004902,+00431.998211,-00464.000083
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge_BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/UpperKashyyyk_Textures/K5Bridge/BridgeRoom1_Mat.BridgeRoom1_Mat LightMapScale=128.0 Link=5
 					Origin   -04277.300293,+03270.019531,-00001.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000

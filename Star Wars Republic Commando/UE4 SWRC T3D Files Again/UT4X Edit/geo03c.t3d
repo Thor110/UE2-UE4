@@ -165,7 +165,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -13937.086914,-08482.926758,-04569.373535
 					Normal   +00000.833464,-00000.552573,+00000.000000
 					TextureU +00000.165460,+00000.187411,+00000.000000
@@ -175,7 +175,7 @@ Begin Map
 					Vertex   -01920.035044,-02896.454531,+07605.999621
 					Vertex   -01920.035044,-02896.454531,-00000.000379
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
 					Origin   -13937.086914,-08482.925781,-04569.373535
 					Normal   -00000.653620,-00000.756823,+00000.000000
 					TextureU -00003.027292,+00002.614480,+00000.000000
@@ -185,7 +185,7 @@ Begin Map
 					Vertex   -04032.034922,-01072.454531,+07605.999621
 					Vertex   -04032.034922,-01072.454531,-00000.000379
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
 					Origin   -13937.086914,-08482.926758,-04569.373535
 					Normal   -00000.770962,+00000.636881,+00000.000000
 					TextureU -00000.330921,-00000.374822,+00000.000000
@@ -195,7 +195,7 @@ Begin Map
 					Vertex   -01904.035044,+01503.545469,+07605.999621
 					Vertex   -01904.035044,+01503.545469,-00000.000379
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
 					Origin   -13937.086914,-08482.926758,-04569.373535
 					Normal   +00000.619858,+00000.784714,+00000.000000
 					TextureU -00000.374822,+00000.330921,+00000.000000
@@ -205,7 +205,7 @@ Begin Map
 					Vertex   -00000.034922,-00000.454531,+07605.999621
 					Vertex   -00000.034922,-00000.454531,-00000.000379
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders_SelfIllum_Mat.SelfIllum_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/LowerKashyyyk_Textures/Shaders/SelfIllum_Mat.SelfIllum_Mat LightMapScale=128.0 Link=4
 					Origin   -13937.086914,-08482.926758,-04569.373535
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.374822,+00000.330921,+00000.000000
@@ -215,7 +215,7 @@ Begin Map
 					Vertex   -01904.035044,+01503.545469,+07605.999621
 					Vertex   -04032.034922,-01072.454531,+07605.999621
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_HallwayWalkPanel_Mat.HallwayWalkPanel_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/HallwayWalkPanel_Mat.HallwayWalkPanel_Mat LightMapScale=128.0 Link=5
 					Origin   -14511.534180,-08701.442383,-04569.373535
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.374822,-00000.330921,+00000.000000
@@ -239,7 +239,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -00249.081299,-02327.729492,-00128.000000
 					Normal   -00000.651165,-00000.758936,+00000.000000
 					TextureU -00000.349137,+00000.937071,+00000.000000
@@ -249,7 +249,7 @@ Begin Map
 					Vertex   -01530.649727,+01314.041562,+00521.830930
 					Vertex   -01530.649727,+01314.041562,-00000.169070
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
 					Origin   -00338.458618,-02087.839600,-00128.000000
 					Normal   -00000.773040,+00000.634357,+00000.000000
 					TextureU +00000.937071,+00000.349137,+00000.000000
@@ -259,7 +259,7 @@ Begin Map
 					Vertex   -01133.661934,+01797.818906,+00521.830930
 					Vertex   -01133.661934,+01797.818906,-00000.169070
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
 					Origin   -00098.567749,-01998.461060,-00128.000000
 					Normal   +00000.658494,+00000.752586,+00000.000000
 					TextureU +00000.349137,-00000.937071,+00000.000000
@@ -269,7 +269,7 @@ Begin Map
 					Vertex   +00349.585747,+00500.014219,+00521.830930
 					Vertex   +00349.585747,+00500.014219,-00000.169070
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
 					Origin   -00009.190674,-02238.350098,-00128.000000
 					Normal   +00000.819890,-00000.572521,+00000.000000
 					TextureU -00000.937071,-00000.349137,+00000.000000
@@ -279,7 +279,7 @@ Begin Map
 					Vertex   +00000.596489,+00000.236875,+00521.830930
 					Vertex   +00000.596489,+00000.236875,-00000.169070
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
 					Origin   -00338.458618,-02087.839600,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.937071,+00000.349137,+00000.000000
@@ -289,7 +289,7 @@ Begin Map
 					Vertex   +00349.585747,+00500.014219,+00521.830930
 					Vertex   -01133.661934,+01797.818906,+00521.830930
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -00249.081299,-02327.729492,-00127.999878
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.937071,+00000.349137,+00000.000000
@@ -313,7 +313,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=0
 					Origin   -13123.830078,-09330.484375,-04569.370117
 					Normal   +00000.749644,-00000.661842,+00000.000000
 					TextureU +00000.661841,+00000.749644,+00000.000000
@@ -323,7 +323,7 @@ Begin Map
 					Vertex   -00718.097561,-00801.450781,+00945.968145
 					Vertex   -00718.097561,-00801.450781,+00031.968145
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_ElevatorMetal_Mat.ElevatorMetal_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/ElevatorMetal_Mat.ElevatorMetal_Mat LightMapScale=128.0 Link=1
 					Origin   -12862.956055,-09560.810547,-04569.370117
 					Normal   -00000.661842,-00000.749643,+00000.000000
 					TextureU +00000.187411,-00000.165460,+00000.000000
@@ -333,7 +333,7 @@ Begin Map
 					Vertex   -01521.716335,-00091.955664,+00945.968145
 					Vertex   -01521.716335,-00091.955664,+00031.968145
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_ElevatorMetal_Mat.ElevatorMetal_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/ElevatorMetal_Mat.ElevatorMetal_Mat LightMapScale=128.0 Link=2
 					Origin   -13123.830078,-09330.484375,-04569.370117
 					Normal   -00000.749643,+00000.661842,+00000.000000
 					TextureU -00000.165460,-00000.187411,+00000.000000
@@ -343,7 +343,7 @@ Begin Map
 					Vertex   -00801.632290,+00723.655786,+00945.968145
 					Vertex   -00801.632839,+00723.655786,+00031.968145
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
 					Origin   +00708.944580,-02737.479492,-00128.000000
 					Normal   +00000.661841,+00000.749644,+00000.000000
 					TextureU +00000.349137,-00000.937071,+00000.000000
@@ -353,7 +353,7 @@ Begin Map
 					Vertex   +00001.986301,+00014.161768,+00945.968145
 					Vertex   +00001.986301,+00014.161768,+00031.968145
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=4
 					Origin   -13123.830078,-09330.484375,-04569.370117
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.749644,+00000.661841,+00000.000000
@@ -363,7 +363,7 @@ Begin Map
 					Vertex   -00801.632290,+00723.655786,+00945.968145
 					Vertex   -01521.716335,-00091.955664,+00945.968145
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=5
 					Origin   -13123.830078,-09330.484375,-04569.370117
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.374822,-00000.330921,+00000.000000
@@ -387,7 +387,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -16817.335938,-08233.355469,-00128.000000
 					Normal   -00000.616609,-00000.787270,+00000.000000
 					TextureU -00000.039363,+00000.030830,+00000.000000
@@ -397,7 +397,7 @@ Begin Map
 					Vertex   -13678.798516,+10434.646875,+34320.300000
 					Vertex   -13678.798516,+10434.646875,+29968.300000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
 					Origin   -17015.228516,-08070.953125,-00128.000000
 					Normal   -00000.806872,+00000.590726,+00000.000000
 					TextureU +00000.029536,+00000.040344,+00000.000000
@@ -407,7 +407,7 @@ Begin Map
 					Vertex   -02563.881035,+25616.510156,+34320.300000
 					Vertex   -02563.881035,+25616.510156,+29968.300000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
 					Origin   -16852.824219,-07873.062500,-00128.000000
 					Normal   +00000.640576,+00000.767895,+00000.000000
 					TextureU +00000.038395,-00000.032029,+00000.000000
@@ -417,7 +417,7 @@ Begin Map
 					Vertex   +11080.390938,+14234.494531,+34320.300000
 					Vertex   +11080.390938,+14234.494531,+29968.300000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
 					Origin   -16654.931641,-08035.472656,-00128.000000
 					Normal   +00000.782410,-00000.622764,+00000.000000
 					TextureU -00000.031138,-00000.039120,+00000.000000
@@ -427,7 +427,7 @@ Begin Map
 					Vertex   -00290.529961,-00051.368750,+34320.300000
 					Vertex   -00290.529961,-00051.368750,+29968.300000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
 					Origin   -17015.228516,-08070.953125,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.030830,+00000.039363,+00000.000000
@@ -437,7 +437,7 @@ Begin Map
 					Vertex   +11080.390938,+14234.494531,+34320.300000
 					Vertex   -02563.881035,+25616.510156,+34320.300000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -16817.335938,-08233.355469,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.030830,+00000.039363,+00000.000000
@@ -496,7 +496,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
 					Origin   +00396.062622,+00924.643921,-00127.999992
 					Normal   +00000.574282,-00000.818658,+00000.000000
 					TextureU -00000.981439,-00000.191779,+00000.000000
@@ -506,7 +506,7 @@ Begin Map
 					Vertex   -02032.003794,-04064.003906,+00005.997795
 					Vertex   -02032.003794,-04064.003906,-00084.002144
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
 					Origin   -00334.107666,+00781.962769,-00127.999992
 					Normal   -00000.841179,-00000.540757,+00000.000000
 					TextureU -00000.485675,+00000.874140,+00000.000000
@@ -516,7 +516,7 @@ Begin Map
 					Vertex   -02464.003672,-03392.003906,+00005.997795
 					Vertex   -02464.003672,-03392.003906,-00084.002144
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
 					Origin   -00695.439331,+01432.305176,-00127.999992
 					Normal   -00000.809066,+00000.587718,+00000.000000
 					TextureU +00000.681275,+00000.732027,+00000.000000
@@ -526,7 +526,7 @@ Begin Map
 					Vertex   -00000.003794,-00000.003906,+00005.997795
 					Vertex   -00000.003794,-00000.003906,-00084.002205
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
 					Origin   -00188.584595,+01976.918335,-00127.999992
 					Normal   +00000.769781,+00000.638308,+00000.000000
 					TextureU +00000.906726,-00000.421723,+00000.000000
@@ -536,7 +536,7 @@ Begin Map
 					Vertex   +01057.936758,-01275.850586,+00009.820000
 					Vertex   +01057.936758,-01275.851562,-00084.180000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
 					Origin   +00486.001526,+01663.167114,-00127.999992
 					Normal   +00000.805139,-00000.593086,+00000.000000
 					TextureU -00000.120887,-00000.992667,+00000.000000
@@ -546,7 +546,7 @@ Begin Map
 					Vertex   +00111.996206,-02560.004639,+00005.997795
 					Vertex   +00111.996206,-02560.003906,-00084.002144
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=5
 					Origin   +00486.001526,+01663.166992,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.421723,-00000.906726,+00000.000000
@@ -557,7 +557,7 @@ Begin Map
 					Vertex   -02032.003794,-04064.003906,+00005.997795
 					Vertex   +00111.996206,-02560.004639,+00005.997795
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
 					Origin   +00396.062622,+00924.643921,-00127.999992
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.191780,+00000.981438,+00000.000000
@@ -582,7 +582,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
 					Origin   +01033.244629,+03397.425049,-00128.000000
 					Normal   +00000.456237,-00000.889858,+00000.000000
 					TextureU +00000.162718,-00000.986673,+00000.000000
@@ -592,7 +592,7 @@ Begin Map
 					Vertex   -01031.297031,-00537.672813,+00114.166200
 					Vertex   -01031.297031,-00537.672813,-00029.833800
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
 					Origin   +01154.306152,+02663.360352,-00128.000000
 					Normal   -00000.466360,-00000.884595,+00000.000000
 					TextureU -00000.888098,-00000.459654,+00000.000000
@@ -602,7 +602,7 @@ Begin Map
 					Vertex   -01583.319492,-00246.645469,+00114.166200
 					Vertex   -01583.319492,-00246.645469,-00029.833800
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
 					Origin   +00493.577637,+02321.387939,-00128.000000
 					Normal   -00000.852967,-00000.521964,+00000.000000
 					TextureU -00000.711594,+00000.702590,+00000.000000
@@ -612,7 +612,7 @@ Begin Map
 					Vertex   -02547.986484,+01329.764687,+00114.166200
 					Vertex   -02547.986484,+01329.764687,-00029.833800
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
 					Origin   -00035.833496,+02844.101563,-00128.000000
 					Normal   -00000.596437,+00000.802660,+00000.000000
 					TextureU +00000.448311,+00000.893879,+00000.000000
@@ -622,7 +622,7 @@ Begin Map
 					Vertex   -01681.229648,+01973.831094,+00114.166200
 					Vertex   -01681.229648,+01973.831094,-00029.833800
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
 					Origin   +00297.699707,+03509.128662,-00128.000000
 					Normal   +00000.767600,+00000.640929,+00000.000000
 					TextureU +00000.988665,-00000.150142,+00000.000000
@@ -632,7 +632,7 @@ Begin Map
 					Vertex   -00017.980137,-00018.137656,+00114.166200
 					Vertex   -00017.980137,-00018.137656,-00029.833800
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   +00297.699707,+03509.128662,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.893879,-00000.448311,+00000.000000
@@ -643,7 +643,7 @@ Begin Map
 					Vertex   -01031.297031,-00537.672813,+00114.166200
 					Vertex   -00017.980137,-00018.137656,+00114.166200
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
 					Origin   +01033.244629,+03397.425049,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.986674,-00000.162719,+00000.000000
@@ -1243,7 +1243,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
 					Origin   -00348.146118,+01448.484985,-00127.999992
 					Normal   +00000.499299,-00000.866430,+00000.000000
 					TextureU +00000.203433,-00000.979090,+00000.000000
@@ -1253,7 +1253,7 @@ Begin Map
 					Vertex   +00137.999978,-01715.994375,-00004.000188
 					Vertex   +00137.999978,-01715.994375,-00084.000188
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
 					Origin   -00196.794556,+00720.062134,-00127.999992
 					Normal   +00000.158691,-00000.987328,+00000.000000
 					TextureU -00000.868304,-00000.496032,+00000.000000
@@ -1263,7 +1263,7 @@ Begin Map
 					Vertex   -00126.714805,-01758.541250,+00001.999812
 					Vertex   -00126.714805,-01758.541250,-00078.000188
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
 					Origin   -00842.795776,+00351.024933,-00127.999992
 					Normal   -00000.850546,-00000.525900,+00000.000000
 					TextureU -00000.740075,+00000.672524,+00000.000000
@@ -1273,7 +1273,7 @@ Begin Map
 					Vertex   -00848.000144,-00591.994375,-00000.000188
 					Vertex   -00848.000144,-00591.994375,-00080.000188
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
 					Origin   -01393.395874,+00851.369385,-00127.999992
 					Normal   -00000.572424,+00000.819958,+00000.000000
 					TextureU +00000.410915,+00000.911675,+00000.000000
@@ -1283,7 +1283,7 @@ Begin Map
 					Vertex   -00000.000144,+00000.005625,-00000.000188
 					Vertex   -00000.000144,+00000.005625,-00080.000188
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
 					Origin   -01087.685913,+01529.637573,-00127.999992
 					Normal   +00000.734755,+00000.678332,+00000.000000
 					TextureU +00000.994034,-00000.109077,+00000.000000
@@ -1293,7 +1293,7 @@ Begin Map
 					Vertex   +01081.999978,-01171.994375,-00004.000188
 					Vertex   +01081.999978,-01171.994375,-00084.000188
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=5
 					Origin   -01181.373901,+01321.787598,+00128.000031
 					Normal   +00000.003208,+00000.000000,+00000.999995
 					TextureU +00000.231318,+00000.094826,+00000.000000
@@ -1304,7 +1304,7 @@ Begin Map
 					Vertex   +00137.999978,-01715.994375,-00004.000188
 					Vertex   +01081.999978,-01171.994375,-00004.000188
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
 					Origin   -00348.146118,+01448.484985,-00127.999992
 					Normal   -00000.003208,+00000.000000,-00000.999995
 					TextureU -00000.979090,-00000.203434,+00000.000000
@@ -1329,7 +1329,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
 					Origin   +00604.939697,+02430.728516,-00127.999992
 					Normal   -00000.076697,-00000.997054,+00000.000000
 					TextureU +00000.203433,-00000.979090,+00000.000000
@@ -1339,7 +1339,7 @@ Begin Map
 					Vertex   -01023.995850,-00256.001437,+00015.999794
 					Vertex   -01023.995850,-00256.001437,-00064.000206
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
 					Origin   +00756.291260,+01702.305664,-00127.999992
 					Normal   -00000.951459,-00000.307776,+00000.000000
 					TextureU -00000.868304,-00000.496032,+00000.000000
@@ -1349,7 +1349,7 @@ Begin Map
 					Vertex   -01209.995850,+00318.998563,+00021.999794
 					Vertex   -01209.995850,+00318.998563,-00058.000206
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
 					Origin   +00110.289795,+01333.268311,-00127.999992
 					Normal   -00000.943801,+00000.330514,+00000.000000
 					TextureU -00000.740075,+00000.672524,+00000.000000
@@ -1359,7 +1359,7 @@ Begin Map
 					Vertex   -01119.995850,+00575.998563,+00015.999794
 					Vertex   -01119.995850,+00575.998563,-00064.000206
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
 					Origin   -00440.310303,+01833.612793,-00127.999992
 					Normal   +00000.031730,+00000.999496,+00000.000000
 					TextureU +00000.410915,+00000.911675,+00000.000000
@@ -1369,7 +1369,7 @@ Begin Map
 					Vertex   -00111.995850,+00543.998563,+00015.999794
 					Vertex   -00111.995850,+00543.998563,-00064.000206
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
 					Origin   -00134.600342,+02511.881348,-00127.999992
 					Normal   +00000.989586,+00000.143940,+00000.000000
 					TextureU +00000.994034,-00000.109077,+00000.000000
@@ -1379,7 +1379,7 @@ Begin Map
 					Vertex   +00016.004150,-00336.001437,+00015.999794
 					Vertex   +00016.004150,-00336.001437,-00064.000206
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=5
 					Origin   -00134.600342,+02511.881348,+00128.000000
 					Normal   +00000.002713,+00000.000000,+00000.999996
 					TextureU +00000.911675,-00000.410915,+00000.000000
@@ -1390,7 +1390,7 @@ Begin Map
 					Vertex   -01023.995850,-00256.001437,+00015.999794
 					Vertex   +00016.004150,-00336.001437,+00015.999794
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
 					Origin   +00604.939697,+02430.728516,-00127.999992
 					Normal   -00000.002713,+00000.000000,-00000.999996
 					TextureU -00000.979090,-00000.203434,+00000.000000
@@ -1733,7 +1733,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
 					Origin   +00604.939697,+02430.728516,-00127.999992
 					Normal   +00000.490261,-00000.871576,+00000.000000
 					TextureU +00000.203433,-00000.979090,+00000.000000
@@ -1743,7 +1743,7 @@ Begin Map
 					Vertex   +00740.000000,-01074.999531,+00006.000008
 					Vertex   +00740.000000,-01074.999531,-00073.999992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
 					Origin   +00756.291260,+01702.305664,-00127.999992
 					Normal   -00000.822575,-00000.568656,+00000.000000
 					TextureU -00000.868304,-00000.496032,+00000.000000
@@ -1753,7 +1753,7 @@ Begin Map
 					Vertex   -00008.000000,+00007.000469,+00006.000008
 					Vertex   -00008.000000,+00007.000469,-00073.999992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
 					Origin   +00110.289795,+01333.268311,-00127.999992
 					Normal   -00000.984633,-00000.174637,+00000.000000
 					TextureU -00000.740075,+00000.672524,+00000.000000
@@ -1763,7 +1763,7 @@ Begin Map
 					Vertex   -00160.000000,+00864.000469,+00000.000008
 					Vertex   -00160.000000,+00864.000469,-00079.999992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=3
 					Origin   -00440.310303,+01833.612793,-00127.999992
 					Normal   +00000.076697,+00000.997054,+00000.000000
 					TextureU +00000.410915,+00000.911675,+00000.000000
@@ -1773,7 +1773,7 @@ Begin Map
 					Vertex   +00880.000000,+00784.000469,+00000.000008
 					Vertex   +00880.000000,+00784.000469,-00079.999992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
 					Origin   -00134.600342,+02511.881348,-00127.999992
 					Normal   +00000.867449,+00000.497526,+00000.000000
 					TextureU +00000.994034,-00000.109077,+00000.000000
@@ -1783,7 +1783,7 @@ Begin Map
 					Vertex   +01652.000000,-00561.999531,+00006.000008
 					Vertex   +01652.000000,-00561.999531,-00073.999992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00134.600342,+02511.881348,+00128.000000
 					Normal   +00000.000000,+00000.004005,+00000.999991
 					TextureU +00000.911675,-00000.410915,+00000.000000
@@ -1794,7 +1794,7 @@ Begin Map
 					Vertex   +00740.000000,-01074.999531,+00006.000008
 					Vertex   +01652.000000,-00561.999531,+00006.000008
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
 					Origin   +00604.939697,+02430.728516,-00127.999992
 					Normal   +00000.000000,-00000.004005,-00000.999991
 					TextureU -00000.979090,-00000.203434,+00000.000000
@@ -2486,7 +2486,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   +00503.683746,+01280.000000,-00448.000000
 					Normal   +00000.724999,+00000.688749,+00000.000000
 					TextureU +00000.297729,-00000.282843,+00000.000000
@@ -2496,7 +2496,7 @@ Begin Map
 					Vertex   +01216.000000,+00530.193359,+00448.000000
 					Vertex   +01216.000000,+00530.193359,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   +01216.000000,+00530.193359,-00448.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00000.400000,+00000.000000
@@ -2506,7 +2506,7 @@ Begin Map
 					Vertex   +01216.000000,-00530.193481,+00448.000000
 					Vertex   +01216.000000,-00530.193481,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   +01216.000000,-00530.193481,-00448.000000
 					Normal   +00000.724999,-00000.688750,+00000.000000
 					TextureU -00000.297729,-00000.282843,+00000.000000
@@ -2516,7 +2516,7 @@ Begin Map
 					Vertex   +00503.683472,-01280.000122,+00448.000000
 					Vertex   +00503.683472,-01280.000122,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   +00503.683472,-01280.000122,-00448.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.421053,+00000.000000,+00000.000000
@@ -2526,7 +2526,7 @@ Begin Map
 					Vertex   -00503.683685,-01280.000000,+00448.000000
 					Vertex   -00503.683685,-01280.000000,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00503.683685,-01280.000000,-00448.000000
 					Normal   -00000.725000,-00000.688749,+00000.000000
 					TextureU -00000.297729,+00000.282843,+00000.000000
@@ -2536,7 +2536,7 @@ Begin Map
 					Vertex   -01216.000122,-00530.192932,+00448.000000
 					Vertex   -01216.000122,-00530.192932,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -01216.000122,-00530.192932,-00448.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00000.400000,+00000.000000
@@ -2546,7 +2546,7 @@ Begin Map
 					Vertex   -01215.999878,+00530.193542,+00448.000000
 					Vertex   -01215.999878,+00530.193542,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=6
 					Origin   -01215.999878,+00530.193542,-00448.000000
 					Normal   -00000.724999,+00000.688749,+00000.000000
 					TextureU +00000.297729,+00000.282843,+00000.000000
@@ -2556,7 +2556,7 @@ Begin Map
 					Vertex   -00503.683685,+01280.000000,+00448.000000
 					Vertex   -00503.683685,+01280.000000,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=7
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=7
 					Origin   -00503.683685,+01280.000000,-00448.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.421053,+00000.000000,+00000.000000
@@ -2566,7 +2566,7 @@ Begin Map
 					Vertex   +00503.683746,+01280.000000,+00448.000000
 					Vertex   +00503.683746,+01280.000000,-00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=8
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=8
 					Origin   -00503.683685,+01280.000000,+00448.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.297729,-00000.282843,+00000.000000
@@ -2580,7 +2580,7 @@ Begin Map
 					Vertex   +01216.000000,+00530.193359,+00448.000000
 					Vertex   +00503.683746,+01280.000000,+00448.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=9
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=9
 					Origin   +00503.683746,+01280.000000,-00448.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.297729,-00000.282843,+00000.000000
@@ -3613,7 +3613,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   -00035.315125,-00177.541092,-00128.000000
 					Normal   -00000.988545,-00000.150923,+00000.000000
 					TextureU -00000.555570,+00000.831470,+00000.000000
@@ -3623,7 +3623,7 @@ Begin Map
 					Vertex   -01600.000000,-00687.999981,-00000.000375
 					Vertex   -01600.000000,-00687.999981,-00256.016000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   -00177.541092,+00035.315125,-00128.000000
 					Normal   -00000.395079,+00000.918647,+00000.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -3633,7 +3633,7 @@ Begin Map
 					Vertex   +00003.315430,+00001.531269,-00002.000375
 					Vertex   +00003.315430,+00001.531269,-00258.016000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   +00035.315125,+00177.541092,-00128.000000
 					Normal   +00000.678808,+00000.734316,+00000.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -3643,7 +3643,7 @@ Begin Map
 					Vertex   +01185.541016,-01091.328106,-00002.000375
 					Vertex   +01185.541016,-01091.328106,-00258.016000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   +00177.541092,-00035.315125,-00128.000000
 					Normal   +00000.565987,-00000.824414,+00000.000000
 					TextureU -00000.831470,-00000.555570,+00000.000000
@@ -3653,7 +3653,7 @@ Begin Map
 					Vertex   -01280.000000,-02783.999981,-00000.000375
 					Vertex   -01280.000000,-02783.999981,-00256.016000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00177.541092,+00035.315125,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -3663,7 +3663,7 @@ Begin Map
 					Vertex   +01185.541016,-01091.328106,-00002.000375
 					Vertex   +00003.315430,+00001.531269,-00002.000375
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00035.315125,-00177.541092,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -5391,7 +5391,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   -00583.412170,-02477.450684,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -5401,7 +5401,7 @@ Begin Map
 					Vertex   +00352.094082,+00000.004781,+00096.000000
 					Vertex   +00352.094082,+00000.004781,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   -00370.555908,-02335.225098,-00128.000000
 					Normal   +00000.999688,-00000.024992,+00000.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -5411,7 +5411,7 @@ Begin Map
 					Vertex   +00336.094082,-00639.995219,+00224.000000
 					Vertex   +00336.094082,-00639.995219,+00128.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   -00228.329590,-02548.081299,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.831470,-00000.555570,+00000.000000
@@ -5421,7 +5421,7 @@ Begin Map
 					Vertex   -00015.905430,-00639.995219,+00224.000000
 					Vertex   -00015.905430,-00639.995219,+00128.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   -00441.186035,-02690.307129,-00128.000000
 					Normal   -00000.999687,+00000.025016,+00000.000000
 					TextureU -00000.555570,+00000.831470,+00000.000000
@@ -5431,7 +5431,7 @@ Begin Map
 					Vertex   +00000.093838,+00000.004781,+00096.000000
 					Vertex   -00000.003574,+00000.000875,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00370.555908,-02335.225098,+00128.000000
 					Normal   +00000.000000,+00000.196116,+00000.980581
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -5441,7 +5441,7 @@ Begin Map
 					Vertex   -00015.905430,-00639.995219,+00224.000000
 					Vertex   +00336.094082,-00639.995219,+00224.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00583.412170,-02477.450684,-00128.000000
 					Normal   +00000.000000,-00000.196117,-00000.980581
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -5808,7 +5808,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   +00217.029419,-01618.557373,-00128.000000
 					Normal   -00000.634397,+00000.773007,+00000.000000
 					TextureU +00000.290285,+00000.956940,+00000.000000
@@ -5818,7 +5818,7 @@ Begin Map
 					Vertex   +00037.100308,+00030.451990,+00000.000488
 					Vertex   +00037.100308,+00030.451990,-00095.999512
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   +00291.342773,-01373.580811,-00128.000000
 					Normal   +00000.773011,+00000.634392,+00000.000000
 					TextureU +00000.956940,-00000.290285,+00000.000000
@@ -5828,7 +5828,7 @@ Begin Map
 					Vertex   +00443.111233,-00464.275305,+00000.000488
 					Vertex   +00443.111233,-00464.275305,-00095.999512
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   +00536.319580,-01447.893921,-00128.000000
 					Normal   +00000.634393,-00000.773010,+00000.000000
 					TextureU -00000.290285,-00000.956940,+00000.000000
@@ -5838,7 +5838,7 @@ Begin Map
 					Vertex   +00133.907437,-00718.032263,+00000.000488
 					Vertex   +00133.907437,-00718.032263,-00095.999512
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   +00462.006348,-01692.870361,-00128.000000
 					Normal   -00000.772962,-00000.634452,+00000.000000
 					TextureU -00000.956940,+00000.290285,+00000.000000
@@ -5848,7 +5848,7 @@ Begin Map
 					Vertex   -00272.104160,-00223.305700,+00000.000488
 					Vertex   -00272.176914,-00223.370153,-00095.999512
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   +00291.342773,-01373.580811,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.956940,-00000.290285,+00000.000000
@@ -5858,7 +5858,7 @@ Begin Map
 					Vertex   +00133.907437,-00718.032263,+00000.000488
 					Vertex   +00443.111233,-00464.275305,+00000.000488
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   +00217.029419,-01618.557373,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.956940,-00000.290285,+00000.000000
@@ -5929,7 +5929,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   -00163.413696,+00206.543701,-00128.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU -00000.555570,+00000.831470,+00000.000000
@@ -5939,7 +5939,7 @@ Begin Map
 					Vertex   -02800.004673,-00047.999375,+00000.000000
 					Vertex   -02800.004673,-00047.999375,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   -00305.639038,+00419.400024,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -5949,7 +5949,7 @@ Begin Map
 					Vertex   -00000.004795,-00047.999375,+00000.000000
 					Vertex   -00000.004795,-00047.999375,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   -00092.783081,+00561.626221,-00128.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -5959,7 +5959,7 @@ Begin Map
 					Vertex   -00000.004673,-00671.999375,+00000.000000
 					Vertex   -00000.004673,-00671.999375,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   +00049.442627,+00348.770142,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.831470,-00000.555570,+00000.000000
@@ -5969,7 +5969,7 @@ Begin Map
 					Vertex   -02800.004795,-00672.000107,+00000.000000
 					Vertex   -02800.000767,-00672.097581,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00305.639038,+00419.400024,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -5979,7 +5979,7 @@ Begin Map
 					Vertex   -00000.004673,-00671.999375,+00000.000000
 					Vertex   -00000.004795,-00047.999375,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_AS_Wall_512_Mat.AS_Wall_512_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/AS_Wall_512_Mat.AS_Wall_512_Mat LightMapScale=128.0 Link=5
 					Origin   -00163.413696,+00206.543701,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -6054,7 +6054,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=0
 					Origin   +00604.939697,+02430.728516,-00127.999992
 					Normal   +00000.146284,-00000.989243,+00000.000000
 					TextureU +00000.203433,-00000.979090,+00000.000000
@@ -6064,7 +6064,7 @@ Begin Map
 					Vertex   -00539.000000,-00087.999531,+00114.000008
 					Vertex   -00539.000000,-00087.999531,-00029.999992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=1
 					Origin   +00756.291260,+01702.305664,-00127.999992
 					Normal   -00000.932537,-00000.361074,+00000.000000
 					TextureU -00000.868304,-00000.496032,+00000.000000
@@ -6074,7 +6074,7 @@ Begin Map
 					Vertex   -00666.000000,+00240.000469,+00114.000008
 					Vertex   -00666.000000,+00240.000469,-00029.999992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=2
 					Origin   +00110.289795,+01333.268311,-00127.999992
 					Normal   -00000.838181,+00000.545392,+00000.000000
 					TextureU -00000.740075,+00000.672524,+00000.000000
@@ -6084,7 +6084,7 @@ Begin Map
 					Vertex   -00421.995850,+00614.996563,+00113.999764
 					Vertex   -00421.995850,+00614.996563,-00030.000236
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_doortest_Mat.doortest_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/doortest_Mat.doortest_Mat LightMapScale=128.0 Link=3
 					Origin   -00440.310303,+01833.612793,-00127.999992
 					Normal   +00000.104912,+00000.994482,+00000.000000
 					TextureU +00000.410915,+00000.911675,+00000.000000
@@ -6094,7 +6094,7 @@ Begin Map
 					Vertex   +00033.004150,+00566.996563,+00113.999764
 					Vertex   +00033.004150,+00566.996563,-00030.000236
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=4
 					Origin   -00134.600342,+02511.881348,-00127.999992
 					Normal   +00000.998549,-00000.053842,+00000.000000
 					TextureU +00000.994034,-00000.109077,+00000.000000
@@ -6104,7 +6104,7 @@ Begin Map
 					Vertex   +00002.000000,-00007.999531,+00114.000008
 					Vertex   +00002.000000,-00007.999531,-00029.999992
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00134.600342,+02511.881348,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.911675,-00000.410915,+00000.000000
@@ -6115,7 +6115,7 @@ Begin Map
 					Vertex   -00539.000000,-00087.999531,+00114.000008
 					Vertex   +00002.000000,-00007.999531,+00114.000008
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/SpireBigTexture_Mat.SpireBigTexture_Mat LightMapScale=128.0 Link=6
 					Origin   +00604.939697,+02430.728516,-00127.999992
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00000.979090,-00000.203434,+00000.000000
@@ -6311,7 +6311,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   -00583.412170,-02477.450684,-00128.000000
 					Normal   -00000.669295,+00000.742996,+00000.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -6321,7 +6321,7 @@ Begin Map
 					Vertex   -00935.825918,+01090.610781,-00632.000000
 					Vertex   -00935.825918,+01090.610781,-00728.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   -00370.555908,-02335.225098,-00128.000000
 					Normal   +00000.759257,+00000.650791,+00000.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -6331,7 +6331,7 @@ Begin Map
 					Vertex   +00000.174082,-00001.389219,+00000.000000
 					Vertex   +00000.174082,-00001.389219,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   -00228.329590,-02548.081299,-00128.000000
 					Normal   +00000.579430,-00000.815022,+00000.000000
 					TextureU -00000.831470,-00000.555570,+00000.000000
@@ -6341,7 +6341,7 @@ Begin Map
 					Vertex   -00511.825430,-00365.389219,+00000.000000
 					Vertex   -00511.825430,-00365.389219,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   -00441.186035,-02690.307129,-00128.000000
 					Normal   -00000.772621,-00000.634867,+00000.000000
 					TextureU -00000.555570,+00000.831470,+00000.000000
@@ -6351,7 +6351,7 @@ Begin Map
 					Vertex   -01379.826406,+00690.610781,-00632.000000
 					Vertex   -01379.923574,+00690.606875,-00728.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00370.555908,-02335.225098,+00128.000000
 					Normal   -00000.256544,+00000.321015,+00000.911666
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -6361,7 +6361,7 @@ Begin Map
 					Vertex   -00511.825430,-00365.389219,+00000.000000
 					Vertex   +00000.174082,-00001.389219,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00583.412170,-02477.450684,-00128.000000
 					Normal   +00000.256524,-00000.321022,-00000.911669
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -6385,7 +6385,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   -00914.945801,-02255.589355,-00128.000000
 					Normal   -00000.143718,+00000.989619,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -6395,7 +6395,7 @@ Begin Map
 					Vertex   +00591.850059,+00086.864969,+00096.064000
 					Vertex   +00591.850059,+00086.864969,+00000.064000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   -00658.945923,-02255.589844,-00128.000000
 					Normal   +00000.992110,+00000.125372,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6405,7 +6405,7 @@ Begin Map
 					Vertex   +00783.422935,-01429.114890,+00728.064000
 					Vertex   +00783.422935,-01429.114890,+00632.064000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   -00658.945801,-02511.590332,-00128.000000
 					Normal   +00000.028977,-00000.999580,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -6415,7 +6415,7 @@ Begin Map
 					Vertex   +00155.483420,-01447.318137,+00728.064000
 					Vertex   +00155.483420,-01447.318137,+00632.064000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   -00914.945862,-02511.589600,-00128.000000
 					Normal   -00000.994335,-00000.106292,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -6425,7 +6425,7 @@ Begin Map
 					Vertex   +00000.449668,+00000.947000,+00096.064000
 					Vertex   +00000.366172,+00000.997781,+00000.064000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00658.945923,-02255.589844,+00128.000000
 					Normal   -00000.033195,+00000.388740,+00000.920749
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6435,7 +6435,7 @@ Begin Map
 					Vertex   +00155.483420,-01447.318137,+00728.064000
 					Vertex   +00783.422935,-01429.114890,+00728.064000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00914.945801,-02255.589355,-00128.000000
 					Normal   +00000.033176,-00000.388736,-00000.920752
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -6459,7 +6459,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   -00163.413696,+00206.543701,-00128.000000
 					Normal   -00000.202704,-00000.979240,+00000.000000
 					TextureU -00000.555570,+00000.831470,+00000.000000
@@ -6469,7 +6469,7 @@ Begin Map
 					Vertex   -01184.000034,-00047.999375,+00000.000000
 					Vertex   -01184.000034,-00047.999375,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   -00305.639038,+00419.400024,-00128.000000
 					Normal   -00000.499299,+00000.866430,+00000.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -6479,7 +6479,7 @@ Begin Map
 					Vertex   -00240.000034,+00496.000625,+00000.000000
 					Vertex   -00240.000034,+00496.000625,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   -00092.783081,+00561.626221,-00128.000000
 					Normal   +00000.900159,+00000.435561,+00000.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -6489,7 +6489,7 @@ Begin Map
 					Vertex   -00000.000034,+00000.000625,+00000.000000
 					Vertex   -00000.000034,+00000.000625,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   +00049.442627,+00348.770142,-00128.000000
 					Normal   +00000.196181,-00000.980568,+00000.000000
 					TextureU -00000.831470,-00000.555570,+00000.000000
@@ -6499,7 +6499,7 @@ Begin Map
 					Vertex   -00720.000034,-00143.999375,+00000.000000
 					Vertex   -00719.996006,-00144.097031,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00305.639038,+00419.400024,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -6509,7 +6509,7 @@ Begin Map
 					Vertex   -00000.000034,+00000.000625,+00000.000000
 					Vertex   -00240.000034,+00496.000625,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00163.413696,+00206.543701,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -6533,7 +6533,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   -00163.413696,+00206.543701,-00128.000000
 					Normal   -00000.963523,-00000.267626,+00000.000000
 					TextureU -00000.555570,+00000.831470,+00000.000000
@@ -6543,7 +6543,7 @@ Begin Map
 					Vertex   -00176.000034,+00576.000625,+00096.000000
 					Vertex   -00176.000034,+00576.000625,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   -00305.639038,+00419.400024,-00128.000000
 					Normal   -00000.196116,+00000.980581,+00000.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -6553,7 +6553,7 @@ Begin Map
 					Vertex   +00543.999966,+00720.000625,+00096.000000
 					Vertex   +00543.999966,+00720.000625,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   -00092.783081,+00561.626221,-00128.000000
 					Normal   +00000.859102,+00000.511805,+00000.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -6563,7 +6563,7 @@ Begin Map
 					Vertex   +00991.999844,-00031.999375,+00096.000000
 					Vertex   +00991.999844,-00031.999375,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   +00049.442627,+00348.770142,-00128.000000
 					Normal   -00000.031682,-00000.999498,+00000.000000
 					TextureU -00000.831470,-00000.555570,+00000.000000
@@ -6573,7 +6573,7 @@ Begin Map
 					Vertex   -00016.000156,+00000.000625,+00096.000000
 					Vertex   -00015.996128,-00000.097031,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00305.639038,+00419.400024,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -6583,7 +6583,7 @@ Begin Map
 					Vertex   +00991.999844,-00031.999375,+00096.000000
 					Vertex   +00543.999966,+00720.000625,+00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00163.413696,+00206.543701,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -9602,7 +9602,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=0
 					Origin   -12126.998047,-09867.566406,-04569.370117
 					Normal   +00000.753453,-00000.657502,+00000.000000
 					TextureU +00000.661841,+00000.749644,+00000.000000
@@ -9612,7 +9612,7 @@ Begin Map
 					Vertex   -01046.564268,-01199.313828,+00517.835145
 					Vertex   -01046.564268,-01199.313828,-00000.164855
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=1
 					Origin   -12126.998047,-09867.566406,-04569.370117
 					Normal   -00000.677449,-00000.735570,+00000.000000
 					TextureU +00000.749644,-00000.661841,+00000.000000
@@ -9622,7 +9622,7 @@ Begin Map
 					Vertex   -01466.363828,-00812.684922,+00517.835145
 					Vertex   -01466.363828,-00812.684922,-00000.164855
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=2
 					Origin   -12126.998047,-09867.566406,-04569.370117
 					Normal   -00000.749056,+00000.662507,+00000.000000
 					TextureU -00000.661841,-00000.749644,+00000.000000
@@ -9632,7 +9632,7 @@ Begin Map
 					Vertex   -00420.539609,+00369.762588,+00517.835145
 					Vertex   -00420.539609,+00369.764297,-00000.164855
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
 					Origin   +01705.785522,-03274.558105,-00128.000000
 					Normal   +00000.661842,+00000.749643,+00000.000000
 					TextureU +00000.349137,-00000.937071,+00000.000000
@@ -9642,7 +9642,7 @@ Begin Map
 					Vertex   -00000.739072,-00000.868027,+00517.835145
 					Vertex   -00000.739072,-00000.868516,-00000.164855
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=4
 					Origin   -12126.998047,-09867.566406,-04569.370117
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU -00000.749644,+00000.661841,+00000.000000
@@ -9652,7 +9652,7 @@ Begin Map
 					Vertex   -00420.539609,+00369.762588,+00517.835145
 					Vertex   -01466.363828,-00812.684922,+00517.835145
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/FactoryWallMetalSecond_Mat.FactoryWallMetalSecond_Mat LightMapScale=128.0 Link=5
 					Origin   -12126.998047,-09867.566406,-04569.370117
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.374822,-00000.330921,+00000.000000
@@ -9779,7 +9779,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlend_Mat.RockBumpBlend_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlend_Mat.RockBumpBlend_Mat LightMapScale=128.0 Link=0
 					Origin   -01016.877075,-00524.363586,-00008.000000
 					Normal   +00000.749645,-00000.661840,+00000.000000
 					TextureU -00000.201856,-00000.979417,+00000.000000
@@ -9789,7 +9789,7 @@ Begin Map
 					Vertex   -00709.494195,-00803.621304,+00032.000098
 					Vertex   -00709.494195,-00803.621304,+00000.000098
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
 					Origin   -01068.552490,-00775.095032,-00008.000000
 					Normal   -00000.661843,-00000.749643,+00000.000000
 					TextureU -00000.979417,+00000.201856,+00000.000000
@@ -9799,7 +9799,7 @@ Begin Map
 					Vertex   -01477.129266,-00125.893582,+00047.999609
 					Vertex   -01477.129266,-00125.893582,+00015.999609
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
 					Origin   -01319.283325,-00723.419556,-00008.000000
 					Normal   -00000.749644,+00000.661841,+00000.000000
 					TextureU +00000.201856,+00000.979417,+00000.000000
@@ -9809,7 +9809,7 @@ Begin Map
 					Vertex   -00778.224847,+00665.730656,+00047.999609
 					Vertex   -00778.224847,+00665.730656,+00015.999609
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
 					Origin   -01267.608154,-00472.689209,-00008.000000
 					Normal   +00000.661841,+00000.749644,+00000.000000
 					TextureU +00000.979417,-00000.201856,+00000.000000
@@ -9819,7 +9819,7 @@ Begin Map
 					Vertex   -00010.589593,-00011.994106,+00032.000098
 					Vertex   -00010.589593,-00011.994106,+00000.000098
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
 					Origin   -01068.552490,-00775.095032,+00008.000000
 					Normal   +00000.011711,-00000.010340,+00000.999878
 					TextureU -00000.979417,+00000.201856,+00000.000000
@@ -9829,7 +9829,7 @@ Begin Map
 					Vertex   -00778.224847,+00665.730656,+00047.999609
 					Vertex   -01477.129266,-00125.893582,+00047.999609
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -01016.877075,-00524.363586,-00008.000000
 					Normal   -00000.011711,+00000.010340,-00000.999878
 					TextureU -00000.979417,+00000.201856,+00000.000000
@@ -10118,7 +10118,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=0
 					Origin   -00128.000000,-00128.000000,-00128.000000
 					Normal   -00000.749329,+00000.662198,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -10128,7 +10128,7 @@ Begin Map
 					Vertex   +00304.000000,+00344.000000,+00000.000000
 					Vertex   +00304.000000,+00344.000000,-00046.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_MetallrustyCopy_Mat.MetallrustyCopy_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/MetallrustyCopy_Mat.MetallrustyCopy_Mat LightMapScale=128.0 Link=1
 					Origin   -00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.687200,+00000.726468,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10138,7 +10138,7 @@ Begin Map
 					Vertex   +00600.000000,+00064.000000,+00000.000000
 					Vertex   +00600.000000,+00064.000000,-00046.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=2
 					Origin   +00128.000000,+00128.000000,-00128.000000
 					Normal   +00000.743294,-00000.668965,+00000.000000
 					TextureU -00002.675859,-00002.973176,+00000.000000
@@ -10148,7 +10148,7 @@ Begin Map
 					Vertex   +00312.000000,-00256.000000,+00000.000000
 					Vertex   +00312.000000,-00256.000000,-00046.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader_MetallrustyCopy_Mat.MetallrustyCopy_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Shader/MetallrustyCopy_Mat.MetallrustyCopy_Mat LightMapScale=128.0 Link=3
 					Origin   +00128.000000,-00128.000000,-00128.000000
 					Normal   -00000.634317,-00000.773073,+00000.000000
 					TextureU -00003.092294,+00002.537266,+00000.000000
@@ -10158,7 +10158,7 @@ Begin Map
 					Vertex   +00000.000000,+00000.000000,+00000.000000
 					Vertex   +00000.000000,+00000.000000,-00046.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=4
 					Origin   -00169.418945,+00165.644531,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00002.997316,-00002.648791,+00000.000000
@@ -10168,7 +10168,7 @@ Begin Map
 					Vertex   +00312.000000,-00256.000000,+00000.000000
 					Vertex   +00600.000000,+00064.000000,+00000.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=5
 					Origin   -00105.275146,-00149.039063,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00002.997316,-00002.648791,+00000.000000
@@ -10766,7 +10766,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=0
 					Origin   +01622.000000,+32504.000000,-00510.000000
 					Normal   +00000.707108,+00000.707105,+00000.000000
 					TextureU +00000.707107,-00000.707106,+00000.000000
@@ -10776,7 +10776,7 @@ Begin Map
 					Vertex   +00138.000000,-00155.216797,+02174.000000
 					Vertex   +00138.000000,-00155.216797,+00126.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=1
 					Origin   +01622.000000,+32504.000000,-00510.000000
 					Normal   +00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,-00001.000000,+00000.000000
@@ -10786,7 +10786,7 @@ Begin Map
 					Vertex   +00138.000000,-00340.783203,+02174.000000
 					Vertex   +00138.000000,-00340.783203,+00126.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=2
 					Origin   +01622.000000,+32504.000000,-00510.000000
 					Normal   +00000.707108,-00000.707105,+00000.000000
 					TextureU -00000.707108,-00000.707106,+00000.000000
@@ -10796,7 +10796,7 @@ Begin Map
 					Vertex   +00006.783813,-00472.000000,+02174.000000
 					Vertex   +00006.783813,-00472.000000,+00126.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=3
 					Origin   +01622.000000,+32504.000000,-00510.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00001.000000,+00000.000000,+00000.000000
@@ -10806,7 +10806,7 @@ Begin Map
 					Vertex   -00178.783813,-00472.000000,+02174.000000
 					Vertex   -00178.783813,-00472.000000,+00126.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=4
 					Origin   +01622.000000,+32504.000000,-00510.000000
 					Normal   -00000.707108,-00000.707105,+00000.000000
 					TextureU -00000.707107,+00000.707106,+00000.000000
@@ -10816,7 +10816,7 @@ Begin Map
 					Vertex   -00310.000000,-00340.783203,+02174.000000
 					Vertex   -00310.000000,-00340.783203,+00126.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=5
 					Origin   +01622.000000,+32504.000000,-00510.000000
 					Normal   -00001.000000,+00000.000000,+00000.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -10826,7 +10826,7 @@ Begin Map
 					Vertex   -00310.000000,-00155.216797,+02174.000000
 					Vertex   -00310.000000,-00155.216797,+00126.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=6
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=6
 					Origin   +01622.000000,+32504.000000,-00510.000000
 					Normal   -00000.707108,+00000.707105,+00000.000000
 					TextureU +00000.707108,+00000.707106,+00000.000000
@@ -10836,7 +10836,7 @@ Begin Map
 					Vertex   -00178.783813,-00024.000000,+02174.000000
 					Vertex   -00178.783813,-00024.000000,+00126.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=7
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=7
 					Origin   +01622.000000,+32504.000000,-00510.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00001.000000,+00000.000000,+00000.000000
@@ -10846,7 +10846,7 @@ Begin Map
 					Vertex   +00006.783813,-00024.000000,+02174.000000
 					Vertex   +00006.783813,-00024.000000,+00126.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=8
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=8
 					Origin   +01622.000000,+32504.000000,-00510.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.000000,+00001.000000,+00000.000000
@@ -10860,7 +10860,7 @@ Begin Map
 					Vertex   +00138.000000,-00155.216797,+02174.000000
 					Vertex   +00006.783813,-00024.000000,+02174.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=9
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/HangarFloorDark_Mat.HangarFloorDark_Mat LightMapScale=128.0 Link=9
 					Origin   +00092.783844,+00224.000000,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU -00001.616244,-00001.616244,+00000.000000
@@ -14038,7 +14038,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   -00583.412170,-02477.450684,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -14048,7 +14048,7 @@ Begin Map
 					Vertex   +00016.004082,+00640.000781,+00128.000000
 					Vertex   +00016.004082,+00640.000781,-00224.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   -00370.555908,-02335.225098,-00128.000000
 					Normal   +00000.999688,-00000.024992,+00000.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -14058,7 +14058,7 @@ Begin Map
 					Vertex   +00000.004082,+00000.000781,+00128.000000
 					Vertex   +00000.004082,+00000.000781,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   -00228.329590,-02548.081299,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.831470,-00000.555570,+00000.000000
@@ -14068,7 +14068,7 @@ Begin Map
 					Vertex   -00095.995430,+00000.000781,+00128.000000
 					Vertex   -00095.995430,+00000.000781,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   -00441.186035,-02690.307129,-00128.000000
 					Normal   -00000.999689,+00000.024932,+00000.000000
 					TextureU -00000.555570,+00000.831470,+00000.000000
@@ -14078,7 +14078,7 @@ Begin Map
 					Vertex   -00079.996162,+00640.000781,+00128.000000
 					Vertex   -00080.093574,+00639.996875,-00224.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00370.555908,-02335.225098,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -14088,7 +14088,7 @@ Begin Map
 					Vertex   -00095.995430,+00000.000781,+00128.000000
 					Vertex   +00000.004082,+00000.000781,+00128.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00583.412170,-02477.450684,-00128.000000
 					Normal   +00000.000000,-00000.196117,-00000.980580
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -14112,7 +14112,7 @@ Begin Map
 		BrushType=Brush_Add
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=0
 					Origin   -00583.412170,-02477.450684,-00128.000000
 					Normal   +00000.000000,+00001.000000,+00000.000000
 					TextureU +00000.831470,+00000.555570,+00000.000000
@@ -14122,7 +14122,7 @@ Begin Map
 					Vertex   +00016.004082,+00640.000781,+00128.000000
 					Vertex   +00016.004082,+00640.000781,-00224.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=1
 					Origin   -00370.555908,-02335.225098,-00128.000000
 					Normal   +00000.999688,-00000.024992,+00000.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -14132,7 +14132,7 @@ Begin Map
 					Vertex   +00000.004082,+00000.000781,+00128.000000
 					Vertex   +00000.004082,+00000.000781,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=2
 					Origin   -00228.329590,-02548.081299,-00128.000000
 					Normal   +00000.000000,-00001.000000,+00000.000000
 					TextureU -00000.831470,-00000.555570,+00000.000000
@@ -14142,7 +14142,7 @@ Begin Map
 					Vertex   -00095.995430,+00000.000781,+00128.000000
 					Vertex   -00095.995430,+00000.000781,-00096.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=3
 					Origin   -00441.186035,-02690.307129,-00128.000000
 					Normal   -00000.999689,+00000.024932,+00000.000000
 					TextureU -00000.555570,+00000.831470,+00000.000000
@@ -14152,7 +14152,7 @@ Begin Map
 					Vertex   -00079.996162,+00640.000781,+00128.000000
 					Vertex   -00080.093574,+00639.996875,-00224.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=4
 					Origin   -00370.555908,-02335.225098,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -14162,7 +14162,7 @@ Begin Map
 					Vertex   -00095.995430,+00000.000781,+00128.000000
 					Vertex   +00000.004082,+00000.000781,+00128.000000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump_RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/Bump/RockBumpBlendSpire_Mat.RockBumpBlendSpire_Mat LightMapScale=128.0 Link=5
 					Origin   -00583.412170,-02477.450684,-00128.000000
 					Normal   +00000.000000,-00000.196117,-00000.980580
 					TextureU +00000.555570,-00000.831470,+00000.000000
@@ -14654,7 +14654,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -16817.335938,-08233.355469,-00128.000000
 					Normal   -00000.616609,-00000.787270,+00000.000000
 					TextureU -00000.039363,+00000.030830,+00000.000000
@@ -14664,7 +14664,7 @@ Begin Map
 					Vertex   -13166.798516,+10434.646875,+12304.300000
 					Vertex   -13166.798516,+10434.646875,-16111.700000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
 					Origin   -17015.228516,-08070.953125,-00128.000000
 					Normal   -00000.806872,+00000.590726,+00000.000000
 					TextureU +00000.029536,+00000.040344,+00000.000000
@@ -14674,7 +14674,7 @@ Begin Map
 					Vertex   -02051.881035,+25616.510156,+12304.300000
 					Vertex   -02051.881035,+25616.510156,-16111.700000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
 					Origin   -16852.824219,-07873.062500,-00128.000000
 					Normal   +00000.640576,+00000.767895,+00000.000000
 					TextureU +00000.038395,-00000.032029,+00000.000000
@@ -14684,7 +14684,7 @@ Begin Map
 					Vertex   +11592.390938,+14234.494531,+12304.300000
 					Vertex   +11592.390938,+14234.494531,-16111.700000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
 					Origin   -16654.931641,-08035.472656,-00128.000000
 					Normal   +00000.782410,-00000.622764,+00000.000000
 					TextureU -00000.031138,-00000.039120,+00000.000000
@@ -14694,7 +14694,7 @@ Begin Map
 					Vertex   +00221.470039,-00051.368750,+12304.300000
 					Vertex   +00221.470039,-00051.368750,-16111.700000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
 					Origin   -17015.228516,-08070.953125,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.030830,+00000.039363,+00000.000000
@@ -14704,7 +14704,7 @@ Begin Map
 					Vertex   +11592.390938,+14234.494531,+12304.300000
 					Vertex   -02051.881035,+25616.510156,+12304.300000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -16817.335938,-08233.355469,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.030830,+00000.039363,+00000.000000
@@ -14728,7 +14728,7 @@ Begin Map
 		BrushType=Brush_Subtract
 		Begin Brush Name=Model_6
 			Begin PolyList
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=0
 					Origin   -16817.335938,-08233.355469,-00128.000000
 					Normal   -00000.616609,-00000.787270,+00000.000000
 					TextureU -00000.039363,+00000.030830,+00000.000000
@@ -14738,7 +14738,7 @@ Begin Map
 					Vertex   -13166.798516,+10434.646875,+00080.300000
 					Vertex   -13166.798516,+10434.646875,-27183.700000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=1
 					Origin   -17015.228516,-08070.953125,-00128.000000
 					Normal   -00000.806872,+00000.590726,+00000.000000
 					TextureU +00000.029536,+00000.040344,+00000.000000
@@ -14748,7 +14748,7 @@ Begin Map
 					Vertex   -02051.881035,+25616.510156,+00080.300000
 					Vertex   -02051.881035,+25616.510156,-27183.700000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=2
 					Origin   -16852.824219,-07873.062500,-00128.000000
 					Normal   +00000.640576,+00000.767895,+00000.000000
 					TextureU +00000.038395,-00000.032029,+00000.000000
@@ -14758,7 +14758,7 @@ Begin Map
 					Vertex   +11592.390938,+14234.494531,+00080.300000
 					Vertex   +11592.390938,+14234.494531,-27183.700000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=3
 					Origin   -16654.931641,-08035.472656,-00128.000000
 					Normal   +00000.782410,-00000.622764,+00000.000000
 					TextureU -00000.031138,-00000.039120,+00000.000000
@@ -14768,7 +14768,7 @@ Begin Map
 					Vertex   +00221.470039,-00051.368750,+00080.300000
 					Vertex   +00221.470039,-00051.368750,-27183.700000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=4
 					Origin   -17015.228516,-08070.953125,+00128.000000
 					Normal   +00000.000000,+00000.000000,+00001.000000
 					TextureU +00000.030830,+00000.039363,+00000.000000
@@ -14778,7 +14778,7 @@ Begin Map
 					Vertex   +11592.390938,+14234.494531,+00080.300000
 					Vertex   -02051.881035,+25616.510156,+00080.300000
 				End Polygon
-				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General_ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
+				Begin Polygon Item=Side Texture=/Game/Materials/Arena_Textures/General/ArenaRockFloor_Mat.ArenaRockFloor_Mat LightMapScale=128.0 Link=5
 					Origin   -16817.335938,-08233.355469,-00128.000000
 					Normal   +00000.000000,+00000.000000,-00001.000000
 					TextureU +00000.030830,+00000.039363,+00000.000000
