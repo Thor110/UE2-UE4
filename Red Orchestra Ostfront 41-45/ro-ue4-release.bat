@@ -139,6 +139,10 @@ for /D %%D in ("%start%\Animations\*") do (
     )
 )
 
+REM delete leftover files in umodel folder
+rd /s /q "%model%\UModelExport\"
+mkdir "%model%\UModelExport"
+
 pause
 REM pause and exit for now
 exit
