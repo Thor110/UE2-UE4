@@ -6,11 +6,6 @@ set first=%cd%
 @echo off
 
 cls
-echo this script isn't finished yet, exiting . . .
-pause
-exit
-
-cls
 REM enter directories of required programs
 :UNREAL
 SET /P level="Enter your Unreal Tournament 3 Directory:"
@@ -30,14 +25,14 @@ if exist "%model%\umodel.exe" (
   goto :UMODEL
 )
 
-:BLENDER
-SET /P blend="Enter your Blender Directory:"
-if exist "%blend%\blender.exe" (
-  echo Blender Found.
-) else (
-  echo Blender Not Found!
-  goto :BLENDER
-)
+REM :BLENDER
+REM SET /P blend="Enter your Blender Directory:"
+REM if exist "%blend%\blender.exe" (
+REM   echo Blender Found.
+REM ) else (
+REM   echo Blender Not Found!
+REM   goto :BLENDER
+REM )
 
 :EXPORT
 SET /P start="Enter the directory of the UE4/5 Content Folder:"
@@ -49,15 +44,13 @@ if exist "%start%" (
   goto :EXPORT
 )
 
-REM make required directories in the UE4 folder
-mkdir "%start%\Characters" "%start%\CTF_Flags" "%start%\Gameplay" "%start%\Maps" "%start%\Music" "%start%\Packages" "%start%\Pickups" "%start%\Textures" "%start%\UI" "%start%\Vehicles" "%start%\Weapons"
+cls
+echo this script isn't finished yet . . .
+echo currently the script only exports all packages to a matching heirarchy of directories in the specified content folder . . .
+pause
 
-REM sort these folders accordingly
-REM Effects has one sub folder - testeffects
-REM Environments also has one sub folder - test
-REM Private two sub folders
-REM Sounds folder has language sub-folders
-REM UT3G has sub-folders
+REM make required directories in the UE4 folder
+mkdir "%start%\Characters" "%start%\CTF_Flags" "%start%\Effects" "%start%\Effects\testeffects" "%start%\Environments" "%start%\Environments\test" "%start%\Gameplay" "%start%\Maps" "%start%\Music" "%start%\Packages" "%start%\Pickups"" "%start%\Private"" "%start%\Private\Maps"" "%start%\Private\Vehicles" "%start%\Sounds" "%start%\Sounds\DEU" "%start%\Sounds\ESN" "%start%\Sounds\FRA" "%start%\Sounds\INT" "%start%\Sounds\ITA" "%start%\Textures" "%start%\UI" "%start%\UT3G\Animations" "%start%\UT3G\Characters" "%start%\UT3G\Effects" "%start%\UT3G\Environments" "%start%\UT3G\Gameplay" "%start%\UT3G\Maps" "%start%\UT3G\Packages" "%start%\UT3G\Pickups" "%start%\UT3G\Sounds" "%start%\UT3G\UI" "%start%\Vehicles" "%start%\Weapons"
 
 REM export all packages with umodel
 umodel -path="%level%" -export *.upk
@@ -67,6 +60,18 @@ for /f "delims=|" %%f in ('dir /b "%level%\Characters"') do move "%model%\Umodel
 
 REM for all files in the games CTF_Flags folder move folders of the same name from umodelexport folder to UE4 CTF_Flags folder
 for /f "delims=|" %%f in ('dir /b "%level%\CTF_Flags"') do move "%model%\UmodelExport\%%~nf" "%start%\CTF_Flags\%%~nf"
+
+REM for all files in the games Effects\testeffects folder move folders of the same name from umodelexport folder to UE4 Effects\testeffects folder
+for /f "delims=|" %%f in ('dir /b "%level%\Effects\testeffects"') do move "%model%\UmodelExport\%%~nf" "%start%\Effects\testeffects\%%~nf"
+
+REM for all files in the games Effects folder move folders of the same name from umodelexport folder to UE4 Effects folder
+for /f "delims=|" %%f in ('dir /b "%level%\Effects"') do move "%model%\UmodelExport\%%~nf" "%start%\Effects\%%~nf"
+
+REM for all files in the games Environments\test folder move folders of the same name from umodelexport folder to UE4 Environments\test folder
+for /f "delims=|" %%f in ('dir /b "%level%\Environments\test"') do move "%model%\UmodelExport\%%~nf" "%start%\Environments\test\%%~nf"
+
+REM for all files in the games Effects folder move folders of the same name from umodelexport folder to UE4 Effects folder
+for /f "delims=|" %%f in ('dir /b "%level%\Environments"') do move "%model%\UmodelExport\%%~nf" "%start%\Environments\%%~nf"
 
 REM for all files in the games Gameplay folder move folders of the same name from umodelexport folder to UE4 Gameplay folder
 for /f "delims=|" %%f in ('dir /b "%level%\Gameplay"') do move "%model%\UmodelExport\%%~nf" "%start%\Gameplay\%%~nf"
@@ -83,11 +88,72 @@ for /f "delims=|" %%f in ('dir /b "%level%\Packages"') do move "%model%\UmodelEx
 REM for all files in the games Pickups folder move folders of the same name from umodelexport folder to UE4 Pickups folder
 for /f "delims=|" %%f in ('dir /b "%level%\Pickups"') do move "%model%\UmodelExport\%%~nf" "%start%\Pickups\%%~nf"
 
+REM for all files in the games Private\Maps folder move folders of the same name from umodelexport folder to UE4 Private\Maps folder
+for /f "delims=|" %%f in ('dir /b "%level%\Private\Maps"') do move "%model%\UmodelExport\%%~nf" "%start%\Private\Maps\%%~nf"
+
+REM for all files in the games Private\Vehicles folder move folders of the same name from umodelexport folder to UE4 Private\Vehicles folder
+for /f "delims=|" %%f in ('dir /b "%level%\Private\Vehicles"') do move "%model%\UmodelExport\%%~nf" "%start%\Private\Vehicles\%%~nf"
+
+REM for all files in the games Sounds\DEU folder move folders of the same name from umodelexport folder to UE4 Sounds\DEU folder
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds\DEU"') do move "%model%\UmodelExport\%%~nf" "%start%\Sounds\DEU\%%~nf"
+
+REM for all files in the games Sounds\ESN folder move folders of the same name from umodelexport folder to UE4 Sounds\ESN folder
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds\ESN"') do move "%model%\UmodelExport\%%~nf" "%start%\Sounds\ESN\%%~nf"
+
+REM for all files in the games Sounds\FRA folder move folders of the same name from umodelexport folder to UE4 Sounds\FRA folder
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds\FRA"') do move "%model%\UmodelExport\%%~nf" "%start%\Sounds\FRA\%%~nf"
+
+REM for all files in the games Sounds\INT folder move folders of the same name from umodelexport folder to UE4 Sounds\INT folder
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds\INT"') do move "%model%\UmodelExport\%%~nf" "%start%\Sounds\INT\%%~nf"
+
+REM for all files in the games Sounds\ITA folder move folders of the same name from umodelexport folder to UE4 Sounds\ITA folder
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds\ITA"') do move "%model%\UmodelExport\%%~nf" "%start%\Sounds\ITA\%%~nf"
+
+REM for all files in the games Sounds folder move folders of the same name from umodelexport folder to UE4 Sounds folder
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do move "%model%\UmodelExport\%%~nf" "%start%\Sounds\%%~nf"
+
 REM for all files in the games Textures folder move folders of the same name from umodelexport folder to UE4 Textures folder
 for /f "delims=|" %%f in ('dir /b "%level%\Textures"') do move "%model%\UmodelExport\%%~nf" "%start%\Textures\%%~nf"
+
+REM for all files in the games UI folder move folders of the same name from umodelexport folder to UE4 UI folder
+for /f "delims=|" %%f in ('dir /b "%level%\UI"') do move "%model%\UmodelExport\%%~nf" "%start%\UI\%%~nf"
+
+REM for all files in the games UT3G\Animations folder move folders of the same name from umodelexport folder to UE4 UT3G\Animations folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\Animations"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\Animations\%%~nf"
+
+REM for all files in the games UT3G\Characters folder move folders of the same name from umodelexport folder to UE4 UT3G\Characters folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\Characters"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\Characters\%%~nf"
+
+REM for all files in the games UT3G\Effects folder move folders of the same name from umodelexport folder to UE4 UT3G\Effects folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\Effects"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\Effects\%%~nf"
+
+REM for all files in the games UT3G\Environments folder move folders of the same name from umodelexport folder to UE4 UT3G\Environments folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\Environments"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\Environments\%%~nf"
+
+REM for all files in the games UT3G\Gameplay folder move folders of the same name from umodelexport folder to UE4 UT3G\Gameplay folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\Gameplay"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\Gameplay\%%~nf"
+
+REM for all files in the games UT3G\Maps folder move folders of the same name from umodelexport folder to UE4 UT3G\Maps folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\Maps"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\Maps\%%~nf"
+
+REM for all files in the games UT3G\Packages folder move folders of the same name from umodelexport folder to UE4 UT3G\Packages folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\Packages"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\Packages\%%~nf"
+
+REM for all files in the games UT3G\Pickups folder move folders of the same name from umodelexport folder to UE4 UT3G\Pickups folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\Pickups"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\Pickups\%%~nf"
+
+REM for all files in the games UT3G\Sounds folder move folders of the same name from umodelexport folder to UE4 UT3G\Sounds folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\Sounds"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\Sounds\%%~nf"
+
+REM for all files in the games UT3G\UI folder move folders of the same name from umodelexport folder to UE4 UT3G\UI folder
+for /f "delims=|" %%f in ('dir /b "%level%\UT3G\UI"') do move "%model%\UmodelExport\%%~nf" "%start%\UT3G\UI\%%~nf"
 
 REM for all files in the games Vehicles folder move folders of the same name from umodelexport folder to UE4 Vehicles folder
 for /f "delims=|" %%f in ('dir /b "%level%\Vehicles"') do move "%model%\UmodelExport\%%~nf" "%start%\Vehicles\%%~nf"
 
 REM for all files in the games Weapons folder move folders of the same name from umodelexport folder to UE4 Weapons folder
 for /f "delims=|" %%f in ('dir /b "%level%\Weapons"') do move "%model%\UmodelExport\%%~nf" "%start%\Weapons\%%~nf"
+
+echo currently the script only exports all packages to a matching heirarchy of directories in the specified content folder . . .
+pause
+exit
