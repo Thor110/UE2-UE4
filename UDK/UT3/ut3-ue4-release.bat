@@ -1,4 +1,4 @@
-title Star Wars Republic Commando UE4 Porting Script
+title Unreal Tournament 3 UE4 Porting Script
 
 REM set first to current directory ( where the script starts executing from )
 set first=%cd%
@@ -46,17 +46,55 @@ if exist "%start%" (
 
 cls
 echo this script isn't finished yet . . .
+pause
+exit
 echo currently the script only exports all packages to a matching heirarchy of directories in the specified content folder . . .
 pause
 
 REM make required directories in the UE4 folder
-mkdir "%start%\Characters" "%start%\CTF_Flags" "%start%\Effects" "%start%\Effects\testeffects" "%start%\Environments" "%start%\Environments\test" "%start%\Gameplay" "%start%\Maps" "%start%\Music" "%start%\Packages" "%start%\Pickups"" "%start%\Private"" "%start%\Private\Maps"" "%start%\Private\Vehicles" "%start%\Sounds" "%start%\Sounds\DEU" "%start%\Sounds\ESN" "%start%\Sounds\FRA" "%start%\Sounds\INT" "%start%\Sounds\ITA" "%start%\Textures" "%start%\UI" "%start%\UT3G\Animations" "%start%\UT3G\Characters" "%start%\UT3G\Effects" "%start%\UT3G\Environments" "%start%\UT3G\Gameplay" "%start%\UT3G\Maps" "%start%\UT3G\Packages" "%start%\UT3G\Pickups" "%start%\UT3G\Sounds" "%start%\UT3G\UI" "%start%\Vehicles" "%start%\Weapons"
+mkdir "%start%\Characters"
+REM "%start%\CTF_Flags" "%start%\Effects" "%start%\Effects\testeffects" "%start%\Environments" "%start%\Environments\test" "%start%\Gameplay" "%start%\Maps" "%start%\Music" "%start%\Packages" "%start%\Pickups" "%start%\Private" "%start%\Private\Maps" "%start%\Private\Vehicles" "%start%\Sounds" "%start%\Sounds\DEU" "%start%\Sounds\ESN" "%start%\Sounds\FRA" "%start%\Sounds\INT" "%start%\Sounds\ITA" "%start%\Textures" "%start%\UI" "%start%\UT3G\Animations" "%start%\UT3G\Characters" "%start%\UT3G\Effects" "%start%\UT3G\Environments" "%start%\UT3G\Gameplay" "%start%\UT3G\Maps" "%start%\UT3G\Packages" "%start%\UT3G\Pickups" "%start%\UT3G\Sounds" "%start%\UT3G\UI" "%start%\Vehicles" "%start%\Weapons"
+
+cd /d "%model%"
 
 REM export all packages with umodel
 umodel -path="%level%" -export *.upk
 
 REM for all files in the games Characters folder move folders of the same name from umodelexport folder to UE4 Characters folder
-for /f "delims=|" %%f in ('dir /b "%level%\Characters"') do move "%model%\UmodelExport\%%~nf" "%start%\Characters\%%~nf"
+REM for /f "delims=|" %%f in ('dir /b "%level%\Characters"') do (
+REM 	umodel -path="%level%" -export %%~nf.upk
+REM 
+REM 	REM for all files in the games Characters folder move folders of the same name from umodelexport folder to UE4 Characters folder
+REM 	for /f "delims=|" %%x in ('dir /b "%model%\UmodelExport"') do (
+REM 		mkdir "%start%\Characters\%%~nx"
+REM 		move "%model%\UmodelExport\%%~nx" "%start%\Characters\%%~nx"
+REM 	)
+REM )
+
+
+
+REM for every folder in the umodelexport folder
+for /D %%D in ("%model%\UmodelExport\*") do (
+
+	REM for all the following filetypes ( .psk, .tga, .mat, .txt ) in the stated subdirectories ( Mesh, Materials )
+    for %%F in ("%%~D\Mesh\*.psk*","%%~D\Materials\*.tga*","%%~D\Materials\*.mat*","%%~D\Materials\*.txt*","%%~D\Mesh\*.txt*") do (
+
+		REM move to the parent directory
+        move /Y "%%~F" "%%~D"
+    )
+	
+	REM for all the following filetypes ( .psk, .tga, .mat .txt ) in the stated subdirectories ( SM\Mesh, SM\Materials )
+    for %%F in ("%%~D\SM\Mesh\*.psk*","%%~D\SM\Materials\*.tga*","%%~D\SM\Materials\*.mat*","%%~D\SM\Materials\*.txt*","%%~D\SM\Mesh\*.txt*") do (
+		REM move to the parent directory
+        move /Y "%%~F" "%%~D"
+    )
+)
+
+
+
+pause
+echo this script isn't finished yet . . .
+pause
 
 REM for all files in the games CTF_Flags folder move folders of the same name from umodelexport folder to UE4 CTF_Flags folder
 for /f "delims=|" %%f in ('dir /b "%level%\CTF_Flags"') do move "%model%\UmodelExport\%%~nf" "%start%\CTF_Flags\%%~nf"
