@@ -14,3 +14,8 @@ Animations packages broken and the following meshes were truncated and couldn't 
 
 Rem these meshes fail to convert to fbx as they are truncated so they are deleted
 del "%start%\StaticMeshes\Con_sm\con_freightcar.pskx" "%start%\StaticMeshes\Doors_sm\door_phys_doubleref.pskx" "%start%\StaticMeshes\Jewel_sm\jewel_frontdoor.pskx" "%start%\StaticMeshes\pier_sm\pier_ship.pskx" "%start%\StaticMeshes\Redlibrary_sm\red_brickwindow_blinds_long.pskx"
+
+
+Only Exporting the MP Maps as T3Ds
+
+MP-Training pier_tex.shiphull missing
