@@ -1,0 +1,850 @@
+Begin Map
+Begin Actor Class=LevelInfo Name=LevelInfo0
+    TimeSeconds=5.213000
+    Title="Lobby"
+    Summary=LevelSummary'LevelSummary'
+    bPathsRebuilt=True
+    CameraLocationDynamic=(X=-207.365799,Y=-130.995514,Z=-11.798099)
+    CameraLocationTop=(X=-30.831648,Y=-148.423065,Z=10309.560547)
+    CameraLocationFront=(X=-92.797890,Y=-38.351105,Z=8985.104492)
+    CameraLocationSide=(X=-69.194931,Y=-98.775475,Z=9344.320313)
+    CameraRotationDynamic=(Yaw=4308)
+    NavigationPointList=SwatPlayerStart'SwatPlayerStart1'
+    AwarenessPointList(0)=AwarenessPoint'AwarenessPoint0'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1)
+    Tag="LevelInfo"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Label="CoopQMMLobby"
+    Outer=Package'myLevel'
+    Name="LevelInfo0"
+End Actor
+Begin Actor Class=Brush Name=Brush0
+    MainScale=(SheerAxis=SHEER_ZX)
+    PostScale=(SheerAxis=SHEER_ZX)
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1)
+    Tag="Brush"
+    Group="Cube"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-624.000000,Y=-144.000000)
+    Begin Brush Name=Brush
+       Begin PolyList
+          Begin Polygon
+             Origin   -00128.000000,-00128.000000,-00128.000000
+             Normal   -00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,+00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00128.000000,-00128.000000,-00128.000000
+             Vertex   -00128.000000,-00128.000000,+00128.000000
+             Vertex   -00128.000000,+00128.000000,+00128.000000
+             Vertex   -00128.000000,+00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00128.000000,+00128.000000,-00128.000000
+             Normal   +00000.000000,+00001.000000,+00000.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   -00128.000000,+00128.000000,-00128.000000
+             Vertex   -00128.000000,+00128.000000,+00128.000000
+             Vertex   +00128.000000,+00128.000000,+00128.000000
+             Vertex   +00128.000000,+00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   +00128.000000,+00128.000000,-00128.000000
+             Normal   +00001.000000,+00000.000000,+00000.000000
+             TextureU +00000.000000,-00001.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00128.000000,+00128.000000,-00128.000000
+             Vertex   +00128.000000,+00128.000000,+00128.000000
+             Vertex   +00128.000000,-00128.000000,+00128.000000
+             Vertex   +00128.000000,-00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   +00128.000000,-00128.000000,-00128.000000
+             Normal   +00000.000000,-00001.000000,+00000.000000
+             TextureU -00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00000.000000,-00001.000000
+             Vertex   +00128.000000,-00128.000000,-00128.000000
+             Vertex   +00128.000000,-00128.000000,+00128.000000
+             Vertex   -00128.000000,-00128.000000,+00128.000000
+             Vertex   -00128.000000,-00128.000000,-00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00128.000000,+00128.000000,+00128.000000
+             Normal   +00000.000000,+00000.000000,+00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,+00001.000000,+00000.000000
+             Vertex   -00128.000000,+00128.000000,+00128.000000
+             Vertex   -00128.000000,-00128.000000,+00128.000000
+             Vertex   +00128.000000,-00128.000000,+00128.000000
+             Vertex   +00128.000000,+00128.000000,+00128.000000
+          End Polygon
+          Begin Polygon
+             Origin   -00128.000000,-00128.000000,-00128.000000
+             Normal   +00000.000000,+00000.000000,-00001.000000
+             TextureU +00001.000000,+00000.000000,+00000.000000
+             TextureV +00000.000000,-00001.000000,+00000.000000
+             Vertex   -00128.000000,-00128.000000,-00128.000000
+             Vertex   -00128.000000,+00128.000000,-00128.000000
+             Vertex   +00128.000000,+00128.000000,-00128.000000
+             Vertex   +00128.000000,-00128.000000,-00128.000000
+          End Polygon
+       End PolyList
+    End Brush
+    Brush=Model'Brush'
+    bSelected=True
+    Label="Brush0"
+    Outer=Package'myLevel'
+    Name="Brush0"
+End Actor
+Begin Actor Class=DefaultPhysicsVolume Name=DefaultPhysicsVolume0
+    Priority=-1000000
+    bNoDelete=True
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="DefaultPhysicsVolume"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-21.044025,Y=-0.000004,Z=9.519157)
+    Rotation=(Pitch=2048)
+    ColLocation=(X=-21.044025,Y=-0.000004,Z=9.519157)
+    bSelected=True
+    Label="DefaultPhysicsVolume0"
+    Outer=Package'myLevel'
+    Name="DefaultPhysicsVolume0"
+End Actor
+Begin Actor Class=SwatPlayerStart Name=SwatPlayerStart1
+    VisibleAwarenessPoints(0)=(AwarenessPoint=AwarenessPoint'AwarenessPoint0')
+    ClosestAwarenessPoint=AwarenessPoint'AwarenessPoint0'
+    Base=LevelInfo'LevelInfo0'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="SwatPlayerStart"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-123.966927,Y=-94.090225,Z=-59.472000)
+    Rotation=(Yaw=4404)
+    bSelected=True
+    Label="SwatPlayerStart1"
+    Outer=Package'myLevel'
+    Name="SwatPlayerStart1"
+End Actor
+Begin Actor Class=CoopQMMReplicationInfo Name=CoopQMMReplicationInfo1
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="CoopQMMReplicationInfo"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=31.000000,Z=22.000000)
+    bSelected=True
+    Label="CoopQMMRI"
+    Outer=Package'myLevel'
+    Name="CoopQMMReplicationInfo1"
+End Actor
+Begin Actor Class=Brush Name=Brush18
+    CsgOper=CSG_Subtract
+    MainScale=(SheerAxis=SHEER_ZX)
+    PostScale=(SheerAxis=SHEER_ZX)
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1)
+    Tag="Brush"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=553.167297,Y=1071.999878,Z=-6.770760)
+    Begin Brush Name=Model25
+       Begin PolyList
+          Begin Polygon Texture=train.train_warehouse_skin_shader Link=0
+             Origin   -03829.736328,-09880.002930,-01251.805542
+             Normal   +00000.980785,+00000.000001,+00000.195090
+             TextureU -00000.000000,+00002.000000,+00000.000002
+             TextureV +00000.390181,+00000.000000,-00001.961571
+             Vertex   +01738.000488,-00968.000549,-00128.000366
+             Vertex   +01588.171143,-00968.000488,+00625.242737
+             Vertex   +01588.172607,-03048.000977,+00625.242920
+             Vertex   +01738.001953,-03048.000977,-00128.000061
+          End Polygon
+          Begin Polygon Texture=warehouse_tex.metal_wall_shader Link=1
+             Origin   +02224.470459,-04593.998535,-00031.235535
+             Normal   +00000.000000,-00001.000000,+00000.000000
+             TextureU +00001.961571,+00000.000000,+00000.390181
+             TextureV +00000.390181,+00000.000000,-00001.961571
+             Vertex   +01738.001953,-03048.000977,-00128.000061
+             Vertex   +01588.172607,-03048.000977,+00625.242920
+             Vertex   +00568.156372,-03048.000977,+00422.349060
+             Vertex   +00717.985779,-03048.000977,-00330.893890
+          End Polygon
+          Begin Polygon Texture=train.train_warehouse_skin_shader Link=2
+             Origin   -03829.736328,-09880.002930,-01251.805542
+             Normal   -00000.980785,-00000.000001,-00000.195090
+             TextureU -00000.000000,+00002.000000,+00000.000002
+             TextureV +00000.390181,+00000.000000,-00001.961571
+             Vertex   +00717.985779,-03048.000977,-00330.893890
+             Vertex   +00568.156372,-03048.000977,+00422.349060
+             Vertex   +00568.154419,-00968.000488,+00422.348755
+             Vertex   +00717.983887,-00968.000549,-00330.894318
+          End Polygon
+          Begin Polygon Texture=train.train_warehouse_skin_shader Link=3
+             Origin   -03500.194336,-03592.000488,-01186.255615
+             Normal   +00000.000000,+00001.000000,-00000.000000
+             TextureU +00001.961569,+00000.000000,+00000.390178
+             TextureV +00000.390181,+00000.000000,-00001.961571
+             Vertex   +01738.000488,-00968.000549,-00128.000366
+             Vertex   +00717.983887,-00968.000549,-00330.894318
+             Vertex   +00568.154419,-00968.000488,+00422.348755
+             Vertex   +01588.171143,-00968.000488,+00625.242737
+          End Polygon
+          Begin Polygon Texture=train.train_cinder01_shader Link=4
+             Origin   +01146.663940,-02402.000000,+00015.390823
+             Normal   -00000.195090,-00000.000000,+00000.980785
+             TextureU -00000.980785,+00000.000000,-00000.195090
+             TextureV +00000.000000,-00001.000000,+00000.000000
+             Vertex   +01588.172607,-03048.000977,+00625.242920
+             Vertex   +01588.171143,-00968.000488,+00625.242737
+             Vertex   +00568.154419,-00968.000488,+00422.348755
+             Vertex   +00568.156372,-03048.000977,+00422.349060
+          End Polygon
+          Begin Polygon Texture=train.train_concrete01_shader Link=5
+             Origin   -03377.771484,-09214.002930,-01145.590698
+             Normal   +00000.195090,-00000.000000,-00000.980785
+             TextureU -00000.000000,+00002.000000,+00000.000002
+             TextureV -00001.961571,+00000.000000,-00000.390181
+             Vertex   +01738.000488,-00968.000549,-00128.000366
+             Vertex   +01738.001953,-03048.000977,-00128.000061
+             Vertex   +00717.985779,-03048.000977,-00330.893890
+             Vertex   +00717.983887,-00968.000549,-00330.894318
+          End Polygon
+       End PolyList
+    End Brush
+    Brush=Model'Model25'
+    PrePivot=(X=1738.002441,Y=-1480.000977,Z=-128.000000)
+    bSelected=True
+    Label="Brush35"
+    Outer=Package'myLevel'
+    Name="Brush18"
+End Actor
+Begin Actor Class=Light Name=Light10
+    MinCoronaSize=50.000000
+    LightBrightness=300.000000
+    LightHue=31
+    LightSaturation=100
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="Light"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-75.753258,Y=-30.683807,Z=489.060120)
+    Rotation=(Pitch=-2048,Yaw=32768)
+    bSelected=True
+    Label="Light39"
+    Outer=Package'myLevel'
+    Name="Light10"
+End Actor
+Begin Actor Class=Light Name=Light11
+    MinCoronaSize=50.000000
+    LightEffect=LE_Spotlight
+    LightBrightness=400.000000
+    LightRadius=40.000000
+    LightHue=31
+    LightSaturation=100
+    LightCone=60
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="Light"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-68.467377,Y=-28.683830,Z=468.855225)
+    Rotation=(Pitch=-14335,Roll=-31743)
+    bSelected=True
+    Label="Light39"
+    Outer=Package'myLevel'
+    Name="Light11"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor0
+    StaticMesh=StaticMesh'arms_sm.arms_gun_crate_open'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=9.162560,Y=-93.513176,Z=-51.765404)
+    Rotation=(Yaw=-17408,Roll=-2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance0'
+    ColLocation=(X=9.162560,Y=-93.513176,Z=-51.765404)
+    bSelected=True
+    Label="StaticMeshActor388"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor0"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor1
+    StaticMesh=StaticMesh'arms_sm.arms_gun_crate_closed'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-25.635181,Y=-93.628670,Z=-106.607880)
+    Rotation=(Yaw=12280,Roll=2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance1'
+    ColLocation=(X=-25.635181,Y=-93.628670,Z=-106.607880)
+    bSelected=True
+    Label="StaticMeshActor970"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor1"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor2
+    StaticMesh=StaticMesh'arms_sm.arms_gun_crate_closed'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=11.720383,Y=-112.220940,Z=-99.177391)
+    Rotation=(Yaw=-20480,Roll=-2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance2'
+    ColLocation=(X=11.720383,Y=-112.220940,Z=-99.177391)
+    bSelected=True
+    Label="StaticMeshActor970"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor2"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor3
+    StaticMesh=StaticMesh'Hotel_sm.hot_palette'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',iLeaf=-1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=27.313614,Y=-90.023430,Z=-111.369568)
+    Rotation=(Pitch=2048,Yaw=-4096)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance3'
+    ColLocation=(X=27.313614,Y=-90.023430,Z=-111.369568)
+    bSelected=True
+    Label="StaticMeshActor1446"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor3"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor4
+    StaticMesh=StaticMesh'arms_sm.arms_gun_crate_closed'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=18.776962,Y=-51.568848,Z=-97.773758)
+    Rotation=(Pitch=-2048,Yaw=27628)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance4'
+    ColLocation=(X=18.776962,Y=-51.568848,Z=-97.773758)
+    bSelected=True
+    Label="StaticMeshActor970"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor4"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor5
+    StaticMesh=StaticMesh'arms_sm.arms_gun_crate_closed'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-13.680878,Y=-103.587891,Z=-79.759834)
+    Rotation=(Pitch=-2048,Yaw=27628)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance5'
+    ColLocation=(X=-13.680878,Y=-103.587891,Z=-79.759834)
+    bSelected=True
+    Label="StaticMeshActor970"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor5"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor6
+    StaticMesh=StaticMesh'arms_sm.arms_gun_crate_closed'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=3.423004,Y=-70.213135,Z=-76.357658)
+    Rotation=(Pitch=-2048,Yaw=27628)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance6'
+    ColLocation=(X=3.423004,Y=-70.213135,Z=-76.357658)
+    bSelected=True
+    Label="StaticMeshActor970"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor6"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor7
+    StaticMesh=StaticMesh'arms_sm.arms_gun_crate_closed'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=50.854568,Y=-125.369629,Z=-91.393127)
+    Rotation=(Yaw=-20480,Roll=-2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance7'
+    ColLocation=(X=50.854568,Y=-125.369629,Z=-91.393127)
+    bSelected=True
+    Label="StaticMeshActor970"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor7"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor8
+    StaticMesh=StaticMesh'train_sm.train_crate_small'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=47.910454,Y=88.000000,Z=-65.469368)
+    Rotation=(Pitch=-14335)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance8'
+    ColLocation=(X=47.910454,Y=88.000000,Z=-65.469368)
+    bSelected=True
+    Label="StaticMeshActor833"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor8"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor9
+    StaticMesh=StaticMesh'Junk_sm.jun_box03'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-20.177940,Y=-62.920898,Z=-46.386078)
+    Rotation=(Pitch=-2048,Yaw=29696)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance9'
+    ColLocation=(X=-20.177940,Y=-62.920898,Z=-46.386078)
+    bSelected=True
+    Label="StaticMeshActor490"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor9"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor10
+    StaticMesh=StaticMesh'SwatGear_sm.FragHeld'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-20.966396,Y=-74.802979,Z=-53.680046)
+    Rotation=(Pitch=-9216,Yaw=17408,Roll=-1023)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance10'
+    ColLocation=(X=-20.966396,Y=-74.802979,Z=-53.680046)
+    bSelected=True
+    Label="StaticMeshActor1338"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor10"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor11
+    StaticMesh=StaticMesh'SwatGear_sm.FragHeld'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-25.910728,Y=-67.763672,Z=-53.643951)
+    Rotation=(Pitch=-7168,Yaw=-3071,Roll=-5119)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance11'
+    ColLocation=(X=-25.910728,Y=-67.763672,Z=-53.643951)
+    bSelected=True
+    Label="StaticMeshActor1338"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor11"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor12
+    StaticMesh=StaticMesh'SwatGear_sm.FragHeld'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-23.869236,Y=-57.822998,Z=-50.179100)
+    Rotation=(Pitch=-1024,Yaw=30716,Roll=25596)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance12'
+    ColLocation=(X=-23.869236,Y=-57.822998,Z=-50.179100)
+    bSelected=True
+    Label="StaticMeshActor1338"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor12"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor13
+    StaticMesh=StaticMesh'SwatGear_sm.FragHeld'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-21.414165,Y=-48.123047,Z=-53.769127)
+    Rotation=(Pitch=-7168,Yaw=-3071,Roll=-5119)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance13'
+    ColLocation=(X=-21.414165,Y=-48.123047,Z=-53.769127)
+    bSelected=True
+    Label="StaticMeshActor1338"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor13"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor14
+    StaticMesh=StaticMesh'SwatGear_sm.FragHeld'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-15.683361,Y=-68.260742,Z=-51.609604)
+    Rotation=(Pitch=3068,Yaw=-20480,Roll=-10239)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance14'
+    ColLocation=(X=-15.683361,Y=-68.260742,Z=-51.609604)
+    bSelected=True
+    Label="StaticMeshActor1338"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor14"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor15
+    StaticMesh=StaticMesh'SwatGear_sm.FragHeld'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-17.685211,Y=-58.315186,Z=-48.949020)
+    Rotation=(Pitch=-1024,Yaw=-22528,Roll=22528)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance15'
+    ColLocation=(X=-17.685211,Y=-58.315186,Z=-48.949020)
+    bSelected=True
+    Label="StaticMeshActor1338"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor15"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor16
+    StaticMesh=StaticMesh'SwatGear_sm.FragHeld'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-17.987347,Y=-104.250244,Z=-52.067886)
+    Rotation=(Pitch=-2048,Yaw=32768,Roll=9212)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance16'
+    ColLocation=(X=-17.987347,Y=-104.250244,Z=-52.067886)
+    bSelected=True
+    Label="StaticMeshActor1338"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor16"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor17
+    StaticMesh=StaticMesh'SwatGear_sm.FragHeld'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-22.693005,Y=-109.225098,Z=-53.003906)
+    Rotation=(Pitch=2048,Yaw=4096,Roll=9212)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance17'
+    ColLocation=(X=-22.693005,Y=-109.225098,Z=-53.003906)
+    bSelected=True
+    Label="StaticMeshActor1338"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor17"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor18
+    StaticMesh=StaticMesh'SwatGear_sm.FragHeld'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-14.861866,Y=-113.780754,Z=-52.465790)
+    Rotation=(Pitch=3068,Yaw=-20480,Roll=-10239)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance18'
+    ColLocation=(X=-14.861866,Y=-113.780754,Z=-52.465790)
+    bSelected=True
+    Label="StaticMeshActor1338"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor18"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor19
+    StaticMesh=StaticMesh'SwatGear_sm.HG_Ingram'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=65.802353,Y=94.000000,Z=-22.146397)
+    Rotation=(Pitch=14332,Yaw=32768,Roll=-21503)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance19'
+    ColLocation=(X=65.802353,Y=94.000000,Z=-22.146397)
+    bSelected=True
+    Label="StaticMeshActor1356"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor19"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor20
+    StaticMesh=StaticMesh'SwatGear_sm.HG_Ingram'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=59.917633,Y=75.999992,Z=-23.316940)
+    Rotation=(Pitch=13312,Yaw=32768,Roll=7168)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance20'
+    ColLocation=(X=59.917633,Y=75.999992,Z=-23.316940)
+    bSelected=True
+    Label="StaticMeshActor1356"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor20"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor21
+    StaticMesh=StaticMesh'SwatGear_sm.HG_Ingram'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=56.585098,Y=78.999985,Z=-21.940639)
+    Rotation=(Pitch=12280,Yaw=-28672,Roll=-2047)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance21'
+    ColLocation=(X=56.585098,Y=78.999985,Z=-21.940639)
+    bSelected=True
+    Label="StaticMeshActor1356"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor21"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor22
+    StaticMesh=StaticMesh'Redlibrary_sm.red_packingbox_01_open'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=135.933487,Y=15.226795,Z=-88.744141)
+    Rotation=(Pitch=2048,Yaw=2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance22'
+    ColLocation=(X=135.933487,Y=15.226795,Z=-88.744141)
+    bSelected=True
+    Label="StaticMeshActor962"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor22"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor23
+    StaticMesh=StaticMesh'SwatGear_sm.HG_Scorpion'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=114.867722,Y=25.191895,Z=-60.307472)
+    Rotation=(Pitch=-12288,Yaw=-9215,Roll=26620)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance23'
+    ColLocation=(X=114.867722,Y=25.191895,Z=-60.307472)
+    bSelected=True
+    Label="StaticMeshActor1378"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor23"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor24
+    StaticMesh=StaticMesh'SwatGear_sm.HG_Scorpion'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=150.940308,Y=5.767090,Z=-53.132187)
+    Rotation=(Pitch=-13312,Yaw=13312,Roll=-27648)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance24'
+    ColLocation=(X=150.940308,Y=5.767090,Z=-53.132187)
+    bSelected=True
+    Label="StaticMeshActor1378"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor24"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor25
+    StaticMesh=StaticMesh'SwatGear_sm.HG_Scorpion'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=115.108719,Y=-5.816898,Z=-58.220352)
+    Rotation=(Pitch=-12288,Yaw=-9215,Roll=26620)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance25'
+    ColLocation=(X=115.108719,Y=-5.816898,Z=-58.220352)
+    bSelected=True
+    Label="StaticMeshActor1378"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor25"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor26
+    StaticMesh=StaticMesh'SwatGear_sm.HG_Scorpion'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=116.213547,Y=5.169678,Z=-58.000595)
+    Rotation=(Yaw=-13312,Roll=27648)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance26'
+    ColLocation=(X=116.213547,Y=5.169678,Z=-58.000595)
+    bSelected=True
+    Label="StaticMeshActor1378"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor26"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor27
+    StaticMesh=StaticMesh'SwatGear_sm.HG_Scorpion'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=114.319504,Y=11.194088,Z=-58.377342)
+    Rotation=(Yaw=-14335,Roll=27628)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance27'
+    ColLocation=(X=114.319504,Y=11.194088,Z=-58.377342)
+    bSelected=True
+    Label="StaticMeshActor1378"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor27"
+End Actor
+Begin Actor Class=Light Name=Light12
+    MinCoronaSize=50.000000
+    LightBrightness=150.000000
+    LightRadius=8.000000
+    LightHue=31
+    LightSaturation=100
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="Light"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=7.341736,Y=-35.263916,Z=58.765160)
+    Rotation=(Pitch=-14335,Roll=-31743)
+    bSelected=True
+    Label="Light39"
+    Outer=Package'myLevel'
+    Name="Light12"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor28
+    StaticMesh=StaticMesh'Druglab_sm.druglab_drug_bagA_white'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="druglab_drug_bagA_white"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-37.114925,Y=-93.297119,Z=-53.833427)
+    Rotation=(Pitch=2048,Yaw=6144,Roll=2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance28'
+    ColLocation=(X=-37.114925,Y=-93.297119,Z=-53.833427)
+    bSelected=True
+    Label="StaticMeshActor1069"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor28"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor29
+    StaticMesh=StaticMesh'Druglab_sm.druglab_drug_bagA_white'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="druglab_drug_bagA_white"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-40.148781,Y=-122.259033,Z=-78.907082)
+    Rotation=(Yaw=-20480,Roll=-2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance29'
+    ColLocation=(X=-40.148781,Y=-122.259033,Z=-78.907082)
+    bSelected=True
+    Label="StaticMeshActor1070"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor29"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor30
+    StaticMesh=StaticMesh'Druglab_sm.druglab_drug_bagA_white'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="druglab_drug_bagA_white"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=52.706177,Y=2.366211,Z=-31.888527)
+    Rotation=(Pitch=2048,Yaw=-10239,Roll=-2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance30'
+    ColLocation=(X=52.706177,Y=2.366211,Z=-31.888527)
+    bSelected=True
+    Label="StaticMeshActor1081"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor30"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor31
+    StaticMesh=StaticMesh'Druglab_sm.druglab_drug_bagA_green'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="druglab_drug_bagA_green"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=28.409721,Y=29.109863,Z=-36.721386)
+    Rotation=(Pitch=2048,Yaw=1024)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance31'
+    ColLocation=(X=28.409721,Y=29.109863,Z=-36.721386)
+    bSelected=True
+    Label="StaticMeshActor1104"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor31"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor32
+    StaticMesh=StaticMesh'Druglab_sm.druglab_drug_bagA_green'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="druglab_drug_bagA_green"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=22.525009,Y=-3.890137,Z=-37.891937)
+    Rotation=(Pitch=-2048,Yaw=32768)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance32'
+    ColLocation=(X=22.525009,Y=-3.890137,Z=-37.891937)
+    bSelected=True
+    Label="StaticMeshActor1105"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor32"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor33
+    StaticMesh=StaticMesh'Druglab_sm.druglab_drug_bagA_green'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="druglab_drug_bagA_green"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=21.359802,Y=15.109863,Z=-26.908207)
+    Rotation=(Pitch=2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance33'
+    ColLocation=(X=21.359802,Y=15.109863,Z=-26.908207)
+    bSelected=True
+    Label="StaticMeshActor1106"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor33"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor34
+    StaticMesh=StaticMesh'arms_sm.arms_crate_01'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=44.809219,Y=14.854496,Z=-72.203796)
+    Rotation=(Yaw=18432,Roll=2048)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance34'
+    DrawScale=1.050000
+    ColLocation=(X=44.809219,Y=14.854496,Z=-72.203796)
+    bSelected=True
+    Label="StaticMeshActor502"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor34"
+End Actor
+Begin Actor Class=StaticMeshActor Name=StaticMeshActor35
+    StaticMesh=StaticMesh'Tenement_sm.ten_stain01'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="StaticMeshActor"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-31.199039,Y=38.692383,Z=-122.781677)
+    Rotation=(Pitch=-2048,Yaw=32768)
+    StaticMeshInstance=StaticMeshInstance'StaticMeshInstance35'
+    DrawScale=1.500000
+    bBlockActors=False
+    bBlockPlayers=False
+    bBlockZeroExtentTraces=False
+    bBlockNonZeroExtentTraces=False
+    bBlockKarma=False
+    bBlockHavok=False
+    ColLocation=(X=-31.199039,Y=38.692383,Z=-122.781677)
+    bSelected=True
+    Label="StaticMeshActor320"
+    Outer=Package'myLevel'
+    Name="StaticMeshActor35"
+End Actor
+Begin Actor Class=AwarenessPoint Name=AwarenessPoint0
+    creation=kAPC_AutoGenerated
+    basisActor=SwatPlayerStart'SwatPlayerStart1'
+    closestNavigationPoint=SwatPlayerStart'SwatPlayerStart1'
+    Level=LevelInfo'LevelInfo0'
+    Region=(Zone=LevelInfo'LevelInfo0',ZoneNumber=1)
+    Tag="AwarenessPoint"
+    PhysicsVolume=DefaultPhysicsVolume'DefaultPhysicsVolume0'
+    Location=(X=-123.966927,Y=-94.090225,Z=-59.472000)
+    Texture=Texture'SWAT4editorTex.AwarnessPointAuto'
+    bSelected=True
+    Label="AwarenessPoint0"
+    Outer=Package'myLevel'
+    Name="AwarenessPoint0"
+End Actor
+BEGIN ACTORGROUP
+    OBJECTNAME=ActorGroup0
+    GROUPNAME="Actor Groups"
+    PARENTGROUPNAME=None
+    ISROOTGROUP=1
+    ISLOCKED=0
+    BEGIN SUBGROUPS
+    END SUBGROUPS
+    BEGIN MEMBERACTORS
+    END MEMBERACTORS
+END ACTORGROUP
+Begin Surface
+End Surface
+End Map
