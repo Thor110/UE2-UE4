@@ -142,7 +142,7 @@ REM batch convert psk/pskx/psa to FBX with blender
 blender -b -P "%first%\batch-convert-fbx.py"
 
 REM delete the following filetypes from the StaticMeshes & Animations folders in the UE4 directory ( .pskx, .psk, .psa, .config )
-del /S "%start%\StaticMeshes\*.pskx"
+del /S "%start%\StaticMeshes\*.pskx" "%start%\Materials\*.mat"
 
 REM Animations broken for now
 REM for every folder in the UE4 Animations directory
