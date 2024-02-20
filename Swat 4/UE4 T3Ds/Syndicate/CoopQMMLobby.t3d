@@ -1,0 +1,947 @@
+Begin Map
+	Begin Level Name=/Game/Converted/CoopQMMLobby-UT2004/CoopQMMLobby-UT2004
+	Begin Actor Class=Brush Name=BigAdditiveBrush
+		Begin Object Name="BrushComponent0"
+		RelativeLocation=(X=-308.340363,Y=8.000183,Z=271.788921)
+		End Object
+		BrushType=Brush_Add
+		Begin Brush Name=Model_6
+			Begin PolyList
+				Begin Polygon Item=Side LightMapScale=2048 Link=0
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   -00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,+00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00961.507660,-01676.000184,-00581.453999
+					Vertex   -00961.507660,-01676.000184,+00581.453999
+					Vertex   -00961.507660,+01676.000184,+00581.453999
+					Vertex   -00961.507660,+01676.000184,-00581.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048 Link=1
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00001.000000,+00000.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00961.507660,+01676.000184,-00581.453999
+					Vertex   -00961.507660,+01676.000184,+00581.453999
+					Vertex   +00961.507660,+01676.000184,+00581.453999
+					Vertex   +00961.507660,+01676.000184,-00581.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048 Link=2
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,-00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00961.507660,+01676.000184,-00581.453999
+					Vertex   +00961.507660,+01676.000184,+00581.453999
+					Vertex   +00961.507660,-01676.000184,+00581.453999
+					Vertex   +00961.507660,-01676.000184,-00581.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048 Link=3
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,-00001.000000,+00000.000000
+					TextureU -00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00961.507660,-01676.000184,-00581.453999
+					Vertex   +00961.507660,-01676.000184,+00581.453999
+					Vertex   -00961.507660,-01676.000184,+00581.453999
+					Vertex   -00961.507660,-01676.000184,-00581.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048 Link=4
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00000.000000,+00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00001.000000,+00000.000000
+					Vertex   -00961.507660,+01676.000184,+00581.453999
+					Vertex   -00961.507660,-01676.000184,+00581.453999
+					Vertex   +00961.507660,-01676.000184,+00581.453999
+					Vertex   +00961.507660,+01676.000184,+00581.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=2048 Link=5
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00000.000000,-00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,-00001.000000,+00000.000000
+					Vertex   -00961.507660,-01676.000184,-00581.453999
+					Vertex   -00961.507660,+01676.000184,-00581.453999
+					Vertex   +00961.507660,+01676.000184,-00581.453999
+					Vertex   +00961.507660,-01676.000184,-00581.453999
+				End Polygon
+			End PolyList
+		End Brush
+		Brush=Model'Model_6'
+		BrushComponent=BrushComponent0
+		ActorLabel="BigAdditiveBrush"
+	End Actor
+	Begin Actor Class=Note Name=LevelInfo0_Note
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+		RelativeLocation=(X=0.000000,Y=0.000000,Z=0.000000)
+		End Object
+		Text=" Title: Lobby"
+		RootComponent=SceneComp
+		SpriteScale=4.0
+		ActorLabel="LevelInfo0_Note"
+	End Actor
+	Begin Actor Class=Brush Name=Brush0_Brush
+		Begin Object Name="BrushComponent0"
+		RelativeLocation=(X=-624.000000,Y=-144.000000,Z=0.000000)
+		End Object
+		BrushType=Brush_Add
+		Begin Brush Name=Model_6
+			Begin PolyList
+				Begin Polygon Item=Side LightMapScale=64 Link=0
+					Origin   -00128.000000,-00128.000000,-00128.000000
+					Normal   -00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,+00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00128.000000,-00128.000000,-00128.000000
+					Vertex   -00128.000000,-00128.000000,+00128.000000
+					Vertex   -00128.000000,+00128.000000,+00128.000000
+					Vertex   -00128.000000,+00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=64 Link=1
+					Origin   -00128.000000,+00128.000000,-00128.000000
+					Normal   +00000.000000,+00001.000000,+00000.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00128.000000,+00128.000000,-00128.000000
+					Vertex   -00128.000000,+00128.000000,+00128.000000
+					Vertex   +00128.000000,+00128.000000,+00128.000000
+					Vertex   +00128.000000,+00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=64 Link=2
+					Origin   +00128.000000,+00128.000000,-00128.000000
+					Normal   +00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,-00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00128.000000,+00128.000000,-00128.000000
+					Vertex   +00128.000000,+00128.000000,+00128.000000
+					Vertex   +00128.000000,-00128.000000,+00128.000000
+					Vertex   +00128.000000,-00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=64 Link=3
+					Origin   +00128.000000,-00128.000000,-00128.000000
+					Normal   +00000.000000,-00001.000000,+00000.000000
+					TextureU -00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00128.000000,-00128.000000,-00128.000000
+					Vertex   +00128.000000,-00128.000000,+00128.000000
+					Vertex   -00128.000000,-00128.000000,+00128.000000
+					Vertex   -00128.000000,-00128.000000,-00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=64 Link=4
+					Origin   -00128.000000,+00128.000000,+00128.000000
+					Normal   +00000.000000,+00000.000000,+00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00001.000000,+00000.000000
+					Vertex   -00128.000000,+00128.000000,+00128.000000
+					Vertex   -00128.000000,-00128.000000,+00128.000000
+					Vertex   +00128.000000,-00128.000000,+00128.000000
+					Vertex   +00128.000000,+00128.000000,+00128.000000
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=64 Link=5
+					Origin   -00128.000000,-00128.000000,-00128.000000
+					Normal   +00000.000000,+00000.000000,-00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,-00001.000000,+00000.000000
+					Vertex   -00128.000000,-00128.000000,-00128.000000
+					Vertex   -00128.000000,+00128.000000,-00128.000000
+					Vertex   +00128.000000,+00128.000000,-00128.000000
+					Vertex   +00128.000000,-00128.000000,-00128.000000
+				End Polygon
+			End PolyList
+		End Brush
+		Brush=Model'Model_6'
+		BrushComponent=BrushComponent0
+		ActorLabel="Brush0_Brush"
+		Tags(0)="Brush"
+		Group="Cube"
+	End Actor
+	Begin Actor Class=Note Name=DefaultPhysicsVolume0_DefaultPhysicsVolume
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+		RelativeLocation=(X=-21.044025,Y=-0.000004,Z=9.519157)
+		RelativeRotation=(Pitch=11.250000,Yaw=0.000000,Roll=0.000000)
+		End Object
+		Text="Unconverted: DefaultPhysicsVolume"
+		RootComponent=SceneComp
+		ActorLabel="DefaultPhysicsVolume0_DefaultPhysicsVolume"
+		Tags(0)="DefaultPhysicsVolume"
+	End Actor
+	Begin Actor Class=Note Name=SwatPlayerStart1_SwatPlayerStart
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+		RelativeLocation=(X=-123.966927,Y=-94.090225,Z=-59.472000)
+		RelativeRotation=(Pitch=0.000000,Yaw=24.191895,Roll=0.000000)
+		End Object
+		Text="Unconverted: SwatPlayerStart"
+		RootComponent=SceneComp
+		ActorLabel="SwatPlayerStart1_SwatPlayerStart"
+		Tags(0)="SwatPlayerStart"
+	End Actor
+	Begin Actor Class=Note Name=CoopQMMReplicationInfo1_CoopQMMReplicationInfo
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+		RelativeLocation=(X=31.000000,Y=0.000000,Z=22.000000)
+		End Object
+		Text="Unconverted: CoopQMMReplicationInfo"
+		RootComponent=SceneComp
+		ActorLabel="CoopQMMReplicationInfo1_CoopQMMReplicationInfo"
+		Tags(0)="CoopQMMReplicationInfo"
+	End Actor
+	Begin Actor Class=Brush Name=Brush18_Brush
+		Begin Object Name="BrushComponent0"
+		RelativeLocation=(X=553.167297,Y=1071.999878,Z=-6.770760)
+		End Object
+		BrushType=Brush_Subtract
+		Begin Brush Name=Model_6
+			Begin PolyList
+				Begin Polygon Item=Side Texture=/Game/Converted/CoopQMMLobby-UT2004/train_train_warehouse_skin_shader_Mat.train_train_warehouse_skin_shader_Mat LightMapScale=64 Link=0
+					Origin   -05567.738769,-08400.001953,-01123.805542
+					Normal   +00000.980785,+00000.000001,+00000.195090
+					TextureU -00000.000000,+00002.000000,+00000.000002
+					TextureV +00000.390181,+00000.000000,-00001.961571
+					Vertex   -00000.001953,+00512.000428,-00000.000366
+					Vertex   -00149.831298,+00512.000489,+00753.242737
+					Vertex   -00149.829834,-01568.000000,+00753.242920
+					Vertex   -00000.000488,-01568.000000,-00000.000061
+				End Polygon
+				Begin Polygon Item=Side Texture=/Game/Converted/CoopQMMLobby-UT2004/warehouse_tex_metal_wall_shader_Mat.warehouse_tex_metal_wall_shader_Mat LightMapScale=64 Link=1
+					Origin   +00486.468018,-03113.997558,+00096.764465
+					Normal   +00000.000000,-00001.000000,+00000.000000
+					TextureU +00001.961571,+00000.000000,+00000.390181
+					TextureV +00000.390181,+00000.000000,-00001.961571
+					Vertex   -00000.000488,-01568.000000,-00000.000061
+					Vertex   -00149.829834,-01568.000000,+00753.242920
+					Vertex   -01169.846069,-01568.000000,+00550.349060
+					Vertex   -01020.016662,-01568.000000,-00202.893890
+				End Polygon
+				Begin Polygon Item=Side Texture=/Game/Converted/CoopQMMLobby-UT2004/train_train_warehouse_skin_shader_Mat.train_train_warehouse_skin_shader_Mat LightMapScale=64 Link=2
+					Origin   -05567.738769,-08400.001953,-01123.805542
+					Normal   -00000.980785,-00000.000001,-00000.195090
+					TextureU -00000.000000,+00002.000000,+00000.000002
+					TextureV +00000.390181,+00000.000000,-00001.961571
+					Vertex   -01020.016662,-01568.000000,-00202.893890
+					Vertex   -01169.846069,-01568.000000,+00550.349060
+					Vertex   -01169.848022,+00512.000489,+00550.348755
+					Vertex   -01020.018554,+00512.000428,-00202.894318
+				End Polygon
+				Begin Polygon Item=Side Texture=/Game/Converted/CoopQMMLobby-UT2004/train_train_warehouse_skin_shader_Mat.train_train_warehouse_skin_shader_Mat LightMapScale=64 Link=3
+					Origin   -05238.196777,-02111.999511,-01058.255615
+					Normal   +00000.000000,+00001.000000,-00000.000000
+					TextureU +00001.961569,+00000.000000,+00000.390178
+					TextureV +00000.390181,+00000.000000,-00001.961571
+					Vertex   -00000.001953,+00512.000428,-00000.000366
+					Vertex   -01020.018554,+00512.000428,-00202.894318
+					Vertex   -01169.848022,+00512.000489,+00550.348755
+					Vertex   -00149.831298,+00512.000489,+00753.242737
+				End Polygon
+				Begin Polygon Item=Side Texture=/Game/Converted/CoopQMMLobby-UT2004/train_train_cinder01_shader_Mat.train_train_cinder01_shader_Mat LightMapScale=64 Link=4
+					Origin   -00591.338501,-00921.999023,+00143.390823
+					Normal   -00000.195090,-00000.000000,+00000.980785
+					TextureU -00000.980785,+00000.000000,-00000.195090
+					TextureV +00000.000000,-00001.000000,+00000.000000
+					Vertex   -00149.829834,-01568.000000,+00753.242920
+					Vertex   -00149.831298,+00512.000489,+00753.242737
+					Vertex   -01169.848022,+00512.000489,+00550.348755
+					Vertex   -01169.846069,-01568.000000,+00550.349060
+				End Polygon
+				Begin Polygon Item=Side Texture=/Game/Converted/CoopQMMLobby-UT2004/train_train_concrete01_shader_Mat.train_train_concrete01_shader_Mat LightMapScale=64 Link=5
+					Origin   -05115.773925,-07734.001953,-01017.590698
+					Normal   +00000.195090,-00000.000000,-00000.980785
+					TextureU -00000.000000,+00002.000000,+00000.000002
+					TextureV -00001.961571,+00000.000000,-00000.390181
+					Vertex   -00000.001953,+00512.000428,-00000.000366
+					Vertex   -00000.000488,-01568.000000,-00000.000061
+					Vertex   -01020.016662,-01568.000000,-00202.893890
+					Vertex   -01020.018554,+00512.000428,-00202.894318
+				End Polygon
+			End PolyList
+		End Brush
+		Brush=Model'Model_6'
+		BrushComponent=BrushComponent0
+		ActorLabel="Brush18_Brush"
+		Tags(0)="Brush"
+	End Actor
+	Begin Actor Class=PointLight Name=Light10_Light
+		Begin Object Class=PointLightComponent Name="LightComponent0"
+		End Object
+		Begin Object Class=PointLightComponent Name=LightComponent0
+			Intensity=2.9033313
+			Mobility=Static
+			LightFalloffExponent=3.0
+			AttenuationRadius=2252.8
+			LightColor=(B=99,G=213,R=255,A=255)
+			bUseInverseSquaredFalloff=false
+		RelativeLocation=(X=-75.753258,Y=-30.683807,Z=489.060120)
+		RelativeRotation=(Pitch=-11.250000,Yaw=180.000000,Roll=0.000000)
+		End Object
+		PointLightComponent=LightComponent0
+		RootComponent=LightComponent0
+		LightType=NewEnumerator1
+		LightEffect=NewEnumerator0
+		LightComponent=LightComponent0
+		ActorLabel="Light10_Light"
+		Tags(0)="Light"
+	End Actor
+	Begin Actor Class=SpotLight Name=Light11_Light
+		Begin Object Class=SpotLightComponent Name="LightComponent0"
+		End Object
+		Begin Object Class=SpotLightComponent Name=LightComponent0
+			InnerConeAngle=10.625
+			Intensity=3.3025851
+			Mobility=Static
+			LightFalloffExponent=3.0
+			AttenuationRadius=1408.0
+			LightColor=(B=99,G=213,R=255,A=255)
+			bUseInverseSquaredFalloff=false
+			OuterConeAngle=21.25
+		RelativeLocation=(X=-68.467377,Y=-28.683830,Z=468.855225)
+		RelativeRotation=(Pitch=-78.744507,Yaw=0.000000,Roll=-174.369507)
+		End Object
+		SpotLightComponent=LightComponent0
+		RootComponent=LightComponent0
+		LightType=NewEnumerator1
+		LightEffect=NewEnumerator13
+		LightComponent=LightComponent0
+		ActorLabel="Light11_Light"
+		Tags(0)="Light"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor0_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/arms_sm_arms_gun_crate_open.arms_sm_arms_gun_crate_open'
+		RelativeLocation=(X=9.162560,Y=-93.513176,Z=-51.765404)
+		RelativeRotation=(Pitch=0.000000,Yaw=-95.625000,Roll=-11.250000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor0_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor1_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/arms_sm_arms_gun_crate_closed.arms_sm_arms_gun_crate_closed'
+		RelativeLocation=(X=-25.635181,Y=-93.628670,Z=-106.607880)
+		RelativeRotation=(Pitch=0.000000,Yaw=67.456055,Roll=11.250000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor1_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor2_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/arms_sm_arms_gun_crate_closed.arms_sm_arms_gun_crate_closed'
+		RelativeLocation=(X=11.720383,Y=-112.220940,Z=-99.177391)
+		RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=-11.250000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor2_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor3_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Hotel_sm_hot_palette.Hotel_sm_hot_palette'
+		RelativeLocation=(X=27.313614,Y=-90.023430,Z=-111.369568)
+		RelativeRotation=(Pitch=11.250000,Yaw=-22.500000,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor3_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor4_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/arms_sm_arms_gun_crate_closed.arms_sm_arms_gun_crate_closed'
+		RelativeLocation=(X=18.776962,Y=-51.568848,Z=-97.773758)
+		RelativeRotation=(Pitch=-11.250000,Yaw=151.765137,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor4_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor5_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/arms_sm_arms_gun_crate_closed.arms_sm_arms_gun_crate_closed'
+		RelativeLocation=(X=-13.680878,Y=-103.587891,Z=-79.759834)
+		RelativeRotation=(Pitch=-11.250000,Yaw=151.765137,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor5_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor6_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/arms_sm_arms_gun_crate_closed.arms_sm_arms_gun_crate_closed'
+		RelativeLocation=(X=3.423004,Y=-70.213135,Z=-76.357658)
+		RelativeRotation=(Pitch=-11.250000,Yaw=151.765137,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor6_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor7_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/arms_sm_arms_gun_crate_closed.arms_sm_arms_gun_crate_closed'
+		RelativeLocation=(X=50.854568,Y=-125.369629,Z=-91.393127)
+		RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=-11.250000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor7_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor8_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/train_sm_train_crate_small.train_sm_train_crate_small'
+		RelativeLocation=(X=47.910454,Y=88.000000,Z=-65.469368)
+		RelativeRotation=(Pitch=-78.744507,Yaw=0.000000,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor8_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor9_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Junk_sm_jun_box03.Junk_sm_jun_box03'
+		RelativeLocation=(X=-20.177940,Y=-62.920898,Z=-46.386078)
+		RelativeRotation=(Pitch=-11.250000,Yaw=163.125000,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor9_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor10_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_FragHeld.SwatGear_sm_FragHeld'
+		RelativeLocation=(X=-20.966396,Y=-74.802979,Z=-53.680046)
+		RelativeRotation=(Pitch=-50.625000,Yaw=95.625000,Roll=-5.619507)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor10_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor11_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_FragHeld.SwatGear_sm_FragHeld'
+		RelativeLocation=(X=-25.910728,Y=-67.763672,Z=-53.643951)
+		RelativeRotation=(Pitch=-39.375000,Yaw=-16.869507,Roll=-28.119507)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor11_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor12_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_FragHeld.SwatGear_sm_FragHeld'
+		RelativeLocation=(X=-23.869236,Y=-57.822998,Z=-50.179100)
+		RelativeRotation=(Pitch=-5.625000,Yaw=168.728027,Roll=140.603027)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor12_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor13_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_FragHeld.SwatGear_sm_FragHeld'
+		RelativeLocation=(X=-21.414165,Y=-48.123047,Z=-53.769127)
+		RelativeRotation=(Pitch=-39.375000,Yaw=-16.869507,Roll=-28.119507)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor13_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor14_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_FragHeld.SwatGear_sm_FragHeld'
+		RelativeLocation=(X=-15.683361,Y=-68.260742,Z=-51.609604)
+		RelativeRotation=(Pitch=16.853027,Yaw=-112.500000,Roll=-56.244507)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor14_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor15_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_FragHeld.SwatGear_sm_FragHeld'
+		RelativeLocation=(X=-17.685211,Y=-58.315186,Z=-48.949020)
+		RelativeRotation=(Pitch=-5.625000,Yaw=-123.750000,Roll=123.750000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor15_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor16_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_FragHeld.SwatGear_sm_FragHeld'
+		RelativeLocation=(X=-17.987347,Y=-104.250244,Z=-52.067886)
+		RelativeRotation=(Pitch=-11.250000,Yaw=180.000000,Roll=50.603027)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor16_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor17_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_FragHeld.SwatGear_sm_FragHeld'
+		RelativeLocation=(X=-22.693005,Y=-109.225098,Z=-53.003906)
+		RelativeRotation=(Pitch=11.250000,Yaw=22.500000,Roll=50.603027)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor17_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor18_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_FragHeld.SwatGear_sm_FragHeld'
+		RelativeLocation=(X=-14.861866,Y=-113.780754,Z=-52.465790)
+		RelativeRotation=(Pitch=16.853027,Yaw=-112.500000,Roll=-56.244507)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor18_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor19_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_HG_Ingram.SwatGear_sm_HG_Ingram'
+		RelativeLocation=(X=65.802353,Y=94.000000,Z=-22.146397)
+		RelativeRotation=(Pitch=78.728027,Yaw=180.000000,Roll=-118.119507)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor19_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor20_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_HG_Ingram.SwatGear_sm_HG_Ingram'
+		RelativeLocation=(X=59.917633,Y=75.999992,Z=-23.316940)
+		RelativeRotation=(Pitch=73.125000,Yaw=180.000000,Roll=39.375000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor20_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor21_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_HG_Ingram.SwatGear_sm_HG_Ingram'
+		RelativeLocation=(X=56.585098,Y=78.999985,Z=-21.940639)
+		RelativeRotation=(Pitch=67.456055,Yaw=-157.500000,Roll=-11.244507)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor21_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor22_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Redlibrary_sm_red_packingbox_01_open.Redlibrary_sm_red_packingbox_01_open'
+		RelativeLocation=(X=135.933487,Y=15.226795,Z=-88.744141)
+		RelativeRotation=(Pitch=11.250000,Yaw=11.250000,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor22_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor23_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_HG_Scorpion.SwatGear_sm_HG_Scorpion'
+		RelativeLocation=(X=114.867722,Y=25.191895,Z=-60.307472)
+		RelativeRotation=(Pitch=-67.500000,Yaw=-50.619507,Roll=146.228027)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor23_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor24_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_HG_Scorpion.SwatGear_sm_HG_Scorpion'
+		RelativeLocation=(X=150.940308,Y=5.767090,Z=-53.132187)
+		RelativeRotation=(Pitch=-73.125000,Yaw=73.125000,Roll=-151.875000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor24_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor25_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_HG_Scorpion.SwatGear_sm_HG_Scorpion'
+		RelativeLocation=(X=115.108719,Y=-5.816898,Z=-58.220352)
+		RelativeRotation=(Pitch=-67.500000,Yaw=-50.619507,Roll=146.228027)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor25_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor26_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_HG_Scorpion.SwatGear_sm_HG_Scorpion'
+		RelativeLocation=(X=116.213547,Y=5.169678,Z=-58.000595)
+		RelativeRotation=(Pitch=0.000000,Yaw=-73.125000,Roll=151.875000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor26_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor27_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/SwatGear_sm_HG_Scorpion.SwatGear_sm_HG_Scorpion'
+		RelativeLocation=(X=114.319504,Y=11.194088,Z=-58.377342)
+		RelativeRotation=(Pitch=0.000000,Yaw=-78.744507,Roll=151.765137)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor27_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=PointLight Name=Light12_Light
+		Begin Object Class=PointLightComponent Name="LightComponent0"
+		End Object
+		Begin Object Class=PointLightComponent Name=LightComponent0
+			Intensity=1.0
+			Mobility=Static
+			LightFalloffExponent=3.0
+			AttenuationRadius=281.6
+			LightColor=(B=58,G=125,R=150,A=255)
+			bUseInverseSquaredFalloff=false
+		RelativeLocation=(X=7.341736,Y=-35.263916,Z=58.765160)
+		RelativeRotation=(Pitch=-78.744507,Yaw=0.000000,Roll=-174.369507)
+		End Object
+		PointLightComponent=LightComponent0
+		RootComponent=LightComponent0
+		LightType=NewEnumerator1
+		LightEffect=NewEnumerator0
+		LightComponent=LightComponent0
+		ActorLabel="Light12_Light"
+		Tags(0)="Light"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor28_druglab_drug_bagA_white
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Druglab_sm_druglab_drug_bagA_white.Druglab_sm_druglab_drug_bagA_white'
+		RelativeLocation=(X=-37.114925,Y=-93.297119,Z=-53.833427)
+		RelativeRotation=(Pitch=11.250000,Yaw=33.750000,Roll=11.250000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor28_druglab_drug_bagA_white"
+		Tags(0)="druglab_drug_bagA_white"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor29_druglab_drug_bagA_white
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Druglab_sm_druglab_drug_bagA_white.Druglab_sm_druglab_drug_bagA_white'
+		RelativeLocation=(X=-40.148781,Y=-122.259033,Z=-78.907082)
+		RelativeRotation=(Pitch=0.000000,Yaw=-112.500000,Roll=-11.250000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor29_druglab_drug_bagA_white"
+		Tags(0)="druglab_drug_bagA_white"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor30_druglab_drug_bagA_white
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Druglab_sm_druglab_drug_bagA_white.Druglab_sm_druglab_drug_bagA_white'
+		RelativeLocation=(X=52.706177,Y=2.366211,Z=-31.888527)
+		RelativeRotation=(Pitch=11.250000,Yaw=-56.244507,Roll=-11.250000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor30_druglab_drug_bagA_white"
+		Tags(0)="druglab_drug_bagA_white"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor31_druglab_drug_bagA_green
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Druglab_sm_druglab_drug_bagA_green.Druglab_sm_druglab_drug_bagA_green'
+		RelativeLocation=(X=28.409721,Y=29.109863,Z=-36.721386)
+		RelativeRotation=(Pitch=11.250000,Yaw=5.625000,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor31_druglab_drug_bagA_green"
+		Tags(0)="druglab_drug_bagA_green"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor32_druglab_drug_bagA_green
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Druglab_sm_druglab_drug_bagA_green.Druglab_sm_druglab_drug_bagA_green'
+		RelativeLocation=(X=22.525009,Y=-3.890137,Z=-37.891937)
+		RelativeRotation=(Pitch=-11.250000,Yaw=180.000000,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor32_druglab_drug_bagA_green"
+		Tags(0)="druglab_drug_bagA_green"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor33_druglab_drug_bagA_green
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Druglab_sm_druglab_drug_bagA_green.Druglab_sm_druglab_drug_bagA_green'
+		RelativeLocation=(X=21.359802,Y=15.109863,Z=-26.908207)
+		RelativeRotation=(Pitch=11.250000,Yaw=0.000000,Roll=0.000000)
+		RelativeScale3D=(X=1.000000,Y=1.000000,Z=1.000000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor33_druglab_drug_bagA_green"
+		Tags(0)="druglab_drug_bagA_green"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor34_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/arms_sm_arms_crate_01.arms_sm_arms_crate_01'
+		RelativeLocation=(X=44.809219,Y=14.854496,Z=-72.203796)
+		RelativeRotation=(Pitch=0.000000,Yaw=101.250000,Roll=11.250000)
+		RelativeScale3D=(X=1.050000,Y=1.050000,Z=1.050000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor34_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=StaticMeshActor Name=StaticMeshActor35_StaticMeshActor
+		Begin Object Class=StaticMeshComponent Name="StaticMeshComponent0"
+		End Object
+		Begin Object Class=StaticMeshComponent Name=StaticMeshComponent0
+			StaticMesh=StaticMesh'/Game/Converted/CoopQMMLobby-UT2004/Tenement_sm_ten_stain01.Tenement_sm_ten_stain01'
+		RelativeLocation=(X=-31.199039,Y=38.692383,Z=-122.781677)
+		RelativeRotation=(Pitch=-11.250000,Yaw=180.000000,Roll=0.000000)
+		RelativeScale3D=(X=1.500000,Y=1.500000,Z=1.500000)
+		End Object
+		StaticMeshComponent=StaticMeshComponent0
+		RootComponent=StaticMeshComponent0
+		ActorLabel="StaticMeshActor35_StaticMeshActor"
+		Tags(0)="StaticMeshActor"
+	End Actor
+	Begin Actor Class=Note Name=AwarenessPoint0_AwarenessPoint
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+		RelativeLocation=(X=-123.966927,Y=-94.090225,Z=-59.472000)
+		End Object
+		Text="Unconverted: AwarenessPoint"
+		RootComponent=SceneComp
+		ActorLabel="AwarenessPoint0_AwarenessPoint"
+		Tags(0)="AwarenessPoint"
+	End Actor
+	Begin Actor Class=Note Name=NoteConvertedMap
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+		RelativeLocation=(X=0.000000,Y=200.000000,Z=0.000000)
+		End Object
+		Text="Converted Map: CoopQMMLobby.t3d"
+		RootComponent=SceneComp
+		ActorLabel="NoteConvertedMap"
+	End Actor
+	Begin Actor Class=Note Name=NoteScale
+		Begin Object Class=SceneComponent Name="SceneComp"
+		End Object
+		Begin Object Name="SceneComp"
+		RelativeLocation=(X=0.000000,Y=300.000000,Z=0.000000)
+		End Object
+		Text="Scale: 1.0"
+		RootComponent=SceneComp
+		ActorLabel="NoteScale"
+	End Actor
+	Begin Actor Class=LightmassImportanceVolume Name=LightMassImpVolume
+		Begin Object Name="BrushComponent0"
+		RelativeLocation=(X=-308.340363,Y=8.000183,Z=271.788921)
+		End Object
+		BrushType=Brush_Add
+		Begin Brush Name=Model_6
+			Begin PolyList
+				Begin Polygon Item=Side LightMapScale=null Link=0
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   -00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,+00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00911.507660,-01626.000184,-00531.453999
+					Vertex   -00911.507660,-01626.000184,+00531.453999
+					Vertex   -00911.507660,+01626.000184,+00531.453999
+					Vertex   -00911.507660,+01626.000184,-00531.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=null Link=1
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00001.000000,+00000.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   -00911.507660,+01626.000184,-00531.453999
+					Vertex   -00911.507660,+01626.000184,+00531.453999
+					Vertex   +00911.507660,+01626.000184,+00531.453999
+					Vertex   +00911.507660,+01626.000184,-00531.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=null Link=2
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00001.000000,+00000.000000,+00000.000000
+					TextureU +00000.000000,-00001.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00911.507660,+01626.000184,-00531.453999
+					Vertex   +00911.507660,+01626.000184,+00531.453999
+					Vertex   +00911.507660,-01626.000184,+00531.453999
+					Vertex   +00911.507660,-01626.000184,-00531.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=null Link=3
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,-00001.000000,+00000.000000
+					TextureU -00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00000.000000,-00001.000000
+					Vertex   +00911.507660,-01626.000184,-00531.453999
+					Vertex   +00911.507660,-01626.000184,+00531.453999
+					Vertex   -00911.507660,-01626.000184,+00531.453999
+					Vertex   -00911.507660,-01626.000184,-00531.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=null Link=4
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00000.000000,+00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,+00001.000000,+00000.000000
+					Vertex   -00911.507660,+01626.000184,+00531.453999
+					Vertex   -00911.507660,-01626.000184,+00531.453999
+					Vertex   +00911.507660,-01626.000184,+00531.453999
+					Vertex   +00911.507660,+01626.000184,+00531.453999
+				End Polygon
+				Begin Polygon Item=Side LightMapScale=null Link=5
+					Origin   +00000.000000,+00000.000000,+00000.000000
+					Normal   +00000.000000,+00000.000000,-00001.000000
+					TextureU +00001.000000,+00000.000000,+00000.000000
+					TextureV +00000.000000,-00001.000000,+00000.000000
+					Vertex   -00911.507660,-01626.000184,-00531.453999
+					Vertex   -00911.507660,+01626.000184,-00531.453999
+					Vertex   +00911.507660,+01626.000184,-00531.453999
+					Vertex   +00911.507660,-01626.000184,-00531.453999
+				End Polygon
+			End PolyList
+		End Brush
+		Brush=Model'Model_6'
+		BrushComponent=BrushComponent0
+		ActorLabel="LightMassImpVolume"
+	End Actor
+	End Level
+	Begin Surface
+	End Surface
+End Map
