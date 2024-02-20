@@ -6,3 +6,11 @@ Loading package: Textures/Paradise_Tex.utx Ver: 129/27 Names: 252 Exports: 199 I
 ******** Loading object SkeletalMesh'AbombStageLights.AbombStageLights' ********
 *** ERROR: Memory: bad allocation size -1440 bytes
 appMalloc: size=-1440 (total=0 Mbytes) <- FArray::Empty: -24 x 60 <- TArray::Serialize: 0/0 <- USkeletalMesh::Serialize <- LoadObject: SkeletalMesh'AbombStageLights.AbombStageLights', pos=2C41, ver=129/22, game=ue2 <- UObject::EndLoad <- LoadWholePackage: Animations/AbombStageLights.ukx <- ExportPackages <- Main: umodel_build=1589
+
+
+
+
+Animations packages broken and the following meshes were truncated and couldn't be converted.
+
+Rem these meshes fail to convert to fbx as they are truncated so they are deleted
+del "%start%\StaticMeshes\Con_sm\con_freightcar.pskx" "%start%\StaticMeshes\Doors_sm\door_phys_doubleref.pskx" "%start%\StaticMeshes\Jewel_sm\jewel_frontdoor.pskx" "%start%\StaticMeshes\pier_sm\pier_ship.pskx" "%start%\StaticMeshes\Redlibrary_sm\red_brickwindow_blinds_long.pskx"

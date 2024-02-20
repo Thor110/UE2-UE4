@@ -135,29 +135,31 @@ for /f "usebackq delims=" %%A in ("%InputFile%") do (
 REM change directory to the blender directory
 cd /d "%blend%"
 
-Rem this mesh fails to convert to fbx so it is deleted
-del "%start%\StaticMeshes\Con_sm\con_freightcar.pskx"
+Rem these meshes fail to convert to fbx as they are truncated so they are deleted
+del "%start%\StaticMeshes\Con_sm\con_freightcar.pskx" "%start%\StaticMeshes\Doors_sm\door_phys_doubleref.pskx" "%start%\StaticMeshes\Jewel_sm\jewel_frontdoor.pskx" "%start%\StaticMeshes\pier_sm\pier_ship.pskx" "%start%\StaticMeshes\Redlibrary_sm\red_brickwindow_blinds_long.pskx"
 
 REM batch convert psk/pskx/psa to FBX with blender
 blender -b -P "%first%\batch-convert-fbx.py"
 
 REM delete the following filetypes from the StaticMeshes & Animations folders in the UE4 directory ( .pskx, .psk, .psa, .config )
-del /S "%start%\StaticMeshes\*.pskx" "%start%\StaticMeshes\*.psa" "%start%\Animations\*.psa" "%start%\Materials\*.psa" "%start%\Materials\*.fbx"
+del /S "%start%\StaticMeshes\*.pskx"
 
+REM Animations broken for now
 REM for every folder in the UE4 Animations directory
-for /D %%D in ("%start%\Animations\*") do (
+REM for /D %%D in ("%start%\Animations\*") do (
 
 	REM for all .fbx files in the following folders ( SkeletalMesh & MeshAnimation )
-    for %%F in ("%%~D\SkeletalMesh\*.fbx*","%%~D\MeshAnimation\*.fbx*") do (
+REM     for %%F in ("%%~D\SkeletalMesh\*.fbx*","%%~D\MeshAnimation\*.fbx*") do (
 		
 		REM move file to the parent directory
-        move /Y "%%~F" "%%~dpF.."
-    )
-)
+REM         move /Y "%%~F" "%%~dpF.."
+REM     )
+REM )
+REM 
 
 REM delete leftover files in umodel folder
-REM rd /s /q "%model%\UModelExport\"
-REM mkdir "%model%\UModelExport"
+rd /s /q "%model%\UModelExport\"
+mkdir "%model%\UModelExport"
 
 pause
 REM pause and exit for now
