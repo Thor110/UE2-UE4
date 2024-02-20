@@ -108,7 +108,7 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 			pause
 			echo setlocal
 			pause
-			REM setlocal enableextensions disabledelayedexpansion
+			setlocal enableextensions disabledelayedexpansion
 
 			set "search=.%%~nf_%%~nm_"
 			set "replace=."
@@ -125,25 +125,27 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 			set "textFile=%first%\UE4T3D\%%~nt.t3d"
 			set "nextFile=%first%\TEST\%%~nt.t3d"
 			
-			REM set "textFile=%%~dptUE4T3D\%%~nt%%~xt"
-			REM set "nextFile=%%~dptTEST\%%~nt%%~xt"
 			
-			pause
+			REM pause
 			echo %%~dpt
 			REM C:\EXPORT\
+			set "textFile=%%~dptUE4T3D\%%~nt%%~xt"
+			set "nextFile=%%~dptTEST\%%~nt%%~xt"
 			echo i test
 			REM echo on
 			echo "%textFile%"
+			IF "%textFile%"=="" ECHO MyVar is NOT defined
+			echo IF ECHO TEST
 			REM ""
 			pause
 			
 			REM cannot find the path specified?!!!
-			for /f "delims=" %%i in ('type "%textFile%" ^& break ^> "%textFile%" ') do (
+			for /f "delims=" %%i in ('type "%first%\UE4T3D\%%~nt.t3d" ^& break ^> "%first%\UE4T3D\%%~nt.t3d" ') do (
 			REM cannot find the path specified?!!!
 			
 				set "line=%%i"
 				setlocal enabledelayedexpansion
-				>>"%nextFile%" echo(!line:%search%=%replace%!
+				>>"%first%\UE4T3D\%%~nt.t3d" echo(!line:%search%=%replace%!
 				endlocal
 			)
 		
