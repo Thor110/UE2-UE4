@@ -84,60 +84,71 @@ for /D %%D in ("%model%\UmodelExport\*") do (
         move /Y "%%~F" "%%~dpF.."
     )
 )
-
+REM cd /d %first%
 REM for all files in the games Textures folder move folders of the same name from umodelexport folder to UE4 Materials folder
 for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 	REM echo package name
-	echo %%~nf
-	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
-	pause
-	echo moved
-	cd /d %first%
-	pause
+	REM echo %%~nf
+	REM if exist "%start%\Materials\%%~nf" (
+	REM 	move "%start%\Materials\%%~nf" "%model%\UmodelExport\%%~nf"
+	REM ) else (
+	REM 	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
+	REM )
+	REM pause
+	REM echo moved
+	
+	REM pause
 	for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 		REM echo package name once per T3D file
-		echo %%~nf
-		echo %%~nt%%~xt
-		echo %first%\UE4T3D\%%~nt%%~xt
-		pause
-		echo echo test
-		pause
-		for /f %%m in ('dir /b "%start%\Materials\%%~nf\"') do (
-			echo %%~nm
+		REM echo %%~nf
+		REM echo %%~nt%%~xt
+		REM echo %first%\UE4T3D\%%~nt%%~xt
+		REM pause
+		REM echo echo test
+		REM pause
+		REM echo %%~nf
+		REM echo test
+		REM echo %model%\%%~nf
+		REM echo File Not Found?
+		REM pause
+		for /f %%m in ('dir /b "%model%\UmodelExport"') do (
+			REM echo %model%\%%~nf
+			REM echo %%~nf
+			REM echo %%~nm
 			REM EnvTextures
-			pause
-			echo setlocal
-			pause
+			REM pause
+			REM echo setlocal
+			REM pause
 			setlocal enableextensions disabledelayedexpansion
 
 			set "search=.%%~nf_%%~nm_"
 			set "replace=."
 			
-			pause
-			echo textFile
-			echo %first%\UE4T3D\%%~nt.t3d
+			REM pause
+			REM echo textFile
+			REM echo %first%\UE4T3D\%%~nt.t3d
 			REM C:\EXPORT\UE4T3D\1138.t3d
-			echo first
-			echo %first%
+			REM echo first
+			REM echo %first%
 			REM C:\EXPORT
-			pause
+			REM pause
 			
-			set "textFile=%first%\UE4T3D\%%~nt.t3d"
-			set "nextFile=%first%\TEST\%%~nt.t3d"
+			REM set "textFile=%first%\UE4T3D\%%~nt.t3d"
+			REM set "nextFile=%first%\TEST\%%~nt.t3d"
 			
 			
 			REM pause
-			echo %%~dpt
+			REM echo %%~dpt
 			REM C:\EXPORT\
-			set "textFile=%%~dptUE4T3D\%%~nt%%~xt"
-			set "nextFile=%%~dptTEST\%%~nt%%~xt"
-			echo i test
+			REM set "textFile=%%~dptUE4T3D\%%~nt%%~xt"
+			REM set "nextFile=%%~dptTEST\%%~nt%%~xt"
+			REM echo i test
 			REM echo on
-			echo "%textFile%"
-			IF "%textFile%"=="" ECHO MyVar is NOT defined
-			echo IF ECHO TEST
+			REM echo "%textFile%"
+			REM IF "%textFile%"=="" ECHO MyVar is NOT defined
+			REM echo IF ECHO TEST
 			REM ""
-			pause
+			REM pause
 			
 			REM cannot find the path specified?!!!
 			for /f "delims=" %%i in ('type "%first%\UE4T3D\%%~nt.t3d" ^& break ^> "%first%\UE4T3D\%%~nt.t3d" ') do (
@@ -157,7 +168,9 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 	REM pause
 )
 
-
+for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
+)
 echo testing OVER OVER OVER
 pause
 
