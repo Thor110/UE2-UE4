@@ -1,11 +1,26 @@
-# Current Issues
+# Important Notes
+On the whole this readme isn't well structured yet and needs reworking, many of the scripts are in half completed states and need more thorough testing, these things I will get to in time.
+
+# Current Issues UE2 Porting Scripts
+For porting from UE2 to UE2, I have abandoned these scripts and am unlikely to work on them again, but maybe they will help someone.
+
 **Both UE2 Scripts** Both UE2 scripts need the relevant UCC parameters and lines setup in order to import everything en-masse into UT2004 and into the correct categories.
 
-**SGA & SWRC UE4 Scripts** Both UE4 scripts still need some work to properly sort through the associated .mat and .props.txt files.
+# Current Issues UE3 Porting Scripts
+For porting from UDK to UE4.
 
-**SWRC UE4 Script** Leon's Republic Commando specific version of UCC cannot accept directories with spaces in them, so the GameData folder must be copied to C:/SWRC for now.
+**Unreal Tournament 3** Script in the works.
 
-**Red Orchestra & Postal 2 UE4 Scripts** largely untested and don't produce a full output yet.
+# Current Issues UE4 Porting Scripts
+For porting from UE2 to UE4.
+
+**SGA & SWRC Scripts** Both scripts still need some work to properly sort through the associated .mat and .props.txt files.
+
+**SWRC Script** Leon's Republic Commando specific version of UCC cannot accept directories with spaces in them, so the GameData folder must be copied to C:/SWRC for now.
+
+**Red Orchestra & Postal 2 Scripts** largely untested and don't produce a full output yet.
+
+**SWAT 4 & SWAT 4 The Stetchkov Syndicate** SWAT 4 Tested, Animations packages don't export and the expansion is untested currently but the same script should work for that.
 
 # UE2-UE4
 A batch script or set of batch scripts I am working on that prepares all of the files for a few ports I am working on.
