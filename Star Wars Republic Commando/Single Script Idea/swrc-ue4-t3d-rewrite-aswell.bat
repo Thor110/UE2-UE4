@@ -122,7 +122,13 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 			setlocal enableextensions disabledelayedexpansion
 
 			
+			REM step1-replace
+			REM /RestrictedAssets/Maps/WIP/yyy04f-UT2004/
+			REM replace
+			REM "/RestrictedAssets/Maps/WIP/" + "levelname" + "-UT2004/"
+			REM with /Materials/
 			
+			REM step2-replace
 			if defined list[0] ( .%%~nf_%%~nm_;^ ) else ( set list=.%%~nf_%%~nm_;^ )
 			for %%a in (%list%) do ( 
 				echo %%a
@@ -132,6 +138,14 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 			pause
 			set "search=.%%~nf_%%~nm_"
 			set "replace=."
+			
+			
+			REM step3-replace
+			set "nextSearch=/%%~nf_%%~nm_"
+			set "nextReplace=/%%~nf/%%~nm/"
+			REM some files don't have sub categories? 2 or 3? make sure to account for it.
+			
+			
 			
 			REM pause
 			REM echo textFile
@@ -182,6 +196,9 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 )
 echo testing OVER OVER OVER
 pause
+echo improve performance then write the next function for StaticMeshes
+pause
+exit
 
 REM export staticmesh packages with umodel
 umodel -path="%level%" -export *.usx
