@@ -45,7 +45,7 @@ if exist "%start%" (
 )
 
 REM make required directories in the UE4 folder
-mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies"
+mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies" "%start%\TEST"
 
 REM make temporary directory and move the packages that do not contain any sounds
 mkdir "%level%\Temporary"
@@ -90,7 +90,9 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 	echo %%~nf
 	for /f %%t in ('dir /b %first%\UE4T3D\') do (
 		REM echo package name once per T3D file
-		echo %%~nf
+		echo %%~nf > %first%\a.txt
+		echo %%~nt > %first%\b.txt
+		
 		REM rewrite line in T3D file here
 	)
 	pause
@@ -112,7 +114,9 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
 	echo %%~nf
 	for /f %%t in ('dir /b %first%\UE4T3D\') do (
 		REM echo package name once per T3D file
-		echo %%~nf
+		echo %%~nf > %first%\c.txt
+		echo %%~nt > %first%\d.txt
+		
 		REM rewrite line in T3D file here
 	)
 	pause
@@ -123,7 +127,10 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
 echo testing
 pause
 exit
-
+		
+		
+		
+		
 REM for all files in the games StaticMeshes folder move folders of the same name from umodelexport folder to UE4 StaticMeshes folder
 for /f "delims=|" %%f in ('dir /b "%level%\StaticMeshes"') do move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
 REM NOTE : 10 of the packages in the StaticMeshes folder are empty, so when moving the files using this logic there are some failures.
