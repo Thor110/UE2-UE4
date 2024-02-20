@@ -73,6 +73,7 @@ for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\
 REM export texture packages with umodel
 umodel -path="%level%" -export *.utx
 
+REM CHECK THESE FORS ARE NECESSARY
 REM for every folder in the umodelexport folder
 for /D %%D in ("%model%\UmodelExport\*") do (
 
@@ -88,22 +89,75 @@ REM for all files in the games Textures folder move folders of the same name fro
 for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 	REM echo package name
 	echo %%~nf
-	for /f %%t in ('dir /b %first%\UE4T3D\') do (
+	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
+	pause
+	echo moved
+	cd /d %first%
+	pause
+	for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 		REM echo package name once per T3D file
-		echo %%~nf > %first%\a.txt
-		echo %%~nt > %first%\b.txt
+		echo %%~nf
+		echo %%~nt%%~xt
+		echo %first%\UE4T3D\%%~nt%%~xt
+		pause
+		echo echo test
+		pause
+		for /f %%m in ('dir /b "%start%\Materials\%%~nf\"') do (
+			echo %%~nm
+			REM EnvTextures
+			pause
+			echo setlocal
+			pause
+			REM setlocal enableextensions disabledelayedexpansion
+
+			set "search=.%%~nf_%%~nm_"
+			set "replace=."
+			
+			pause
+			echo textFile
+			echo %first%\UE4T3D\%%~nt.t3d
+			REM C:\EXPORT\UE4T3D\1138.t3d
+			echo first
+			echo %first%
+			REM C:\EXPORT
+			pause
+			
+			set "textFile=%first%\UE4T3D\%%~nt.t3d"
+			set "nextFile=%first%\TEST\%%~nt.t3d"
+			
+			REM set "textFile=%%~dptUE4T3D\%%~nt%%~xt"
+			REM set "nextFile=%%~dptTEST\%%~nt%%~xt"
+			
+			pause
+			echo %%~dpt
+			REM C:\EXPORT\
+			echo i test
+			REM echo on
+			echo "%textFile%"
+			REM ""
+			pause
+			
+			REM cannot find the path specified?!!!
+			for /f "delims=" %%i in ('type "%textFile%" ^& break ^> "%textFile%" ') do (
+			REM cannot find the path specified?!!!
+			
+				set "line=%%i"
+				setlocal enabledelayedexpansion
+				>>"%nextFile%" echo(!line:%search%=%replace%!
+				endlocal
+			)
+		
+		)
+		REM pause
 		
 		REM rewrite line in T3D file here
 	)
-	pause
-	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
+	REM pause
 )
 
 
-echo testing
+echo testing OVER OVER OVER
 pause
-
-
 
 REM export staticmesh packages with umodel
 umodel -path="%level%" -export *.usx
@@ -114,8 +168,10 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
 	echo %%~nf
 	for /f %%t in ('dir /b %first%\UE4T3D\') do (
 		REM echo package name once per T3D file
-		echo %%~nf > %first%\c.txt
-		echo %%~nt > %first%\d.txt
+		echo %%~nf
+		echo %%~nt%%~xt
+		
+		pause
 		
 		REM rewrite line in T3D file here
 	)
