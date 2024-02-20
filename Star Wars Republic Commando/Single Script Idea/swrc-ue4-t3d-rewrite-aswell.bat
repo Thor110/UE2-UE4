@@ -75,15 +75,15 @@ umodel -path="%level%" -export *.utx
 
 REM CHECK THESE FORS ARE NECESSARY
 REM for every folder in the umodelexport folder
-for /D %%D in ("%model%\UmodelExport\*") do (
+REM for /D %%D in ("%model%\UmodelExport\*") do (
 
 	REM for every .tga file in the texture folder
-    for %%F in ("%%~D\Texture\*.tga*") do (
+REM     for %%F in ("%%~D\Texture\*.tga*") do (
 	
 		REM move the file to the parent directory
-        move /Y "%%~F" "%%~dpF.."
-    )
-)
+REM         move /Y "%%~F" "%%~dpF.."
+REM     )
+REM )
 REM cd /d %first%
 REM for all files in the games Textures folder move folders of the same name from umodelexport folder to UE4 Materials folder
 for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
@@ -121,6 +121,15 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 			REM pause
 			setlocal enableextensions disabledelayedexpansion
 
+			
+			
+			if defined list[0] ( .%%~nf_%%~nm_;^ ) else ( set list=.%%~nf_%%~nm_;^ )
+			for %%a in (%list%) do ( 
+				echo %%a
+				REM echo space
+				echo/
+			)
+			pause
 			set "search=.%%~nf_%%~nm_"
 			set "replace=."
 			
@@ -151,14 +160,14 @@ for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
 			REM pause
 			
 			REM cannot find the path specified?!!!
-			for /f "delims=" %%i in ('type "%first%\UE4T3D\%%~nt.t3d" ^& break ^> "%first%\UE4T3D\%%~nt.t3d" ') do (
+			REM for /f "delims=" %%i in ('type "%first%\UE4T3D\%%~nt.t3d" ^& break ^> "%first%\UE4T3D\%%~nt.t3d" ') do (
 			REM cannot find the path specified?!!!
 			
-				set "line=%%i"
-				setlocal enabledelayedexpansion
-				>>"%first%\UE4T3D\%%~nt.t3d" echo(!line:%search%=%replace%!
-				endlocal
-			)
+			REM 	set "line=%%i"
+			REM 	setlocal enabledelayedexpansion
+			REM 	>>"%first%\UE4T3D\%%~nt.t3d" echo(!line:%search%=%replace%!
+			REM 	endlocal
+			REM )
 		
 		)
 		REM pause
