@@ -1,0 +1,922 @@
+title Star Wars Republic Commando UE4 Porting Script
+
+REM set first to current directory ( where the script starts executing from )
+set first=%cd%
+
+@echo off
+
+cls
+REM enter directories of required programs
+:UNREAL
+SET /P level="Enter the duplicated Star Wars Republic Commando GameData Directory:"
+if exist "%level%\System\UCC.exe" (
+  echo UCC Found.
+) else (
+  echo UCC Not Found!
+  goto :UNREAL
+)
+
+:UMODEL
+SET /P model="Enter your UModel Directory:"
+if exist "%model%\umodel.exe" (
+  echo UModel Found.
+) else (
+  echo UModel Not Found!
+  goto :UMODEL
+)
+
+:BLENDER
+SET /P blend="Enter your Blender Directory:"
+if exist "%blend%\blender.exe" (
+  echo Blender Found.
+) else (
+  echo Blender Not Found!
+  goto :BLENDER
+)
+
+:EXPORT
+SET /P start="Enter the directory of the UE4/5 Content Folder:"
+if exist "%start%" (
+  echo Content Folder Found.
+  pause
+) else (
+  echo Content Folder Not Found!
+  goto :EXPORT
+)
+
+REM make required directories in the UE4 folder
+mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies" "%start%\TEST"
+
+REM make temporary directory and move the packages that do not contain any sounds
+mkdir "%level%\Temporary"
+move /Y "%level%\Sounds\banter_voice.uax" "%level%\Temporary"
+move /Y "%level%\Sounds\params_mus.uax" "%level%\Temporary"
+move /Y "%level%\Sounds\params_rumble.uax" "%level%\Temporary"
+move /Y "%level%\Sounds\params_sfx.uax" "%level%\Temporary"
+move /Y "%level%\Sounds\params_vox.uax" "%level%\Temporary"
+
+REM change directory to umodel
+cd /d "%model%"
+
+REM export animations packages with umodel
+umodel -path="%level%" -export *.ukx
+
+REM for all files in the games Animations folder move folders of the same name from umodelexport folder to UE4 Animations folder
+for /f "delims=|" %%f in ('dir /b "%level%\Animations"') do move "%model%\UmodelExport\%%~nf" "%start%\Animations\%%~nf"
+
+REM for all files in the games Music folder of the game move to the UE4 Music folder
+for /f %%f in ('dir /b "%level%\Music"') do copy "%level%\Music\%%f" "%start%\Music\%%f"
+
+REM for all files in the games Movies folder of the game move to the UE4 Movies folder
+for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\Movies\%%f"
+
+REM export texture packages with umodel
+umodel -path="%level%" -export *.utx
+
+
+
+REM echoing correct answer, writing file incorrect.
+pause
+echo madness begins
+pause
+
+for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	if exist "%first%\TEST\%%~nt.t3d" (
+		del "%first%\TEST\%%~nt.t3d"
+	)
+	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		
+		echo.%%i | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i>> %first%\TEST\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			REM echo original line
+			REM echo %%i
+			setlocal enabledelayedexpansion
+			
+			SET "string=%%i"
+			
+			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+			echo first line
+			echo !modified!
+			REM pause
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				echo package check begin
+				REM echo %%i
+				REM pause
+				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+					echo %%~m
+					
+					
+					
+					
+					set YourString=%%i
+					If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
+						echo Yes
+						pause
+						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+						echo second line
+						echo !modified2!
+						REM modified 3 echoes the correct answer when the category and package matches up during the cross referencing.
+						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+						echo third line
+						echo !modified3!
+						echo !modified3!>> %first%\TEST\%%~nt.t3d
+					) else (
+						echo No
+					)
+					
+					REM pause
+					
+					
+					
+					
+					
+					
+					REM need a way to check if the following replacement happens
+					
+					REM pause
+				)
+				REM echo category checked
+			)
+			REM echo /%%~nf_%%~nm_
+			REM pause
+			REM echo testing
+			REM pause
+			REM but isn't set correctly outside of the for statement.
+			REM echo !modified3!>> %first%\TEST\%%~nt.t3d
+			endlocal
+		)
+	)
+	pause
+	echo first file complete
+	pause
+)
+REM echoing correct answer, writing file incorrect.
+pause
+echo madness over
+pause
+exit
+
+
+
+
+
+pause
+echo madness begins
+pause
+
+for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	if exist "%first%\TEST\%%~nt.t3d" (
+		del "%first%\TEST\%%~nt.t3d"
+	)
+	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		
+		echo.%%i | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i>> %first%\TEST\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			echo original line
+			echo %%i
+			setlocal enabledelayedexpansion
+			
+			SET "string=%%i"
+			
+			
+			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+			echo first section of the string updated
+			echo !modified!
+			echo line updated
+			pause
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				echo package check begin
+				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+					echo "/%%~nf_%%~nm_"
+					pause
+					echo.!modified! | findstr /C:"/%%~nf_%%~nm_" 1>nul
+
+					if errorlevel 1 (
+						echo. got one - pattern not found
+					) ELSE (
+						echo. got zero - found pattern
+						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+						echo second line
+						echo !modified2!
+						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+						echo third line
+						echo !modified3!
+						echo !modified3!>> %first%\TEST\%%~nt.t3d
+					)
+					pause
+				)
+			)
+			endlocal
+		)
+	)
+)
+
+pause
+echo madness over
+pause
+exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pause
+echo madness begins
+pause
+
+for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	if exist "%first%\TEST\%%~nt.t3d" (
+		del "%first%\TEST\%%~nt.t3d"
+	)
+	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		
+		echo.%%i | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i>> %first%\TEST\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			echo original line
+			echo %%i
+			setlocal enabledelayedexpansion
+			
+			SET "string=%%i"
+			
+			
+			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+			echo first section of the string updated
+			echo !modified!
+			echo line updated
+			pause
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				echo package check begin
+				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+					echo "/%%~nf_%%~nm_"
+					pause
+					echo.!modified! | findstr /C:"/%%~nf_%%~nm_" 1>nul
+
+					if errorlevel 1 (
+						echo. got one - pattern not found
+					) ELSE (
+						echo. got zero - found pattern
+						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+						echo second line
+						echo !modified2!
+						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+						echo third line
+						echo !modified3!
+						echo !modified3!>> %first%\TEST\%%~nt.t3d
+					)
+					pause
+				)
+			)
+			endlocal
+		)
+	)
+)
+
+pause
+echo madness over
+pause
+exit
+
+
+
+
+
+
+
+REM echoing correct answer, writing file incorrect.
+pause
+echo madness begins
+pause
+
+for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	if exist "%first%\TEST\%%~nt.t3d" (
+		del "%first%\TEST\%%~nt.t3d"
+	)
+	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		
+		echo.%%i | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i >> %first%\TEST\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			echo original line
+			echo %%i
+			setlocal enabledelayedexpansion
+			
+			SET "string=%%i"
+			
+			
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				echo package check begin
+				REM echo %%i
+				REM pause
+				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+					REM echo %%i
+					SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+					echo first line
+					echo !modified!
+					SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+					echo second line
+					echo !modified2!
+					SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+					echo third line
+					echo !modified3!
+					pause
+				)
+			)
+			
+			echo !modified3! >> %first%\TEST\%%~nt.t3d
+			endlocal
+		)
+	)
+)
+REM echoing correct answer, writing file incorrect.
+pause
+echo madness over
+pause
+exit
+
+
+
+pause
+echo madness begins
+pause
+REM working (first part)
+for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	if exist "%first%\TEST\%%~nt.t3d" (
+		del "%first%\TEST\%%~nt.t3d"
+	)
+	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		
+		echo.%%i | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i>> %first%\TEST\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			setlocal enabledelayedexpansion
+			
+			SET "string=%%i"
+			
+			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+			
+			echo !modified!>> %first%\TEST\%%~nt.t3d
+			endlocal
+		)
+	)
+)
+REM working (first part)
+pause
+echo madness over
+pause
+exit
+
+
+
+pause
+echo madness begins
+pause
+
+for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	if exist "%first%\TEST\%%~nt.t3d" (
+		del "%first%\TEST\%%~nt.t3d"
+	)
+	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		
+		echo.%%i | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i >> %first%\TEST\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			REM echo %%i
+			setlocal enabledelayedexpansion
+			
+			SET "string=%%i"
+			
+			
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+					SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+					
+				)
+			)
+			
+			echo !modified!>> %first%\TEST\%%~nt.t3d
+			endlocal
+		)
+	)
+	
+	for /f "delims=" %%l in (%first%\TEST\%%~nt.t3d) do (
+		
+		echo.%%l | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%l >> %first%\TEST\%%~nt2.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			REM echo %%i
+			setlocal enabledelayedexpansion
+			
+			SET "string2=%%l"
+			
+			
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+					SET "modified2=!string2:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+					
+				)
+			)
+			
+			echo !modified2!>> %first%\TEST\%%~nt2.t3d
+			endlocal
+		)
+	)
+	
+	for /f "delims=" %%j in (%first%\TEST\%%~nt2.t3d) do (
+		
+		echo.%%j | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%j >> %first%\TEST\%%~nt3.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			REM echo %%i
+			setlocal enabledelayedexpansion
+			
+			SET "string3=%%j"
+			
+			
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+					SET "modified3=!string3:.%%~nf_%%~nm_=.!"
+					
+				)
+			)
+			
+			echo !modified3!>> %first%\TEST\%%~nt3.t3d
+			endlocal
+		)
+	)
+)
+
+pause
+echo madness over
+pause
+exit
+
+
+
+
+
+pause
+echo madness begins
+pause
+
+for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	if exist "%first%\TEST\%%~nt.t3d" (
+		del "%first%\TEST\%%~nt.t3d"
+	)
+	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		
+		echo.%%i | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i >> %first%\TEST\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			REM echo %%i
+			setlocal enabledelayedexpansion
+			
+			SET "string=%%i"
+			
+			
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+					SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+					SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+					SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+					
+				)
+			)
+			
+			echo !modified3! >> %first%\TEST\%%~nt.t3d
+			endlocal
+		)
+	)
+)
+
+pause
+echo madness over
+pause
+exit
+
+
+pause
+echo madness begins
+pause
+
+for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		
+		echo.%%i | findstr /C:"Texture=" 1>nul
+		
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i >> %first%\TEST\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			REM echo %%i
+			setlocal enabledelayedexpansion
+			
+			SET "string=%%i"
+			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+			
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+					SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+					SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+					
+				)
+			)
+			
+			echo !modified3! >> %first%\TEST\%%~nt.t3d
+			endlocal
+		)
+	)
+)
+
+pause
+echo madness over
+pause
+
+pause
+echo timing
+pause
+REM for every file in the games Textures directory, counting backwards alphabetically.
+for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+	REM for every folder in the folder matching the name of the package in the UModelExport folder.
+	REM which will be that packages categories.
+	for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+		REM for every file in the UE4T3D folder.
+		for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+			
+			set "firstSearch=/RestrictedAssets/Maps/WIP/%%~nt-UT2004/"
+			set "firstReplace=/Materials/"
+			
+			set "secondSearch=/%%~nf_%%~nm_"
+			set "secondReplace=/%%~nf/%%~nm/"
+			
+			set "thirdSearch=.%%~nf_%%~nm_"
+			set "thirdReplace=."
+
+			REM for every line in this file.
+			for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+				
+				echo.%%i | findstr /C:"Texture=" 1>nul
+
+				if errorlevel 1 (
+					REM echo. got one - pattern not found
+					echo %%i >> %first%\TEST\%%~nt.t3d
+				) ELSE (
+					REM echo. got zero - found pattern
+					REM echo %%i
+					setlocal enabledelayedexpansion
+					
+					SET "string=%%i"
+					SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+					SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+					SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+					
+					echo !modified3! >> %first%\TEST\%%~nt.t3d
+					
+					endlocal
+					REM pause
+					REM echo %%i >> %first%\TEST\%%~nt.t3d
+				)
+				
+			)
+			echo file over
+			pause
+		)
+		echo double check
+		pause
+		echo next File
+		pause
+	)
+)
+
+
+
+
+
+
+
+
+
+
+
+
+echo testing OVER OVER OVER
+pause
+echo improve performance then write the next function for StaticMeshes
+pause
+exit
+
+REM for every package in the games Textures folder.
+for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+	REM echo package name
+	REM echo %%~nf
+	REM if exist "%start%\Materials\%%~nf" (
+	REM 	move "%start%\Materials\%%~nf" "%model%\UmodelExport\%%~nf"
+	REM ) else (
+	REM 	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
+	REM )
+	REM pause
+	REM echo moved
+	
+	REM pause
+	REM for every T3D file in the included UE4T3D folder
+	for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+		REM echo package name once per T3D file
+		REM echo %%~nf
+		REM echo %%~nt%%~xt
+		REM echo %first%\UE4T3D\%%~nt%%~xt
+		REM pause
+		REM echo echo test
+		REM pause
+		REM echo %%~nf
+		REM echo test
+		REM echo %model%\%%~nf
+		REM echo File Not Found?
+		REM pause
+		REM for every category in the folders with the name matching the games Textures folder
+		for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+			REM echo %model%\%%~nf
+			REM echo %%~nf
+			REM echo %%~nm
+			REM EnvTextures
+			REM pause
+			REM echo setlocal
+			REM pause
+
+			REM setlocal enableextensions disabledelayedexpansion
+			
+			REM step1-replace ( first part of the lines )
+			REM /RestrictedAssets/Maps/WIP/yyy04f-UT2004/
+			REM replace
+			REM "/RestrictedAssets/Maps/WIP/" + "levelname" + "-UT2004/"
+			REM with /Materials/
+			
+			REM step2-replace ( right half of a single line )
+			REM if defined list[0] ( .%%~nf_%%~nm_;^ ) else ( set list=.%%~nf_%%~nm_;^ )
+			REM for %%a in (%list%) do ( 
+			REM 	echo %%a
+				REM echo space
+			REM 	echo/
+			REM )
+			REM pause
+			REM echo %%~nt
+			REM pause
+			
+			set "firstSearch=/RestrictedAssets/Maps/WIP/%%~nt-UT2004/"
+			set "firstReplace=/Materials/"
+			REM step3-replace ( left half of a single line )
+			set "secondSearch=/%%~nf_%%~nm_"
+			set "secondReplace=/%%~nf/%%~nm/"
+			REM some files don't have sub categories? 2 or 3? make sure to account for it.
+			set "search=.%%~nf_%%~nm_"
+			set "replace=."
+			
+			
+			
+			REM pause
+			REM echo textFile
+			REM echo %first%\UE4T3D\%%~nt.t3d
+			REM C:\EXPORT\UE4T3D\1138.t3d
+			REM echo first
+			REM echo %first%
+			REM C:\EXPORT
+			REM pause
+			
+			REM set "textFile=%first%\UE4T3D\%%~nt.t3d"
+			REM set "nextFile=%first%\TEST\%%~nt.t3d"
+			
+			
+			REM pause
+			REM echo %%~dpt
+			REM C:\EXPORT\
+			REM set "textFile=%%~dptUE4T3D\%%~nt%%~xt"
+			REM set "nextFile=%%~dptTEST\%%~nt%%~xt"
+			REM echo i test
+			REM echo on
+			REM echo "%textFile%"
+			REM IF "%textFile%"=="" ECHO MyVar is NOT defined
+			REM echo IF ECHO TEST
+			REM ""
+			REM pause
+			
+			REM cannot find the path specified?!!!
+			REM for /f "delims=" %%i in ('type "%first%\UE4T3D\%%~nt.t3d" ^& break ^> "%first%\UE4T3D\%%~nt.t3d" ') do (
+			REM cannot find the path specified?!!!
+			
+			REM 	set "line=%%i"
+			REM 	setlocal enabledelayedexpansion
+			REM 	>>"%first%\UE4T3D\%%~nt.t3d" echo(!line:%search%=%replace%!
+			
+			REM TEMP
+				REM >>"%first%\UE4T3D\%%~nt.t3d" echo(!line:%firstSearch%=%firstReplace%!
+				REM !line:%secondSearch%=%secondReplace%!!line:%search%=%replace%!
+			
+			REM 	endlocal
+			REM 	)
+			REM )
+			REM pause
+		)
+		REM pause
+	)
+	REM pause
+)
+
+pause
+echo test over
+pause
+
+for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
+)
+echo testing OVER OVER OVER
+pause
+echo improve performance then write the next function for StaticMeshes
+pause
+exit
+
+REM export staticmesh packages with umodel
+umodel -path="%level%" -export *.usx
+
+
+for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
+	REM echo package name
+	echo %%~nf
+	for /f %%t in ('dir /b %first%\UE4T3D\') do (
+		REM echo package name once per T3D file
+		echo %%~nf
+		echo %%~nt%%~xt
+		
+		pause
+		
+		REM rewrite line in T3D file here
+	)
+	pause
+	move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
+)
+
+
+echo testing
+pause
+exit
+		
+		
+		
+		
+REM for all files in the games StaticMeshes folder move folders of the same name from umodelexport folder to UE4 StaticMeshes folder
+for /f "delims=|" %%f in ('dir /b "%level%\StaticMeshes"') do move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
+REM NOTE : 10 of the packages in the StaticMeshes folder are empty, so when moving the files using this logic there are some failures.
+REM Consider moving them to temporary folders just like the sounds packages, to reduce errors in the command window.
+
+REM change directory to the SWRC System folder
+cd /d "%level%\System"
+
+REM for every file in the Sounds folder do batchexport with ucc 
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\%%f" sound wav "%start%\Sounds\%%~nf"
+
+REM change directory to original directory
+cd /d "%first%"
+
+Rem this mesh fails to convert to fbx so it is deleted
+del "%start%\StaticMeshes\markericons\SetTrap\TrapXSpotIcon.pskx"
+
+REM disable delayed expansion
+setlocal disableDelayedExpansion
+
+REM set Input/Output/Find/Insert strings
+set "InputFile=%first%\batch-convert-fbx.txt"
+set "OutputFile=%first%\batch-convert-fbx.py"
+set "_strFind=path = 'C:\'"
+set "_strInsert=path = '%start%'"
+
+REM write to output file
+>"%OutputFile%" (
+
+REM for every line in the InputFile
+for /f "usebackq delims=" %%A in ("%InputFile%") do (
+
+	REM if line equals _strFind echo _strInsert else echo line
+    if "%%A" equ "%_strFind%" (echo %_strInsert%) else (echo %%A)
+  )
+)
+
+REM change directory to the blender directory
+cd /d "%blend%"
+
+REM batch convert psk/pskx/psa to FBX with blender
+blender -b -P "%first%\batch-convert-fbx.py"
+
+REM delete the following filetypes from the StaticMeshes & Animations folders in the UE4 directory ( .pskx, .psk, .psa, .config )
+del /S "%start%\StaticMeshes\*.pskx" "%start%\StaticMeshes\*.psk" "%start%\StaticMeshes\*.psa" "%start%\Animations\*.psk" "%start%\Animations\*.psa" "%start%\Animations\*.config" "%start%\Materials\*.config" "%start%\Materials\*.psa" "%start%\Materials\*.fbx"
+
+REM for every folder in the UE4 Animations directory
+for /D %%D in ("%start%\Animations\*") do (
+
+	REM for all .fbx files in the following folders ( SkeletalMesh & MeshAnimation )
+    for %%F in ("%%~D\SkeletalMesh\*.fbx*","%%~D\MeshAnimation\*.fbx*") do (
+		
+		REM move file to the parent directory
+        move /Y "%%~F" "%%~dpF.."
+    )
+)
+
+REM delete directory that contains files that exist in the Materials folder already
+rd /s /q "%start%\Animations\bactadispensers\BactaDispenserGEO"
+
+REM move sound packages back and delete temporary directory
+move /Y "%level%\Temporary\banter_voice.uax" "%level%\Sounds"
+move /Y "%level%\Temporary\params_mus.uax" "%level%\Sounds"
+move /Y "%level%\Temporary\params_rumble.uax" "%level%\Sounds"
+move /Y "%level%\Temporary\params_sfx.uax" "%level%\Sounds"
+move /Y "%level%\Temporary\params_vox.uax" "%level%\Sounds"
+rd /s /q "%level%\Temporary"
+
+REM delete leftover files in umodel folder
+rd /s /q "%model%\UModelExport\"
+mkdir "%model%\UModelExport"
+
+pause
+REM pause and exit for now
+exit
+
+findstr /L /S /N /M  "Material" *.props.txt* > %first%\A.txt
+findstr /L /S /N /M  "Diffuse" *.props.txt* > %first%\B.txt
+
+pause
+
+Rem clear cluttered files
+
+del %first%\C.txt
+
+@echo off
+SETLOCAL EnableDelayedExpansion
+for /F "tokens=* delims=." %%a in (%first%\A.txt) do (
+    call :myInnerLoop "%%a"
+)
+
+goto :eof
+
+:myInnerLoop
+for /F "tokens=* delims=." %%b in (%first%\B.txt) do (
+    if "%~1"=="%%b" (
+        goto :next
+    )
+)
+echo %~1 >> %first%\C.txt
+
+:next
+goto :eof
+
+pause
