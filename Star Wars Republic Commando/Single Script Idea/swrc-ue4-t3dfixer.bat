@@ -45,7 +45,7 @@ if exist "%start%" (
 )
 
 REM make required directories in the UE4 folder
-mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies" "%start%\TEST"
+mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies" "%start%\TEST" "%start%\TEST2"
 
 REM make temporary directory and move the packages that do not contain any sounds
 mkdir "%level%\Temporary"
@@ -54,6 +54,21 @@ move /Y "%level%\Sounds\params_mus.uax" "%level%\Temporary"
 move /Y "%level%\Sounds\params_rumble.uax" "%level%\Temporary"
 move /Y "%level%\Sounds\params_sfx.uax" "%level%\Temporary"
 move /Y "%level%\Sounds\params_vox.uax" "%level%\Temporary"
+
+move /Y "%level%\StaticMeshes\arena_lm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\assaultship_02_gm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\assaultship_04_gm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\assaultship_lm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\charactertests.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\coreship_lm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\eventtemplate.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\lowerkashyyyk_hr.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\lowerkashyyyk_lm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\upperkashyyyk_lm.usx" "%level%\Temporary"
+
+move /Y "%level%\Textures\coreship_textures_props.utx" "%level%\Temporary"
+move /Y "%level%\Textures\ld_signs.utx" "%level%\Temporary"
+move /Y "%level%\Textures\shadow.utx" "%level%\Temporary"
 
 REM change directory to umodel
 cd /d "%model%"
@@ -73,6 +88,11 @@ for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\
 REM export texture packages with umodel
 umodel -path="%level%" -export *.utx
 
+if exist "%first%\time-log.txt" (
+	del "%first%\time-log.txt"
+)
+echo Started:%DATE% %TIME%>> "%first%\time-log.txt"
+
 REM comment all this later
 for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 	if exist "%first%\TEST\%%~nt.t3d" (
@@ -89,7 +109,7 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 			SET "string=%%i"
 			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
 			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
-				for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
+				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
 					set YourString=%%i
 					If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
 						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
@@ -102,172 +122,56 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 		)
 	)
 )
-REM echoing correct answer, writing file incorrect.
-pause
-echo madness over
-pause
-echo testing OVER OVER OVER
-pause
-echo improve performance then write the next function for StaticMeshes
-pause
-exit
 
-REM for every package in the games Textures folder.
-for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
-	REM echo package name
-	REM echo %%~nf
-	REM if exist "%start%\Materials\%%~nf" (
-	REM 	move "%start%\Materials\%%~nf" "%model%\UmodelExport\%%~nf"
-	REM ) else (
-	REM 	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
-	REM )
-	REM pause
-	REM echo moved
-	
-	REM pause
-	REM for every T3D file in the included UE4T3D folder
-	for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
-		REM echo package name once per T3D file
-		REM echo %%~nf
-		REM echo %%~nt%%~xt
-		REM echo %first%\UE4T3D\%%~nt%%~xt
-		REM pause
-		REM echo echo test
-		REM pause
-		REM echo %%~nf
-		REM echo test
-		REM echo %model%\%%~nf
-		REM echo File Not Found?
-		REM pause
-		REM for every category in the folders with the name matching the games Textures folder
-		for /f %%m in ('dir /b "%model%\UmodelExport\%%~nf"') do (
-			REM echo %model%\%%~nf
-			REM echo %%~nf
-			REM echo %%~nm
-			REM EnvTextures
-			REM pause
-			REM echo setlocal
-			REM pause
+echo Finished:%DATE% %TIME%>> "%first%\time-log.txt"
 
-			REM setlocal enableextensions disabledelayedexpansion
-			
-			REM step1-replace ( first part of the lines )
-			REM /RestrictedAssets/Maps/WIP/yyy04f-UT2004/
-			REM replace
-			REM "/RestrictedAssets/Maps/WIP/" + "levelname" + "-UT2004/"
-			REM with /Materials/
-			
-			REM step2-replace ( right half of a single line )
-			REM if defined list[0] ( .%%~nf_%%~nm_;^ ) else ( set list=.%%~nf_%%~nm_;^ )
-			REM for %%a in (%list%) do ( 
-			REM 	echo %%a
-				REM echo space
-			REM 	echo/
-			REM )
-			REM pause
-			REM echo %%~nt
-			REM pause
-			
-			set "firstSearch=/RestrictedAssets/Maps/WIP/%%~nt-UT2004/"
-			set "firstReplace=/Materials/"
-			REM step3-replace ( left half of a single line )
-			set "secondSearch=/%%~nf_%%~nm_"
-			set "secondReplace=/%%~nf/%%~nm/"
-			REM some files don't have sub categories? 2 or 3? make sure to account for it.
-			set "search=.%%~nf_%%~nm_"
-			set "replace=."
-			
-			
-			
-			REM pause
-			REM echo textFile
-			REM echo %first%\UE4T3D\%%~nt.t3d
-			REM C:\EXPORT\UE4T3D\1138.t3d
-			REM echo first
-			REM echo %first%
-			REM C:\EXPORT
-			REM pause
-			
-			REM set "textFile=%first%\UE4T3D\%%~nt.t3d"
-			REM set "nextFile=%first%\TEST\%%~nt.t3d"
-			
-			
-			REM pause
-			REM echo %%~dpt
-			REM C:\EXPORT\
-			REM set "textFile=%%~dptUE4T3D\%%~nt%%~xt"
-			REM set "nextFile=%%~dptTEST\%%~nt%%~xt"
-			REM echo i test
-			REM echo on
-			REM echo "%textFile%"
-			REM IF "%textFile%"=="" ECHO MyVar is NOT defined
-			REM echo IF ECHO TEST
-			REM ""
-			REM pause
-			
-			REM cannot find the path specified?!!!
-			REM for /f "delims=" %%i in ('type "%first%\UE4T3D\%%~nt.t3d" ^& break ^> "%first%\UE4T3D\%%~nt.t3d" ') do (
-			REM cannot find the path specified?!!!
-			
-			REM 	set "line=%%i"
-			REM 	setlocal enabledelayedexpansion
-			REM 	>>"%first%\UE4T3D\%%~nt.t3d" echo(!line:%search%=%replace%!
-			
-			REM TEMP
-				REM >>"%first%\UE4T3D\%%~nt.t3d" echo(!line:%firstSearch%=%firstReplace%!
-				REM !line:%secondSearch%=%secondReplace%!!line:%search%=%replace%!
-			
-			REM 	endlocal
-			REM 	)
-			REM )
-			REM pause
-		)
-		REM pause
-	)
-	REM pause
-)
-
-pause
-echo test over
-pause
-
-for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+for /f "delims=|" %%f in ('dir /b /o "%level%\Textures"') do (
 	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
 )
-echo testing OVER OVER OVER
-pause
-echo improve performance then write the next function for StaticMeshes
-pause
-exit
 
 REM export staticmesh packages with umodel
 umodel -path="%level%" -export *.usx
 
+if exist "%first%\time-log-sm.txt" (
+	del "%first%\time-log-sm.txt"
+)
+echo Started:%DATE% %TIME%>> "%first%\time-log-sm.txt"
 
-for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
-	REM echo package name
-	echo %%~nf
-	for /f %%t in ('dir /b %first%\UE4T3D\') do (
-		REM echo package name once per T3D file
-		echo %%~nf
-		echo %%~nt%%~xt
-		
-		pause
-		
-		REM rewrite line in T3D file here
+for /f %%t in ('dir /b "%first%\TEST\"') do (
+	REM DONT FORGET YOU CANNOT DELETE THIS TIME AROUND - SAVING - COMING BACK LATER
+	if exist "%first%\TEST2\%%~nt.t3d" (
+		del "%first%\TEST2\%%~nt.t3d"
 	)
-	pause
+	for /f "delims=" %%i in (%first%\TEST\%%~nt.t3d) do (
+		echo.%%i | findstr /C:"StaticMesh=" 1>nul
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i>> %first%\TEST2\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			setlocal enabledelayedexpansion
+			SET "string=%%i"
+			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
+				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
+					set YourString=%%i
+					If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
+						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+						echo !modified3!>> %first%\TEST2\%%~nt.t3d
+					)
+				)
+			)
+			endlocal
+		)
+	)
+)
+echo Finished:%DATE% %TIME%>> "%first%\time-log-sm.txt"
+
+for /f "delims=|" %%f in ('dir /b /o "%level%\StaticMeshes"') do (
 	move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
 )
 
-
-echo testing
-pause
-exit
-		
-		
-		
-		
 REM for all files in the games StaticMeshes folder move folders of the same name from umodelexport folder to UE4 StaticMeshes folder
 for /f "delims=|" %%f in ('dir /b "%level%\StaticMeshes"') do move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
 REM NOTE : 10 of the packages in the StaticMeshes folder are empty, so when moving the files using this logic there are some failures.
@@ -334,6 +238,22 @@ move /Y "%level%\Temporary\params_mus.uax" "%level%\Sounds"
 move /Y "%level%\Temporary\params_rumble.uax" "%level%\Sounds"
 move /Y "%level%\Temporary\params_sfx.uax" "%level%\Sounds"
 move /Y "%level%\Temporary\params_vox.uax" "%level%\Sounds"
+
+move /Y "%level%\Temporary\arena_lm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\assaultship_02_gm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\assaultship_04_gm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\assaultship_lm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\charactertests.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\coreship_lm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\eventtemplate.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\lowerkashyyyk_hr.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\lowerkashyyyk_lm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\upperkashyyyk_lm.usx" "%level%\StaticMeshes"
+
+move /Y "%level%\Temporary\coreship_textures_props.utx" "%level%\Textures"
+move /Y "%level%\Temporary\ld_signs.utx" "%level%\Textures"
+move /Y "%level%\Temporary\shadow.utx" "%level%\Textures"
+
 rd /s /q "%level%\Temporary"
 
 REM delete leftover files in umodel folder
