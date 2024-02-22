@@ -1,0 +1,17 @@
+2,040,990 overall lines read and written twice
+
+every line checked for a specific substring twice
+
+36,234 lines with three substring replacements
+
+54 packages and 351 categories in the first set of find & replace instructions
+
+48 packages and 206 categories in the second set of find & replace instructions
+
+each category name has to be cross referenced with each package name to ensure the substring replacements are correct
+
+each package is verified to have been extracted by cross referencing it with the extracted folders
+
+the categories inside are verified by checking the folder they exist in
+
+and these statistics don't include the rest of the scripts functionality
