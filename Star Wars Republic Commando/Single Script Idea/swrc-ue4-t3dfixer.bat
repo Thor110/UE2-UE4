@@ -47,7 +47,7 @@ if exist "%start%" (
 REM make required directories in the UE4 folder
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies" "%start%\TEST" "%start%\TEST2"
 
-REM make temporary directory and move the packages that do not contain any Sounds
+REM make temporary directory and move the packages that do not contain any sounds
 mkdir "%level%\Temporary"
 move /Y "%level%\Sounds\banter_voice.uax" "%level%\Temporary"
 move /Y "%level%\Sounds\params_mus.uax" "%level%\Temporary"
@@ -55,7 +55,6 @@ move /Y "%level%\Sounds\params_rumble.uax" "%level%\Temporary"
 move /Y "%level%\Sounds\params_sfx.uax" "%level%\Temporary"
 move /Y "%level%\Sounds\params_vox.uax" "%level%\Temporary"
 
-REM make temporary directory and move the packages that do not contain any StaticMeshes
 move /Y "%level%\StaticMeshes\arena_lm.usx" "%level%\Temporary"
 move /Y "%level%\StaticMeshes\assaultship_02_gm.usx" "%level%\Temporary"
 move /Y "%level%\StaticMeshes\assaultship_04_gm.usx" "%level%\Temporary"
@@ -67,7 +66,6 @@ move /Y "%level%\StaticMeshes\lowerkashyyyk_hr.usx" "%level%\Temporary"
 move /Y "%level%\StaticMeshes\lowerkashyyyk_lm.usx" "%level%\Temporary"
 move /Y "%level%\StaticMeshes\upperkashyyyk_lm.usx" "%level%\Temporary"
 
-REM make temporary directory and move the packages that do not contain any Textures
 move /Y "%level%\Textures\coreship_textures_props.utx" "%level%\Temporary"
 move /Y "%level%\Textures\ld_signs.utx" "%level%\Temporary"
 move /Y "%level%\Textures\shadow.utx" "%level%\Temporary"
@@ -90,67 +88,44 @@ for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\
 REM export texture packages with umodel
 umodel -path="%level%" -export *.utx
 
-REM if temporary time log exists
 if exist "%first%\time-log.txt" (
-	REM delete temporary time log
 	del "%first%\time-log.txt"
-
-
-REM create temporary time log
+)
 echo Started:%DATE% %TIME%>> "%first%\time-log.txt"
 
-REM for every file in this folder, uh-oh...
+REM comment all this later
 for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
-	REM if a version of the fixed T3D already exists
 	if exist "%first%\TEST\%%~nt.t3d" (
-		REM delete the T3D file if it does
 		del "%first%\TEST\%%~nt.t3d"
 	)
 	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
-		REM echo the line and do a findstr for "Texture=" and raise the error level
 		echo.%%i | findstr /C:"Texture=" 1>nul
-		REM if error level equals one the pattern isn't found.
 		if errorlevel 1 (
 			REM echo. got one - pattern not found
-			REM echo current line without a match to the findstr pattern
 			echo %%i>> %first%\TEST\%%~nt.t3d
 		) ELSE (
 			REM echo. got zero - found pattern
-			REM set local delayed expansion
 			setlocal enabledelayedexpansion
-			REM set string to the current line
 			SET "string=%%i"
-			REM set modified to the first edit of the current line
 			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
-			REM for every file in the Textures directory of the game
 			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
-				REM for every folder inside each folder with the same name as a package in the games Texture folder currently
 				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
-					REM set YourString to the current line
 					set YourString=%%i
-					REM if YourString contains slash package name underscore category name
 					If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
-						REM set modified2 to the second edit to the current line
 						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-						REM set modified2 to the third edit to the current line
 						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
-						REM echo modified3 to the new version of the T3D file
 						echo !modified3!>> %first%\TEST\%%~nt.t3d
 					)
 				)
 			)
-			REM end local delayed expansion
 			endlocal
 		)
 	)
 )
 
-REM finish temporary time log
 echo Finished:%DATE% %TIME%>> "%first%\time-log.txt"
 
-REM for every folder inside each folder with the same name as a package in the games Texture folder currently
 for /f "delims=|" %%f in ('dir /b /o "%level%\Textures"') do (
-	REM move each folder of the same name to the UE4 Materials folder
 	move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
 )
 
@@ -176,7 +151,10 @@ for /f %%t in ('dir /b "%first%\TEST\"') do (
 			REM echo. got zero - found pattern
 			setlocal enabledelayedexpansion
 			SET "string=%%i"
-			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Materials/!"
+			REM echo. got zero - found pattern StaticMeshes
+			REM FIND AND REPLACE "StaticMesh=StaticMesh'/Game/Materials/" with "StaticMesh=StaticMesh'/Game/StaticMeshes/"
+			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/StaticMeshes/!"
+			REM echo. got zero - found pattern StaticMeshes -> Fixed
 			for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
 				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
 					set YourString=%%i
