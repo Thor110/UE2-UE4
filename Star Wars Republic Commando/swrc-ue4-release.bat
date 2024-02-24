@@ -55,6 +55,21 @@ move /Y "%level%\Sounds\params_rumble.uax" "%level%\Temporary"
 move /Y "%level%\Sounds\params_sfx.uax" "%level%\Temporary"
 move /Y "%level%\Sounds\params_vox.uax" "%level%\Temporary"
 
+move /Y "%level%\StaticMeshes\arena_lm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\assaultship_02_gm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\assaultship_04_gm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\assaultship_lm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\charactertests.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\coreship_lm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\eventtemplate.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\lowerkashyyyk_hr.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\lowerkashyyyk_lm.usx" "%level%\Temporary"
+move /Y "%level%\StaticMeshes\upperkashyyyk_lm.usx" "%level%\Temporary"
+
+move /Y "%level%\Textures\coreship_textures_props.utx" "%level%\Temporary"
+move /Y "%level%\Textures\ld_signs.utx" "%level%\Temporary"
+move /Y "%level%\Textures\shadow.utx" "%level%\Temporary"
+
 REM change directory to umodel
 cd /d "%model%"
 
@@ -89,17 +104,6 @@ for /f "delims=|" %%f in ('dir /b "%level%\Textures"') do move "%model%\UmodelEx
 
 REM export staticmesh packages with umodel
 umodel -path="%level%" -export *.usx
-
-REM for every folder in the umodelexport folder
-for /D %%D in ("%model%\UmodelExport\*") do (
-
-	REM for all the following filetypes ( .pskx, .psa, .psk ) in the stated subdirectories ( StaticMesh, MeshAnimation, SkeletalMesh )
-    for %%F in ("%%~D\StaticMesh\*.pskx*","%%~D\MeshAnimation\*.psa*","%%~D\SkeletalMesh\*.psk*") do (
-
-		REM move to the parent directory
-        move /Y "%%~F" "%%~dpF.."
-    )
-)
 
 REM for all files in the games StaticMeshes folder move folders of the same name from umodelexport folder to UE4 StaticMeshes folder
 for /f "delims=|" %%f in ('dir /b "%level%\StaticMeshes"') do move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
@@ -147,17 +151,6 @@ blender -b -P "%first%\batch-convert-fbx.py"
 REM delete the following filetypes from the StaticMeshes & Animations folders in the UE4 directory ( .pskx, .psk, .psa, .config )
 del /S "%start%\StaticMeshes\*.pskx" "%start%\StaticMeshes\*.psk" "%start%\StaticMeshes\*.psa" "%start%\Animations\*.psk" "%start%\Animations\*.psa" "%start%\Animations\*.config" "%start%\Materials\*.config" "%start%\Materials\*.psa" "%start%\Materials\*.fbx"
 
-REM for every folder in the UE4 Animations directory
-for /D %%D in ("%start%\Animations\*") do (
-
-	REM for all .fbx files in the following folders ( SkeletalMesh & MeshAnimation )
-    for %%F in ("%%~D\SkeletalMesh\*.fbx*","%%~D\MeshAnimation\*.fbx*") do (
-		
-		REM move file to the parent directory
-        move /Y "%%~F" "%%~dpF.."
-    )
-)
-
 REM delete directory that contains files that exist in the Materials folder already
 rd /s /q "%start%\Animations\bactadispensers\BactaDispenserGEO"
 
@@ -167,6 +160,22 @@ move /Y "%level%\Temporary\params_mus.uax" "%level%\Sounds"
 move /Y "%level%\Temporary\params_rumble.uax" "%level%\Sounds"
 move /Y "%level%\Temporary\params_sfx.uax" "%level%\Sounds"
 move /Y "%level%\Temporary\params_vox.uax" "%level%\Sounds"
+
+move /Y "%level%\Temporary\arena_lm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\assaultship_02_gm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\assaultship_04_gm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\assaultship_lm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\charactertests.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\coreship_lm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\eventtemplate.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\lowerkashyyyk_hr.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\lowerkashyyyk_lm.usx" "%level%\StaticMeshes"
+move /Y "%level%\Temporary\upperkashyyyk_lm.usx" "%level%\StaticMeshes"
+
+move /Y "%level%\Temporary\coreship_textures_props.utx" "%level%\Textures"
+move /Y "%level%\Temporary\ld_signs.utx" "%level%\Textures"
+move /Y "%level%\Temporary\shadow.utx" "%level%\Textures"
+
 rd /s /q "%level%\Temporary"
 
 REM delete leftover files in umodel folder
