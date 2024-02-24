@@ -88,17 +88,6 @@ for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\
 REM export texture packages with umodel
 umodel -path="%level%" -export *.utx
 
-REM for every folder in the umodelexport folder
-for /D %%D in ("%model%\UmodelExport\*") do (
-
-	REM for every .tga file in the texture folder
-    for %%F in ("%%~D\Texture\*.tga*") do (
-	
-		REM move the file to the parent directory
-        move /Y "%%~F" "%%~dpF.."
-    )
-)
-
 REM for all files in the games Textures folder move folders of the same name from umodelexport folder to UE4 Materials folder
 for /f "delims=|" %%f in ('dir /b "%level%\Textures"') do move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
 
