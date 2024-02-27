@@ -47,21 +47,6 @@ if exist "%start%" (
 REM make required directories in the UE4 folder
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\TEST"
 
-REM change directory to the RO System folder
-cd /d "%level%\System"
-
-REM these are the only sound packages that contain any files, the rest appear to be empty.
-REM for every file in the Sounds folder do batchexport with ucc 
-for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\Ahz_Sounds.uax" sound wav "%start%\Sounds\%%~nf"
-
-REM for every file in the Sounds folder do batchexport with ucc 
-for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\Artillery.uax" sound wav "%start%\Sounds\%%~nf"
-
-REM for every file in the Sounds folder do batchexport with ucc 
-for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\Vehicle_reloads.uax" sound wav "%start%\Sounds\%%~nf"
-
-pause
-
 REM change directory to umodel
 cd /d "%model%"
 
@@ -74,13 +59,8 @@ for /f "delims=|" %%f in ('dir /b "%level%\Animations"') do move "%model%\Umodel
 REM export texture packages with umodel
 umodel -path="%level%" -export *.utx
 
-REM export map packages with umodel
-umodel -path="%level%" -export *.rom
-
 REM export staticmesh packages with umodel
 umodel -path="%level%" -export *.usx
-
-pause
 
 if exist "%first%\time-log.txt" (
 	del "%first%\time-log.txt"
@@ -112,8 +92,6 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 							SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
 							SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
 							echo !modified3!>> %first%\TEST\%%~nt.t3d
-						) else (
-							echo %%i>> %first%\TEST\%%~nt.t3d
 						)
 					)
 				)
@@ -131,8 +109,6 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
 						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
 						echo !modified3!>> %first%\TEST\%%~nt.t3d
-					) else (
-						echo %%i>> %first%\TEST\%%~nt.t3d
 					)
 				)
 			)
@@ -183,6 +159,19 @@ cd /d "%blend%"
 
 REM batch convert psk/pskx/psa to FBX with blender
 blender -b -P "%first%\batch-convert-fbx.py"
+
+REM change directory to the RO System folder
+cd /d "%level%\System"
+
+REM these are the only sound packages that contain any files, the rest appear to be empty.
+REM for every file in the Sounds folder do batchexport with ucc 
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\Ahz_Sounds.uax" sound wav "%start%\Sounds\%%~nf"
+
+REM for every file in the Sounds folder do batchexport with ucc 
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\Artillery.uax" sound wav "%start%\Sounds\%%~nf"
+
+REM for every file in the Sounds folder do batchexport with ucc 
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\Vehicle_reloads.uax" sound wav "%start%\Sounds\%%~nf"
 
 REM delete the following filetypes from the StaticMeshes & Animations folders in the UE4 directory ( .pskx, .psk, .psa, .config )
 del /S "%start%\StaticMeshes\*.pskx" "%start%\StaticMeshes\*.psk" "%start%\StaticMeshes\*.psa" "%start%\StaticMeshes\*.config" "%start%\Animations\*.psk" "%start%\Animations\*.psa" "%start%\Animations\*.config"
