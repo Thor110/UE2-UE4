@@ -101,15 +101,28 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 				REM set local enable delayed expansion
 				setlocal enabledelayedexpansion
 				REM correct the first part of the string from "/Converted/LevelName/" to "/StaticMeshes/"
-				SET "modified=!string:/Converted/%%~nt-UT2004/=/StaticMeshes/!"
+				SET "modified1=!string:/Converted/%%~nt-UT2004/=/StaticMeshes/!"
 				REM if this string replacement is possible.
 				If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_=!" (
-					REM correct the second part of the string from "/LevelName_" to "/LevelName/"
-					SET "modified4=!modified:/%%~nt_=/%%~nt/!"
-					REM correct the third part of the string from ".LevelName_" to "."
-					SET "modified5=!modified4:.%%~nt_=.!"
-					REM echo the updated line to the new T3D file
-					echo !modified5!>> %first%\TEST\%%~nt.t3d
+					REM for every folder with the same name as the package checked in the games StaticMeshes folder during this for loop
+					for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nt"') do (
+						REM if this string replacement is possible.
+						If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_%%~nm_=!" (
+							REM correct the second part of the string from "/LevelName_CategoryName_" to "/LevelName/CategoryName/"
+							SET "modified2=!modified1:/%%~nt_%%~nm_=/%%~nt/%%~nm/!"
+							REM correct the third part of the string from ".LevelName_" to "."
+							SET "modified3=!modified2:.%%~nt_%%~nm_=.!"
+							REM echo the updated line to the new T3D file
+							echo !modified3!>> %first%\TEST\%%~nt.t3d
+						) else (
+							REM correct the second part of the string from "/LevelName_" to "/LevelName/"
+							SET "modified2=!modified1:/%%~nt_=/%%~nt/!"
+							REM correct the third part of the string from ".LevelName_" to "."
+							SET "modified3=!modified2:.%%~nt_=.!"
+							REM echo the updated line to the new T3D file
+							echo !modified3!>> %first%\TEST\%%~nt.t3d
+						)
+					)
 				REM if that string replacement is not possible.
 				) else (
 					REM for every package in the games StaticMeshes folder
@@ -118,12 +131,19 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 						for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
 							REM if this string replacement is possible.
 							If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
-								REM correct the second part of the string from "/LevelName_PackageName_" to "/LevelName/PackageName/"
-								SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-								REM correct the third part of the string from ".LevelName_PackageName_" to "."
-								SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+								REM correct the second part of the string from "/PackageName_CategoryName_" to "/PackageName/CategoryName/"
+								SET "modified4=!modified1:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+								REM correct the third part of the string from ".PackageName_CategoryName_" to "."
+								SET "modified5=!modified4:.%%~nf_%%~nm_=.!"
 								REM echo the updated line to the new T3D file
-								echo !modified3!>> %first%\TEST\%%~nt.t3d
+								echo !modified5!>> %first%\TEST\%%~nt.t3d
+							) else (
+								REM correct the second part of the string from "/PackageName_CategoryName_" to "/PackageName/CategoryName/"
+								SET "modified4=!modified1:/%%~nf_=/%%~nf/!"
+								REM correct the third part of the string from ".PackageName_CategoryName_" to "."
+								SET "modified5=!modified4:.%%~nf_=.!"
+								REM echo the updated line to the new T3D file
+								echo !modified5!>> %first%\TEST\%%~nt.t3d
 							)
 						)
 					)
@@ -136,15 +156,29 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 			REM set local enable delayed expansion
 			setlocal enabledelayedexpansion
 			REM correct the first part of the string from "/Converted/LevelName/" to "/Materials/"
-			SET "modified=!string:/Converted/%%~nt-UT2004/=/Materials/!"
+			SET "modified6=!string:/Converted/%%~nt-UT2004/=/Materials/!"
 			REM if this string replacement is possible.
 			If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_=!" (
-				REM correct the second part of the string from "/LevelName_" to "/LevelName/"
-				SET "modified4=!modified:/%%~nt_=/%%~nt/!"
-				REM correct the third part of the string from ".LevelName_" to "."
-				SET "modified5=!modified4:.%%~nt_=.!"
-				REM echo the updated line to the new T3D file
-				echo !modified5!>> %first%\TEST\%%~nt.t3d
+				REM for every folder with the same name as the package checked in the games StaticMeshes folder during this for loop
+				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nt"') do (
+					REM if this string replacement is possible.
+					If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_%%~nm_=!" (
+						REM correct the second part of the string from "/LevelName_" to "/LevelName/"
+						SET "modified7=!modified6:/%%~nt_%%~nm_=/%%~nt/%%~nm/!"
+						REM correct the third part of the string from ".LevelName_" to "."
+						SET "modified8=!modified7:.%%~nt_%%~nm_=.!"
+						REM echo the updated line to the new T3D file
+						echo !modified7!>> %first%\TEST\%%~nt.t3d
+					REM for instances where there is no category within the level.
+					) else (
+						REM correct the second part of the string from "/LevelName_CategoryName_" to "/LevelName/"
+						SET "modified7=!modified6:/%%~nt_=/%%~nt/!"
+						REM correct the third part of the string from ".LevelName_" to "."
+						SET "modified8=!modified7:.%%~nt_=.!"
+						REM echo the updated line to the new T3D file
+						echo !modified7!>> %first%\TEST\%%~nt.t3d
+					)
+				)
 			REM if that string replacement is not possible.
 			) else (
 				REM for every package in the games Textures folder
@@ -153,12 +187,20 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 					for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
 						REM if this string replacement is possible.
 						If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
-							REM correct the second part of the string from "/LevelName_PackageName_" to "/LevelName/PackageName/"
-							SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-							REM correct the third part of the string from ".LevelName_PackageName_" to "."
-							SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+							REM correct the second part of the string from "/PackageName_CategoryName_" to "/PackageName/CategoryName/"
+							SET "modified9=!modified6:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+							REM correct the third part of the string from ".PackageName_CategoryName_" to "."
+							SET "modified10=!modified9:.%%~nf_%%~nm_=.!"
 							REM echo the updated line to the new T3D file
-							echo !modified3!>> %first%\TEST\%%~nt.t3d
+							echo !modified10!>> %first%\TEST\%%~nt.t3d
+						REM for instances where there is no category within the package.
+						) else (
+							REM correct the second part of the string from "/PackageName_" to "/PackageName/"
+							SET "modified9=!modified6:/%%~nf_=/%%~nf/!"
+							REM correct the third part of the string from ".PackageName_" to "."
+							SET "modified10=!modified9:.%%~nf_=.!"
+							REM echo the updated line to the new T3D file
+							echo !modified10!>> %first%\TEST\%%~nt.t3d
 						)
 					)
 				)
