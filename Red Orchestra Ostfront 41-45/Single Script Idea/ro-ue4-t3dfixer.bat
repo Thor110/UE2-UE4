@@ -47,6 +47,10 @@ if exist "%start%" (
 REM make required directories in the UE4 folder
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\TEST"
 
+for /r "%level%\Maps\" %%x in (*.unr) do ren "%%x" "%%~nx.ut2"
+
+pause
+
 REM change directory to umodel
 cd /d "%model%"
 
@@ -61,6 +65,9 @@ umodel -path="%level%" -export *.utx
 
 REM export staticmesh packages with umodel
 umodel -path="%level%" -export *.usx
+
+REM export map packages with umodel
+umodel -path="%level%" -export *.ut2
 
 if exist "%first%\time-log.txt" (
 	del "%first%\time-log.txt"
@@ -175,6 +182,8 @@ for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%
 
 REM delete the following filetypes from the StaticMeshes & Animations folders in the UE4 directory ( .pskx, .psk, .psa, .config )
 del /S "%start%\StaticMeshes\*.pskx" "%start%\StaticMeshes\*.psk" "%start%\StaticMeshes\*.psa" "%start%\StaticMeshes\*.config" "%start%\Animations\*.psk" "%start%\Animations\*.psa" "%start%\Animations\*.config"
+
+for /r "%level%\Maps\" %%x in (*.ut2) do ren "%%x" "%%~nx.unr"
 
 REM delete leftover files in umodel folder
 rd /s /q "%model%\UModelExport\"
