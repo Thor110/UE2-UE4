@@ -45,7 +45,7 @@ if exist "%start%" (
 )
 
 REM make required directories in the UE4 folder
-mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations"
+mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\TEST"
 
 REM change directory to the RO System folder
 cd /d "%level%\System"
