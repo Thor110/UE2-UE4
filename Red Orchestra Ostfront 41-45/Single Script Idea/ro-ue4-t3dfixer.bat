@@ -59,6 +59,14 @@ for /f "delims=|" %%f in ('dir /b "%level%\Animations"') do move "%model%\Umodel
 REM export texture packages with umodel
 umodel -path="%level%" -export *.utx
 
+REM export map packages with umodel
+umodel -path="%level%" -export *.rom
+
+REM export staticmesh packages with umodel
+umodel -path="%level%" -export *.usx
+
+pause
+
 if exist "%first%\time-log.txt" (
 	del "%first%\time-log.txt"
 )
@@ -73,9 +81,31 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 		echo.%%i | findstr /C:"Texture=" 1>nul
 		if errorlevel 1 (
 			REM echo. got one - pattern not found
-			echo %%i>> %first%\TEST\%%~nt.t3d
+			echo.%%i | findstr /C:"StaticMesh=" 1>nul
+			if errorlevel 1 (
+				REM echo. got one - pattern not found
+				echo %%i>> %first%\TEST\%%~nt.t3d
+			) ELSE (
+				REM echo. got zero - found pattern StaticMesh
+				setlocal enabledelayedexpansion
+				SET "string=%%i"
+				SET "modified=!string:/Converted/%%~nt-UT2004/=/StaticMeshes/!"
+				for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
+					for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
+						set YourString=%%i
+						If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
+							SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+							SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+							echo !modified3!>> %first%\TEST\%%~nt.t3d
+						) else (
+							echo %%i>> %first%\TEST\%%~nt.t3d
+						)
+					)
+				)
+				endlocal
+			)
 		) ELSE (
-			REM echo. got zero - found pattern
+			REM echo. got zero - found pattern Texture
 			setlocal enabledelayedexpansion
 			SET "string=%%i"
 			SET "modified=!string:/Converted/%%~nt-UT2004/=/Materials/!"
@@ -86,6 +116,8 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
 						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
 						echo !modified3!>> %first%\TEST\%%~nt.t3d
+					) else (
+						echo %%i>> %first%\TEST\%%~nt.t3d
 					)
 				)
 			)
@@ -98,48 +130,6 @@ echo Finished:%DATE% %TIME%>> "%first%\time-log.txt"
 
 REM for all files in the games Textures folder move folders of the same name from umodelexport folder to UE4 Materials folder
 for /f "delims=|" %%f in ('dir /b "%level%\Textures"') do move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
-
-REM export staticmesh packages with umodel
-umodel -path="%level%" -export *.usx
-
-if exist "%first%\time-log-sm.txt" (
-	del "%first%\time-log-sm.txt"
-)
-echo Started:%DATE% %TIME%>> "%first%\time-log-sm.txt"
-
-for /f %%t in ('dir /b "%first%\TEST\"') do (
-	REM DONT FORGET YOU CANNOT DELETE THIS TIME AROUND - SAVING - COMING BACK LATER
-	if exist "%first%\TEST2\%%~nt.t3d" (
-		del "%first%\TEST2\%%~nt.t3d"
-	)
-	for /f "delims=" %%i in (%first%\TEST\%%~nt.t3d) do (
-		echo.%%i | findstr /C:"StaticMesh=" 1>nul
-		if errorlevel 1 (
-			REM echo. got one - pattern not found
-			echo %%i>> %first%\TEST2\%%~nt.t3d
-		) ELSE (
-			REM echo. got zero - found pattern
-			setlocal enabledelayedexpansion
-			SET "string=%%i"
-			REM echo. got zero - found pattern StaticMeshes
-			REM FIND AND REPLACE "StaticMesh=StaticMesh'/Game/Materials/" with "StaticMesh=StaticMesh'/Game/StaticMeshes/"
-			SET "modified=!string:/Converted/%%~nt-UT2004/=/StaticMeshes/!"
-			REM echo. got zero - found pattern StaticMeshes -> Fixed
-			for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
-				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
-					set YourString=%%i
-					If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
-						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
-						echo !modified3!>> %first%\TEST2\%%~nt.t3d
-					)
-				)
-			)
-			endlocal
-		)
-	)
-)
-echo Finished:%DATE% %TIME%>> "%first%\time-log-sm.txt"
 
 REM for all files in the games StaticMeshes folder move folders of the same name from umodelexport folder to UE4 StaticMeshes folder
 for /f "delims=|" %%f in ('dir /b "%level%\StaticMeshes"') do move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
