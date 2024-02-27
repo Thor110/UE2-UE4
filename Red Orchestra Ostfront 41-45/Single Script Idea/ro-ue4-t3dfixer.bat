@@ -50,8 +50,15 @@ mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Anima
 REM change directory to the RO System folder
 cd /d "%level%\System"
 
+REM these are the only sound packages that contain any files, the rest appear to be empty.
 REM for every file in the Sounds folder do batchexport with ucc 
-for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\%%f" sound wav "%start%\Sounds\%%~nf"
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\Ahz_Sounds.uax" sound wav "%start%\Sounds\%%~nf"
+
+REM for every file in the Sounds folder do batchexport with ucc 
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\Artillery.uax" sound wav "%start%\Sounds\%%~nf"
+
+REM for every file in the Sounds folder do batchexport with ucc 
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\Vehicle_reloads.uax" sound wav "%start%\Sounds\%%~nf"
 
 pause
 
