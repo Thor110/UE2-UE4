@@ -78,61 +78,93 @@ echo Started:%DATE% %TIME%>> "%first%\time-log.txt"
 
 REM comment all this later
 for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	REM user error to prevent the file existing or the script being run multiple times and appending to the same file.
 	if exist "%first%\TEST\%%~nt.t3d" (
 		del "%first%\TEST\%%~nt.t3d"
 	)
+	REM for every T3D file.
 	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
 		SET "string=%%i"
+		REM echo current line to findstr and check it for "Texture="
 		echo.%%i | findstr /C:"Texture=" 1>nul
+		REM error level
 		if errorlevel 1 (
 			REM echo. got one - pattern not found
+			REM echo current line to findstr and check it for "StaticMesh="
 			echo.%%i | findstr /C:"StaticMesh=" 1>nul
+			REM error level
 			if errorlevel 1 (
 				REM echo. got one - pattern not found
 				echo %%i>> %first%\TEST\%%~nt.t3d
 			) ELSE (
 				REM echo. got zero - found pattern StaticMesh
+				REM set local enable delayed expansion
 				setlocal enabledelayedexpansion
+				REM correct the first part of the string from /Converted/LevelName/ to /StaticMeshes/
 				SET "modified=!string:/Converted/%%~nt-UT2004/=/StaticMeshes/!"
+				REM if this string replacement is possible.
 				If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_=!" (
+					REM correct the second part of the string from "/LevelName_" to "/LevelName/"
 					SET "modified4=!modified:/%%~nt_=/%%~nt/!"
+					REM correct the third part of the string from ".LevelName_" to "."
 					SET "modified5=!modified4:.%%~nt_=.!"
+					REM echo the updated line to the new T3D file
 					echo !modified5!>> %first%\TEST\%%~nt.t3d
 				)
+				REM for every package in the games StaticMeshes folder
 				for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
+					REM for every folder with the same name as the package checked in the games StaticMeshes folder during this for loop
 					for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
+						REM if this string replacement is possible.
 						If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
+							REM correct the second part of the string from "/LevelName_PackageName_" to "/LevelName/PackageName/"
 							SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+							REM correct the third part of the string from ".LevelName_PackageName_" to "."
 							SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+							REM echo the updated line to the new T3D file
 							echo !modified3!>> %first%\TEST\%%~nt.t3d
 						)
 					)
 				)
+				REM end local
 				endlocal
 			)
 		) ELSE (
 			REM echo. got zero - found pattern Texture
+			REM set local enable delayed expansion
 			setlocal enabledelayedexpansion
+			REM correct the first part of the string from /Converted/LevelName/ to /Materials/
 			SET "modified=!string:/Converted/%%~nt-UT2004/=/Materials/!"
+			REM if this string replacement is possible.
 			If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_=!" (
+				REM correct the second part of the string from "/LevelName_" to "/LevelName/"
 				SET "modified4=!modified:/%%~nt_=/%%~nt/!"
+				REM correct the third part of the string from ".LevelName_" to "."
 				SET "modified5=!modified4:.%%~nt_=.!"
+				REM echo the updated line to the new T3D file
 				echo !modified5!>> %first%\TEST\%%~nt.t3d
 			)
-			for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
+			REM for every package in the games Textures folder
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+				REM for every folder with the same name as the package checked in the games Textures folder during this for loop
 				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
+					REM if this string replacement is possible.
 					If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
+						REM correct the second part of the string from "/LevelName_PackageName_" to "/LevelName/PackageName/"
 						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+						REM correct the third part of the string from ".LevelName_PackageName_" to "."
 						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+						REM echo the updated line to the new T3D file
 						echo !modified3!>> %first%\TEST\%%~nt.t3d
 					)
 				)
 			)
+			REM end local
 			endlocal
 		)
 	)
 )
-REM StaticMesh=StaticMesh'/Game/Converted/RO-Arad-UT2004/RO-Arad_AradGrass.RO-Arad_AradGrass'
+
 echo Finished:%DATE% %TIME%>> "%first%\time-log.txt"
 
 REM for all files in the games Textures folder move folders of the same name from umodelexport folder to UE4 Materials folder
