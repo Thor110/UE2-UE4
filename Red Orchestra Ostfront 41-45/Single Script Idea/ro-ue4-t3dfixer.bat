@@ -47,9 +47,8 @@ if exist "%start%" (
 REM make required directories in the UE4 folder
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\TEST"
 
-for /r "%level%\Maps\" %%x in (*.unr) do ren "%%x" "%%~nx.ut2"
-
-pause
+REM rename map files from .rom to .ut2 for extraction
+for /r "%level%\Maps\" %%x in (*.rom) do ren "%%x" "%%~nx.ut2"
 
 REM change directory to umodel
 cd /d "%model%"
@@ -68,6 +67,9 @@ umodel -path="%level%" -export *.usx
 
 REM export map packages with umodel
 umodel -path="%level%" -export *.ut2
+
+REM rename map files back from .ut2 to .rom after extraction
+for /r "%level%\Maps\" %%x in (*.ut2) do ren "%%x" "%%~nx.rom"
 
 if exist "%first%\time-log.txt" (
 	del "%first%\time-log.txt"
@@ -97,8 +99,10 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 						set YourString=%%i
 						If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
 							SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-							SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
-							echo !modified3!>> %first%\TEST\%%~nt.t3d
+							REM special case for files packaged inside maps ( modified3 )
+							SET "modified3=!modified:/%%~nt_=/%%~nt/!"
+							SET "modified4=!modified2:.%%~nf_%%~nm_=.!"
+							echo !modified4!>> %first%\TEST\%%~nt.t3d
 						)
 					)
 				)
@@ -114,8 +118,10 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 					set YourString=%%i
 					If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
 						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
-						echo !modified3!>> %first%\TEST\%%~nt.t3d
+						REM special case for files packaged inside maps ( modified3 )
+						SET "modified3=!modified:/%%~nt_=/%%~nt/!"
+						SET "modified4=!modified2:.%%~nf_%%~nm_=.!"
+						echo !modified4!>> %first%\TEST\%%~nt.t3d
 					)
 				)
 			)
@@ -182,8 +188,6 @@ for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%
 
 REM delete the following filetypes from the StaticMeshes & Animations folders in the UE4 directory ( .pskx, .psk, .psa, .config )
 del /S "%start%\StaticMeshes\*.pskx" "%start%\StaticMeshes\*.psk" "%start%\StaticMeshes\*.psa" "%start%\StaticMeshes\*.config" "%start%\Animations\*.psk" "%start%\Animations\*.psa" "%start%\Animations\*.config"
-
-for /r "%level%\Maps\" %%x in (*.ut2) do ren "%%x" "%%~nx.unr"
 
 REM delete leftover files in umodel folder
 rd /s /q "%model%\UModelExport\"
