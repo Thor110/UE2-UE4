@@ -100,7 +100,7 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 				REM echo. got zero - found pattern StaticMesh
 				REM set local enable delayed expansion
 				setlocal enabledelayedexpansion
-				REM correct the first part of the string from /Converted/LevelName/ to /StaticMeshes/
+				REM correct the first part of the string from "/Converted/LevelName/" to "/StaticMeshes/"
 				SET "modified=!string:/Converted/%%~nt-UT2004/=/StaticMeshes/!"
 				REM if this string replacement is possible.
 				If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_=!" (
@@ -133,7 +133,7 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 			REM echo. got zero - found pattern Texture
 			REM set local enable delayed expansion
 			setlocal enabledelayedexpansion
-			REM correct the first part of the string from /Converted/LevelName/ to /Materials/
+			REM correct the first part of the string from "/Converted/LevelName/" to "/Materials/"
 			SET "modified=!string:/Converted/%%~nt-UT2004/=/Materials/!"
 			REM if this string replacement is possible.
 			If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_=!" (
