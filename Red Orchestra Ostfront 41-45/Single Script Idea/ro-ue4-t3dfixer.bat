@@ -76,13 +76,13 @@ if exist "%first%\time-log.txt" (
 )
 echo Started:%DATE% %TIME%>> "%first%\time-log.txt"
 
-REM comment all this later
+REM for every file in the UE4T3D folder
 for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 	REM user error to prevent the file existing or the script being run multiple times and appending to the same file.
 	if exist "%first%\TEST\%%~nt.t3d" (
 		del "%first%\TEST\%%~nt.t3d"
 	)
-	REM for every T3D file.
+	REM for the current T3D file.
 	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
 		SET "string=%%i"
 		REM echo current line to findstr and check it for "Texture="
