@@ -47,6 +47,14 @@ if exist "%start%" (
 REM make required directories in the UE4 folder
 mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations"
 
+REM change directory to the RO System folder
+cd /d "%level%\System"
+
+REM for every file in the Sounds folder do batchexport with ucc 
+for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\%%f" sound wav "%start%\Sounds\%%~nf"
+
+pause
+
 REM change directory to umodel
 cd /d "%model%"
 
