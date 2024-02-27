@@ -45,7 +45,7 @@ if exist "%start%" (
 )
 
 REM make required directories in the UE4 folder
-mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\TEST"
+mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Maps" "%start%\TEST"
 
 REM rename map files from .rom to .ut2 for extraction
 for /r "%level%\Maps\" %%x in (*.rom) do ren "%%x" "%%~nx.ut2"
@@ -166,6 +166,9 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 )
 
 echo Finished:%DATE% %TIME%>> "%first%\time-log.txt"
+
+REM for all files in the games Maps folder move folders of the same name from umodelexport folder to UE4 Maps folder
+for /f "delims=|" %%f in ('dir /b "%level%\Maps"') do move "%model%\UmodelExport\%%~nf" "%start%\Maps\%%~nf"
 
 REM for all files in the games Textures folder move folders of the same name from umodelexport folder to UE4 Materials folder
 for /f "delims=|" %%f in ('dir /b "%level%\Textures"') do move "%model%\UmodelExport\%%~nf" "%start%\Materials\%%~nf"
