@@ -82,6 +82,7 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 		del "%first%\TEST\%%~nt.t3d"
 	)
 	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		SET "string=%%i"
 		echo.%%i | findstr /C:"Texture=" 1>nul
 		if errorlevel 1 (
 			REM echo. got one - pattern not found
@@ -92,17 +93,18 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 			) ELSE (
 				REM echo. got zero - found pattern StaticMesh
 				setlocal enabledelayedexpansion
-				SET "string=%%i"
 				SET "modified=!string:/Converted/%%~nt-UT2004/=/StaticMeshes/!"
+				If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_=!" (
+					SET "modified4=!modified:/%%~nt_=/%%~nt/!"
+					SET "modified5=!modified4:.%%~nt_=.!"
+					echo !modified5!>> %first%\TEST\%%~nt.t3d
+				)
 				for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
 					for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
-						set YourString=%%i
-						If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
+						If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
 							SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-							REM special case for files packaged inside maps ( modified3 )
-							SET "modified3=!modified:/%%~nt_=/%%~nt/!"
-							SET "modified4=!modified2:.%%~nf_%%~nm_=.!"
-							echo !modified4!>> %first%\TEST\%%~nt.t3d
+							SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+							echo !modified3!>> %first%\TEST\%%~nt.t3d
 						)
 					)
 				)
@@ -111,17 +113,18 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 		) ELSE (
 			REM echo. got zero - found pattern Texture
 			setlocal enabledelayedexpansion
-			SET "string=%%i"
 			SET "modified=!string:/Converted/%%~nt-UT2004/=/Materials/!"
-			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+			If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nt_=!" (
+				SET "modified4=!modified:/%%~nt_=/%%~nt/!"
+				SET "modified5=!modified4:.%%~nt_=.!"
+				echo !modified5!>> %first%\TEST\%%~nt.t3d
+			)
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
 				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
-					set YourString=%%i
-					If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
+					If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
 						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-						REM special case for files packaged inside maps ( modified3 )
-						SET "modified3=!modified:/%%~nt_=/%%~nt/!"
-						SET "modified4=!modified2:.%%~nf_%%~nm_=.!"
-						echo !modified4!>> %first%\TEST\%%~nt.t3d
+						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+						echo !modified3!>> %first%\TEST\%%~nt.t3d
 					)
 				)
 			)
@@ -129,7 +132,7 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 		)
 	)
 )
-
+REM StaticMesh=StaticMesh'/Game/Converted/RO-Arad-UT2004/RO-Arad_AradGrass.RO-Arad_AradGrass'
 echo Finished:%DATE% %TIME%>> "%first%\time-log.txt"
 
 REM for all files in the games Textures folder move folders of the same name from umodelexport folder to UE4 Materials folder
