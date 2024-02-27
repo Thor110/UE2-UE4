@@ -110,19 +110,21 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 					SET "modified5=!modified4:.%%~nt_=.!"
 					REM echo the updated line to the new T3D file
 					echo !modified5!>> %first%\TEST\%%~nt.t3d
-				)
-				REM for every package in the games StaticMeshes folder
-				for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
-					REM for every folder with the same name as the package checked in the games StaticMeshes folder during this for loop
-					for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
-						REM if this string replacement is possible.
-						If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
-							REM correct the second part of the string from "/LevelName_PackageName_" to "/LevelName/PackageName/"
-							SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-							REM correct the third part of the string from ".LevelName_PackageName_" to "."
-							SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
-							REM echo the updated line to the new T3D file
-							echo !modified3!>> %first%\TEST\%%~nt.t3d
+				REM if that string replacement is not possible.
+				) else (
+					REM for every package in the games StaticMeshes folder
+					for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
+						REM for every folder with the same name as the package checked in the games StaticMeshes folder during this for loop
+						for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
+							REM if this string replacement is possible.
+							If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
+								REM correct the second part of the string from "/LevelName_PackageName_" to "/LevelName/PackageName/"
+								SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+								REM correct the third part of the string from ".LevelName_PackageName_" to "."
+								SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+								REM echo the updated line to the new T3D file
+								echo !modified3!>> %first%\TEST\%%~nt.t3d
+							)
 						)
 					)
 				)
@@ -143,19 +145,21 @@ for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
 				SET "modified5=!modified4:.%%~nt_=.!"
 				REM echo the updated line to the new T3D file
 				echo !modified5!>> %first%\TEST\%%~nt.t3d
-			)
-			REM for every package in the games Textures folder
-			for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
-				REM for every folder with the same name as the package checked in the games Textures folder during this for loop
-				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
-					REM if this string replacement is possible.
-					If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
-						REM correct the second part of the string from "/LevelName_PackageName_" to "/LevelName/PackageName/"
-						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
-						REM correct the third part of the string from ".LevelName_PackageName_" to "."
-						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
-						REM echo the updated line to the new T3D file
-						echo !modified3!>> %first%\TEST\%%~nt.t3d
+			REM if that string replacement is not possible.
+			) else (
+				REM for every package in the games Textures folder
+				for /f "delims=|" %%f in ('dir /b /o-n "%level%\Textures"') do (
+					REM for every folder with the same name as the package checked in the games Textures folder during this for loop
+					for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
+						REM if this string replacement is possible.
+						If NOT "!string!"=="!string:/Converted/%%~nt-UT2004/%%~nf_%%~nm=!" (
+							REM correct the second part of the string from "/LevelName_PackageName_" to "/LevelName/PackageName/"
+							SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+							REM correct the third part of the string from ".LevelName_PackageName_" to "."
+							SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+							REM echo the updated line to the new T3D file
+							echo !modified3!>> %first%\TEST\%%~nt.t3d
+						)
 					)
 				)
 			)
