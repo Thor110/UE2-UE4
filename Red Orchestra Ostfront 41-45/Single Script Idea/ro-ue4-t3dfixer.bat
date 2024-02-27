@@ -45,7 +45,7 @@ if exist "%start%" (
 )
 
 REM make required directories in the UE4 folder
-mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Maps" "%start%\TEST"
+mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\TEST"
 
 REM rename map files from .rom to .ut2 for extraction
 for /r "%level%\Maps\" %%x in (*.rom) do ren "%%x" "%%~nx.ut2"
