@@ -310,7 +310,7 @@ Begin Map
 		Wait at top time=6.0
 		NumKeys=2
 		InitialState=NewEnumerator6
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_PodStandOnTop.CoreShip_PR_PodStandOnTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/CoreShip_PR/PodStandOnTop.PodStandOnTop'
 		ActorLabel="Mover1_Lift00"
 		Tags(0)="Lift00"
 	End Actor
