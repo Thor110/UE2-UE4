@@ -251,6 +251,42 @@ cd /d "%level%\System"
 
 REM for every file in the Sounds folder do batchexport with ucc 
 for /f "delims=|" %%f in ('dir /b "%level%\Sounds"') do ucc batchexport "%level%\Sounds\%%f" sound wav "%start%\Sounds\%%~nf"
+if exist "%first%\time-log-sc.txt" (
+	del "%first%\time-log-sc.txt"
+)
+echo Started:%DATE% %TIME%>> "%first%\time-log-sc.txt"
+
+REM comment all this later
+for /f %%t in ('dir /b "%first%\UE4T3D\"') do (
+	if exist "%first%\TEST\%%~nt.t3d" (
+		del "%first%\TEST\%%~nt.t3d"
+	)
+	for /f "delims=" %%i in (%first%\UE4T3D\%%~nt.t3d) do (
+		echo.%%i | findstr /C:"=SoundCue" 1>nul
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i>> %first%\TEST\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			setlocal enabledelayedexpansion
+			SET "string=%%i"
+			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/Sounds/!"
+			for /f "delims=|" %%f in ('dir /b /o-n "%start%\Sounds"') do (
+				REM for /f %%m in ('dir /b /o-n "%start%\Sounds\%%~nf"') do (
+					set YourString=%%i
+					If NOT "!YourString!"=="!YourString:%%~nf_=!" (
+						SET "modified2=!modified:/%%~nf_=/%%~nf/!"
+						SET "modified3=!modified2:.%%~nf_=.!"
+						echo !modified3!>> %first%\TEST\%%~nt.t3d
+					)
+				REM )
+			)
+			endlocal
+		)
+	)
+)
+
+echo Finished:%DATE% %TIME%>> "%first%\time-log-sc.txt"
 
 REM change directory to original directory
 cd /d "%first%"
@@ -286,17 +322,6 @@ blender -b -P "%first%\batch-convert-fbx.py"
 
 REM delete the following filetypes from the StaticMeshes & Animations folders in the UE4 directory ( .pskx, .psk, .psa, .config )
 del /S "%start%\StaticMeshes\*.pskx" "%start%\StaticMeshes\*.psk" "%start%\StaticMeshes\*.psa" "%start%\Animations\*.psk" "%start%\Animations\*.psa" "%start%\Animations\*.config" "%start%\Materials\*.config" "%start%\Materials\*.psa" "%start%\Materials\*.fbx"
-
-REM for every folder in the UE4 Animations directory
-for /D %%D in ("%start%\Animations\*") do (
-
-	REM for all .fbx files in the following folders ( SkeletalMesh & MeshAnimation )
-    for %%F in ("%%~D\SkeletalMesh\*.fbx*","%%~D\MeshAnimation\*.fbx*") do (
-		
-		REM move file to the parent directory
-        move /Y "%%~F" "%%~dpF.."
-    )
-)
 
 REM delete directory that contains files that exist in the Materials folder already
 rd /s /q "%start%\Animations\bactadispensers\BactaDispenserGEO"
