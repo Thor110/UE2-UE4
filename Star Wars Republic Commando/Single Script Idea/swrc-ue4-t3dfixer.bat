@@ -45,7 +45,7 @@ if exist "%start%" (
 )
 
 REM make required directories in the UE4 folder
-mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies" "%start%\TEST" "%start%\TEST2"
+mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies" "%start%\TEST" "%start%\TEST2" "%start%\TEST3"
 
 REM make temporary directory and move the packages that do not contain any sounds
 mkdir "%level%\Temporary"
@@ -170,6 +170,45 @@ for /f %%t in ('dir /b "%first%\TEST\"') do (
 	)
 )
 echo Finished:%DATE% %TIME%>> "%first%\time-log-sm.txt"
+
+if exist "%first%\time-log-lm.txt" (
+	del "%first%\time-log-lm.txt"
+)
+echo Started:%DATE% %TIME%>> "%first%\time-log-lm.txt"
+
+for /f %%t in ('dir /b "%first%\TEST2\"') do (
+	REM DONT FORGET YOU CANNOT DELETE THIS TIME AROUND - SAVING - COMING BACK LATER
+	if exist "%first%\TEST3\%%~nt.t3d" (
+		del "%first%\TEST3\%%~nt.t3d"
+	)
+	for /f "delims=" %%i in (%first%\TEST2\%%~nt.t3d) do (
+		echo.%%i | findstr /C:"Lift Mesh=" 1>nul
+		if errorlevel 1 (
+			REM echo. got one - pattern not found
+			echo %%i>> %first%\TEST3\%%~nt.t3d
+		) ELSE (
+			REM echo. got zero - found pattern
+			setlocal enabledelayedexpansion
+			SET "string=%%i"
+			REM echo. got zero - found pattern StaticMeshes
+			REM FIND AND REPLACE "StaticMesh=StaticMesh'/Game/Materials/" with "StaticMesh=StaticMesh'/Game/StaticMeshes/"
+			SET "modified=!string:/RestrictedAssets/Maps/WIP/%%~nt-UT2004/=/StaticMeshes/!"
+			REM echo. got zero - found pattern StaticMeshes -> Fixed
+			for /f "delims=|" %%f in ('dir /b /o-n "%level%\StaticMeshes"') do (
+				for /f %%m in ('dir /b /o-n "%model%\UmodelExport\%%~nf"') do (
+					set YourString=%%i
+					If NOT "!YourString!"=="!YourString:%%~nf_%%~nm=!" (
+						SET "modified2=!modified:/%%~nf_%%~nm_=/%%~nf/%%~nm/!"
+						SET "modified3=!modified2:.%%~nf_%%~nm_=.!"
+						echo !modified3!>> %first%\TEST3\%%~nt.t3d
+					)
+				)
+			)
+			endlocal
+		)
+	)
+)
+echo Finished:%DATE% %TIME%>> "%first%\time-log-lm.txt"
 
 for /f "delims=|" %%f in ('dir /b /o "%level%\StaticMeshes"') do (
 	move "%model%\UmodelExport\%%~nf" "%start%\StaticMeshes\%%~nf"
