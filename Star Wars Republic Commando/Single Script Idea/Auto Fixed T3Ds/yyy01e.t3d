@@ -12088,7 +12088,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01e-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_AutoDoor12.TR_AutoDoor12'
 		ActorLabel="Mover2_MoverDD"
 		Tags(0)="MoverDD"
 	End Actor
@@ -15531,7 +15531,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01e-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_big_slideDoor01.LowerKashyyyk_GM_Trando_Archit_TR_big_slideDoor01'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_big_slideDoor01.TR_big_slideDoor01'
 		ActorLabel="Mover3_Mover_Enter_Storage"
 		Tags(0)="Mover_Enter_Storage"
 	End Actor
@@ -15553,7 +15553,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01e-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_big_slideDoor01.LowerKashyyyk_GM_Trando_Archit_TR_big_slideDoor01'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_big_slideDoor01.TR_big_slideDoor01'
 		ActorLabel="Mover1_Mover_Enter_Tower"
 		Tags(0)="Mover_Enter_Tower"
 	End Actor
@@ -23799,7 +23799,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01e-UT2004/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/Scaly_Plate.Scaly_Plate'
 		ActorLabel="Mover4_SlamShutters"
 		Tags(0)="SlamShutters"
 	End Actor
@@ -23897,7 +23897,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01e-UT2004/LowerKashyyyk_GM_Trando_Archit_Scaly_Plate.LowerKashyyyk_GM_Trando_Archit_Scaly_Plate'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/Scaly_Plate.Scaly_Plate'
 		ActorLabel="Mover0_SlamShutters"
 		Tags(0)="SlamShutters"
 	End Actor

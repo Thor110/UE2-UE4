@@ -4558,7 +4558,7 @@ Begin Map
 		Wait at top time=10000.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_GM_Doors_AccessDoorLeft.AssaultShip_GM_Doors_AccessDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorLeft.AccessDoorLeft'
 		ActorLabel="Mover10_StuckDoor"
 		Tags(0)="StuckDoor"
 	End Actor
@@ -4581,7 +4581,7 @@ Begin Map
 		Wait at top time=10000.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_GM_Doors_AccessDoorRight.AssaultShip_GM_Doors_AccessDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorRight.AccessDoorRight'
 		ActorLabel="Mover9_StuckDoor"
 		Tags(0)="StuckDoor"
 	End Actor
@@ -5677,7 +5677,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_GM_Doors_AccessDoorLeft.AssaultShip_GM_Doors_AccessDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorLeft.AccessDoorLeft'
 		ActorLabel="Mover0"
 	End Actor
 	Begin Actor Class=Generic_Lift_C Name=Mover7_Lift
@@ -5699,7 +5699,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_GM_Doors_AccessDoorRight.AssaultShip_GM_Doors_AccessDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorRight.AccessDoorRight'
 		ActorLabel="Mover7"
 	End Actor
 	Begin Actor Class=Note Name=RASCeilingTurret8
@@ -6597,7 +6597,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_GM_Doors_AccessDoorLeft.AssaultShip_GM_Doors_AccessDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorLeft.AccessDoorLeft'
 		ActorLabel="Mover1"
 	End Actor
 	Begin Actor Class=Generic_Lift_C Name=Mover5_Lift
@@ -6618,7 +6618,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_GM_Doors_AccessDoorRight.AssaultShip_GM_Doors_AccessDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorRight.AccessDoorRight'
 		ActorLabel="Mover5"
 	End Actor
 	Begin Actor Class=TriggerVolume Name=Trigger9
@@ -8996,7 +8996,7 @@ Begin Map
 		Wait at top time=100000.0
 		NumKeys=3
 		InitialState=NewEnumerator7
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/VehicleMeshes_Republic_republicassaultship.VehicleMeshes_Republic_republicassaultship'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/republicassaultship.republicassaultship'
 		ActorLabel="Mover3_ArrestorArriving"
 		Tags(0)="ArrestorArriving"
 	End Actor
@@ -23620,7 +23620,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_PR_Turrets_QuadTurboLaser.AssaultShip_PR_Turrets_QuadTurboLaser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Turrets/QuadTurboLaser.QuadTurboLaser'
 		ActorLabel="Mover8_BigTurret"
 		Tags(0)="BigTurret"
 	End Actor
@@ -23645,7 +23645,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_HR_turretRoom_turretPizza.AssaultShip_HR_turretRoom_turretPizza'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/turretRoom/turretPizza.turretPizza'
 		ActorLabel="Mover12_BigRotator"
 		Tags(0)="BigRotator"
 	End Actor
@@ -23669,7 +23669,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_HR_turretRoom_turretPizza.AssaultShip_HR_turretRoom_turretPizza'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/turretRoom/turretPizza.turretPizza'
 		ActorLabel="Mover4_BigRotator"
 		Tags(0)="BigRotator"
 	End Actor
@@ -23691,7 +23691,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_PR_Turrets_QuadTurboLaser.AssaultShip_PR_Turrets_QuadTurboLaser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Turrets/QuadTurboLaser.QuadTurboLaser'
 		AttachTag="BigTurret"
 		ActorLabel="Mover11_Mover"
 		Tags(0)="Mover"
@@ -23714,7 +23714,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04d-UT2004/AssaultShip_PR_Turrets_QuadTurboLaser.AssaultShip_PR_Turrets_QuadTurboLaser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Turrets/QuadTurboLaser.QuadTurboLaser'
 		AttachTag="BigTurret"
 		ActorLabel="Mover2_ZI-Turbolaser"
 		Tags(0)="ZI-Turbolaser"

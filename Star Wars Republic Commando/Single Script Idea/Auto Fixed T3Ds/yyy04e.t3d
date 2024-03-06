@@ -2073,7 +2073,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy04e-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover3_SBDDoor"
 		Tags(0)="SBDDoor"
 	End Actor
@@ -4873,7 +4873,7 @@ Begin Map
 		Wait at top time=10.0
 		NumKeys=2
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy04e-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover0"
 	End Actor
 	Begin Actor Class=StaticMeshActor Name=StaticMeshActor9_StaticMeshActor
@@ -4912,7 +4912,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy04e-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover5_LastFightDoor"
 		Tags(0)="LastFightDoor"
 	End Actor
@@ -9957,7 +9957,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy04e-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover1_EndDoor01"
 		Tags(0)="EndDoor01"
 	End Actor

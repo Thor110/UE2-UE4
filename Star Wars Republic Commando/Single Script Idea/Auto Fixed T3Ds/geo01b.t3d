@@ -1224,7 +1224,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo01b-UT2004/Arena_GM_DecapTunels_TunnelDoor.Arena_GM_DecapTunels_TunnelDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/DecapTunels/TunnelDoor.TunnelDoor'
 		ActorLabel="Mover1_D_Hangar01Exit"
 		Tags(0)="D_Hangar01Exit"
 	End Actor
@@ -1845,7 +1845,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo01b-UT2004/Arena_GM_DecapTunels_TunnelDoor.Arena_GM_DecapTunels_TunnelDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/DecapTunels/TunnelDoor.TunnelDoor'
 		ActorLabel="Mover9_D_Hangar02Exit"
 		Tags(0)="D_Hangar02Exit"
 	End Actor
@@ -3316,7 +3316,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo01b-UT2004/Arena_GM_DecapTunels_TunnelDoor.Arena_GM_DecapTunels_TunnelDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/DecapTunels/TunnelDoor.TunnelDoor'
 		ActorLabel="Mover2_D_Hangar02Entrance"
 		Tags(0)="D_Hangar02Entrance"
 	End Actor
@@ -8240,7 +8240,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo01b-UT2004/Arena_GM_DecapTunels_TunnelDoor.Arena_GM_DecapTunels_TunnelDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/DecapTunels/TunnelDoor.TunnelDoor'
 		ActorLabel="Mover4_D_Hangar01EntranceLower"
 		Tags(0)="D_Hangar01EntranceLower"
 	End Actor
@@ -9408,7 +9408,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo01b-UT2004/Arena_GM_DecapTunels_TunnelDoor.Arena_GM_DecapTunels_TunnelDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/DecapTunels/TunnelDoor.TunnelDoor'
 		ActorLabel="Mover3_D_Entrance"
 		Tags(0)="D_Entrance"
 	End Actor
@@ -17438,7 +17438,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo01b-UT2004/Arena_GM_DecapTunels_TunnelDoor.Arena_GM_DecapTunels_TunnelDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/DecapTunels/TunnelDoor.TunnelDoor'
 		ActorLabel="Mover0_D_LevelExit"
 		Tags(0)="D_LevelExit"
 	End Actor
@@ -18788,7 +18788,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo01b-UT2004/Arena_GM_DecapTunels_TunnelDoor.Arena_GM_DecapTunels_TunnelDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/DecapTunels/TunnelDoor.TunnelDoor'
 		ActorLabel="Mover8_D_HallwayExit"
 		Tags(0)="D_HallwayExit"
 	End Actor

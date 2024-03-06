@@ -3669,7 +3669,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=0.5
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy04a-UT2004/GlobalProps_DefaultProp_DefaultPropA.GlobalProps_DefaultProp_DefaultPropA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/globalprops/DefaultProp/DefaultPropA.DefaultPropA'
 		ActorLabel="Mover2_TracerFireMover3"
 		Tags(0)="TracerFireMover3"
 	End Actor
@@ -4196,7 +4196,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy04a-UT2004/VehicleMeshes_Confederacy_SepShip.VehicleMeshes_Confederacy_SepShip'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/SepShip.SepShip'
 		bTriggerOnceOnly=true
 		ActorLabel="Mover7_StartThePlayer"
 		Tags(0)="StartThePlayer"
@@ -6041,7 +6041,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy04a-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover1_OpenSezMe"
 		Tags(0)="OpenSezMe"
 	End Actor

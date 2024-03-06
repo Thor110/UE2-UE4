@@ -12400,7 +12400,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy35c-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_Crane_Legless.LowerKashyyyk_GM_Trando_Archit_TR_Crane_Legless'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_Crane_Legless.TR_Crane_Legless'
 		ActorLabel="Mover3_SBDCrane"
 		Tags(0)="SBDCrane"
 	End Actor
@@ -12927,7 +12927,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=0
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy35c-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_Crane_Legless.LowerKashyyyk_GM_Trando_Archit_TR_Crane_Legless'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_Crane_Legless.TR_Crane_Legless'
 		ActorLabel="Mover5_SpiderCrane"
 		Tags(0)="SpiderCrane"
 	End Actor

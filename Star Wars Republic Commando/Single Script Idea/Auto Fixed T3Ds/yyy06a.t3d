@@ -10755,7 +10755,7 @@ Begin Map
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy06a-UT2004/VehicleMeshes_Republic_WookieeDropship.VehicleMeshes_Republic_WookieeDropship'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/WookieeDropship.WookieeDropship'
 		bTriggerOnceOnly=true
 		ActorLabel="Mover7_Dropship_Mover"
 		Tags(0)="Dropship_Mover"
@@ -19323,7 +19323,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy06a-UT2004/UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor.UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/KashHalls/YYY_DoubleDoor.YYY_DoubleDoor'
 		ActorLabel="Mover3_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -19347,7 +19347,7 @@ Begin Map
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy06a-UT2004/UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor.UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/KashHalls/YYY_DoubleDoor.YYY_DoubleDoor'
 		ActorLabel="Mover5_MainCorridorDoor"
 		Tags(0)="MainCorridorDoor"
 	End Actor
@@ -20299,7 +20299,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy06a-UT2004/UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor.UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/KashHalls/YYY_DoubleDoor.YYY_DoubleDoor'
 		ActorLabel="Mover10_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -20323,7 +20323,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy06a-UT2004/UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor.UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/KashHalls/YYY_DoubleDoor.YYY_DoubleDoor'
 		ActorLabel="Mover1_MainCorridorDoor"
 		Tags(0)="MainCorridorDoor"
 	End Actor
@@ -20971,7 +20971,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy06a-UT2004/UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor.UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/KashHalls/YYY_DoubleDoor.YYY_DoubleDoor'
 		ActorLabel="Mover2_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -20994,7 +20994,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy06a-UT2004/UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor.UpperKashyyyk_GM_KashHalls_YYY_DoubleDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/KashHalls/YYY_DoubleDoor.YYY_DoubleDoor'
 		ActorLabel="Mover4_MainCorridorDoor"
 		Tags(0)="MainCorridorDoor"
 	End Actor

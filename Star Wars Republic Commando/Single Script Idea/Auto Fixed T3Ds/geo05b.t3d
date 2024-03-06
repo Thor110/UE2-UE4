@@ -8514,7 +8514,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_Platform_P_ElevatorDoor.CoreShip_HR_Platform_P_ElevatorDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/Platform/P_ElevatorDoor.P_ElevatorDoor'
 		ActorLabel="Mover8_SpiderDoor00"
 		Tags(0)="SpiderDoor00"
 	End Actor
@@ -8538,7 +8538,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_Platform_P_ElevatorPlatform.CoreShip_HR_Platform_P_ElevatorPlatform'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/Platform/P_ElevatorPlatform.P_ElevatorPlatform'
 		ActorLabel="Mover7_SpiderLift"
 		Tags(0)="SpiderLift"
 	End Actor
@@ -8562,7 +8562,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_Platform_P_ElevatorDoor.CoreShip_HR_Platform_P_ElevatorDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/Platform/P_ElevatorDoor.P_ElevatorDoor'
 		ActorLabel="Mover10_SpiderMove"
 		Tags(0)="SpiderMove"
 	End Actor
@@ -8586,7 +8586,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_Platform_P_OpeningFloor.CoreShip_HR_Platform_P_OpeningFloor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/Platform/P_OpeningFloor.P_OpeningFloor'
 		ActorLabel="Mover5_SpiderDoor0"
 		Tags(0)="SpiderDoor0"
 	End Actor
@@ -8609,7 +8609,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_Platform_P_OpeningFloor.CoreShip_HR_Platform_P_OpeningFloor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/Platform/P_OpeningFloor.P_OpeningFloor'
 		ActorLabel="Mover11_SpiderDoor0"
 		Tags(0)="SpiderDoor0"
 	End Actor
@@ -8650,7 +8650,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover22_DispenserMover00"
 		Tags(0)="DispenserMover00"
 	End Actor
@@ -8692,7 +8692,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover23_DispenserMover00"
 		Tags(0)="DispenserMover00"
 	End Actor
@@ -8733,7 +8733,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover25_DispenserMover01"
 		Tags(0)="DispenserMover01"
 	End Actor
@@ -8775,7 +8775,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover26_DispenserMover01"
 		Tags(0)="DispenserMover01"
 	End Actor
@@ -8816,7 +8816,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover28_DispenserMover02"
 		Tags(0)="DispenserMover02"
 	End Actor
@@ -8858,7 +8858,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover29_DispenserMover02"
 		Tags(0)="DispenserMover02"
 	End Actor
@@ -8899,7 +8899,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover31_DispenserMover03"
 		Tags(0)="DispenserMover03"
 	End Actor
@@ -8941,7 +8941,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover32_DispenserMover03"
 		Tags(0)="DispenserMover03"
 	End Actor
@@ -8982,7 +8982,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover34_DispenserMover04"
 		Tags(0)="DispenserMover04"
 	End Actor
@@ -9024,7 +9024,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover35_DispenserMover04"
 		Tags(0)="DispenserMover04"
 	End Actor
@@ -9065,7 +9065,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover40_DispenserMover05"
 		Tags(0)="DispenserMover05"
 	End Actor
@@ -9107,7 +9107,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover41_DispenserMover05"
 		Tags(0)="DispenserMover05"
 	End Actor
@@ -9888,7 +9888,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover43_DispenserMover06"
 		Tags(0)="DispenserMover06"
 	End Actor
@@ -9930,7 +9930,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover44_DispenserMover06"
 		Tags(0)="DispenserMover06"
 	End Actor
@@ -9971,7 +9971,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover3_DispenserMover07"
 		Tags(0)="DispenserMover07"
 	End Actor
@@ -10013,7 +10013,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover4_DispenserMover07"
 		Tags(0)="DispenserMover07"
 	End Actor
@@ -31569,7 +31569,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover0_DispenserMover08"
 		Tags(0)="DispenserMover08"
 	End Actor
@@ -31611,7 +31611,7 @@ Begin Map
 		NumKeys=10
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover2_DispenserMover08"
 		Tags(0)="DispenserMover08"
 	End Actor
@@ -31886,7 +31886,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_Platform_P_ElevatorDoor.CoreShip_HR_Platform_P_ElevatorDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/Platform/P_ElevatorDoor.P_ElevatorDoor'
 		ActorLabel="Mover9_SpiderDoor01"
 		Tags(0)="SpiderDoor01"
 	End Actor
@@ -33250,7 +33250,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover14_VistaMover10"
 		Tags(0)="VistaMover10"
 	End Actor
@@ -33283,7 +33283,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover24_VistaMover20"
 		Tags(0)="VistaMover20"
 	End Actor
@@ -33306,7 +33306,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover15_VistaMover11"
 		Tags(0)="VistaMover11"
 	End Actor
@@ -33329,7 +33329,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover16_VistaMover12"
 		Tags(0)="VistaMover12"
 	End Actor
@@ -33384,7 +33384,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover20_VistaMover21"
 		Tags(0)="VistaMover21"
 	End Actor
@@ -33417,7 +33417,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover18_VistaMover22"
 		Tags(0)="VistaMover22"
 	End Actor
@@ -33450,7 +33450,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover27_VistaMover23"
 		Tags(0)="VistaMover23"
 	End Actor
@@ -33559,7 +33559,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover33_VistaMover30"
 		Tags(0)="VistaMover30"
 	End Actor
@@ -33594,7 +33594,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover36_VistaMover31"
 		Tags(0)="VistaMover31"
 	End Actor
@@ -33618,7 +33618,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover37_VistaMover32"
 		Tags(0)="VistaMover32"
 	End Actor
@@ -33642,7 +33642,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover30_VistaMover33"
 		Tags(0)="VistaMover33"
 	End Actor
@@ -33698,7 +33698,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover39_VistaMover00"
 		Tags(0)="VistaMover00"
 	End Actor
@@ -33988,7 +33988,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover42_VistaMover01"
 		Tags(0)="VistaMover01"
 	End Actor
@@ -34011,7 +34011,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover45_VistaMover02"
 		Tags(0)="VistaMover02"
 	End Actor
@@ -34034,7 +34034,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover46_VistaMover03"
 		Tags(0)="VistaMover03"
 	End Actor
@@ -34068,7 +34068,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover47_VistaMover40"
 		Tags(0)="VistaMover40"
 	End Actor
@@ -34091,7 +34091,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover48_VistaMover41"
 		Tags(0)="VistaMover41"
 	End Actor
@@ -34114,7 +34114,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover49_VistaMover42"
 		Tags(0)="VistaMover42"
 	End Actor
@@ -34137,7 +34137,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover50_VistaMover43"
 		Tags(0)="VistaMover43"
 	End Actor
@@ -34203,7 +34203,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover12_VistaMover50"
 		Tags(0)="VistaMover50"
 	End Actor
@@ -34236,7 +34236,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover52_VistaMover51"
 		Tags(0)="VistaMover51"
 	End Actor
@@ -34258,7 +34258,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover38_VistaMover52"
 		Tags(0)="VistaMover52"
 	End Actor
@@ -34624,7 +34624,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover72_DispenserMover10"
 		Tags(0)="DispenserMover10"
 	End Actor
@@ -34669,7 +34669,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover73_DispenserMover10"
 		Tags(0)="DispenserMover10"
 	End Actor
@@ -36215,7 +36215,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_GM_Doors_DH_elevatorDoor.CoreShip_GM_Doors_DH_elevatorDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/Doors/DH_elevatorDoor.DH_elevatorDoor'
 		ActorLabel="Mover19_ElevatorDoor"
 		Tags(0)="ElevatorDoor"
 	End Actor
@@ -36372,7 +36372,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_GM_Doors_DH_elevator.CoreShip_GM_Doors_DH_elevator'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/Doors/DH_elevator.DH_elevator'
 		ActorLabel="Mover13_Elevator"
 		Tags(0)="Elevator"
 	End Actor
@@ -37291,7 +37291,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_GM_Doors_DH_elevatorDoor.CoreShip_GM_Doors_DH_elevatorDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/Doors/DH_elevatorDoor.DH_elevatorDoor'
 		ActorLabel="Mover6_ElevatorShield"
 		Tags(0)="ElevatorShield"
 	End Actor
@@ -39439,7 +39439,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover74_DispenserMover11"
 		Tags(0)="DispenserMover11"
 	End Actor
@@ -39484,7 +39484,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover75_DispenserMover11"
 		Tags(0)="DispenserMover11"
 	End Actor
@@ -39530,7 +39530,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover76_DispenserMover12"
 		Tags(0)="DispenserMover12"
 	End Actor
@@ -39575,7 +39575,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover77_DispenserMover12"
 		Tags(0)="DispenserMover12"
 	End Actor
@@ -39621,7 +39621,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover78_DispenserMover13"
 		Tags(0)="DispenserMover13"
 	End Actor
@@ -39666,7 +39666,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover79_DispenserMover13"
 		Tags(0)="DispenserMover13"
 	End Actor
@@ -39712,7 +39712,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover80_DispenserMover14"
 		Tags(0)="DispenserMover14"
 	End Actor
@@ -39757,7 +39757,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover81_DispenserMover14"
 		Tags(0)="DispenserMover14"
 	End Actor
@@ -39803,7 +39803,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/CoreShip_PR_Props_D_Attachment.CoreShip_PR_Props_D_Attachment'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/D_Attachment.D_Attachment'
 		ActorLabel="Mover70_DispenserMover15"
 		Tags(0)="DispenserMover15"
 	End Actor
@@ -39848,7 +39848,7 @@ Begin Map
 		NumKeys=12
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05b-UT2004/VehicleMeshes_Dispenser_BDDispenser.VehicleMeshes_Dispenser_BDDispenser'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Dispenser/BDDispenser.BDDispenser'
 		ActorLabel="Mover71_DispenserMover15"
 		Tags(0)="DispenserMover15"
 	End Actor

@@ -513,7 +513,7 @@ Begin Map
 		Wait at top time=8.0
 		NumKeys=2
 		InitialState=NewEnumerator6
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_PR_Props_Pod_Lift_New.CoreShip_PR_Props_Pod_Lift_New'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/Pod_Lift_New.Pod_Lift_New'
 		ActorLabel="Mover37_Lift01"
 		Tags(0)="Lift01"
 	End Actor
@@ -659,7 +659,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_PR_Props_Pod_Lift_New.CoreShip_PR_Props_Pod_Lift_New'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/Pod_Lift_New.Pod_Lift_New'
 		ActorLabel="Mover3_Lift03"
 		Tags(0)="Lift03"
 	End Actor
@@ -2649,7 +2649,7 @@ Begin Map
 		Wait at top time=8.0
 		NumKeys=2
 		InitialState=NewEnumerator6
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_PR_Props_Pod_Lift_New.CoreShip_PR_Props_Pod_Lift_New'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/Pod_Lift_New.Pod_Lift_New'
 		ActorLabel="Mover7_Lift00"
 		Tags(0)="Lift00"
 	End Actor
@@ -3558,7 +3558,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover17_SBDLoaderOne"
 		Tags(0)="SBDLoaderOne"
 	End Actor
@@ -3582,7 +3582,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover18_SBDLoaderOne"
 		Tags(0)="SBDLoaderOne"
 	End Actor
@@ -3606,7 +3606,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover19_SBDLoaderOne"
 		Tags(0)="SBDLoaderOne"
 	End Actor
@@ -3630,7 +3630,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover20_SBDLoaderOne"
 		Tags(0)="SBDLoaderOne"
 	End Actor
@@ -4564,7 +4564,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover2_SBDLoaderTwo"
 		Tags(0)="SBDLoaderTwo"
 	End Actor
@@ -4588,7 +4588,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover15_SBDLoaderTwo"
 		Tags(0)="SBDLoaderTwo"
 	End Actor
@@ -4612,7 +4612,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover16_SBDLoaderTwo"
 		Tags(0)="SBDLoaderTwo"
 	End Actor
@@ -4636,7 +4636,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover9_SBDLoaderTwo"
 		Tags(0)="SBDLoaderTwo"
 	End Actor
@@ -4783,7 +4783,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover29_SBDdoorTwoOpen"
 		Tags(0)="SBDdoorTwoOpen"
 	End Actor
@@ -4929,7 +4929,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover22_SBDdoorZeroOpen"
 		Tags(0)="SBDdoorZeroOpen"
 	End Actor
@@ -5077,7 +5077,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover36_SBDLoader01"
 		Tags(0)="SBDLoader01"
 	End Actor
@@ -5102,7 +5102,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover6_SBDLoader01"
 		Tags(0)="SBDLoader01"
 	End Actor
@@ -5127,7 +5127,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover12_SBDLoader01"
 		Tags(0)="SBDLoader01"
 	End Actor
@@ -6096,7 +6096,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover24_SBDdoor00"
 		Tags(0)="SBDdoor00"
 	End Actor
@@ -6782,7 +6782,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover48_SBDLoader10"
 		Tags(0)="SBDLoader10"
 	End Actor
@@ -6806,7 +6806,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover51_SBDLoader10"
 		Tags(0)="SBDLoader10"
 	End Actor
@@ -6830,7 +6830,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover77_SBDLoader10"
 		Tags(0)="SBDLoader10"
 	End Actor
@@ -6854,7 +6854,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover78_SBDLoader10"
 		Tags(0)="SBDLoader10"
 	End Actor
@@ -7797,7 +7797,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover21_SBDdoor11"
 		Tags(0)="SBDdoor11"
 	End Actor
@@ -7894,7 +7894,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover28_SBDdoor02"
 		Tags(0)="SBDdoor02"
 	End Actor
@@ -7917,7 +7917,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover23_SBDdoor03"
 		Tags(0)="SBDdoor03"
 	End Actor
@@ -7940,7 +7940,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover27_SBDdoor10"
 		Tags(0)="SBDdoor10"
 	End Actor
@@ -8112,7 +8112,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover112_SBDLoader11"
 		Tags(0)="SBDLoader11"
 	End Actor
@@ -8136,7 +8136,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover113_SBDLoader11"
 		Tags(0)="SBDLoader11"
 	End Actor
@@ -8160,7 +8160,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover114_SBDLoader11"
 		Tags(0)="SBDLoader11"
 	End Actor
@@ -8184,7 +8184,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover115_SBDLoader11"
 		Tags(0)="SBDLoader11"
 	End Actor
@@ -11175,7 +11175,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover40_SBDLift00"
 		Tags(0)="SBDLift00"
 	End Actor
@@ -11198,7 +11198,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover41_SBDLift00"
 		Tags(0)="SBDLift00"
 	End Actor
@@ -11221,7 +11221,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover42_SBDLift00"
 		Tags(0)="SBDLift00"
 	End Actor
@@ -11244,7 +11244,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover43_SBDLift00"
 		Tags(0)="SBDLift00"
 	End Actor
@@ -11279,7 +11279,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover44_SBDLift01"
 		Tags(0)="SBDLift01"
 	End Actor
@@ -11302,7 +11302,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover45_SBDLift01"
 		Tags(0)="SBDLift01"
 	End Actor
@@ -11325,7 +11325,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover49_SBDLift01"
 		Tags(0)="SBDLift01"
 	End Actor
@@ -11348,7 +11348,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover50_SBDLift01"
 		Tags(0)="SBDLift01"
 	End Actor
@@ -11549,7 +11549,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover30_SBDLift03"
 		Tags(0)="SBDLift03"
 	End Actor
@@ -11572,7 +11572,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover31_SBDLift03"
 		Tags(0)="SBDLift03"
 	End Actor
@@ -11595,7 +11595,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover32_SBDLift03"
 		Tags(0)="SBDLift03"
 	End Actor
@@ -11618,7 +11618,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover33_SBDLift03"
 		Tags(0)="SBDLift03"
 	End Actor
@@ -11726,7 +11726,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover57_SBDLift04"
 		Tags(0)="SBDLift04"
 	End Actor
@@ -11749,7 +11749,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover58_SBDLift04"
 		Tags(0)="SBDLift04"
 	End Actor
@@ -11772,7 +11772,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover59_SBDLift04"
 		Tags(0)="SBDLift04"
 	End Actor
@@ -11795,7 +11795,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover60_SBDLift04"
 		Tags(0)="SBDLift04"
 	End Actor
@@ -11916,7 +11916,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover111_SecurityHacked"
 		Tags(0)="SecurityHacked"
 	End Actor
@@ -11939,7 +11939,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover53_SecurityHacked"
 		Tags(0)="SecurityHacked"
 	End Actor
@@ -13814,7 +13814,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover61_SBDLift05"
 		Tags(0)="SBDLift05"
 	End Actor
@@ -13837,7 +13837,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover26_SBDLift05"
 		Tags(0)="SBDLift05"
 	End Actor
@@ -13860,7 +13860,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover34_SBDLift05"
 		Tags(0)="SBDLift05"
 	End Actor
@@ -13883,7 +13883,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover35_SBDLift05"
 		Tags(0)="SBDLift05"
 	End Actor
@@ -14203,7 +14203,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover13_SBDLoader01"
 		Tags(0)="SBDLoader01"
 	End Actor
@@ -16102,7 +16102,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover8_SBDLoader02"
 		Tags(0)="SBDLoader02"
 	End Actor
@@ -16127,7 +16127,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover10_SBDLoader02"
 		Tags(0)="SBDLoader02"
 	End Actor
@@ -16152,7 +16152,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallRackWalkinto.CoreShip_HR_DroidHall_DroidHallRackWalkinto'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallRackWalkinto.DroidHallRackWalkinto'
 		ActorLabel="Mover11_SBDLoader02"
 		Tags(0)="SBDLoader02"
 	End Actor
@@ -16177,7 +16177,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover65_SBDLoader02"
 		Tags(0)="SBDLoader02"
 	End Actor
@@ -21788,7 +21788,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover1_SBDLift06"
 		Tags(0)="SBDLift06"
 	End Actor
@@ -21813,7 +21813,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover62_SBDLift06"
 		Tags(0)="SBDLift06"
 	End Actor
@@ -21838,7 +21838,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover63_SBDLift06"
 		Tags(0)="SBDLift06"
 	End Actor
@@ -25213,7 +25213,7 @@ Begin Map
 		Wait at top time=8.0
 		NumKeys=2
 		InitialState=NewEnumerator6
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_PR_Props_Pod_Lift_New.CoreShip_PR_Props_Pod_Lift_New'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/Pod_Lift_New.Pod_Lift_New'
 		ActorLabel="Mover4_Lift04"
 		Tags(0)="Lift04"
 	End Actor
@@ -25915,7 +25915,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover38_SBDdoorM03"
 		Tags(0)="SBDdoorM03"
 	End Actor
@@ -26416,7 +26416,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover5_SBDdoorM00"
 		Tags(0)="SBDdoorM00"
 	End Actor
@@ -26662,7 +26662,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover75_SBDdoorM01"
 		Tags(0)="SBDdoorM01"
 	End Actor
@@ -27681,7 +27681,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover74_SBDdoorM02"
 		Tags(0)="SBDdoorM02"
 	End Actor
@@ -27705,7 +27705,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover46_SBDdoorL04"
 		Tags(0)="SBDdoorL04"
 	End Actor
@@ -27729,7 +27729,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover47_SBDdoorL03"
 		Tags(0)="SBDdoorL03"
 	End Actor
@@ -27753,7 +27753,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover76_SBDdoorL01"
 		Tags(0)="SBDdoorL01"
 	End Actor
@@ -28581,7 +28581,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover39_SBDdoorR01"
 		Tags(0)="SBDdoorR01"
 	End Actor
@@ -28605,7 +28605,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover130_SBDdoorR00"
 		Tags(0)="SBDdoorR00"
 	End Actor
@@ -40668,7 +40668,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit1.CoreShip_HR_DroidHall_DroidHallArmBit1'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit1.DroidHallArmBit1'
 		ActorLabel="Mover0_SBDLift07"
 		Tags(0)="SBDLift07"
 	End Actor
@@ -40693,7 +40693,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit2.CoreShip_HR_DroidHall_DroidHallArmBit2'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit2.DroidHallArmBit2'
 		ActorLabel="Mover14_SBDLift07"
 		Tags(0)="SBDLift07"
 	End Actor
@@ -40718,7 +40718,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallArmBit3.CoreShip_HR_DroidHall_DroidHallArmBit3'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallArmBit3.DroidHallArmBit3'
 		ActorLabel="Mover25_SBDLift07"
 		Tags(0)="SBDLift07"
 	End Actor
@@ -42106,7 +42106,7 @@ Begin Map
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover55_VistaMover00"
 		Tags(0)="VistaMover00"
 	End Actor
@@ -42190,7 +42190,7 @@ Begin Map
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover56_VistaMover01"
 		Tags(0)="VistaMover01"
 	End Actor
@@ -42215,7 +42215,7 @@ Begin Map
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover64_VistaMover02"
 		Tags(0)="VistaMover02"
 	End Actor
@@ -42240,7 +42240,7 @@ Begin Map
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover66_VistaMover03"
 		Tags(0)="VistaMover03"
 	End Actor
@@ -42274,7 +42274,7 @@ Begin Map
 		NumKeys=6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover68_VistaMover10"
 		Tags(0)="VistaMover10"
 	End Actor
@@ -42297,7 +42297,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover72_VistaMover20"
 		Tags(0)="VistaMover20"
 	End Actor
@@ -42331,7 +42331,7 @@ Begin Map
 		NumKeys=6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover69_VistaMover11"
 		Tags(0)="VistaMover11"
 	End Actor
@@ -42365,7 +42365,7 @@ Begin Map
 		NumKeys=6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover70_VistaMover12"
 		Tags(0)="VistaMover12"
 	End Actor
@@ -42399,7 +42399,7 @@ Begin Map
 		NumKeys=6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover71_VistaMover13"
 		Tags(0)="VistaMover13"
 	End Actor
@@ -42433,7 +42433,7 @@ Begin Map
 		NumKeys=6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover54_VistaMover14"
 		Tags(0)="VistaMover14"
 	End Actor
@@ -42478,7 +42478,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover73_VistaMover21"
 		Tags(0)="VistaMover21"
 	End Actor
@@ -42501,7 +42501,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover67_VistaMover22"
 		Tags(0)="VistaMover22"
 	End Actor
@@ -42648,7 +42648,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover84_VistaMover30"
 		Tags(0)="VistaMover30"
 	End Actor
@@ -42792,7 +42792,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover85_VistaMover31"
 		Tags(0)="VistaMover31"
 	End Actor
@@ -42816,7 +42816,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover86_VistaMover32"
 		Tags(0)="VistaMover32"
 	End Actor
@@ -42840,7 +42840,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover87_VistaMover33"
 		Tags(0)="VistaMover33"
 	End Actor
@@ -42875,7 +42875,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover88_VistaMover40"
 		Tags(0)="VistaMover40"
 	End Actor
@@ -42910,7 +42910,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover89_VistaMover41"
 		Tags(0)="VistaMover41"
 	End Actor
@@ -42934,7 +42934,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover90_VistaMover42"
 		Tags(0)="VistaMover42"
 	End Actor
@@ -42958,7 +42958,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover92_VistaMover43"
 		Tags(0)="VistaMover43"
 	End Actor
@@ -43029,7 +43029,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover93_VistaMover50"
 		Tags(0)="VistaMover50"
 	End Actor
@@ -43063,7 +43063,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover94_VistaMover51"
 		Tags(0)="VistaMover51"
 	End Actor
@@ -43086,7 +43086,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover96_VistaMover52"
 		Tags(0)="VistaMover52"
 	End Actor
@@ -43109,7 +43109,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover97_VistaMover60"
 		Tags(0)="VistaMover60"
 	End Actor
@@ -43228,7 +43228,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover98_VistaMover61"
 		Tags(0)="VistaMover61"
 	End Actor
@@ -43251,7 +43251,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_VistaTop_CS_Cargo_One.CoreShip_HR_VistaTop_CS_Cargo_One'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/VistaTop/CS_Cargo_One.CS_Cargo_One'
 		ActorLabel="Mover95_VistaMover62"
 		Tags(0)="VistaMover62"
 	End Actor
@@ -55829,7 +55829,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover81_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -55849,7 +55849,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover82_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -55869,7 +55869,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover99_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -55889,7 +55889,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover100_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -55909,7 +55909,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover101_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -55929,7 +55929,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover102_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -55949,7 +55949,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover103_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -55969,7 +55969,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover104_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -55989,7 +55989,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover105_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -56009,7 +56009,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover106_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -56029,7 +56029,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover79_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -56049,7 +56049,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover80_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -56069,7 +56069,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover83_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -56089,7 +56089,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover91_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -56840,7 +56840,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover109_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -56860,7 +56860,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover110_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -56997,7 +56997,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover107_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -57017,7 +57017,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHallWay_fan90.CoreShip_HR_DroidHallWay_fan90'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHallWay/fan90.fan90'
 		ActorLabel="Mover108_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -57452,7 +57452,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_HR_DroidHall_DroidHallDoor.CoreShip_HR_DroidHall_DroidHallDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_hr/DroidHall/DroidHallDoor.DroidHallDoor'
 		ActorLabel="Mover52"
 	End Actor
 	Begin Actor Class=Note Name=FXFactory10_GrateFX
@@ -57487,7 +57487,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/CoreShip_PR_Props_cs_grate01.CoreShip_PR_Props_cs_grate01'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/cs_grate01.cs_grate01'
 		ActorLabel="Mover116_CloseGrate"
 		Tags(0)="CloseGrate"
 	End Actor

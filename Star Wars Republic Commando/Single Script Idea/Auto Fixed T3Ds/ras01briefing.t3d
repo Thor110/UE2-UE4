@@ -513,7 +513,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01briefing-UT2004/JW-AssaultShipStaticMeshes_Mover_AttachMover.JW-AssaultShipStaticMeshes_Mover_AttachMover'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/jw-assaultshipstaticmeshes/Mover/AttachMover.AttachMover'
 		ActorLabel="Mover0_SkyBoxAttachMover"
 		Tags(0)="SkyBoxAttachMover"
 	End Actor
@@ -1649,7 +1649,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=1
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01briefing-UT2004/Briefings_Dropship_Dropship_LowerDoor.Briefings_Dropship_Dropship_LowerDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/briefings/Dropship/Dropship_LowerDoor.Dropship_LowerDoor'
 		ActorLabel="Mover2_DoorMover"
 		Tags(0)="DoorMover"
 	End Actor
@@ -9843,7 +9843,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=1
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01briefing-UT2004/Briefings_Dropship_Dropship_UpperDoor.Briefings_Dropship_Dropship_UpperDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/briefings/Dropship/Dropship_UpperDoor.Dropship_UpperDoor'
 		ActorLabel="Mover3_DoorMover"
 		Tags(0)="DoorMover"
 	End Actor

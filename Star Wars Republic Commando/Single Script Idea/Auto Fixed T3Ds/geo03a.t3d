@@ -1564,7 +1564,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03a-UT2004/Arena_GM_NewDecap_Elevator.Arena_GM_NewDecap_Elevator'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/NewDecap/Elevator.Elevator'
 		ActorLabel="Mover0_Elevator"
 		Tags(0)="Elevator"
 	End Actor
@@ -15429,7 +15429,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03a-UT2004/Arena_GM_NewDecap_MoverGEOA.Arena_GM_NewDecap_MoverGEOA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/NewDecap/MoverGEOA.MoverGEOA'
 		ActorLabel="Mover2_HangarDynamic"
 		Tags(0)="HangarDynamic"
 	End Actor
@@ -15808,7 +15808,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03a-UT2004/Arena_GM_NewDecap_JammingDeviceBase.Arena_GM_NewDecap_JammingDeviceBase'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/NewDecap/JammingDeviceBase.JammingDeviceBase'
 		ActorLabel="Mover5_SmallFan01"
 		Tags(0)="SmallFan01"
 	End Actor
@@ -23827,7 +23827,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03a-UT2004/GlobalProps_DefaultProp_DefaultPropA.GlobalProps_DefaultProp_DefaultPropA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/globalprops/DefaultProp/DefaultPropA.DefaultPropA'
 		ActorLabel="Mover1_ElevatorLightMover"
 		Tags(0)="ElevatorLightMover"
 	End Actor
@@ -24743,7 +24743,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03a-UT2004/Arena_GM_NewDecap_JammingDeviceCore.Arena_GM_NewDecap_JammingDeviceCore'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/NewDecap/JammingDeviceCore.JammingDeviceCore'
 		ActorLabel="Mover6_SmallFan01"
 		Tags(0)="SmallFan01"
 	End Actor
@@ -27359,7 +27359,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03a-UT2004/Arena_GM_NewDecap_JammingDeviceBase.Arena_GM_NewDecap_JammingDeviceBase'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/NewDecap/JammingDeviceBase.JammingDeviceBase'
 		ActorLabel="Mover3_JammingDevice"
 		Tags(0)="JammingDevice"
 	End Actor
@@ -27392,7 +27392,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03a-UT2004/Arena_GM_NewDecap_JammingDeviceCore.Arena_GM_NewDecap_JammingDeviceCore'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/NewDecap/JammingDeviceCore.JammingDeviceCore'
 		ActorLabel="Mover4_JammingDevice"
 		Tags(0)="JammingDevice"
 	End Actor

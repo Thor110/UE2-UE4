@@ -3915,7 +3915,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03b-UT2004/JW-AssaultShipStaticMeshes_Mover_AttachMover.JW-AssaultShipStaticMeshes_Mover_AttachMover'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/jw-assaultshipstaticmeshes/Mover/AttachMover.AttachMover'
 		ActorLabel="Mover0_SkyBoxAttachMover"
 		Tags(0)="SkyBoxAttachMover"
 	End Actor
@@ -21447,8 +21447,8 @@ Begin Map
 		NumKeys=3
 		InitialState=NewEnumerator5
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03b-UT2004/ras_03b_MyMeshes_Elevator.ras_03b_MyMeshes_Elevator'
 		ActorLabel="Mover5_Elevator"
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/ras_03b_MyMeshes_Elevator.ras_03b_MyMeshes_Elevator'
 		Tags(0)="Elevator"
 	End Actor
 	Begin Actor Class=Brush Name=Brush93_Brush

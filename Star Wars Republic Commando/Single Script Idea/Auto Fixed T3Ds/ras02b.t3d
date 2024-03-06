@@ -8045,7 +8045,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover0_SkyBoxAttachMover"
 		Tags(0)="SkyBoxAttachMover"
 	End Actor
@@ -16213,7 +16213,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover5_FirstDoor"
 		Tags(0)="FirstDoor"
 	End Actor
@@ -16697,7 +16697,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover1_LowerDoor"
 		Tags(0)="LowerDoor"
 	End Actor
@@ -16964,7 +16964,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover15_AmbushDoor"
 		Tags(0)="AmbushDoor"
 	End Actor
@@ -17058,7 +17058,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover8_TrapDoor"
 		Tags(0)="TrapDoor"
 	End Actor
@@ -17081,7 +17081,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover20_AnotherTrapDoor"
 		Tags(0)="AnotherTrapDoor"
 	End Actor
@@ -17104,7 +17104,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover6_HAMDoor"
 		Tags(0)="HAMDoor"
 	End Actor
@@ -29219,7 +29219,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover4_HAMDoor"
 		Tags(0)="HAMDoor"
 	End Actor
@@ -30393,7 +30393,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover2_HAMDoor"
 		Tags(0)="HAMDoor"
 	End Actor
@@ -31839,7 +31839,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_GM_Doors_AirlockDoorLeft.AssaultShip_GM_Doors_AirlockDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AirlockDoorLeft.AirlockDoorLeft'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover9_FinalDoor"
 		Tags(0)="FinalDoor"
@@ -31864,7 +31864,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_GM_Doors_AirlockDoorRight.AssaultShip_GM_Doors_AirlockDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AirlockDoorRight.AirlockDoorRight'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover10_FinalDoor"
 		Tags(0)="FinalDoor"
@@ -31889,7 +31889,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_GM_Doors_AirlockDoorTop.AssaultShip_GM_Doors_AirlockDoorTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AirlockDoorTop.AirlockDoorTop'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover11_FinalDoor"
 		Tags(0)="FinalDoor"
@@ -31913,7 +31913,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator7
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_GM_Doors_AirlockDoorLeft.AssaultShip_GM_Doors_AirlockDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AirlockDoorLeft.AirlockDoorLeft'
 		ActorLabel="Mover12_AirlockDoor"
 		Tags(0)="AirlockDoor"
 	End Actor
@@ -31936,7 +31936,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator7
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_GM_Doors_AirlockDoorRight.AssaultShip_GM_Doors_AirlockDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AirlockDoorRight.AirlockDoorRight'
 		ActorLabel="Mover13_AirlockDoor"
 		Tags(0)="AirlockDoor"
 	End Actor
@@ -31959,7 +31959,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator7
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02b-UT2004/AssaultShip_GM_Doors_AirlockDoorTop.AssaultShip_GM_Doors_AirlockDoorTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AirlockDoorTop.AirlockDoorTop'
 		ActorLabel="Mover14_AirlockDoor"
 		Tags(0)="AirlockDoor"
 	End Actor

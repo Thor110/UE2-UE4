@@ -3623,7 +3623,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/VehicleMeshes_Confederacy_GeoFighter_Low.VehicleMeshes_Confederacy_GeoFighter_Low'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter_Low.GeoFighter_Low'
 		ActorLabel="Mover2_flyby00"
 		Tags(0)="flyby00"
 	End Actor
@@ -3654,7 +3654,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/VehicleMeshes_Confederacy_GeoFighter_Low.VehicleMeshes_Confederacy_GeoFighter_Low'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter_Low.GeoFighter_Low'
 		ActorLabel="Mover1_flyby00"
 		Tags(0)="flyby00"
 	End Actor
@@ -5017,7 +5017,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/VehicleMeshes_Confederacy_GeoFighter_Low.VehicleMeshes_Confederacy_GeoFighter_Low'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter_Low.GeoFighter_Low'
 		ActorLabel="Mover9_flyby01"
 		Tags(0)="flyby01"
 	End Actor
@@ -8848,7 +8848,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover3_Gunship00"
 		Tags(0)="Gunship00"
 	End Actor
@@ -9692,7 +9692,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/Exteriors_GM_Interiors_Geo4c_MainDoor.Exteriors_GM_Interiors_Geo4c_MainDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_gm/Interiors/Geo4c_MainDoor.Geo4c_MainDoor'
 		ActorLabel="Mover11_Door00"
 		Tags(0)="Door00"
 	End Actor
@@ -9730,7 +9730,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/Exteriors_GM_Interiors_geo4c_Door_GM.Exteriors_GM_Interiors_geo4c_Door_GM'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_gm/Interiors/geo4c_Door_GM.geo4c_Door_GM'
 		ActorLabel="Mover0_Door01"
 		Tags(0)="Door01"
 	End Actor
@@ -14670,7 +14670,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover5_GunshipFlyby00"
 		Tags(0)="GunshipFlyby00"
 	End Actor
@@ -14695,7 +14695,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover10_GunshipFlyby03"
 		Tags(0)="GunshipFlyby03"
 	End Actor
@@ -14720,7 +14720,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover8_GunshipFlyby01"
 		Tags(0)="GunshipFlyby01"
 	End Actor
@@ -14745,7 +14745,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04b-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover7_GunshipFlyby02"
 		Tags(0)="GunshipFlyby02"
 	End Actor

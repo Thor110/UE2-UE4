@@ -18934,7 +18934,7 @@ Begin Map
 		NumKeys=3
 		InitialState=NewEnumerator5
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/AssaultShip_HR_Bridge_Elevator.AssaultShip_HR_Bridge_Elevator'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Bridge/Elevator.Elevator'
 		ActorLabel="Mover0_Elevator"
 		Tags(0)="Elevator"
 	End Actor
@@ -23376,7 +23376,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/AssaultShip_Carl_DroidHall_ras_droidhallentrdoor.AssaultShip_Carl_DroidHall_ras_droidhallentrdoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_carl/DroidHall/ras_droidhallentrdoor.ras_droidhallentrdoor'
 		ActorLabel="Mover9_OpenSezMe2"
 		Tags(0)="OpenSezMe2"
 	End Actor
@@ -26078,7 +26078,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/AssaultShip_GM_detentionArea_detHallsDoor.AssaultShip_GM_detentionArea_detHallsDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/detentionArea/detHallsDoor.detHallsDoor'
 		ActorLabel="Mover7_Found62"
 		Tags(0)="Found62"
 	End Actor
@@ -28593,7 +28593,7 @@ Begin Map
 		NumKeys=3
 		InitialState=NewEnumerator5
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/AssaultShip_HR_Bridge_Elevator.AssaultShip_HR_Bridge_Elevator'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Bridge/Elevator.Elevator'
 		ActorLabel="Mover3_Elevator"
 		Tags(0)="Elevator"
 	End Actor

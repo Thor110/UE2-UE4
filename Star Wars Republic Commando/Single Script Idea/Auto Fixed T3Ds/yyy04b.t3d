@@ -1740,7 +1740,7 @@ Begin Map
 		Wait at top time=7.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy04b-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover7_ExitDoor"
 		Tags(0)="ExitDoor"
 	End Actor
@@ -5699,7 +5699,7 @@ Begin Map
 		Wait at top time=7.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy04b-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover1_ExitDoor"
 		Tags(0)="ExitDoor"
 	End Actor

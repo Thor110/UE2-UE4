@@ -4723,7 +4723,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerLeft.AssaultShip_GM_Doors_BulkheadDoorInnerLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerLeft.BulkheadDoorInnerLeft'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover28_Mover"
 		Tags(0)="Mover"
@@ -4748,7 +4748,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerRight.AssaultShip_GM_Doors_BulkheadDoorInnerRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerRight.BulkheadDoorInnerRight'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover1_Mover"
 		Tags(0)="Mover"
@@ -4773,7 +4773,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterBottom.AssaultShip_GM_Doors_BulkheadDoorOuterBottom'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterBottom.BulkheadDoorOuterBottom'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover2_Mover"
 		Tags(0)="Mover"
@@ -4798,7 +4798,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterTop.AssaultShip_GM_Doors_BulkheadDoorOuterTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterTop.BulkheadDoorOuterTop'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover3_Mover"
 		Tags(0)="Mover"
@@ -5971,7 +5971,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerLeft.AssaultShip_GM_Doors_BulkheadDoorInnerLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerLeft.BulkheadDoorInnerLeft'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover4_Mover"
 		Tags(0)="Mover"
@@ -5996,7 +5996,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerRight.AssaultShip_GM_Doors_BulkheadDoorInnerRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerRight.BulkheadDoorInnerRight'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover5_Mover"
 		Tags(0)="Mover"
@@ -6021,7 +6021,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterBottom.AssaultShip_GM_Doors_BulkheadDoorOuterBottom'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterBottom.BulkheadDoorOuterBottom'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover6_Mover"
 		Tags(0)="Mover"
@@ -6046,7 +6046,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterTop.AssaultShip_GM_Doors_BulkheadDoorOuterTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterTop.BulkheadDoorOuterTop'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover7_Mover"
 		Tags(0)="Mover"
@@ -6193,7 +6193,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerLeft.AssaultShip_GM_Doors_BulkheadDoorInnerLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerLeft.BulkheadDoorInnerLeft'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover8_Mover"
 		Tags(0)="Mover"
@@ -6218,7 +6218,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerRight.AssaultShip_GM_Doors_BulkheadDoorInnerRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerRight.BulkheadDoorInnerRight'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover9_Mover"
 		Tags(0)="Mover"
@@ -6243,7 +6243,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterBottom.AssaultShip_GM_Doors_BulkheadDoorOuterBottom'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterBottom.BulkheadDoorOuterBottom'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover14_Mover"
 		Tags(0)="Mover"
@@ -6268,7 +6268,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterTop.AssaultShip_GM_Doors_BulkheadDoorOuterTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterTop.BulkheadDoorOuterTop'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover15_Mover"
 		Tags(0)="Mover"
@@ -6415,7 +6415,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerLeft.AssaultShip_GM_Doors_BulkheadDoorInnerLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerLeft.BulkheadDoorInnerLeft'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover16_Mover"
 		Tags(0)="Mover"
@@ -6440,7 +6440,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerRight.AssaultShip_GM_Doors_BulkheadDoorInnerRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerRight.BulkheadDoorInnerRight'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover17_Mover"
 		Tags(0)="Mover"
@@ -6465,7 +6465,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterBottom.AssaultShip_GM_Doors_BulkheadDoorOuterBottom'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterBottom.BulkheadDoorOuterBottom'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover18_Mover"
 		Tags(0)="Mover"
@@ -6490,7 +6490,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterTop.AssaultShip_GM_Doors_BulkheadDoorOuterTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterTop.BulkheadDoorOuterTop'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover19_Mover"
 		Tags(0)="Mover"
@@ -6637,7 +6637,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerLeft.AssaultShip_GM_Doors_BulkheadDoorInnerLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerLeft.BulkheadDoorInnerLeft'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover20_Mover"
 		Tags(0)="Mover"
@@ -6662,7 +6662,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerRight.AssaultShip_GM_Doors_BulkheadDoorInnerRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerRight.BulkheadDoorInnerRight'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover21_Mover"
 		Tags(0)="Mover"
@@ -6687,7 +6687,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterBottom.AssaultShip_GM_Doors_BulkheadDoorOuterBottom'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterBottom.BulkheadDoorOuterBottom'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover22_Mover"
 		Tags(0)="Mover"
@@ -6712,7 +6712,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterTop.AssaultShip_GM_Doors_BulkheadDoorOuterTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterTop.BulkheadDoorOuterTop'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover23_Mover"
 		Tags(0)="Mover"
@@ -6859,7 +6859,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerLeft.AssaultShip_GM_Doors_BulkheadDoorInnerLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerLeft.BulkheadDoorInnerLeft'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover24_Mover"
 		Tags(0)="Mover"
@@ -6884,7 +6884,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerRight.AssaultShip_GM_Doors_BulkheadDoorInnerRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerRight.BulkheadDoorInnerRight'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover29_Mover"
 		Tags(0)="Mover"
@@ -6909,7 +6909,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterBottom.AssaultShip_GM_Doors_BulkheadDoorOuterBottom'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterBottom.BulkheadDoorOuterBottom'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover26_Mover"
 		Tags(0)="Mover"
@@ -6934,7 +6934,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterTop.AssaultShip_GM_Doors_BulkheadDoorOuterTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterTop.BulkheadDoorOuterTop'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover27_Mover"
 		Tags(0)="Mover"
@@ -7081,7 +7081,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerLeft.AssaultShip_GM_Doors_BulkheadDoorInnerLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerLeft.BulkheadDoorInnerLeft'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover10_Mover"
 		Tags(0)="Mover"
@@ -7106,7 +7106,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerRight.AssaultShip_GM_Doors_BulkheadDoorInnerRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerRight.BulkheadDoorInnerRight'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover11_Mover"
 		Tags(0)="Mover"
@@ -7131,7 +7131,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterBottom.AssaultShip_GM_Doors_BulkheadDoorOuterBottom'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterBottom.BulkheadDoorOuterBottom'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover12_Mover"
 		Tags(0)="Mover"
@@ -7156,7 +7156,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterTop.AssaultShip_GM_Doors_BulkheadDoorOuterTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterTop.BulkheadDoorOuterTop'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover13_Mover"
 		Tags(0)="Mover"
@@ -17117,7 +17117,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/dmhangar-UT2004/AssaultShip_Carl_hall_system_Ras_hallwallCCC.AssaultShip_Carl_hall_system_Ras_hallwallCCC'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_carl/hall_system/Ras_hallwallCCC.Ras_hallwallCCC'
 		ActorLabel="Mover0_SkyBoxAttachMover"
 		Tags(0)="SkyBoxAttachMover"
 	End Actor

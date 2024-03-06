@@ -1020,7 +1020,7 @@ Begin Map
 		Wait at top time=10.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03d-UT2004/Arena_PR_Doors_FdyDoorA.Arena_PR_Doors_FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_pr/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover0_D_CatwalkExit"
 		Tags(0)="D_CatwalkExit"
 	End Actor
@@ -1043,7 +1043,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03d-UT2004/Arena_PR_Doors_FdyDoorA.Arena_PR_Doors_FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_pr/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover9_D_Conveyor03"
 		Tags(0)="D_Conveyor03"
 	End Actor
@@ -2094,7 +2094,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03d-UT2004/Arena_PR_Doors_FdyDoorA.Arena_PR_Doors_FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_pr/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover1_D_Conveyor01"
 		Tags(0)="D_Conveyor01"
 	End Actor
@@ -2626,7 +2626,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03d-UT2004/Arena_GM_NewDecap_Pile_Shield_Jam_door.Arena_GM_NewDecap_Pile_Shield_Jam_door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/NewDecap/Pile_Shield_Jam_door.Pile_Shield_Jam_door'
 		ActorLabel="Mover16_D_ControlWindow"
 		Tags(0)="D_ControlWindow"
 	End Actor
@@ -6492,7 +6492,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03d-UT2004/Arena_GM_NewDecap_MainTargetA.Arena_GM_NewDecap_MainTargetA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/NewDecap/MainTargetA.MainTargetA'
 		ActorLabel="Mover30_SmallFan02"
 		Tags(0)="SmallFan02"
 	End Actor
@@ -6512,7 +6512,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03d-UT2004/Arena_GM_NewDecap_MainTargetA.Arena_GM_NewDecap_MainTargetA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_gm/NewDecap/MainTargetA.MainTargetA'
 		ActorLabel="Mover19_SmallFan01"
 		Tags(0)="SmallFan01"
 	End Actor
@@ -11429,7 +11429,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03d-UT2004/Arena_PR_Doors_FdyDoorA.Arena_PR_Doors_FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_pr/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover4_D_BridgeExit"
 		Tags(0)="D_BridgeExit"
 	End Actor
@@ -11649,7 +11649,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo03d-UT2004/Arena_PR_Doors_FdyDoorA.Arena_PR_Doors_FdyDoorA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/arena_pr/Doors/FdyDoorA.FdyDoorA'
 		ActorLabel="Mover68_D_BridgeEntrance"
 		Tags(0)="D_BridgeEntrance"
 	End Actor

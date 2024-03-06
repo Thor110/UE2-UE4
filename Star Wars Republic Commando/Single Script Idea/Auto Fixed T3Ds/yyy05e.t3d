@@ -4591,7 +4591,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy05e-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover0_ExitDoor"
 		Tags(0)="ExitDoor"
 	End Actor
@@ -4773,7 +4773,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy05e-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover6_Mover4_Trig"
 		Tags(0)="Mover4_Trig"
 	End Actor
@@ -4920,7 +4920,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy05e-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover2_Mover5_Trig"
 		Tags(0)="Mover5_Trig"
 	End Actor

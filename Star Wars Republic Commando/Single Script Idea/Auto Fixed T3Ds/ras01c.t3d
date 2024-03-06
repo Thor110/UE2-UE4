@@ -13237,7 +13237,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/AssaultShip_GM_Doors_AccessDoorLeft.AssaultShip_GM_Doors_AccessDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorLeft.AccessDoorLeft'
 		ActorLabel="Mover2_ComputerCoreExitDoor"
 		Tags(0)="ComputerCoreExitDoor"
 	End Actor
@@ -13259,7 +13259,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/AssaultShip_GM_Doors_AccessDoorRight.AssaultShip_GM_Doors_AccessDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorRight.AccessDoorRight'
 		ActorLabel="Mover3_ComputerCoreExitDoor"
 		Tags(0)="ComputerCoreExitDoor"
 	End Actor
@@ -17315,7 +17315,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/AssaultShip_GM_Doors_AccessDoorLeft.AssaultShip_GM_Doors_AccessDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorLeft.AccessDoorLeft'
 		ActorLabel="Mover0_ComputerCoreExitDoor"
 		Tags(0)="ComputerCoreExitDoor"
 	End Actor
@@ -17338,7 +17338,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/AssaultShip_GM_Doors_AccessDoorRight.AssaultShip_GM_Doors_AccessDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorRight.AccessDoorRight'
 		ActorLabel="Mover1_ComputerCoreExitDoor"
 		Tags(0)="ComputerCoreExitDoor"
 	End Actor
@@ -18815,7 +18815,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/AssaultShip_GM_Doors_AccessDoorLeft.AssaultShip_GM_Doors_AccessDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorLeft.AccessDoorLeft'
 		ActorLabel="Mover4_ComputerCoreExitDoor"
 		Tags(0)="ComputerCoreExitDoor"
 	End Actor
@@ -18838,7 +18838,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/AssaultShip_GM_Doors_AccessDoorRight.AssaultShip_GM_Doors_AccessDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorRight.AccessDoorRight'
 		ActorLabel="Mover5_ComputerCoreExitDoor"
 		Tags(0)="ComputerCoreExitDoor"
 	End Actor

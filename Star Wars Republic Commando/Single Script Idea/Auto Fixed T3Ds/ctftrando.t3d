@@ -259,7 +259,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/JW-AssaultShipStaticMeshes_Mover_AttachMover.JW-AssaultShipStaticMeshes_Mover_AttachMover'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/jw-assaultshipstaticmeshes/Mover/AttachMover.AttachMover'
 		ActorLabel="Mover0_SkyBoxAttachMover"
 		Tags(0)="SkyBoxAttachMover"
 	End Actor
@@ -10265,7 +10265,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM_AssaultShip_MP_Elevator_Lift.Multiplayer_GM_AssaultShip_MP_Elevator_Lift'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm/AssaultShip/MP_Elevator_Lift.MP_Elevator_Lift'
 		EncroachDamage=200.0
 		ActorLabel="Mover2_LiftB04"
 		Tags(0)="LiftB04"
@@ -19156,7 +19156,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM_AssaultShip_MP_Elevator_Lift.Multiplayer_GM_AssaultShip_MP_Elevator_Lift'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm/AssaultShip/MP_Elevator_Lift.MP_Elevator_Lift'
 		EncroachDamage=200.0
 		ActorLabel="Mover16_LiftB01"
 		Tags(0)="LiftB01"
@@ -21900,7 +21900,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover8_Mover1"
 		Tags(0)="Mover1"
 	End Actor
@@ -22341,7 +22341,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover4_Mover2"
 		Tags(0)="Mover2"
 	End Actor
@@ -22634,7 +22634,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover5_Mover3"
 		Tags(0)="Mover3"
 	End Actor
@@ -22805,7 +22805,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover6_Mover4"
 		Tags(0)="Mover4"
 	End Actor
@@ -23099,7 +23099,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover7_Mover5"
 		Tags(0)="Mover5"
 	End Actor
@@ -23393,7 +23393,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover15_Mover6"
 		Tags(0)="Mover6"
 	End Actor
@@ -23736,7 +23736,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover9_Mover8"
 		Tags(0)="Mover8"
 	End Actor
@@ -24177,7 +24177,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover10_Mover9"
 		Tags(0)="Mover9"
 	End Actor
@@ -24470,7 +24470,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover11_Mover10"
 		Tags(0)="Mover10"
 	End Actor
@@ -24764,7 +24764,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover12_Mover11"
 		Tags(0)="Mover11"
 	End Actor
@@ -25058,7 +25058,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover13_Mover12"
 		Tags(0)="Mover12"
 	End Actor
@@ -25352,7 +25352,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover14_Mover13"
 		Tags(0)="Mover13"
 	End Actor
@@ -30660,7 +30660,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover3_Mover14"
 		Tags(0)="Mover14"
 	End Actor
@@ -30756,7 +30756,7 @@ Begin Map
 		Wait at top time=1.5
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM2_RAS_MP_RAS_Door.Multiplayer_GM2_RAS_MP_RAS_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm2/RAS/MP_RAS_Door.MP_RAS_Door'
 		ActorLabel="Mover36_Mover7"
 		Tags(0)="Mover7"
 	End Actor
@@ -31778,7 +31778,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM_AssaultShip_MP_Elevator_Lift.Multiplayer_GM_AssaultShip_MP_Elevator_Lift'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm/AssaultShip/MP_Elevator_Lift.MP_Elevator_Lift'
 		EncroachDamage=200.0
 		ActorLabel="Mover17_LiftB02"
 		Tags(0)="LiftB02"
@@ -32940,7 +32940,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/Multiplayer_GM_AssaultShip_MP_Elevator_Lift.Multiplayer_GM_AssaultShip_MP_Elevator_Lift'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/multiplayer_gm/AssaultShip/MP_Elevator_Lift.MP_Elevator_Lift'
 		EncroachDamage=200.0
 		ActorLabel="Mover1_LiftB03"
 		Tags(0)="LiftB03"

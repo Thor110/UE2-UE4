@@ -3910,7 +3910,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover62_flyby01"
 		Tags(0)="flyby01"
 	End Actor
@@ -5411,7 +5411,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover61_flyby02"
 		Tags(0)="flyby02"
 	End Actor
@@ -13470,7 +13470,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Republic_Gunship.VehicleMeshes_Republic_Gunship'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/Gunship.Gunship'
 		ActorLabel="Mover7_GunshipFlyby00"
 		Tags(0)="GunshipFlyby00"
 	End Actor
@@ -13495,7 +13495,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Republic_Gunship.VehicleMeshes_Republic_Gunship'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/Gunship.Gunship'
 		ActorLabel="Mover10_GunshipFlyby02"
 		Tags(0)="GunshipFlyby02"
 	End Actor
@@ -13520,7 +13520,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Republic_Gunship.VehicleMeshes_Republic_Gunship'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/Gunship.Gunship'
 		ActorLabel="Mover8_GunshipFlyby01"
 		Tags(0)="GunshipFlyby01"
 	End Actor
@@ -13545,7 +13545,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Republic_Gunship.VehicleMeshes_Republic_Gunship'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/Gunship.Gunship'
 		ActorLabel="Mover12_GunshipFlyby03"
 		Tags(0)="GunshipFlyby03"
 	End Actor
@@ -13569,7 +13569,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Republic_Gunship.VehicleMeshes_Republic_Gunship'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/Gunship.Gunship'
 		ActorLabel="Mover13_GunshipFlyby04"
 		Tags(0)="GunshipFlyby04"
 	End Actor
@@ -13605,7 +13605,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover3_FighterFlyby00"
 		Tags(0)="FighterFlyby00"
 	End Actor
@@ -13630,7 +13630,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover1_FighterFlyby00"
 		Tags(0)="FighterFlyby00"
 	End Actor
@@ -13655,7 +13655,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover6_FighterFlyby01"
 		Tags(0)="FighterFlyby01"
 	End Actor
@@ -13680,7 +13680,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover0_FighterFlyby01"
 		Tags(0)="FighterFlyby01"
 	End Actor
@@ -13705,7 +13705,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover11_FighterFlyby02"
 		Tags(0)="FighterFlyby02"
 	End Actor
@@ -13730,7 +13730,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover5_FighterFlyby02"
 		Tags(0)="FighterFlyby02"
 	End Actor
@@ -19728,7 +19728,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/briefings/Dropship/AssaultShipProp.AssaultShipProp'
 		ActorLabel="Mover4_RASMover00"
 		Tags(0)="RASMover00"
 	End Actor
@@ -19756,7 +19756,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/briefings/Dropship/AssaultShipProp.AssaultShipProp'
 		ActorLabel="Mover2_RasMover01"
 		Tags(0)="RasMover01"
 	End Actor
@@ -19781,7 +19781,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/briefings/Dropship/AssaultShipProp.AssaultShipProp'
 		ActorLabel="Mover9_RASMover02"
 		Tags(0)="RASMover02"
 	End Actor

@@ -3231,7 +3231,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerLeft.AssaultShip_GM_Doors_BulkheadDoorInnerLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerLeft.BulkheadDoorInnerLeft'
 		ActorLabel="Mover9_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -3254,7 +3254,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_BulkheadDoorInnerRight.AssaultShip_GM_Doors_BulkheadDoorInnerRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorInnerRight.BulkheadDoorInnerRight'
 		ActorLabel="Mover13_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -3277,7 +3277,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterBottom.AssaultShip_GM_Doors_BulkheadDoorOuterBottom'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterBottom.BulkheadDoorOuterBottom'
 		ActorLabel="Mover16_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -3300,7 +3300,7 @@ Begin Map
 		Wait at top time=2.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_BulkheadDoorOuterTop.AssaultShip_GM_Doors_BulkheadDoorOuterTop'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/BulkheadDoorOuterTop.BulkheadDoorOuterTop'
 		ActorLabel="Mover14_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -7579,7 +7579,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_AccessDoorLeft.AssaultShip_GM_Doors_AccessDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorLeft.AccessDoorLeft'
 		ActorLabel="Mover3"
 	End Actor
 	Begin Actor Class=Generic_Lift_C Name=Mover15_Lift
@@ -7601,7 +7601,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_AccessDoorRight.AssaultShip_GM_Doors_AccessDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorRight.AccessDoorRight'
 		ActorLabel="Mover15"
 	End Actor
 	Begin Actor Class=Generic_Lift_C Name=Mover1_Lift
@@ -7623,7 +7623,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_AccessDoorLeft.AssaultShip_GM_Doors_AccessDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorLeft.AccessDoorLeft'
 		ActorLabel="Mover1"
 	End Actor
 	Begin Actor Class=Generic_Lift_C Name=Mover2_Lift
@@ -7645,7 +7645,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_AccessDoorRight.AssaultShip_GM_Doors_AccessDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorRight.AccessDoorRight'
 		ActorLabel="Mover2"
 	End Actor
 	Begin Actor Class=PostProcessVolume Name=ZoneInfo8
@@ -8643,7 +8643,7 @@ Begin Map
 		NumKeys=4
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_PR_Lights_KlxLights.AssaultShip_PR_Lights_KlxLights'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Lights/KlxLights.KlxLights'
 		ActorLabel="Mover29_Dispenser1Mover"
 		Tags(0)="Dispenser1Mover"
 	End Actor
@@ -8668,7 +8668,7 @@ Begin Map
 		NumKeys=4
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_PR_Lights_KlxLights.AssaultShip_PR_Lights_KlxLights'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Lights/KlxLights.KlxLights'
 		ActorLabel="Mover30_Dispenser2Mover"
 		Tags(0)="Dispenser2Mover"
 	End Actor
@@ -8694,7 +8694,7 @@ Begin Map
 		NumKeys=5
 		InitialState=NewEnumerator7
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_PR_Lights_KlxLights.AssaultShip_PR_Lights_KlxLights'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Lights/KlxLights.KlxLights'
 		ActorLabel="Mover31_Dispenser3Mover"
 		Tags(0)="Dispenser3Mover"
 	End Actor
@@ -10127,8 +10127,8 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=3
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/ras_04a_MyMeshes_Ramp.ras_04a_MyMeshes_Ramp'
 		ActorLabel="Mover5_TrapDoor"
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/ras_04a_MyMeshes_Ramp.ras_04a_MyMeshes_Ramp'
 		Tags(0)="TrapDoor"
 	End Actor
 	Begin Actor Class=Brush Name=Brush32_Brush
@@ -12850,7 +12850,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/JW-AssaultShipStaticMeshes_Mover_AttachMover.JW-AssaultShipStaticMeshes_Mover_AttachMover'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/jw-assaultshipstaticmeshes/Mover/AttachMover.AttachMover'
 		ActorLabel="Mover0_SkyBoxAttachMover"
 		Tags(0)="SkyBoxAttachMover"
 	End Actor
@@ -13980,7 +13980,7 @@ Begin Map
 		Wait at top time=10000.0
 		NumKeys=3
 		InitialState=NewEnumerator7
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/VehicleMeshes_Confederacy_TrandFedBattleship_A.VehicleMeshes_Confederacy_TrandFedBattleship_A'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/TrandFedBattleship_A.TrandFedBattleship_A'
 		ActorLabel="Mover6_Battleship"
 		Tags(0)="Battleship"
 	End Actor
@@ -14029,7 +14029,7 @@ Begin Map
 		Wait at top time=10000.0
 		NumKeys=3
 		InitialState=NewEnumerator7
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/VehicleMeshes_Confederacy_TrandFedBattleship_B.VehicleMeshes_Confederacy_TrandFedBattleship_B'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/TrandFedBattleship_B.TrandFedBattleship_B'
 		ActorLabel="Mover11_Battleship"
 		Tags(0)="Battleship"
 	End Actor
@@ -14056,7 +14056,7 @@ Begin Map
 		Wait at top time=10000.0
 		NumKeys=3
 		InitialState=NewEnumerator7
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/VehicleMeshes_Confederacy_TrandFedBattleship_C.VehicleMeshes_Confederacy_TrandFedBattleship_C'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/TrandFedBattleship_C.TrandFedBattleship_C'
 		ActorLabel="Mover4_Battleship"
 		Tags(0)="Battleship"
 	End Actor
@@ -29688,7 +29688,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_AccessDoorLeft.AssaultShip_GM_Doors_AccessDoorLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorLeft.AccessDoorLeft'
 		ActorLabel="Mover19_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -29711,7 +29711,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras04a-UT2004/AssaultShip_GM_Doors_AccessDoorRight.AssaultShip_GM_Doors_AccessDoorRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_gm/Doors/AccessDoorRight.AccessDoorRight'
 		ActorLabel="Mover20_Mover"
 		Tags(0)="Mover"
 	End Actor

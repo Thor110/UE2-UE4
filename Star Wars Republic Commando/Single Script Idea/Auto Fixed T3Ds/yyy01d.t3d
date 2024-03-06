@@ -3148,7 +3148,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_AutoDoor12.TR_AutoDoor12'
 		ActorLabel="Mover9_Detention_Door1"
 		Tags(0)="Detention_Door1"
 	End Actor
@@ -3880,7 +3880,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_AutoDoor12.TR_AutoDoor12'
 		ActorLabel="Mover5_Detention_Door2"
 		Tags(0)="Detention_Door2"
 	End Actor
@@ -3903,7 +3903,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_AutoDoor12.TR_AutoDoor12'
 		ActorLabel="Mover6_Detention_Door3"
 		Tags(0)="Detention_Door3"
 	End Actor
@@ -3927,7 +3927,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_AutoDoor12.TR_AutoDoor12'
 		ActorLabel="Mover7_Detention_Door4"
 		Tags(0)="Detention_Door4"
 	End Actor
@@ -3951,7 +3951,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_AutoDoor12.TR_AutoDoor12'
 		ActorLabel="Mover50_AutoDoor_Detention_D5"
 		Tags(0)="AutoDoor_Detention_D5"
 	End Actor
@@ -4603,7 +4603,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12.LowerKashyyyk_GM_Trando_Archit_TR_AutoDoor12'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_AutoDoor12.TR_AutoDoor12'
 		ActorLabel="Mover20_Detention_Door_Exit"
 		Tags(0)="Detention_Door_Exit"
 	End Actor
@@ -4748,7 +4748,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/JailBars.JailBars'
 		ActorLabel="Mover8_Door_Rescue_Wookie_1"
 		Tags(0)="Door_Rescue_Wookie_1"
 	End Actor
@@ -4951,7 +4951,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/LowerKashyyyk_GM_Trando_Archit_JailBars.LowerKashyyyk_GM_Trando_Archit_JailBars'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/JailBars.JailBars'
 		ActorLabel="Mover4_Door_Rescue_Wookie_2"
 		Tags(0)="Door_Rescue_Wookie_2"
 	End Actor

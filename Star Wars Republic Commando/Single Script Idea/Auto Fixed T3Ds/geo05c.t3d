@@ -4578,7 +4578,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover9_GeoFighter"
 		Tags(0)="GeoFighter"
 	End Actor
@@ -4602,7 +4602,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover8_GeoFighter"
 		Tags(0)="GeoFighter"
 	End Actor
@@ -8369,7 +8369,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundLeft.CoreShip_GM_HallSystems_DH_DoorRoundLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundLeft.DH_DoorRoundLeft'
 		ActorLabel="Mover13_Door00"
 		Tags(0)="Door00"
 	End Actor
@@ -8392,7 +8392,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundRight.CoreShip_GM_HallSystems_DH_DoorRoundRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundRight.DH_DoorRoundRight'
 		ActorLabel="Mover14_Door00"
 		Tags(0)="Door00"
 	End Actor
@@ -8415,7 +8415,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundLeft.CoreShip_GM_HallSystems_DH_DoorRoundLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundLeft.DH_DoorRoundLeft'
 		ActorLabel="Mover12_Door01"
 		Tags(0)="Door01"
 	End Actor
@@ -8438,7 +8438,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundRight.CoreShip_GM_HallSystems_DH_DoorRoundRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundRight.DH_DoorRoundRight'
 		ActorLabel="Mover17_Door01"
 		Tags(0)="Door01"
 	End Actor
@@ -8461,7 +8461,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundLeft.CoreShip_GM_HallSystems_DH_DoorRoundLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundLeft.DH_DoorRoundLeft'
 		ActorLabel="Mover2_Door02"
 		Tags(0)="Door02"
 	End Actor
@@ -8484,7 +8484,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundRight.CoreShip_GM_HallSystems_DH_DoorRoundRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundRight.DH_DoorRoundRight'
 		ActorLabel="Mover7_Door02"
 		Tags(0)="Door02"
 	End Actor
@@ -8506,7 +8506,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundLeft.CoreShip_GM_HallSystems_DH_DoorRoundLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundLeft.DH_DoorRoundLeft'
 		ActorLabel="Mover20_Door03"
 		Tags(0)="Door03"
 	End Actor
@@ -8528,7 +8528,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundRight.CoreShip_GM_HallSystems_DH_DoorRoundRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundRight.DH_DoorRoundRight'
 		ActorLabel="Mover21_Door03"
 		Tags(0)="Door03"
 	End Actor
@@ -8566,7 +8566,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundLeft.CoreShip_GM_HallSystems_DH_DoorRoundLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundLeft.DH_DoorRoundLeft'
 		ActorLabel="Mover10"
 	End Actor
 	Begin Actor Class=Generic_Lift_C Name=Mover11_Lift
@@ -8588,7 +8588,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundRight.CoreShip_GM_HallSystems_DH_DoorRoundRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundRight.DH_DoorRoundRight'
 		ActorLabel="Mover11"
 	End Actor
 	Begin Actor Class=TriggerVolume Name=Trigger19_Trigger->Unstable01
@@ -12549,7 +12549,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundLeft.CoreShip_GM_HallSystems_DH_DoorRoundLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundLeft.DH_DoorRoundLeft'
 		ActorLabel="Mover15_Door04"
 		Tags(0)="Door04"
 	End Actor
@@ -12571,7 +12571,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundRight.CoreShip_GM_HallSystems_DH_DoorRoundRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundRight.DH_DoorRoundRight'
 		ActorLabel="Mover22_Door04"
 		Tags(0)="Door04"
 	End Actor
@@ -12594,7 +12594,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundLeft.CoreShip_GM_HallSystems_DH_DoorRoundLeft'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundLeft.DH_DoorRoundLeft'
 		ActorLabel="Mover3_Door05"
 		Tags(0)="Door05"
 	End Actor
@@ -12617,7 +12617,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_HallSystems_DH_DoorRoundRight.CoreShip_GM_HallSystems_DH_DoorRoundRight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/HallSystems/DH_DoorRoundRight.DH_DoorRoundRight'
 		ActorLabel="Mover5_Door05"
 		Tags(0)="Door05"
 	End Actor
@@ -16952,7 +16952,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_Doors_DH_elevatorDoor.CoreShip_GM_Doors_DH_elevatorDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/Doors/DH_elevatorDoor.DH_elevatorDoor'
 		ActorLabel="Mover6_OpenElevatorDoor"
 		Tags(0)="OpenElevatorDoor"
 	End Actor
@@ -35515,7 +35515,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/CoreShip_GM_Doors_DH_elevator.CoreShip_GM_Doors_DH_elevator'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_gm/Doors/DH_elevator.DH_elevator'
 		ActorLabel="Mover1_levelstart"
 		Tags(0)="levelstart"
 	End Actor
@@ -37613,7 +37613,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/briefings/Dropship/AssaultShipProp.AssaultShipProp'
 		ActorLabel="Mover18_AssaultShip01"
 		Tags(0)="AssaultShip01"
 	End Actor
@@ -37637,7 +37637,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/briefings/Dropship/AssaultShipProp.AssaultShipProp'
 		ActorLabel="Mover16_AssaultShip00"
 		Tags(0)="AssaultShip00"
 	End Actor
@@ -37661,7 +37661,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/briefings/Dropship/AssaultShipProp.AssaultShipProp'
 		ActorLabel="Mover0_AssaultShip00"
 		Tags(0)="AssaultShip00"
 	End Actor
@@ -37809,7 +37809,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo05c-UT2004/Briefings_Dropship_AssaultShipProp.Briefings_Dropship_AssaultShipProp'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/briefings/Dropship/AssaultShipProp.AssaultShipProp'
 		ActorLabel="Mover4_AssaultShip01"
 		Tags(0)="AssaultShip01"
 	End Actor

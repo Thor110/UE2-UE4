@@ -3015,7 +3015,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_HR_TorpedoBay_TorpedoDoor.AssaultShip_HR_TorpedoBay_TorpedoDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/TorpedoBay/TorpedoDoor.TorpedoDoor'
 		EncroachDamage=1000000.0
 		ActorLabel="Mover4_TorpedoTubeDoor"
 		Tags(0)="TorpedoTubeDoor"
@@ -5864,7 +5864,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/JW-AssaultShipStaticMeshes_Mover_AttachMover.JW-AssaultShipStaticMeshes_Mover_AttachMover'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/jw-assaultshipstaticmeshes/Mover/AttachMover.AttachMover'
 		ActorLabel="Mover7_SkyBoxAttachMover"
 		Tags(0)="SkyBoxAttachMover"
 	End Actor
@@ -12391,7 +12391,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_Carl_DroidHall_ras_droidhallentrdoor.AssaultShip_Carl_DroidHall_ras_droidhallentrdoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_carl/DroidHall/ras_droidhallentrdoor.ras_droidhallentrdoor'
 		ActorLabel="Mover2_OpenSezMe"
 		Tags(0)="OpenSezMe"
 	End Actor
@@ -16481,7 +16481,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_HR_TorpedoBay_TorpedoB.AssaultShip_HR_TorpedoBay_TorpedoB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/TorpedoBay/TorpedoB.TorpedoB'
 		ActorLabel="Mover6_RisingTorp"
 		Tags(0)="RisingTorp"
 	End Actor
@@ -20019,7 +20019,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover1_EventGate"
 		Tags(0)="EventGate"
 	End Actor
@@ -22611,7 +22611,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_PR_Doors_RAS_RegDoor.AssaultShip_PR_Doors_RAS_RegDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_pr/Doors/RAS_RegDoor.RAS_RegDoor'
 		ActorLabel="Mover3_TorpBayAccess"
 		Tags(0)="TorpBayAccess"
 	End Actor
@@ -23050,7 +23050,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_Carl_DroidHall_Ras_droidhalltube.AssaultShip_Carl_DroidHall_Ras_droidhalltube'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_carl/DroidHall/Ras_droidhalltube.Ras_droidhalltube'
 		ActorLabel="Mover0_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -23070,7 +23070,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_Carl_DroidHall_ras_droidhallsmalltube.AssaultShip_Carl_DroidHall_ras_droidhallsmalltube'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_carl/DroidHall/ras_droidhallsmalltube.ras_droidhallsmalltube'
 		ActorLabel="Mover5_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -23090,7 +23090,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_Carl_DroidHall_ras_droidhallsmalltube.AssaultShip_Carl_DroidHall_ras_droidhallsmalltube'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_carl/DroidHall/ras_droidhallsmalltube.ras_droidhallsmalltube'
 		ActorLabel="Mover8_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -30195,7 +30195,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_Carl_DroidHall_Ras_droidhalltube.AssaultShip_Carl_DroidHall_Ras_droidhalltube'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_carl/DroidHall/Ras_droidhalltube.Ras_droidhalltube'
 		ActorLabel="Mover41_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -30215,7 +30215,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_Carl_DroidHall_ras_droidhallsmalltube.AssaultShip_Carl_DroidHall_ras_droidhallsmalltube'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_carl/DroidHall/ras_droidhallsmalltube.ras_droidhallsmalltube'
 		ActorLabel="Mover42_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -30235,7 +30235,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras01a-UT2004/AssaultShip_Carl_DroidHall_ras_droidhallsmalltube.AssaultShip_Carl_DroidHall_ras_droidhallsmalltube'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_carl/DroidHall/ras_droidhallsmalltube.ras_droidhallsmalltube'
 		ActorLabel="Mover43_Mover"
 		Tags(0)="Mover"
 	End Actor

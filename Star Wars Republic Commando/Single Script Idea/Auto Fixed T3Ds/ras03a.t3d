@@ -3270,7 +3270,7 @@ Begin Map
 		Wait at top time=12.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/MarkerIcons_DoorBreach_RAS_DoorBreachA.MarkerIcons_DoorBreach_RAS_DoorBreachA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/markericons/DoorBreach/RAS_DoorBreachA.RAS_DoorBreachA'
 		ActorLabel="Mover14_Door2A"
 		Tags(0)="Door2A"
 	End Actor
@@ -3293,7 +3293,7 @@ Begin Map
 		Wait at top time=12.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/MarkerIcons_DoorBreach_RAS_DoorBreachB.MarkerIcons_DoorBreach_RAS_DoorBreachB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/markericons/DoorBreach/RAS_DoorBreachB.RAS_DoorBreachB'
 		ActorLabel="Mover9"
 	End Actor
 	Begin Actor Class=TriggerVolume Name=Trigger28
@@ -3437,7 +3437,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/MarkerIcons_DoorBreach_RAS_DoorBreachA.MarkerIcons_DoorBreach_RAS_DoorBreachA'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/markericons/DoorBreach/RAS_DoorBreachA.RAS_DoorBreachA'
 		ActorLabel="Mover6_BridgeDoorA"
 		Tags(0)="BridgeDoorA"
 	End Actor
@@ -3460,7 +3460,7 @@ Begin Map
 		Retrigger Delay=0.2
 		NumKeys=2
 		InitialState=NewEnumerator7
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/MarkerIcons_DoorBreach_RAS_DoorBreachB.MarkerIcons_DoorBreach_RAS_DoorBreachB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/markericons/DoorBreach/RAS_DoorBreachB.RAS_DoorBreachB'
 		ActorLabel="Mover7"
 	End Actor
 	Begin Actor Class=StaticMeshActor Name=StaticMeshActor310_StaticMeshActor
@@ -3498,7 +3498,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/AssaultShip_HR_Chall_ChallDoorB.AssaultShip_HR_Chall_ChallDoorB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Chall/ChallDoorB.ChallDoorB'
 		ActorLabel="Mover303"
 	End Actor
 	Begin Actor Class=TriggerVolume Name=Trigger4
@@ -4071,7 +4071,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/AssaultShip_HR_Chall_ChallDoorB.AssaultShip_HR_Chall_ChallDoorB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Chall/ChallDoorB.ChallDoorB'
 		ActorLabel="Mover12"
 	End Actor
 	Begin Actor Class=TriggerVolume Name=Trigger30
@@ -4230,7 +4230,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/AssaultShip_HR_Chall_ChallDoorB.AssaultShip_HR_Chall_ChallDoorB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Chall/ChallDoorB.ChallDoorB'
 		ActorLabel="Mover11"
 	End Actor
 	Begin Actor Class=TriggerVolume Name=Trigger29
@@ -4445,7 +4445,7 @@ Begin Map
 		Wait at top time=12.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/AssaultShip_HR_Chall_ChallDoorB.AssaultShip_HR_Chall_ChallDoorB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Chall/ChallDoorB.ChallDoorB'
 		ActorLabel="Mover16"
 	End Actor
 	Begin Actor Class=TriggerVolume Name=Trigger25
@@ -4616,7 +4616,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/AssaultShip_HR_Chall_ChallDoorB.AssaultShip_HR_Chall_ChallDoorB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Chall/ChallDoorB.ChallDoorB'
 		ActorLabel="Mover21"
 	End Actor
 	Begin Actor Class=Note Name=CoverPoint48_CoverPoint
@@ -5477,7 +5477,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/AssaultShip_HR_Chall_ChallDoorB.AssaultShip_HR_Chall_ChallDoorB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Chall/ChallDoorB.ChallDoorB'
 		ActorLabel="Mover8"
 	End Actor
 	Begin Actor Class=Note Name=CoverPoint135_CoverPoint
@@ -6309,7 +6309,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/AssaultShip_HR_Chall_ChallDoorB.AssaultShip_HR_Chall_ChallDoorB'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Chall/ChallDoorB.ChallDoorB'
 		ActorLabel="Mover2"
 	End Actor
 	Begin Actor Class=TriggerVolume Name=Trigger21
@@ -15668,7 +15668,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator14
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/MarkerIcons_DoorBreach_RAS_DoorBreachLock_Unlock.MarkerIcons_DoorBreach_RAS_DoorBreachLock_Unlock'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/markericons/DoorBreach/RAS_DoorBreachLock_Unlock.RAS_DoorBreachLock_Unlock'
 		AttachTag="BridgeDoorA"
 		ActorLabel="Mover5"
 	End Actor
@@ -30812,7 +30812,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/AssaultShip_HR_Bridge_bridgeElevatorDoor.AssaultShip_HR_Bridge_bridgeElevatorDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Bridge/bridgeElevatorDoor.bridgeElevatorDoor'
 		ActorLabel="Mover13_ElevatorDoorLeft"
 		Tags(0)="ElevatorDoorLeft"
 	End Actor
@@ -30837,7 +30837,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/AssaultShip_HR_Bridge_bridgeElevatorDoor.AssaultShip_HR_Bridge_bridgeElevatorDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/assaultship_hr/Bridge/bridgeElevatorDoor.bridgeElevatorDoor'
 		ActorLabel="Mover17_ElevatorDoorRight"
 		Tags(0)="ElevatorDoorRight"
 	End Actor
@@ -31411,7 +31411,7 @@ Begin Map
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/ras03a-UT2004/JW-AssaultShipStaticMeshes_Mover_AttachMover.JW-AssaultShipStaticMeshes_Mover_AttachMover'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/jw-assaultshipstaticmeshes/Mover/AttachMover.AttachMover'
 		ActorLabel="Mover0_SkyBoxAttachMover"
 		Tags(0)="SkyBoxAttachMover"
 	End Actor

@@ -3208,7 +3208,7 @@ Begin Map
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator14
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01b-UT2004/LowerKashyyyk_GM_Trando_Archit_Stuck_SwinePike.LowerKashyyyk_GM_Trando_Archit_Stuck_SwinePike'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/Stuck_SwinePike.Stuck_SwinePike'
 		ActorLabel="Mover4_RotatingSpit"
 		Tags(0)="RotatingSpit"
 	End Actor
@@ -8231,7 +8231,7 @@ Begin Map
 		NumKeys=3
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01b-UT2004/LowerKashyyyk_GM_Trando_Archit_TR_Ramp.LowerKashyyyk_GM_Trando_Archit_TR_Ramp'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/TR_Ramp.TR_Ramp'
 		ActorLabel="Mover6_SquadInTrap"
 		Tags(0)="SquadInTrap"
 	End Actor
@@ -9982,7 +9982,7 @@ Begin Map
 		NumKeys=5
 		BumpType=NewEnumerator2
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy01b-UT2004/LowerKashyyyk_GM_Trando_Archit_ArcLight.LowerKashyyyk_GM_Trando_Archit_ArcLight'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/lowerkashyyyk_gm/Trando_Archit/ArcLight.ArcLight'
 		ActorLabel="Mover0_SpotLIghtBeam"
 		Tags(0)="SpotLIghtBeam"
 	End Actor

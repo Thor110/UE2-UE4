@@ -8068,7 +8068,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover7_GeoFighter00"
 		Tags(0)="GeoFighter00"
 	End Actor
@@ -8389,7 +8389,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover4_GeoFighter01"
 		Tags(0)="GeoFighter01"
 	End Actor
@@ -9008,7 +9008,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover9_GeoFighter02"
 		Tags(0)="GeoFighter02"
 	End Actor
@@ -9033,7 +9033,7 @@ Begin Map
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover8_GeoFighter03"
 		Tags(0)="GeoFighter03"
 	End Actor
@@ -9302,7 +9302,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_GM_Interiors_Geo4c_MainDoor.Exteriors_GM_Interiors_Geo4c_MainDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_gm/Interiors/Geo4c_MainDoor.Geo4c_MainDoor'
 		ActorLabel="Mover12_Door00"
 		Tags(0)="Door00"
 	End Actor
@@ -10316,7 +10316,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_GM_Interiors_Geo4c_MainDoor.Exteriors_GM_Interiors_Geo4c_MainDoor'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_gm/Interiors/Geo4c_MainDoor.Geo4c_MainDoor'
 		ActorLabel="Mover13_Door01"
 		Tags(0)="Door01"
 	End Actor
@@ -11001,7 +11001,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover14_GunshipAirDrop00"
 		Tags(0)="GunshipAirDrop00"
 	End Actor
@@ -21001,7 +21001,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_GM_Interiors_geo4c_Door_GM.Exteriors_GM_Interiors_geo4c_Door_GM'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_gm/Interiors/geo4c_Door_GM.geo4c_Door_GM'
 		ActorLabel="Mover20_Door01"
 		Tags(0)="Door01"
 	End Actor
@@ -21772,7 +21772,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_GM_Interiors_geo4c_Door_GM.Exteriors_GM_Interiors_geo4c_Door_GM'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_gm/Interiors/geo4c_Door_GM.geo4c_Door_GM'
 		ActorLabel="Mover19_MainDoor00"
 		Tags(0)="MainDoor00"
 	End Actor
@@ -21811,7 +21811,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_GM_Interiors_geo4c_Door_GM.Exteriors_GM_Interiors_geo4c_Door_GM'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_gm/Interiors/geo4c_Door_GM.geo4c_Door_GM'
 		ActorLabel="Mover16_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -21835,7 +21835,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_GM_Interiors_geo4c_Door_GM.Exteriors_GM_Interiors_geo4c_Door_GM'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_gm/Interiors/geo4c_Door_GM.geo4c_Door_GM'
 		ActorLabel="Mover11_Mover"
 		Tags(0)="Mover"
 	End Actor
@@ -24230,7 +24230,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_HR_Globe_geo_04d_CS_BridgeFrontUnit.Exteriors_HR_Globe_geo_04d_CS_BridgeFrontUnit'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_hr/Globe/geo_04d_CS_BridgeFrontUnit.geo_04d_CS_BridgeFrontUnit'
 		ActorLabel="Mover2_drawbridge00"
 		Tags(0)="drawbridge00"
 	End Actor
@@ -24253,7 +24253,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit.Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_hr/Globe/geo_04d_CS_BridgeMidUnit.geo_04d_CS_BridgeMidUnit'
 		ActorLabel="Mover3_drawbridge00"
 		Tags(0)="drawbridge00"
 	End Actor
@@ -24276,7 +24276,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit.Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_hr/Globe/geo_04d_CS_BridgeMidUnit.geo_04d_CS_BridgeMidUnit'
 		ActorLabel="Mover5_drawbridge00"
 		Tags(0)="drawbridge00"
 	End Actor
@@ -24299,7 +24299,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit.Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_hr/Globe/geo_04d_CS_BridgeMidUnit.geo_04d_CS_BridgeMidUnit'
 		ActorLabel="Mover18_drawbridge00"
 		Tags(0)="drawbridge00"
 	End Actor
@@ -24327,7 +24327,7 @@ Begin Map
 		NumKeys=3
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_HR_Globe_geo_04d_CS_BridgeGate.Exteriors_HR_Globe_geo_04d_CS_BridgeGate'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_hr/Globe/geo_04d_CS_BridgeGate.geo_04d_CS_BridgeGate'
 		ActorLabel="Mover10_drawbridge00"
 		Tags(0)="drawbridge00"
 	End Actor
@@ -24350,7 +24350,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit.Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_hr/Globe/geo_04d_CS_BridgeMidUnit.geo_04d_CS_BridgeMidUnit'
 		ActorLabel="Mover17_drawbridge00"
 		Tags(0)="drawbridge00"
 	End Actor
@@ -24374,7 +24374,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_GM_Interiors_geo4c_Door_GM.Exteriors_GM_Interiors_geo4c_Door_GM'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_gm/Interiors/geo4c_Door_GM.geo4c_Door_GM'
 		ActorLabel="Mover21_AntiPortalActorDoor03"
 		Tags(0)="AntiPortalActorDoor03"
 	End Actor
@@ -24397,7 +24397,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_HR_Globe_geo_04d_CS_FrameBumper.Exteriors_HR_Globe_geo_04d_CS_FrameBumper'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_hr/Globe/geo_04d_CS_FrameBumper.geo_04d_CS_FrameBumper'
 		ActorLabel="Mover32_drawbridge00"
 		Tags(0)="drawbridge00"
 	End Actor
@@ -25136,7 +25136,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit.Exteriors_HR_Globe_geo_04d_CS_BridgeMidUnit'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_hr/Globe/geo_04d_CS_BridgeMidUnit.geo_04d_CS_BridgeMidUnit'
 		ActorLabel="Mover0_drawbridge00"
 		Tags(0)="drawbridge00"
 	End Actor
@@ -31126,7 +31126,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/CoreShip_PR_Props_cs_grate01.CoreShip_PR_Props_cs_grate01'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/coreship_pr/Props/cs_grate01.cs_grate01'
 		ActorLabel="Mover23_OpenPort"
 		Tags(0)="OpenPort"
 	End Actor
@@ -31300,7 +31300,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_PR_Props_Pod_Lift_New_Geo_04.Exteriors_PR_Props_Pod_Lift_New_Geo_04'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_pr/Props/Pod_Lift_New_Geo_04.Pod_Lift_New_Geo_04'
 		ActorLabel="Mover29_StartLift"
 		Tags(0)="StartLift"
 	End Actor
@@ -39656,7 +39656,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover6_GunshipMover00"
 		Tags(0)="GunshipMover00"
 	End Actor
@@ -39681,7 +39681,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover24_GunshipMover03"
 		Tags(0)="GunshipMover03"
 	End Actor
@@ -39706,7 +39706,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover1_GunshipMover02"
 		Tags(0)="GunshipMover02"
 	End Actor
@@ -39731,7 +39731,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Republic_GunshipLowRes.VehicleMeshes_Republic_GunshipLowRes'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Republic/GunshipLowRes.GunshipLowRes'
 		ActorLabel="Mover15_GunshipMover01"
 		Tags(0)="GunshipMover01"
 	End Actor
@@ -39756,7 +39756,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover27_FighterMover00"
 		Tags(0)="FighterMover00"
 	End Actor
@@ -39781,7 +39781,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover28_FighterMover00"
 		Tags(0)="FighterMover00"
 	End Actor
@@ -39806,7 +39806,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover30_FighterMover01"
 		Tags(0)="FighterMover01"
 	End Actor
@@ -39831,7 +39831,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover31_FighterMover01"
 		Tags(0)="FighterMover01"
 	End Actor
@@ -39856,7 +39856,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover26_FighterMover02"
 		Tags(0)="FighterMover02"
 	End Actor
@@ -39881,7 +39881,7 @@ Begin Map
 		NumKeys=3
 		MoverEncroachType=NewEnumerator3
 		MoverGlideType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/VehicleMeshes_Confederacy_GeoFighter.VehicleMeshes_Confederacy_GeoFighter'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/vehiclemeshes/Confederacy/GeoFighter.GeoFighter'
 		ActorLabel="Mover25_FighterMover02"
 		Tags(0)="FighterMover02"
 	End Actor
@@ -48569,7 +48569,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator6
 		MoverEncroachType=NewEnumerator3
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/geo04d-UT2004/Exteriors_HR_Globe_geo_04d_CS_FrameBumper.Exteriors_HR_Globe_geo_04d_CS_FrameBumper'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/exteriors_hr/Globe/geo_04d_CS_FrameBumper.geo_04d_CS_FrameBumper'
 		ActorLabel="Mover22_drawbridge00"
 		Tags(0)="drawbridge00"
 	End Actor

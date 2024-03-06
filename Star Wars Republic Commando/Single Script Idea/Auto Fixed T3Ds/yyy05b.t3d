@@ -7622,7 +7622,7 @@ Begin Map
 		NumKeys=2
 		InitialState=NewEnumerator5
 		BumpType=NewEnumerator1
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy05b-UT2004/UpperKashyyyk_GM_Bridge_Brdg_New_Hack_Door.UpperKashyyyk_GM_Bridge_Brdg_New_Hack_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_New_Hack_Door.Brdg_New_Hack_Door'
 		ActorLabel="Mover1_HACK_DOOR"
 		Tags(0)="HACK_DOOR"
 	End Actor
@@ -7645,7 +7645,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy05b-UT2004/UpperKashyyyk_GM_Bridge_Brdg_New_Hack_Door.UpperKashyyyk_GM_Bridge_Brdg_New_Hack_Door'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_New_Hack_Door.Brdg_New_Hack_Door'
 		ActorLabel="Mover3_Hack_Door_2"
 		Tags(0)="Hack_Door_2"
 	End Actor
@@ -7949,7 +7949,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy05b-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover5_Mover1_Trig"
 		Tags(0)="Mover1_Trig"
 	End Actor
@@ -25456,7 +25456,7 @@ Begin Map
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
-		Lift Mesh=StaticMesh'/Game/RestrictedAssets/Maps/WIP/yyy05b-UT2004/UpperKashyyyk_GM_Bridge_Brdg_doorreg.UpperKashyyyk_GM_Bridge_Brdg_doorreg'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/upperkashyyyk_gm/Bridge/Brdg_doorreg.Brdg_doorreg'
 		ActorLabel="Mover0_Mover1_Trig"
 		Tags(0)="Mover1_Trig"
 	End Actor
