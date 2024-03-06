@@ -6033,10 +6033,10 @@ Begin Map
 		Lift Time=1.5
 		KeyPos(1)=(X=0.0,Y=0.0,Z=384.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=384.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy04a-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy04a-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy04a-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy04a-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_st_01_Cue.door_YYY_wooden_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_c_st_01_Cue.door_YYY_wooden_c_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2

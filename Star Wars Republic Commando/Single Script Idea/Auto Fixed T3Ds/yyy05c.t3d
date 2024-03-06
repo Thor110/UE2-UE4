@@ -1347,10 +1347,10 @@ Begin Map
 		Lift Time=0.5
 		KeyPos(1)=(X=-155.369,Y=210.914,Z=-1.0)
 		Lift Destination=(X=-155.369000,Y=210.914000,Z=-1.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_st_01_Cue.door_YYY_wooden_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_c_st_01_Cue.door_YYY_wooden_c_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -3289,10 +3289,10 @@ Begin Map
 		Lift Time=0.5
 		KeyPos(1)=(X=0.0,Y=0.0,Z=304.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=304.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_st_01_Cue.door_YYY_wooden_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_c_st_01_Cue.door_YYY_wooden_c_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -4598,10 +4598,10 @@ Begin Map
 		Lift Time=1.5
 		KeyPos(1)=(X=0.0,Y=0.0,Z=384.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=384.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_st_01_Cue.door_YYY_wooden_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_c_st_01_Cue.door_YYY_wooden_c_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -4636,10 +4636,10 @@ Begin Map
 		Lift Time=0.5
 		KeyPos(1)=(X=0.0,Y=0.0,Z=304.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=304.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_c_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue.YYY_Sound_YYY_04_door_YYY_wooden_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_st_01_Cue.door_YYY_wooden_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_c_st_01_Cue.door_YYY_wooden_c_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_wooden_o_nd_01_Cue.door_YYY_wooden_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -9042,7 +9042,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_ambPS_YYY_drip_lp_02_Cue.YYY_Sound_YYY_04_ambPS_YYY_drip_lp_02_Cue'
+			Sound=SoundCue'/Game/Sounds/yyy_sound/ambPS_YYY_drip_lp_02_Cue.ambPS_YYY_drip_lp_02_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=406.244000,Y=-508.163000,Z=741.100000)
@@ -9521,7 +9521,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_ambPS_YYY_splatter_lp_01_Cue.YYY_Sound_YYY_04_ambPS_YYY_splatter_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/yyy_sound/ambPS_YYY_splatter_lp_01_Cue.ambPS_YYY_splatter_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-2584.230000,Y=-1711.070000,Z=486.100000)
@@ -9537,7 +9537,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_ambPS_YYY_splatter_lp_02_Cue.YYY_Sound_YYY_04_ambPS_YYY_splatter_lp_02_Cue'
+			Sound=SoundCue'/Game/Sounds/yyy_sound/ambPS_YYY_splatter_lp_02_Cue.ambPS_YYY_splatter_lp_02_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-2607.020000,Y=-3034.660000,Z=458.100000)
@@ -9553,7 +9553,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_ambPS_YYY_splatter_lp_03_Cue.YYY_Sound_YYY_04_ambPS_YYY_splatter_lp_03_Cue'
+			Sound=SoundCue'/Game/Sounds/yyy_sound/ambPS_YYY_splatter_lp_03_Cue.ambPS_YYY_splatter_lp_03_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-2555.550000,Y=-5291.450000,Z=458.100000)
@@ -9569,7 +9569,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_01_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_fireMd_lp_01_Cue.ambPS_GEN_fireMd_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-1734.230000,Y=-3488.290000,Z=1111.680000)
@@ -9585,7 +9585,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_02_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_02_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_fireMd_lp_02_Cue.ambPS_GEN_fireMd_lp_02_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-1659.530000,Y=-1593.010000,Z=1578.360000)
@@ -9601,7 +9601,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_02_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_02_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_fireMd_lp_02_Cue.ambPS_GEN_fireMd_lp_02_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-3390.280000,Y=-6159.640000,Z=1626.510000)
@@ -9617,7 +9617,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_01_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_01_Cue.int_RAS_telem_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5869.290000,Y=-4956.430000,Z=755.100000)
@@ -11785,7 +11785,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_02_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_02_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_02_Cue.int_RAS_telem_lp_02_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-4955.090000,Y=-4887.180000,Z=706.100000)
@@ -11802,7 +11802,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_03_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_03_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_03_Cue.int_RAS_telem_lp_03_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5313.430000,Y=-5721.060000,Z=747.100000)
@@ -11818,7 +11818,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_08_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_08_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_08_Cue.int_RAS_telem_lp_08_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5296.560000,Y=-2477.460000,Z=798.099000)
@@ -11835,7 +11835,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_ambPS_YYY_drip_lp_03_Cue.YYY_Sound_YYY_04_ambPS_YYY_drip_lp_03_Cue'
+			Sound=SoundCue'/Game/Sounds/yyy_sound/ambPS_YYY_drip_lp_03_Cue.ambPS_YYY_drip_lp_03_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5819.320000,Y=-7479.210000,Z=1227.100000)
@@ -11851,7 +11851,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/YYY_Sound_YYY_04_ambPS_YYY_drip_lp_01_Cue.YYY_Sound_YYY_04_ambPS_YYY_drip_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/yyy_sound/ambPS_YYY_drip_lp_01_Cue.ambPS_YYY_drip_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-6195.820000,Y=-9346.940000,Z=1290.110000)
@@ -26176,7 +26176,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_02_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_02_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_02_Cue.int_RAS_telem_lp_02_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5987.510000,Y=-3521.320000,Z=798.099000)
@@ -26193,7 +26193,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy05c-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_05_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_05_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_05_Cue.int_RAS_telem_lp_05_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-4680.790000,Y=-4372.060000,Z=747.100000)

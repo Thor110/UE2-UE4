@@ -4416,7 +4416,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01b-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_02_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_02_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_fireMd_lp_02_Cue.ambPS_GEN_fireMd_lp_02_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=1539.890000,Y=-2554.350000,Z=-493.531000)
@@ -8222,8 +8222,8 @@ Begin Map
 		KeyRot(1)=(Pitch=-90.000000,Yaw=5.625000,Roll=0.000000)
 		KeyRot(2)=(Pitch=157.500000,Yaw=-168.750000,Roll=-168.750000)
 		Lift Destination Rot=(Pitch=157.500000,Yaw=-168.750000,Roll=-168.750000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01b-UT2004/RAS_Sound_RAS_01_imp_RAS_metalhit_md_01_Cue.RAS_Sound_RAS_01_imp_RAS_metalhit_md_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01b-UT2004/RAS_Sound_RAS_01_imp_RAS_metalFall_01_Cue.RAS_Sound_RAS_01_imp_RAS_metalFall_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/imp_RAS_metalhit_md_01_Cue.imp_RAS_metalhit_md_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/imp_RAS_metalFall_01_Cue.imp_RAS_metalFall_01_Cue'
 		CloseStartSound=None
 		CloseStopSound=None
 		MoveLoopSound=None

@@ -30459,7 +30459,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy06b-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_05_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_05_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_05_Cue.int_RAS_telem_lp_05_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=4357.630000,Y=-24292.900000,Z=-72.365700)
@@ -30475,7 +30475,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy06b-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_steam_lp_06_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_steam_lp_06_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_steam_lp_06_Cue.ambPS_GEN_steam_lp_06_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=11351.800000,Y=-19371.400000,Z=61.202000)

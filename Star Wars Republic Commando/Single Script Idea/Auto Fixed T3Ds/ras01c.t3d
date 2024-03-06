@@ -9487,7 +9487,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_steam_lp_07_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_steam_lp_07_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_steam_lp_07_Cue.ambPS_GEN_steam_lp_07_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-6807.650000,Y=15065.000000,Z=-1128.590000)
@@ -9503,7 +9503,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_steamSm_lp_02_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_steamSm_lp_02_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_steamSm_lp_02_Cue.ambPS_GEN_steamSm_lp_02_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5370.100000,Y=8326.680000,Z=-1294.710000)
@@ -9519,7 +9519,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_steamLg_lp_01_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_steamLg_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_steamLg_lp_01_Cue.ambPS_GEN_steamLg_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5483.510000,Y=7996.400000,Z=-1081.230000)
@@ -9535,7 +9535,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_01_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_fireMd_lp_01_Cue.ambPS_GEN_fireMd_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-6145.640000,Y=659.219000,Z=-1320.960000)
@@ -9552,7 +9552,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_fireLg_lp_01_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_fireLg_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_fireLg_lp_01_Cue.ambPS_GEN_fireLg_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-4672.810000,Y=1695.980000,Z=-1272.900000)
@@ -9569,7 +9569,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_steamLg_lp_01_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_steamLg_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_steamLg_lp_01_Cue.ambPS_GEN_steamLg_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-2393.870000,Y=4101.580000,Z=-1204.090000)
@@ -9948,7 +9948,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_01_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_fireMd_lp_01_Cue.ambPS_GEN_fireMd_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-2702.680000,Y=4434.370000,Z=-1320.960000)
@@ -17025,7 +17025,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_05_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_05_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_05_Cue.int_RAS_telem_lp_05_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-4306.610000,Y=2869.340000,Z=-1361.710000)
@@ -17041,7 +17041,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_04_Cue.int_RAS_telem_lp_04_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-6652.670000,Y=1899.710000,Z=-1361.710000)
@@ -17057,7 +17057,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras01c-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_03_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_03_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_03_Cue.int_RAS_telem_lp_03_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-6103.930000,Y=-355.716000,Z=-1361.710000)

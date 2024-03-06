@@ -18902,11 +18902,11 @@ Begin Map
 		KeyRot(6)=(Pitch=-84.968262,Yaw=0.000000,Roll=0.000000)
 		KeyRot(7)=(Pitch=-84.968262,Yaw=0.000000,Roll=0.000000)
 		Lift Destination Rot=(Pitch=-84.968262,Yaw=0.000000,Roll=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_04_mach_GEO_04Conv_st_01_Cue.GEO_Sound_GEO_04_mach_GEO_04Conv_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_04_mach_GEO_04Conv_nd_01_Cue.GEO_Sound_GEO_04_mach_GEO_04Conv_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_04_mach_GEO_04Conv_st_01_Cue.GEO_Sound_GEO_04_mach_GEO_04Conv_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_04_mach_GEO_04Conv_nd_01_Cue.GEO_Sound_GEO_04_mach_GEO_04Conv_nd_01_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_04_mach_GEO_04Conv_lp_01_Cue.GEO_Sound_GEO_04_mach_GEO_04Conv_lp_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_04Conv_st_01_Cue.mach_GEO_04Conv_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_04Conv_nd_01_Cue.mach_GEO_04Conv_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_04Conv_st_01_Cue.mach_GEO_04Conv_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_04Conv_nd_01_Cue.mach_GEO_04Conv_nd_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_04Conv_lp_01_Cue.mach_GEO_04Conv_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=8
 		MoverEncroachType=NewEnumerator3
@@ -21629,11 +21629,11 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=428.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=428.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_door_GEO_TFctrlShipLg_st_Cue.GEO_Sound_GEO_05_door_GEO_TFctrlShipLg_st_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_door_GEO_TFctrlShipSm_nd_Cue.GEO_Sound_GEO_05_door_GEO_TFctrlShipSm_nd_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_door_GEO_TFctrlShipLg_st_Cue.GEO_Sound_GEO_05_door_GEO_TFctrlShipLg_st_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_door_GEO_TFctrlShipSm_nd_Cue.GEO_Sound_GEO_05_door_GEO_TFctrlShipSm_nd_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_door_GEO_TFctrlShipSm_lp_Cue.GEO_Sound_GEO_05_door_GEO_TFctrlShipSm_lp_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_TFctrlShipLg_st_Cue.door_GEO_TFctrlShipLg_st_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_TFctrlShipSm_nd_Cue.door_GEO_TFctrlShipSm_nd_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_TFctrlShipLg_st_Cue.door_GEO_TFctrlShipLg_st_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_TFctrlShipSm_nd_Cue.door_GEO_TFctrlShipSm_nd_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_TFctrlShipSm_lp_Cue.door_GEO_TFctrlShipSm_lp_Cue'
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -22539,7 +22539,7 @@ Begin Map
 		Lift Destination=(X=-2501.970000,Y=4714.020000,Z=-1576.010000)
 		KeyRot(1)=(Pitch=-16.875000,Yaw=5.625000,Roll=151.875000)
 		Lift Destination Rot=(Pitch=-16.875000,Yaw=5.625000,Roll=151.875000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEN_Sound_Vehicles_veh_GEN_gsLand_01_Cue.GEN_Sound_Vehicles_veh_GEN_gsLand_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/veh_GEN_gsLand_01_Cue.veh_GEN_gsLand_01_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -22721,7 +22721,7 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=1468.0,Y=7732.0,Z=0.0)
 		Lift Destination=(X=1468.000000,Y=7732.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_veh_GEO_geoFighterBy_01_Cue.GEO_Sound_GEO_05_veh_GEO_geoFighterBy_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_01_Cue.veh_GEO_geoFighterBy_01_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -22746,7 +22746,7 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=1468.0,Y=7732.0,Z=0.0)
 		Lift Destination=(X=1468.000000,Y=7732.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_veh_GEO_geoFighterBy_01_Cue.GEO_Sound_GEO_05_veh_GEO_geoFighterBy_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_01_Cue.veh_GEO_geoFighterBy_01_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -24004,7 +24004,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_01_ambPS_GEO_contrlRm_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_contrlRm_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_contrlRm_01_Cue.ambPS_GEO_contrlRm_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-4079.750000,Y=-1095.860000,Z=438.421000)
@@ -24020,7 +24020,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_01_ambPS_GEO_contrlRm_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_contrlRm_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_contrlRm_01_Cue.ambPS_GEO_contrlRm_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-2188.970000,Y=3106.090000,Z=941.862000)
@@ -24036,7 +24036,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_01_mach_GEO_powerGen_lp_01_Cue.GEO_Sound_GEO_01_mach_GEO_powerGen_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_powerGen_lp_01_Cue.mach_GEO_powerGen_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-2144.320000,Y=-296.454000,Z=1267.120000)
@@ -24052,7 +24052,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_01_ambPS_GEO_contrlRm_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_contrlRm_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_contrlRm_01_Cue.ambPS_GEO_contrlRm_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-865.562000,Y=-2974.110000,Z=948.886000)
@@ -26902,9 +26902,9 @@ Begin Map
 		Lift Destination=(X=0.000000,Y=0.000000,Z=408.000000)
 		OpenStartSound=None
 		OpenStopSound=None
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_st_Cue.elev_GEO_freightLg_st_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_nd_Cue.elev_GEO_freightLg_nd_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_mid_lp_Cue.elev_GEO_freightLg_mid_lp_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -26926,9 +26926,9 @@ Begin Map
 		Lift Destination=(X=0.000000,Y=0.000000,Z=404.000000)
 		OpenStartSound=None
 		OpenStopSound=None
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_st_Cue.elev_GEO_freightLg_st_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_nd_Cue.elev_GEO_freightLg_nd_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_mid_lp_Cue.elev_GEO_freightLg_mid_lp_Cue'
 		Wait at top time=0.0
 		NumKeys=2
 		InitialState=NewEnumerator5
@@ -26949,9 +26949,9 @@ Begin Map
 		Lift Destination=(X=0.000000,Y=0.000000,Z=412.000000)
 		OpenStartSound=None
 		OpenStopSound=None
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_st_Cue.elev_GEO_freightLg_st_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_nd_Cue.elev_GEO_freightLg_nd_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_mid_lp_Cue.elev_GEO_freightLg_mid_lp_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -26971,11 +26971,11 @@ Begin Map
 		Lift Time=5.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=404.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=404.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_st_Cue.elev_GEO_freightLg_st_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_nd_Cue.elev_GEO_freightLg_nd_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_st_Cue.elev_GEO_freightLg_st_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_nd_Cue.elev_GEO_freightLg_nd_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_mid_lp_Cue.elev_GEO_freightLg_mid_lp_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -26995,11 +26995,11 @@ Begin Map
 		Lift Time=5.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=404.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=404.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_nd_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_st_Cue.elev_GEO_freightLg_st_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_nd_Cue.elev_GEO_freightLg_nd_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_st_Cue.elev_GEO_freightLg_st_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_nd_Cue.elev_GEO_freightLg_nd_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_mid_lp_Cue.elev_GEO_freightLg_mid_lp_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -53178,7 +53178,7 @@ Begin Map
 		KeyPos(1)=(X=0.0,Y=13549.0,Z=0.0)
 		KeyPos(2)=(X=2.44141E-4,Y=13899.0,Z=0.0)
 		Lift Destination=(X=0.000244,Y=13899.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEN_Sound_Vehicles_GS_bys_Cue.GEN_Sound_Vehicles_GS_bys_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/GS_bys_Cue.GS_bys_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -53203,7 +53203,7 @@ Begin Map
 		KeyPos(1)=(X=4691.0,Y=-13998.0,Z=-0.0136719)
 		KeyPos(2)=(X=4765.0,Y=-14370.0,Z=-0.00415039)
 		Lift Destination=(X=4765.000000,Y=-14370.000000,Z=-0.004150)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEN_Sound_Vehicles_GS_bys_Cue.GEN_Sound_Vehicles_GS_bys_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/GS_bys_Cue.GS_bys_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -53239,7 +53239,7 @@ Begin Map
 		KeyPos(1)=(X=-14962.0,Y=-2526.97,Z=0.0229492)
 		KeyPos(2)=(X=-14895.0,Y=-2659.98,Z=0.0151367)
 		Lift Destination=(X=-14895.000000,Y=-2659.980000,Z=0.015137)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_05_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_05_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_05_Cue.veh_GEO_geoFighterBy_05_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -53264,7 +53264,7 @@ Begin Map
 		KeyPos(1)=(X=-14962.0,Y=-2526.97,Z=0.0229492)
 		KeyPos(2)=(X=-14895.0,Y=-2659.98,Z=0.0151367)
 		Lift Destination=(X=-14895.000000,Y=-2659.980000,Z=0.015137)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_05_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_05_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_05_Cue.veh_GEO_geoFighterBy_05_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -53289,7 +53289,7 @@ Begin Map
 		KeyPos(1)=(X=-14921.0,Y=-6893.0,Z=0.0)
 		KeyPos(2)=(X=-14834.0,Y=-6894.0,Z=0.0)
 		Lift Destination=(X=-14834.000000,Y=-6894.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_05_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_05_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_05_Cue.veh_GEO_geoFighterBy_05_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -53314,7 +53314,7 @@ Begin Map
 		KeyPos(1)=(X=-14921.0,Y=-6893.0,Z=0.0)
 		KeyPos(2)=(X=-14834.0,Y=-6894.0,Z=0.0)
 		Lift Destination=(X=-14834.000000,Y=-6894.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04c-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_05_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_05_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_05_Cue.veh_GEO_geoFighterBy_05_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None

@@ -2013,11 +2013,11 @@ Begin Map
 		Lift Time=4.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=-801.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=-801.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy07briefing-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_st_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_st_Cue.elev_GEO_freightLg_st_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy07briefing-UT2004/GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue.GEO_Sound_GEO_05_elev_GEO_freightLg_mid_lp_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_freightLg_mid_lp_Cue.elev_GEO_freightLg_mid_lp_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator5

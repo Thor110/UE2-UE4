@@ -3139,10 +3139,10 @@ Begin Map
 		Lift Time=0.5
 		KeyPos(1)=(X=0.0,Y=496.0,Z=-9.76563E-4)
 		Lift Destination=(X=0.000000,Y=496.000000,Z=-0.000977)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end02_Cue.elev_GEN_Elev_end02_Cue'
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
@@ -3871,10 +3871,10 @@ Begin Map
 		Lift Time=0.5
 		KeyPos(1)=(X=496.0,Y=0.0,Z=-9.76563E-4)
 		Lift Destination=(X=496.000000,Y=0.000000,Z=-0.000977)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end02_Cue.elev_GEN_Elev_end02_Cue'
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
@@ -3894,10 +3894,10 @@ Begin Map
 		Lift Time=0.5
 		KeyPos(1)=(X=0.0,Y=496.0,Z=-9.76563E-4)
 		Lift Destination=(X=0.000000,Y=496.000000,Z=-0.000977)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end02_Cue.elev_GEN_Elev_end02_Cue'
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
@@ -3918,10 +3918,10 @@ Begin Map
 		Lift Time=0.5
 		KeyPos(1)=(X=496.0,Y=0.0,Z=-9.76563E-4)
 		Lift Destination=(X=496.000000,Y=0.000000,Z=-0.000977)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end02_Cue.elev_GEN_Elev_end02_Cue'
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
@@ -3942,10 +3942,10 @@ Begin Map
 		Lift Time=0.5
 		KeyPos(1)=(X=0.00488281,Y=495.977,Z=-0.0563965)
 		Lift Destination=(X=0.004883,Y=495.977000,Z=-0.056397)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
 		OpenStopSound=None
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end02_Cue.elev_GEN_Elev_end02_Cue'
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
@@ -4594,10 +4594,10 @@ Begin Map
 		Lift Time=0.5
 		KeyPos(1)=(X=-509.0,Y=0.0,Z=-9.76563E-4)
 		Lift Destination=(X=-509.000000,Y=0.000000,Z=-0.000977)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast02_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end02_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast02_Cue.door_GEN_Door_Fast02_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end02_Cue.elev_GEN_Elev_end02_Cue'
 		MoveLoopSound=None
 		Wait at top time=4.0
 		NumKeys=2
@@ -4739,8 +4739,8 @@ Begin Map
 		Lift Time=2.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=368.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=368.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/YYY_Sound_YYY_01_door_YYY_01_prison_o_st_Cue.YYY_Sound_YYY_01_door_YYY_01_prison_o_st_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/YYY_Sound_YYY_01_door_YYY_01_prison_o_nd_Cue.YYY_Sound_YYY_01_door_YYY_01_prison_o_nd_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_01_prison_o_st_Cue.door_YYY_01_prison_o_st_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_01_prison_o_nd_Cue.door_YYY_01_prison_o_nd_Cue'
 		CloseStartSound=None
 		CloseStopSound=None
 		MoveLoopSound=None
@@ -4943,8 +4943,8 @@ Begin Map
 		Lift Time=2.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=320.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=320.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/YYY_Sound_YYY_01_door_YYY_01_prison_o_st_Cue.YYY_Sound_YYY_01_door_YYY_01_prison_o_st_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/yyy01d-UT2004/YYY_Sound_YYY_01_door_YYY_01_prison_o_nd_Cue.YYY_Sound_YYY_01_door_YYY_01_prison_o_nd_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_01_prison_o_st_Cue.YYY_01_door_YYY_01_prison_o_st_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/yyy_sound/door_YYY_01_prison_o_nd_Cue.YYY_01_door_YYY_01_prison_o_nd_Cue'
 		CloseStartSound=None
 		CloseStopSound=None
 		MoveLoopSound=None

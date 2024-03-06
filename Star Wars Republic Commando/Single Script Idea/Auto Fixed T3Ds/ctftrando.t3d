@@ -10256,11 +10256,11 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=2.0,Y=1.0,Z=642.0)
 		Lift Destination=(X=2.000000,Y=1.000000,Z=642.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_lp_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_lp_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_st_01_Cue.mach_RAS_torpedo_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_nd_01_Cue.mach_RAS_torpedo_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_st_01_Cue.mach_RAS_torpedo_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_nd_01_Cue.mach_RAS_torpedo_nd_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_lp_01_Cue.mach_RAS_torpedo_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -19147,11 +19147,11 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=2.0,Y=1.0,Z=642.0)
 		Lift Destination=(X=2.000000,Y=1.000000,Z=642.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_lp_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_lp_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_st_01_Cue.mach_RAS_torpedo_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_nd_01_Cue.mach_RAS_torpedo_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_st_01_Cue.mach_RAS_torpedo_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_nd_01_Cue.mach_RAS_torpedo_nd_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_lp_01_Cue.mach_RAS_torpedo_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -21892,10 +21892,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -22333,10 +22333,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -22626,10 +22626,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -22797,10 +22797,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -23091,10 +23091,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -23385,10 +23385,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -23728,10 +23728,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -24169,10 +24169,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -24462,10 +24462,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -24756,10 +24756,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -25050,10 +25050,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -25344,10 +25344,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -30652,10 +30652,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -30748,10 +30748,10 @@ Begin Map
 		Lift Time=0.4
 		KeyPos(1)=(X=0.0,Y=0.0,Z=248.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=248.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue.GEN_Sound_doors_elevators_door_GEN_Door_Fast01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue.GEN_Sound_doors_elevators_elev_GEN_Elev_end03_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/door_GEN_Door_Fast01_Cue.door_GEN_Door_Fast01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/elev_GEN_Elev_end03_Cue.elev_GEN_Elev_end03_Cue'
 		MoveLoopSound=None
 		Wait at top time=1.5
 		NumKeys=2
@@ -31769,11 +31769,11 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=2.0,Y=1.0,Z=372.0)
 		Lift Destination=(X=2.000000,Y=1.000000,Z=372.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_lp_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_lp_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_st_01_Cue.mach_RAS_torpedo_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_nd_01_Cue.mach_RAS_torpedo_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_st_01_Cue.mach_RAS_torpedo_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_nd_01_Cue.mach_RAS_torpedo_nd_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_lp_01_Cue.mach_RAS_torpedo_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -32931,11 +32931,11 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=2.0,Y=1.0,Z=372.0)
 		Lift Destination=(X=2.000000,Y=1.000000,Z=372.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_nd_01_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Machines_mach_RAS_torpedo_lp_01_Cue.GEN_Sound_Machines_mach_RAS_torpedo_lp_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_st_01_Cue.mach_RAS_torpedo_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_nd_01_Cue.mach_RAS_torpedo_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_st_01_Cue.mach_RAS_torpedo_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_nd_01_Cue.mach_RAS_torpedo_nd_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/gen_sound/mach_RAS_torpedo_lp_01_Cue.mach_RAS_torpedo_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -33869,7 +33869,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Interface_int_RAS_telem_lp_05_Cue.GEN_Sound_Interface_int_RAS_telem_lp_05_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/int_RAS_telem_lp_05_Cue.int_RAS_telem_lp_05_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-3662.190000,Y=3987.130000,Z=-593.719000)
@@ -33885,7 +33885,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Interface_int_RAS_telem_lp_05_Cue.GEN_Sound_Interface_int_RAS_telem_lp_05_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/int_RAS_telem_lp_05_Cue.int_RAS_telem_lp_05_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-4455.210000,Y=3747.020000,Z=-593.719000)
@@ -33901,7 +33901,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Interface_int_RAS_telem_lp_09_Cue.GEN_Sound_Interface_int_RAS_telem_lp_09_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/int_RAS_telem_lp_09_Cue.int_RAS_telem_lp_09_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5502.360000,Y=9914.840000,Z=-1164.370000)
@@ -33917,7 +33917,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Interface_int_RAS_telem_lp_09_Cue.GEN_Sound_Interface_int_RAS_telem_lp_09_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/int_RAS_telem_lp_09_Cue.int_RAS_telem_lp_09_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=4833.090000,Y=5635.450000,Z=-1164.370000)
@@ -33966,7 +33966,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Interface_int_RAS_telem_lp_09_Cue.GEN_Sound_Interface_int_RAS_telem_lp_09_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/int_RAS_telem_lp_09_Cue.int_RAS_telem_lp_09_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5721.520000,Y=8325.760000,Z=-1164.370000)
@@ -34012,7 +34012,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ctftrando-UT2004/GEN_Sound_Interface_int_RAS_telem_lp_03_Cue.GEN_Sound_Interface_int_RAS_telem_lp_03_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/int_RAS_telem_lp_03_Cue.int_RAS_telem_lp_03_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=5932.190000,Y=6812.950000,Z=-1183.900000)

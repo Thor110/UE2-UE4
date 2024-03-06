@@ -24333,7 +24333,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo01a-UT2004/GEO_Sound_GEO_01_ambPS_GEO_battle_lp_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_battle_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_battle_lp_01_Cue.ambPS_GEO_battle_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=1207.450000,Y=-6462.010000,Z=-2333.780000)

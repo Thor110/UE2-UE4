@@ -3900,7 +3900,7 @@ Begin Map
 		KeyRot(3)=(Pitch=5.625000,Yaw=-5.625000,Roll=0.000000)
 		KeyRot(4)=(Pitch=11.250000,Yaw=5.625000,Roll=-11.250000)
 		Lift Destination Rot=(Pitch=11.250000,Yaw=5.625000,Roll=-11.250000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_Cue.veh_GEO_geoFighterBy_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -5401,7 +5401,7 @@ Begin Map
 		KeyRot(3)=(Pitch=22.500000,Yaw=-11.250000,Roll=0.000000)
 		KeyRot(4)=(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)
 		Lift Destination Rot=(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_Cue.veh_GEO_geoFighterBy_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13461,7 +13461,7 @@ Begin Map
 		KeyPos(1)=(X=-15714.1,Y=0.0,Z=0.0)
 		KeyPos(2)=(X=-16006.0,Y=0.0,Z=0.0)
 		Lift Destination=(X=-16006.000000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEN_Sound_Vehicles_GS_bys_Cue.GEN_Sound_Vehicles_GS_bys_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/GS_bys_Cue.GS_bys_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13486,7 +13486,7 @@ Begin Map
 		KeyPos(1)=(X=6.10352E-5,Y=22317.6,Z=0.0)
 		KeyPos(2)=(X=-6.10352E-5,Y=22753.8,Z=0.0)
 		Lift Destination=(X=-0.000061,Y=22753.800000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEN_Sound_Vehicles_GS_bys_Cue.GEN_Sound_Vehicles_GS_bys_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/GS_bys_Cue.GS_bys_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13511,7 +13511,7 @@ Begin Map
 		KeyPos(1)=(X=-4515.19,Y=-23369.5,Z=0.0)
 		KeyPos(2)=(X=-4685.93,Y=-23568.0,Z=0.0)
 		Lift Destination=(X=-4685.930000,Y=-23568.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEN_Sound_Vehicles_GS_bys_Cue.GEN_Sound_Vehicles_GS_bys_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/GS_bys_Cue.GS_bys_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13536,7 +13536,7 @@ Begin Map
 		KeyPos(1)=(X=-5095.82,Y=-21515.7,Z=0.0290527)
 		KeyPos(2)=(X=-5284.55,Y=-21515.7,Z=0.0090332)
 		Lift Destination=(X=-5284.550000,Y=-21515.700000,Z=0.009033)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEN_Sound_Vehicles_GS_bys_Cue.GEN_Sound_Vehicles_GS_bys_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/GS_bys_Cue.GS_bys_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13560,7 +13560,7 @@ Begin Map
 		KeyPos(1)=(X=23504.3,Y=0.0,Z=0.0)
 		KeyPos(2)=(X=23612.6,Y=0.0,Z=0.0)
 		Lift Destination=(X=23612.600000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEN_Sound_Vehicles_GS_bys_Cue.GEN_Sound_Vehicles_GS_bys_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/gen_sound/GS_bys_Cue.GS_bys_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13596,7 +13596,7 @@ Begin Map
 		KeyPos(1)=(X=-12022.5,Y=-19581.6,Z=0.0742188)
 		KeyPos(2)=(X=-11489.0,Y=-20285.3,Z=0.0239258)
 		Lift Destination=(X=-11489.000000,Y=-20285.300000,Z=0.023926)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_Cue.veh_GEO_geoFighterBy_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13621,7 +13621,7 @@ Begin Map
 		KeyPos(1)=(X=-12022.5,Y=-19581.6,Z=0.0742188)
 		KeyPos(2)=(X=-11489.0,Y=-20285.3,Z=0.0239258)
 		Lift Destination=(X=-11489.000000,Y=-20285.300000,Z=0.023926)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_Cue.veh_GEO_geoFighterBy_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13646,7 +13646,7 @@ Begin Map
 		KeyPos(1)=(X=-18669.6,Y=0.0,Z=0.0)
 		KeyPos(2)=(X=-18849.1,Y=0.0,Z=0.0)
 		Lift Destination=(X=-18849.100000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_Cue.veh_GEO_geoFighterBy_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13671,7 +13671,7 @@ Begin Map
 		KeyPos(1)=(X=-18669.6,Y=0.0,Z=0.0)
 		KeyPos(2)=(X=-18849.1,Y=0.0,Z=0.0)
 		Lift Destination=(X=-18849.100000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_Cue.veh_GEO_geoFighterBy_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13696,7 +13696,7 @@ Begin Map
 		KeyPos(1)=(X=19836.5,Y=-6911.36,Z=0.0537109)
 		KeyPos(2)=(X=19825.2,Y=-7003.47,Z=0.0151367)
 		Lift Destination=(X=19825.200000,Y=-7003.470000,Z=0.015137)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_Cue.veh_GEO_geoFighterBy_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
@@ -13721,7 +13721,7 @@ Begin Map
 		KeyPos(1)=(X=19836.5,Y=-6911.36,Z=0.0537109)
 		KeyPos(2)=(X=19825.2,Y=-7003.47,Z=0.0151367)
 		Lift Destination=(X=19825.200000,Y=-7003.470000,Z=0.015137)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo04a-UT2004/GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue.GEO_Sound_GEO_01_veh_GEO_geoFighterBy_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/veh_GEO_geoFighterBy_Cue.veh_GEO_geoFighterBy_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None

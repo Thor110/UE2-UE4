@@ -4512,10 +4512,10 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=1.0,Y=0.0,Z=256.0)
 		Lift Destination=(X=1.000000,Y=0.000000,Z=256.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=2.0
 		NumKeys=2
@@ -9250,10 +9250,10 @@ Begin Map
 		Lift Time=3.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=192.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=192.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=5.0
 		NumKeys=2
@@ -9819,10 +9819,10 @@ Begin Map
 		Lift Time=3.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=192.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=192.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=5.0
 		NumKeys=2
@@ -10114,10 +10114,10 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=256.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=256.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -14863,7 +14863,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_01_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_fireMd_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_fireMd_lp_01_Cue.ambPS_GEN_fireMd_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-5994.960000,Y=-1011.810000,Z=-604.444000)
@@ -15335,7 +15335,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_telem_lp_03_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_telem_lp_03_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_telem_lp_03_Cue.ambPS_GEN_telem_lp_03_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-4541.490000,Y=3863.640000,Z=-654.481000)
@@ -16730,10 +16730,10 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=256.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=256.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -16753,10 +16753,10 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=256.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=256.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -16775,10 +16775,10 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=256.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=256.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -16798,10 +16798,10 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=256.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=256.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -16821,10 +16821,10 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=256.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=256.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2
@@ -25412,10 +25412,10 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=256.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=256.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02c-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=0.0
 		NumKeys=2

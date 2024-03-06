@@ -25211,7 +25211,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo03a-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_fireLg_lp_01_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_fireLg_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_fireLg_lp_01_Cue.ambPS_GEN_fireLg_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=176.887000,Y=-2034.210000,Z=6849.810000)

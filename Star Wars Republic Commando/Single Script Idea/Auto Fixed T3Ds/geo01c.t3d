@@ -4433,7 +4433,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo01c-UT2004/GEO_Sound_GEO_01_ambPS_GEO_windCliff_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_windCliff_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_windCliff_01_Cue.ambPS_GEO_windCliff_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-20163.200000,Y=12601.300000,Z=1117.720000)
@@ -4449,7 +4449,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo01c-UT2004/GEO_Sound_GEO_01_ambPS_GEO_contrlRm_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_contrlRm_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_contrlRm_01_Cue.ambPS_GEO_contrlRm_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-19935.500000,Y=10228.100000,Z=-546.824000)
@@ -4465,7 +4465,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo01c-UT2004/GEO_Sound_GEO_01_ambPS_GEO_windCliff_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_windCliff_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_windCliff_01_Cue.ambPS_GEO_windCliff_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-15187.600000,Y=7941.220000,Z=-280.573000)
@@ -4481,7 +4481,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo01c-UT2004/GEO_Sound_GEO_01_ambPS_GEO_windCliff_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_windCliff_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_windCliff_01_Cue.ambPS_GEO_windCliff_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-20014.600000,Y=12982.100000,Z=-508.817000)
@@ -4497,7 +4497,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo01c-UT2004/GEO_Sound_GEO_01_ambPS_GEO_windCliff_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_windCliff_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_windCliff_01_Cue.ambPS_GEO_windCliff_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-21203.900000,Y=10978.500000,Z=-583.449000)
@@ -8612,7 +8612,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo01c-UT2004/GEO_Sound_GEO_01_ambPS_GEO_battle_lp_01_Cue.GEO_Sound_GEO_01_ambPS_GEO_battle_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/ambPS_GEO_battle_lp_01_Cue.ambPS_GEO_battle_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=-15119.200000,Y=7837.850000,Z=-271.573000)

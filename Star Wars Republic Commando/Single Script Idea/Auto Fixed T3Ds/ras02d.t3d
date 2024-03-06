@@ -17613,7 +17613,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_telem_lp_04_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_telem_lp_04_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_telem_lp_04_Cue.ambPS_GEN_telem_lp_04_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=1224.930000,Y=-1410.720000,Z=-409.663000)
@@ -17630,7 +17630,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_steam_lp_06_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_steam_lp_06_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_steam_lp_06_Cue.ambPS_GEN_steam_lp_06_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=2415.330000,Y=-1914.510000,Z=-343.429000)
@@ -17646,7 +17646,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/GEN_Sound_Ambient_PS_ambPS_GEN_sparkMd_lp_01_Cue.GEN_Sound_Ambient_PS_ambPS_GEN_sparkMd_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/gen_sound/ambPS_GEN_sparkMd_lp_01_Cue.ambPS_GEN_sparkMd_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=2415.370000,Y=-2091.080000,Z=-401.296000)
@@ -23367,9 +23367,9 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=128.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=128.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
 		OpenStopSound=None
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_nd_01_Cue.door_RAS_hall_o_nd_01_Cue'
 		CloseStopSound=None
 		MoveLoopSound=None
 		Wait at top time=0.0
@@ -26070,7 +26070,7 @@ Begin Map
 		Lift Time=1.0
 		KeyPos(1)=(X=27.0,Y=0.0,Z=262.0)
 		Lift Destination=(X=27.000000,Y=0.000000,Z=262.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/ras02d-UT2004/RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_hall_o_st_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_hall_o_st_01_Cue.door_RAS_hall_o_st_01_Cue'
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None

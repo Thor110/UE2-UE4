@@ -505,11 +505,11 @@ Begin Map
 		Lift Time=18.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=12176.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=12176.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_imp_RAS_metalHit_md_03_Cue.RAS_Sound_RAS_01_imp_RAS_metalHit_md_03_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/imp_RAS_metalHit_md_03_Cue.imp_RAS_metalHit_md_03_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_nd_01_Cue.elev_GEO_drd_nd_01_Cue'
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_lp_01_Cue.elev_GEO_drd_lp_01_Cue'
 		Wait at top time=8.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -651,11 +651,11 @@ Begin Map
 		Lift Time=8.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=5799.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=5799.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_imp_RAS_metalHit_md_03_Cue.RAS_Sound_RAS_01_imp_RAS_metalHit_md_03_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/imp_RAS_metalHit_md_03_Cue.imp_RAS_metalHit_md_03_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_nd_01_Cue.elev_GEO_drd_nd_01_Cue'
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_lp_01_Cue.elev_GEO_drd_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -2641,11 +2641,11 @@ Begin Map
 		Lift Time=38.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=14417.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=14417.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_imp_RAS_metalHit_md_03_Cue.RAS_Sound_RAS_01_imp_RAS_metalHit_md_03_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/imp_RAS_metalHit_md_03_Cue.imp_RAS_metalHit_md_03_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_nd_01_Cue.elev_GEO_drd_nd_01_Cue'
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_lp_01_Cue.elev_GEO_drd_lp_01_Cue'
 		Wait at top time=8.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -3578,7 +3578,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_lp_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_lp_01_Cue.door_RAS_trpBay_o_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
@@ -3626,7 +3626,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue.RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/ambPS_RAS_hallCreak_lp_01_Cue.ambPS_RAS_hallCreak_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
@@ -4632,7 +4632,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue.RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/ambPS_RAS_hallCreak_lp_01_Cue.ambPS_RAS_hallCreak_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
@@ -4774,10 +4774,10 @@ Begin Map
 		Lift Time=5.0
 		KeyPos(1)=(X=529.0,Y=0.0,Z=0.0)
 		Lift Destination=(X=529.000000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_o_01_Cue.door_GEO_sbd_o_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_c_01_Cue.door_GEO_sbd_c_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_o_01_Cue.door_GEO_sbd_o_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_c_01_Cue.door_GEO_sbd_c_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=5.0
 		NumKeys=2
@@ -4920,10 +4920,10 @@ Begin Map
 		Lift Time=5.0
 		KeyPos(1)=(X=529.0,Y=0.0,Z=0.0)
 		Lift Destination=(X=529.000000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_o_01_Cue.door_GEO_sbd_o_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_c_01_Cue.door_GEO_sbd_c_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_o_01_Cue.door_GEO_sbd_o_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_c_01_Cue.door_GEO_sbd_c_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=5.0
 		NumKeys=2
@@ -5123,7 +5123,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue.RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/ambPS_RAS_hallCreak_lp_01_Cue.ambPS_RAS_hallCreak_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
@@ -6087,11 +6087,11 @@ Begin Map
 		Lift Time=5.0
 		KeyPos(1)=(X=529.0,Y=0.0,Z=0.0)
 		Lift Destination=(X=529.000000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_st_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_nd_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_st_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_nd_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_nd_01_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_lp_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_lp_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_st_01_Cue.mach_RAS_torpRack_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_nd_01_Cue.mach_RAS_torpRack_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_st_01_Cue.mach_RAS_torpRack_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_nd_01_Cue.mach_RAS_torpRack_nd_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_lp_01_Cue.mach_RAS_torpRack_lp_01_Cue'
 		Wait at top time=5.0
 		NumKeys=2
 		InitialState=NewEnumerator7
@@ -6802,7 +6802,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_lp_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_lp_01_Cue.door_RAS_trpBay_o_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
@@ -6850,7 +6850,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue.RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/ambPS_RAS_hallCreak_lp_01_Cue.ambPS_RAS_hallCreak_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
@@ -7788,10 +7788,10 @@ Begin Map
 		Lift Time=5.0
 		KeyPos(1)=(X=529.0,Y=0.0,Z=0.0)
 		Lift Destination=(X=529.000000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_o_01_Cue.door_GEO_sbd_o_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_c_01_Cue.door_GEO_sbd_c_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_o_01_Cue.door_GEO_sbd_o_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_c_01_Cue.door_GEO_sbd_c_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=5.0
 		NumKeys=2
@@ -7885,10 +7885,10 @@ Begin Map
 		Lift Time=5.0
 		KeyPos(1)=(X=529.0,Y=0.0,Z=0.0)
 		Lift Destination=(X=529.000000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_o_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue.GEO_Sound_GEO_05_door_GEO_sbd_c_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_o_01_Cue.door_GEO_sbd_o_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_c_01_Cue.door_GEO_sbd_c_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_o_01_Cue.door_GEO_sbd_o_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/geo_sound/door_GEO_sbd_c_01_Cue.door_GEO_sbd_c_01_Cue'
 		MoveLoopSound=None
 		Wait at top time=5.0
 		NumKeys=2
@@ -7931,11 +7931,11 @@ Begin Map
 		Lift Time=5.0
 		KeyPos(1)=(X=529.0,Y=0.0,Z=0.0)
 		Lift Destination=(X=529.000000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_st_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_nd_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_st_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_nd_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_nd_01_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_mach_RAS_torpRack_lp_01_Cue.RAS_Sound_RAS_01_mach_RAS_torpRack_lp_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_st_01_Cue.mach_RAS_torpRack_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_nd_01_Cue.mach_RAS_torpRack_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_st_01_Cue.mach_RAS_torpRack_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_nd_01_Cue.mach_RAS_torpRack_nd_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/mach_RAS_torpRack_lp_01_Cue.mach_RAS_torpRack_lp_01_Cue'
 		Wait at top time=5.0
 		NumKeys=2
 		InitialState=NewEnumerator7
@@ -8180,7 +8180,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue.RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/ambPS_RAS_hallCreak_lp_01_Cue.ambPS_RAS_hallCreak_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=4
 		MoverEncroachType=NewEnumerator3
@@ -11344,7 +11344,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue.RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/ambPS_RAS_hallCreak_lp_01_Cue.ambPS_RAS_hallCreak_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
@@ -11614,7 +11614,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue.RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/ambPS_RAS_hallCreak_lp_01_Cue.ambPS_RAS_hallCreak_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
@@ -11791,7 +11791,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue.RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/ambPS_RAS_hallCreak_lp_01_Cue.ambPS_RAS_hallCreak_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		MoverEncroachType=NewEnumerator3
@@ -11907,11 +11907,11 @@ Begin Map
 		Lift Time=10.0
 		KeyPos(1)=(X=736.0,Y=0.0,Z=0.0)
 		Lift Destination=(X=736.000000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_nd_01_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_lp_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_lp_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_st_01_Cue.door_RAS_trpBay_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_nd_01_Cue.door_RAS_trpBay_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_st_01_Cue.door_RAS_trpBay_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_nd_01_Cue.door_RAS_trpBay_o_nd_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_lp_01_Cue.door_RAS_trpBay_o_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -16148,7 +16148,7 @@ Begin Map
 		OpenStopSound=None
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue.RAS_Sound_RAS_01_ambPS_RAS_hallCreak_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/ambPS_RAS_hallCreak_lp_01_Cue.ambPS_RAS_hallCreak_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=5
 		MoverEncroachType=NewEnumerator3
@@ -23238,7 +23238,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_09_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_09_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_09_Cue.int_RAS_telem_lp_09_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=24613.200000,Y=10359.200000,Z=9085.230000)
@@ -23254,7 +23254,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_08_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_08_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_08_Cue.int_RAS_telem_lp_08_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=25762.600000,Y=9391.190000,Z=9063.200000)
@@ -23270,7 +23270,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_04_Cue.int_RAS_telem_lp_04_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=27640.000000,Y=8470.890000,Z=9066.260000)
@@ -23286,7 +23286,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_09_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_09_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_09_Cue.int_RAS_telem_lp_09_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=26717.300000,Y=8474.810000,Z=9052.390000)
@@ -23302,7 +23302,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_04_Cue.int_RAS_telem_lp_04_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=27597.200000,Y=7303.960000,Z=9099.210000)
@@ -23318,7 +23318,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_07_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_07_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_07_Cue.int_RAS_telem_lp_07_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=26755.400000,Y=7319.370000,Z=9094.540000)
@@ -23334,7 +23334,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_04_Cue.int_RAS_telem_lp_04_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=25759.200000,Y=10330.800000,Z=9101.120000)
@@ -25205,11 +25205,11 @@ Begin Map
 		Lift Time=5.0
 		KeyPos(1)=(X=0.0,Y=0.0,Z=4392.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=4392.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_st_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_st_01_Cue.elev_GEO_drd_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_nd_01_Cue.elev_GEO_drd_nd_01_Cue'
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_lp_01_Cue.elev_GEO_drd_lp_01_Cue'
 		Wait at top time=8.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -37677,7 +37677,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue.RAS_Sound_RAS_01_int_RAS_telem_lp_04_Cue'
+			Sound=SoundCue'/Game/Sounds/ras_sound/int_RAS_telem_lp_04_Cue.int_RAS_telem_lp_04_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=27600.900000,Y=6148.580000,Z=9131.210000)
@@ -57209,7 +57209,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue.GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_fanSpin_lp_01_Cue.mach_GEO_fanSpin_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=35296.900000,Y=15115.200000,Z=-2869.900000)
@@ -57225,7 +57225,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue.GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_fanSpin_lp_01_Cue.mach_GEO_fanSpin_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=36717.000000,Y=13831.800000,Z=-2869.900000)
@@ -57241,7 +57241,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue.GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_fanSpin_lp_01_Cue.mach_GEO_fanSpin_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=35168.500000,Y=12558.200000,Z=-2869.900000)
@@ -57257,7 +57257,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue.GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_fanSpin_lp_01_Cue.mach_GEO_fanSpin_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=33579.200000,Y=10027.900000,Z=-2869.900000)
@@ -57273,7 +57273,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue.GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_fanSpin_lp_01_Cue.mach_GEO_fanSpin_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=23395.800000,Y=6153.520000,Z=15102.400000)
@@ -57289,7 +57289,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue.GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_fanSpin_lp_01_Cue.mach_GEO_fanSpin_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=21513.300000,Y=4895.970000,Z=15102.400000)
@@ -57305,7 +57305,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue.GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_fanSpin_lp_01_Cue.mach_GEO_fanSpin_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=21749.500000,Y=6189.920000,Z=15050.400000)
@@ -57321,7 +57321,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue.GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_fanSpin_lp_01_Cue.mach_GEO_fanSpin_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=21645.500000,Y=3605.470000,Z=15102.400000)
@@ -57337,7 +57337,7 @@ Begin Map
 		Begin Object Name="AudioComponent0"
 			bOverrideAttenuation=True
 			AttenuationOverrides=(DistanceAlgorithm=ATTENUATION_Linear,FalloffDistance=1536.0,AttenuationShapeExtents=(X=64.0,Y=0.0,Z=0.0))
-			Sound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue.GEO_Sound_GEO_03_mach_GEO_fanSpin_lp_01_Cue'
+			Sound=SoundCue'/Game/Sounds/geo_sound/mach_GEO_fanSpin_lp_01_Cue.mach_GEO_fanSpin_lp_01_Cue'
 			VolumeMultiplier=0.11176470588235295
 			PitchMultiplier=1.0
 			RelativeLocation=(X=21603.600000,Y=2316.760000,Z=15102.400000)
@@ -57443,11 +57443,11 @@ Begin Map
 		Lift Time=10.0
 		KeyPos(1)=(X=736.0,Y=0.0,Z=0.0)
 		Lift Destination=(X=736.000000,Y=0.000000,Z=0.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_nd_01_Cue'
-		CloseStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_st_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_st_01_Cue'
-		CloseStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_nd_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_nd_01_Cue'
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/RAS_Sound_RAS_01_door_RAS_trpBay_o_lp_01_Cue.RAS_Sound_RAS_01_door_RAS_trpBay_o_lp_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_st_01_Cue.door_RAS_trpBay_o_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_nd_01_Cue.door_RAS_trpBay_o_nd_01_Cue'
+		CloseStartSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_st_01_Cue.door_RAS_trpBay_o_st_01_Cue'
+		CloseStopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_nd_01_Cue.door_RAS_trpBay_o_nd_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/ras_sound/door_RAS_trpBay_o_lp_01_Cue.door_RAS_trpBay_o_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
@@ -57477,11 +57477,11 @@ Begin Map
 		Lift Time=0.1
 		KeyPos(1)=(X=0.0,Y=0.0,Z=-164.0)
 		Lift Destination=(X=0.000000,Y=0.000000,Z=-164.000000)
-		OpenStartSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_st_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_st_01_Cue'
-		OpenStopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_nd_01_Cue'
+		OpenStartSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_st_01_Cue.elev_GEO_drd_st_01_Cue'
+		OpenStopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_nd_01_Cue.elev_GEO_drd_nd_01_Cue'
 		CloseStartSound=None
 		CloseStopSound=None
-		MoveLoopSound=SoundCue'/Game/RestrictedAssets/Maps/WIP/geo05a-UT2004/GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue.GEO_Sound_GEO_05_elev_GEO_drd_lp_01_Cue'
+		MoveLoopSound=SoundCue'/Game/Sounds/geo_sound/elev_GEO_drd_lp_01_Cue.elev_GEO_drd_lp_01_Cue'
 		Wait at top time=4.0
 		NumKeys=2
 		InitialState=NewEnumerator6
