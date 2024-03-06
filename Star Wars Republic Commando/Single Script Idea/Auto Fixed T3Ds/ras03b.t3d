@@ -21448,7 +21448,7 @@ Begin Map
 		InitialState=NewEnumerator5
 		MoverGlideType=NewEnumerator1
 		ActorLabel="Mover5_Elevator"
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/ras_03b_MyMeshes_Elevator.ras_03b_MyMeshes_Elevator'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/ras_03b/MyMeshes/Elevator.Elevator'
 		Tags(0)="Elevator"
 	End Actor
 	Begin Actor Class=Brush Name=Brush93_Brush

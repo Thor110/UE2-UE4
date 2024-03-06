@@ -10128,7 +10128,7 @@ Begin Map
 		NumKeys=3
 		InitialState=NewEnumerator5
 		ActorLabel="Mover5_TrapDoor"
-		Lift Mesh=StaticMesh'/Game/StaticMeshes/ras_04a_MyMeshes_Ramp.ras_04a_MyMeshes_Ramp'
+		Lift Mesh=StaticMesh'/Game/StaticMeshes/ras_04a/MyMeshes/Ramp.Ramp'
 		Tags(0)="TrapDoor"
 	End Actor
 	Begin Actor Class=Brush Name=Brush32_Brush
