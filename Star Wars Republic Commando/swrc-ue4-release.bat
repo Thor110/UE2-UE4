@@ -45,7 +45,7 @@ if exist "%start%" (
 )
 
 REM make required directories in the UE4 folder
-mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies"
+mkdir "%start%\Materials" "%start%\StaticMeshes" "%start%\Sounds" "%start%\Animations" "%start%\Music" "%start%\Movies" "%start%\Maps"
 
 REM make temporary directory and move the packages that do not contain any sounds
 mkdir "%level%\Temporary"
@@ -71,8 +71,8 @@ move /Y "%level%\Textures\ld_signs.utx" "%level%\Temporary"
 move /Y "%level%\Textures\shadow.utx" "%level%\Temporary"
 
 REM rename levels that contain meshes for extraction
-ren "%level%\Maps\ras03b.ctm" "ras03b.ut2"
-ren "%level%\Maps\ras04a.ctm" "ras04a.ut2"
+REM rename map files from .ctm to .ut2 for extraction
+for /r "%level%\Maps\" %%x in (*.ctm) do ren "%%x" "%%~nx.ut2"
 
 REM change directory to umodel
 cd /d "%model%"
@@ -80,16 +80,18 @@ cd /d "%model%"
 REM export map packages with umodel
 umodel -path="%level%" -export *.ut2
 
-REM move or delete a single package that doesn't match
+REM move or delete a single package that isn't required
 del "%model%\UmodelExport\engine"
 
-REM move meshes contained within levels
+REM move meshes contained within levels that are referenced in T3D files
 move "%model%\UmodelExport\ras03b" "%start%\StaticMeshes\ras03b"
 move "%model%\UmodelExport\ras04a" "%start%\StaticMeshes\ras04a"
+REM for all files in the games umodelexport folder move folders to UE4 Maps folder
+for /f "delims=|" %%f in ('dir /b "%model%\UmodelExport"') do move "%model%\UmodelExport\%%~nf" "%start%\Maps\%%~nf"
 
 REM rename levels back that contain meshes
-ren "%level%\Maps\ras03b.ut2" "ras03b.ctm"
-ren "%level%\Maps\ras04a.ut2" "ras04a.ctm"
+REM rename map files from .ctm to .ut2 for extraction
+for /r "%level%\Maps\" %%x in (*.ut2) do ren "%%x" "%%~nx.ctm"
 
 REM export animations packages with umodel
 umodel -path="%level%" -export *.ukx
