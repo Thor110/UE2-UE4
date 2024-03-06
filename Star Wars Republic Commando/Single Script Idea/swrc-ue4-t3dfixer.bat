@@ -242,6 +242,10 @@ for /f "delims=|" %%f in ('dir /b "%level%\StaticMeshes"') do move "%model%\Umod
 REM NOTE : 10 of the packages in the StaticMeshes folder are empty, so when moving the files using this logic there are some failures.
 REM Consider moving them to temporary folders just like the sounds packages, to reduce errors in the command window.
 
+REM delete random TGA files that exist within StaticMeshes folder and in the Materials folder
+del "%start%\StaticMeshes\globalprops\Geonosian\GeonosianTank.tga"
+rd /s /q "%start%\StaticMeshes\globalprops\Default"
+
 REM change directory to the SWRC System folder
 cd /d "%level%\System"
 

@@ -1,7 +1,10 @@
 StaticMeshes
 jw-staticmeshes package some categories have a further sub-category of 1
+Deco
+Floors
+Railings
 
-the above package has a sub category of 1?
+the above package categories have a sub category of 1?
 
 \StaticMeshes\globalprops\Geonosian\GeonosianTank.tga exists?
 \StaticMeshes\globalprops\Default\DefaultPropA.tga exists?
@@ -13,4 +16,7 @@ Converted meshes are a different size to those produced by 3DSMax
 Animations are all broken and or nonexistent in the files converted by Blender, but are fine in those produced by 3DSMax
 
 UE5 warns that a file or folder may not be named con/prn/aux/clocks/nul/none com1 through 9 and lpt1 through 9 after importing the files
+
+Sound Categories don't exist, so T3D corrections for sound cues either need correcting to match or UCC needs updating to preserve the categories
+
 
