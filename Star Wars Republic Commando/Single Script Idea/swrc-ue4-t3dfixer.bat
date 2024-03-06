@@ -70,8 +70,26 @@ move /Y "%level%\Textures\coreship_textures_props.utx" "%level%\Temporary"
 move /Y "%level%\Textures\ld_signs.utx" "%level%\Temporary"
 move /Y "%level%\Textures\shadow.utx" "%level%\Temporary"
 
+REM rename levels that contain meshes for extraction
+ren "%level%\Maps\ras03b.ctm" "ras03b.ut2"
+ren "%level%\Maps\ras04a.ctm" "ras04a.ut2"
+
 REM change directory to umodel
 cd /d "%model%"
+
+REM export map packages with umodel
+umodel -path="%level%" -export *.ut2
+
+REM move or delete a single package that doesn't match
+del "%model%\UmodelExport\engine"
+
+REM move meshes contained within levels
+move "%model%\UmodelExport\ras03b" "%start%\StaticMeshes\ras03b"
+move "%model%\UmodelExport\ras04a" "%start%\StaticMeshes\ras04a"
+
+REM rename levels back that contain meshes
+ren "%level%\Maps\ras03b.ut2" "ras03b.ctm"
+ren "%level%\Maps\ras04a.ut2" "ras04a.ctm"
 
 REM export animations packages with umodel
 umodel -path="%level%" -export *.ukx
