@@ -81,14 +81,14 @@ REM export map packages with umodel
 umodel -path="%level%" -export *.ut2
 
 REM move or delete a single package that isn't required
-del "%model%\UmodelExport\engine"
+rd /s /q "%model%\UmodelExport\engine"
 REM delete texture packages extracted early so that they aren't moved into the Maps folder
-del "%model%\UmodelExport\assaultship_textures"
-del "%model%\UmodelExport\assaultship_textures_props"
+rd /s /q "%model%\UmodelExport\assaultship_textures"
+rd /s /q "%model%\UmodelExport\assaultship_textures_props"
 
 REM move meshes contained within levels that are referenced in T3D files
-move "%model%\UmodelExport\ras03b" "%start%\StaticMeshes\ras03b"
-move "%model%\UmodelExport\ras04a" "%start%\StaticMeshes\ras04a"
+move /y "%model%\UmodelExport\ras_03b" "%start%\StaticMeshes\"
+move /y "%model%\UmodelExport\ras_04a" "%start%\StaticMeshes\"
 REM for all files in the games umodelexport folder move folders to UE4 Maps folder
 for /f "delims=|" %%f in ('dir /b "%model%\UmodelExport"') do move "%model%\UmodelExport\%%~nf" "%start%\Maps\%%~nf"
 
@@ -123,7 +123,7 @@ REM NOTE : 10 of the packages in the StaticMeshes folder are empty, so when movi
 REM Consider moving them to temporary folders just like the sounds packages, to reduce errors in the command window.
 
 REM delete random TGA files that exist within StaticMeshes folder and in the Materials folder
-del "%start%\StaticMeshes\globalprops\Geonosian\GeonosianTank.tga"
+del /q "%start%\StaticMeshes\globalprops\Geonosian\GeonosianTank.tga"
 rd /s /q "%start%\StaticMeshes\globalprops\Default"
 
 REM change directory to the SWRC System folder
