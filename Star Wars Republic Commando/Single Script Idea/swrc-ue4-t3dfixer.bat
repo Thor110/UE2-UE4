@@ -82,6 +82,9 @@ umodel -path="%level%" -export *.ut2
 
 REM move or delete a single package that isn't required
 del "%model%\UmodelExport\engine"
+REM delete texture packages extracted early so that they aren't moved into the Maps folder
+del "%model%\UmodelExport\assaultship_textures"
+del "%model%\UmodelExport\assaultship_textures_props"
 
 REM move meshes contained within levels that are referenced in T3D files
 move "%model%\UmodelExport\ras03b" "%start%\StaticMeshes\ras03b"
