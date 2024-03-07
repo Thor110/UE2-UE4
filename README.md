@@ -1,6 +1,8 @@
 # Important Notes
 On the whole this readme isn't well structured yet and needs reworking, many of the scripts are in half completed states and need more thorough testing, these things I will get to in time.
 
+Animations do not properly convert and must be converted through 3DSMax for the time being.
+
 # Current Issues UE2 Porting Scripts
 For porting from UE2 to UE2, I have abandoned these scripts and am unlikely to work on them again, but maybe they will help someone.
 
