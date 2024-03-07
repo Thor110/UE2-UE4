@@ -102,8 +102,8 @@ umodel -path="%level%" -export *.ukx
 REM for all files in the games Animations folder move folders of the same name from umodelexport folder to UE4 Animations folder
 for /f "delims=|" %%f in ('dir /b "%level%\Animations"') do move "%model%\UmodelExport\%%~nf" "%start%\Animations\%%~nf"
 
-REM for all files in the games Music folder of the game move to the UE4 Music folder
-for /f %%f in ('dir /b "%level%\Music"') do copy "%level%\Music\%%f" "%start%\Music\%%f"
+REM for all .ogg files in the games Music folder copy to the UE4 Music folder
+for /r "%level%\Music" %%x in (*.ogg) do copy "%%x" "%start%\Music\"
 
 REM for all files in the games Movies folder of the game move to the UE4 Movies folder
 for /f %%f in ('dir /b "%level%\Movies"') do copy "%level%\Movies\%%f" "%start%\Movies\%%f"
